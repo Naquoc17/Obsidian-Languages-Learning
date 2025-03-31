@@ -1,0 +1,1 @@
+Stumble over (words)	/ˈstʌmbəl ˈoʊvər/	Verb Phrase	To struggle while speaking	Nói vấp	Über die Worte stolpern	He stumbled over his words during the speech.	Stumbling (adjective)

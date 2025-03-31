@@ -1,0 +1,7 @@
+- colocation	/ˌkoʊloʊˈkeɪʃən/	
+- Noun	
+- The practice of housing servers in a shared data center	
+- Trung tâm dữ liệu dùng chung	
+- Kollokation	
+- Many companies use colocation to improve data security.	
+- colocate (v)

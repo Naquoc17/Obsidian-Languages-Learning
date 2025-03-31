@@ -1,0 +1,1 @@
+Liver problem	/ˈlɪvər ˈprɒbləm/	Noun	A medical condition affecting the liver	Bệnh về gan	Leberproblem	He has a liver problem and must avoid alcohol.	—

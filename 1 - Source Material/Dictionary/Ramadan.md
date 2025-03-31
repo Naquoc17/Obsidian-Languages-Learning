@@ -1,0 +1,1 @@
+Ramadan	/ˈræməˌdɑːn/	Noun	A holy month of fasting in Islam	Tháng Ramadan (tháng ăn chay của đạo Hồi)	Ramadan (same in German)	Muslims fast from dawn to sunset during Ramadan.	—

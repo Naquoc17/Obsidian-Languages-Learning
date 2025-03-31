@@ -1,0 +1,7 @@
+- facilitating	/fəˈsɪlɪteɪtɪŋ/	
+- Verb (Present participle)	
+- Making a process easier or helping something happen	
+- Tạo điều kiện, hỗ trợ	
+- Erleichtern	
+- The teacher is facilitating discussion among students.	
+- facilitate (v), facilitation (n), facilitator (n)

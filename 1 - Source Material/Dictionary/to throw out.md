@@ -1,0 +1,1 @@
+Throw out	/θroʊn aʊt/	Phrasal Verb	To be forced to leave a place	Bị đuổi ra	Rausgeworfen	He was thrown out of the restaurant for bad behavior.	Throw out (verb)

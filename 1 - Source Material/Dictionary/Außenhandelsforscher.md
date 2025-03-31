@@ -1,0 +1,6 @@
+- Außenhandelsforscher	/ˈaʊ̯sn̩ˌhandl̩sˌfɔʁʃɐ/	Substantiv	
+- Wissenschaftler, die den internationalen Handel untersuchen
+- Nhà nghiên cứu thương mại quốc tế	
+- foreign trade researcher	
+- Die Außenhandelsforscher analysieren den Markt.	
+- Außenhandel (der), forschen (Verb)

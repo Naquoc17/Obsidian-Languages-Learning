@@ -1,0 +1,5 @@
+- célibataire	/se.li.ba.tɛʁ/	Adjectif/Nom	
+- Qui n'est pas marié	
+- Độc thân	
+- Il est célibataire.	
+- célibat (n.)

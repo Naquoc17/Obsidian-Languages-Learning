@@ -1,0 +1,5 @@
+- Adaptability	/əˌdæptəˈbɪləti/	Noun	
+- The ability to adjust to new conditions	
+- Khả năng thích ứng	Anpassungsfähigkeit	
+- The AI’s adaptability makes it highly efficient.	
+- Adapt (verb), Adaptable (adj)

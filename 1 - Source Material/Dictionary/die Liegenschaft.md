@@ -1,0 +1,5 @@
+- Liegenschaft	/ˈliːɡn̩ʃaft/	Substantiv (f)	
+- Ein Grundstück oder eine Immobilie	
+- Bất động sản, tài sản	
+- Property, estate	
+- Die Liegenschaft gehört der Stadt

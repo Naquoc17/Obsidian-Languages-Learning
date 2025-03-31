@@ -1,0 +1,5 @@
+- Neck	/nɛk/	Noun	
+- The intermediate part of a system	
+- Thành phần trung gian	
+- Nacken	
+- The neck component improves feature extraction.

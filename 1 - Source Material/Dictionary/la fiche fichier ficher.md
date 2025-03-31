@@ -1,0 +1,6 @@
+- fiche	/fiʃ/	Nom (f.)	
+- Document avec des informations	
+- Phiếu, tờ khai	
+- Form, sheet	
+- Remplissez la fiche d’inscription.	
+- fichier (n.), ficher (v.)

@@ -1,0 +1,6 @@
+- Versatility	/ˌvɜːrsəˈtɪləti/	Noun	
+- Ability to be used in various ways	
+- Tính linh hoạt	
+- Vielseitigkeit	
+- Its versatility allows it to work in many fields.	
+- Versatile (adj)

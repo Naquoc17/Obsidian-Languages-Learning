@@ -1,0 +1,6 @@
+- Novel (adj)	/ˈnɒv.əl/	Adjective	
+- New and different	
+- Mới lạ, khác biệt	
+- Neuartig	
+- The model introduces novel capabilities.	
+- Novelty (noun)

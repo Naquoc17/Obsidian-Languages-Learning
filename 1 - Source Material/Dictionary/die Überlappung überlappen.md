@@ -1,0 +1,5 @@
+- überlappen	/ˌyːbɐˈlapn̩/	Verb	
+- Sich teilweise überdecken oder überschneiden	
+- Chồng lên nhau	
+- To overlap	
+- Die beiden Bilder überlappen sich leicht.

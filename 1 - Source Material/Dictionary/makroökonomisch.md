@@ -1,0 +1,6 @@
+- makroökonomisch	/ˌmakʁo.økɔˈnoːmɪʃ/	Adjektiv	
+- die gesamte Wirtschaft eines Landes betreffend	
+- Thuộc về kinh tế vĩ mô	
+- macroeconomic	
+- Inflation hat makroökonomische Folgen.	
+- Makroökonomie (die)

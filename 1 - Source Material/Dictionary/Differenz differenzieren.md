@@ -1,0 +1,6 @@
+- differenziert	[ˌdɪfəʁɛnˈtsiːʁt]	Adjektiv	
+- Genau und präzise abgestuft	
+- khác biệt, rõ ràng	
+- differentiated, nuanced	
+- Seine Meinung ist sehr differenziert und gut begründet.	
+- differenzieren (Verb), Differenz (Nomen)

@@ -1,0 +1,6 @@
+- Spektrum	[ˈʃpɛktʁʊm]	Nomen (n)	
+- Eine Vielfalt oder Bandbreite von Dingen, die zusammengehören	
+- phổ, dải, phạm vi	
+- spectrum, range	
+- Die Universität bietet ein breites Spektrum an Studiengängen an.	
+- spektral (Adjektiv)

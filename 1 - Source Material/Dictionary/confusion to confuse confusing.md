@@ -1,0 +1,6 @@
+- confusion	/kənˈfjuː.ʒən/	noun	
+- A state of not understanding something	
+- Sự nhầm lẫn	
+- Verwirrung	
+- The different names for sugar cause confusion for consumers.	
+- confuse (verb), confusing (adj)

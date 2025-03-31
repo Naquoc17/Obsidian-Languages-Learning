@@ -1,0 +1,6 @@
+- Handelshemmnisse	/ˈhandl̩sˌhɛm.nɪ.sə/	Substantiv (Plural)	
+- Hindernisse im Handel	
+- Rào cản thương mại	
+- trade barriers	
+- Handelshemmnisse können den internationalen Markt beeinflussen.	
+- Handel (der), hemmen (Verb)

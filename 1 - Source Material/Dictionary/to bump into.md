@@ -1,0 +1,1 @@
+Bump into	/bʌmp ˈɪntuː/	Phrasal Verb	To meet someone by chance	Tình cờ gặp	Zufällig treffen	I bumped into an old friend at the café.	—

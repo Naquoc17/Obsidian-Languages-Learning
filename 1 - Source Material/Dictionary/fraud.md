@@ -1,0 +1,7 @@
+- fraud	/frɔːd/	
+- Noun	
+- Deception intended to result in financial or personal gain	
+- Gian lận, lừa đảo	
+- Betrug
+- He was arrested for fraud after forging documents.
+- fraudulent (adj), fraudster (n)

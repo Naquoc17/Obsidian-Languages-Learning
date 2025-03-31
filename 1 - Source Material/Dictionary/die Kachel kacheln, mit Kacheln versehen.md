@@ -1,0 +1,5 @@
+- Kachel	/ˈkaχl̩/	Substantiv (f)	
+- Eine flache, meist quadratische Platte, die zum Verkleiden von Wänden oder Böden verwendet wird	
+- Gạch lát	
+- Tile	
+- Die Küche hat wunderschöne blaue Kacheln

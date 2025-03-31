@@ -1,0 +1,5 @@
+- manufacturers	/ˌmæn.jʊˈfæk.tʃər.ərz/	noun	
+- Companies that make products	
+- Nhà sản xuất	
+- Hersteller	Food manufacturers use different names for sugar.	
+- manufacture (verb), manufacturing (noun)

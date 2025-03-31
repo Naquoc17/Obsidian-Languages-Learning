@@ -1,0 +1,6 @@
+- kryptisch	/ˈkʁʏptɪʃ/	Adjektiv	
+- schwer zu verstehen, geheimnisvoll	
+- khó hiểu, bí ẩn	
+- cryptic	
+- Die Nachricht war sehr kryptisch formuliert.	
+- Kryptik (die)

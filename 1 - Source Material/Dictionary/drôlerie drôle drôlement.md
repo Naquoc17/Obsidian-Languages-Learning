@@ -1,0 +1,6 @@
+- drôle	/dʁɔl/	Adjectif	
+- Amusant, qui fait rire	
+- Hài hước, vui nhộn	
+- Funny	
+- Ce film est très drôle.	
+- drôlerie (n.), drôlement (adv.)

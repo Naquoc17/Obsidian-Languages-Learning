@@ -1,0 +1,6 @@
+- inscription	/ɛ̃.skʁip.sjɔ̃/	Nom (f.)	
+- Action de s’enregistrer	
+- Đăng ký	
+- Registration	
+- Mon inscription est validée.	
+- inscrire (v.), inscrit(e) (adj.)

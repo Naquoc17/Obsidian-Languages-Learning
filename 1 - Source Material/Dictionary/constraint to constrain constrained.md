@@ -1,0 +1,6 @@
+- Constraint	/kənˈstreɪnt/	Noun	
+- A limitation or restriction	
+- Sự hạn chế, ràng buộc	
+- Einschränkung, Begrenzung	
+- The project was delayed due to budget constraints.	
+- Constrain (verb), Constrained (adj.)

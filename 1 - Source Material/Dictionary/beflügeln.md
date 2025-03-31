@@ -1,0 +1,6 @@
+- beflügeln	/bəˈflyːɡl̩n̩/	Verb	
+- inspirieren, motivieren, antreiben	
+- truyền cảm hứng, thúc đẩy	
+- to inspire, to stimulate	
+- Die Musik beflügelt meine Kreativität.	
+- Flügel (der), beflügelt (Adj.)

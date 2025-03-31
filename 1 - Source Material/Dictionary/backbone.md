@@ -1,0 +1,5 @@
+- Backbone	/ˈbækˌboʊn/	Noun	
+- The main or central part of something	
+- Trụ cột, nền tảng	
+- Rückgrat	
+- The backbone of YOLO extracts key features.

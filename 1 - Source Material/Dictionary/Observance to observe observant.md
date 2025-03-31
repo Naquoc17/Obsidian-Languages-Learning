@@ -1,0 +1,1 @@
+Observance	/əbˈzɜːrvəns/	Noun	The act of following a religious or cultural practice	Sự tuân theo (tôn giáo, phong tục)	Einhaltung	The observance of religious holidays is important to many employees.	Observe (verb), Observant (adjective)

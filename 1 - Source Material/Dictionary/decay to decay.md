@@ -1,0 +1,6 @@
+- decay	/dɪˈkeɪ/	noun	
+- Gradual destruction, often of teeth	
+- Sự mục nát, sâu răng	
+- Verfall	
+- Too much sugar leads to tooth decay.	
+- decay (verb)

@@ -1,0 +1,1 @@
+Debriefing	/diːˈbriːfɪŋ/	Noun	A discussion after an event to review what happened	Cuộc họp tổng kết	Nachbesprechung	After the presentation, we had a debriefing to discuss improvements.	Debrief (verb)

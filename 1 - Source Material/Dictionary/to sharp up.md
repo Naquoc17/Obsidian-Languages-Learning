@@ -1,0 +1,1 @@
+Sharpen up	/ˈʃɑːrpən ʌp/	Phrasal Verb	To improve skills or performance	Cải thiện, nâng cao	Sich verbessern	He needs to sharpen up his presentation skills.	Sharp (adjective), Sharpness (noun)

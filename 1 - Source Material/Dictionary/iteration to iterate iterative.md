@@ -1,0 +1,6 @@
+- Iteration	/ˌɪtəˈreɪʃən/	Noun	
+- A new version of something	
+- Phiên bản lặp lại	
+- Wiederholung	
+- The latest iteration of the model improves accuracy.	
+- Iterate (verb), Iterative (adj)

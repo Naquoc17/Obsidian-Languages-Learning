@@ -1,0 +1,5 @@
+- ins Blickfeld rücken	/ɪns ˈblɪkˌfɛlt ˈʁʏkən/	Redewendung	
+- Aufmerksamkeit auf etwas lenken, in den Fokus kommen	
+- thu hút sự chú ý, lọt vào tầm ngắm	to come into focus, to move into the spotlight	
+- Mit der Klimakrise rückt erneuerbare Energie ins Blickfeld.	
+- Blick (der), Feld (das), rücken (Verb)
