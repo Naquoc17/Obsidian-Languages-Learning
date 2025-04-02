@@ -210,14 +210,23 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "3303510a329e9cd1",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,7 +243,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94bcf804088f1de9",
+  "active": "a737bfe1d1d43c0f",
   "lastOpenFiles": [
     "New Text Document.txt",
     "2 - Tags/Netflix.md",
