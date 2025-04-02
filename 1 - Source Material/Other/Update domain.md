@@ -1,2 +1,0 @@
-- Update one by one, to make sure that all VMs never are down at the same time
-- Not all together
