@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "926512f03b393627",
+        "id": "3fda3266f79ce2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "a737bfe1d1d43c0f",
+            "id": "a3e83c8aede74e4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Die Frau, die Monopoly erfand @DWDeutschLernen"
+              "title": "New tab"
             }
           }
         ]
@@ -156,8 +142,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -234,13 +220,23 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "6487e5d48745e5e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,8 +253,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a737bfe1d1d43c0f",
+  "active": "a3e83c8aede74e4f",
   "lastOpenFiles": [
+    "1 - Source Material/Dictionary/das Brettspiel.md",
+    "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
     "New Text Document.txt",
     "2 - Tags/Netflix.md",
     "2 - Tags/Training Hörverstehen UNI SICHER! 2.md",
@@ -286,7 +284,6 @@
     "4 - Main Notes/Leseverstehen, Teil 1 - Textrekonstruktion @MitErfolgzutelcC1Hochschule.md",
     "3 - Indexes/Spanish.md",
     "1 - Source Material/Books/A - Présentations.md",
-    "2 - Tags/Unite 1 - Et vous @EditoA1.md",
     "2 - Source Material/attachments/Pasted image 20250328230958.png",
     "7 undefined",
     "2 - Source Material/attachments/03 Piste 03.mp3",
@@ -298,7 +295,6 @@
     "6 - Main Notes/~syncthing~Power BI for Beginners - Build your first Report.md.tmp",
     "6 - Main Notes/~syncthing~What is Datadog and why do we need it @Udemy.md.tmp",
     "6 - Main Notes/~syncthing~Section 2 - Get started with Datadog - Registration, Pricing and Agent installation.md.tmp",
-    "6 - Main Notes/~syncthing~Datadog - Performance monitoring tool (from Zero to Hero).md.tmp",
     "2 - Source Material/attachments/Pasted image 20250324175235.png",
     "2 - Source Material/attachments/Pasted image 20250324150209.png",
     "2 - Source Material/attachments/Pasted image 20250324142346.png",
