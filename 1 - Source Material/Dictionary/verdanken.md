@@ -1,0 +1,8 @@
+- verdanken [fɛɐ̯ˈdaŋkn̩] Verb
+- Jemandem für etwas danken, weil er es ermöglicht hat
+- nhờ vào, mang ơn
+- to owe, to be indebted to
+- Seinen Erfolg verdankt er harter Arbeit.
+- Dank (Nomen) = Anerkennung, dankbar (Adjektiv) = voller Dank
+- sich verdanken = to be due to/ to be the result of, etw. (Akk) jdm./etw. zu verdanken haben = owe sth to sb/sth
+- „donare“ (lat.) = „schenken, geben“

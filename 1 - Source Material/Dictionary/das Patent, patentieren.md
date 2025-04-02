@@ -1,0 +1,7 @@
+- Patent [paˈtɛnt] Nomen (neutrum) pl. die Patente 
+- Ein offizielles Schutzrecht für eine Erfindung 
+- bằng sáng chế
+- patent
+- Das Patent schützt die Erfindung vor [[die Nachahmung, nachahmen|Nachahmung]] .	
+- patentieren (Verb) = ein Patent anmelden, Patentinhaber (Nomen) = Besitzer eines Patents
+- „patere“ (lat.) = „offen sein“

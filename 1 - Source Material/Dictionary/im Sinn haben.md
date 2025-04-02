@@ -1,0 +1,7 @@
+- im Sinn haben [ɪm zɪn habən] Redewendung
+- Eine Idee oder einen Plan haben	
+- có ý tưởng, dự định
+- to have in mind	
+- Sie hatte eine völlig andere Spielidee im Sinn.
+- der Sinn (Nomen), sinnvoll (Adjektiv)
+- „sensus“ (lat.) = „Wahrnehmung, Bedeutung“

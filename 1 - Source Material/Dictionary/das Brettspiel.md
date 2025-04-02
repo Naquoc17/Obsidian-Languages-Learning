@@ -1,0 +1,6 @@
+- Brettspiel [ˈbʁɛtˌʃpiːl] Nomen (neutral)
+- Ein Spiel, das auf einem Spielbrett gespielt wird
+- trò chơi bàn cờ
+- board game
+- Monopoly ist eines der bekanntesten Brettspiele der Welt.
+- das Brett (Nomen) = flache Holzplatte, das Spiel (Nomen) = Aktivität zum [[der Zeitvertreib|Zeitvertreib]] 

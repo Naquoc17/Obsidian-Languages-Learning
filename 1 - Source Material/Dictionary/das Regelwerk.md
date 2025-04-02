@@ -1,0 +1,7 @@
+- Regelwerk [ˈʁeːɡl̩ˌvɛʁk]	Nomen (neutrum) pl. die Regelwerke
+- Eine Sammlung von Regeln oder Vorschriften
+- bộ quy tắc, hệ thống quy định
+- set of rules, rulebook
+- Jedes Spiel hat ein eigenes Regelwerk.
+- Regel (Nomen) = Vorschrift, regeln (Verb) = festlegen
+- „regula“ (lat.) = „Maßstab, Regel“

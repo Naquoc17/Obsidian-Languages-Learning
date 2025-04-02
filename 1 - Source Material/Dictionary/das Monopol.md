@@ -1,0 +1,7 @@
+- Monopol [monoˈpoːl] Nomen (neutrum) pl. die Monopole
+- Marktsituation, in der nur ein Anbieter existiert
+- độc quyền
+- monopoly
+- Große Konzerne streben oft ein Monopol an.
+- Monopolisierung (Nomen), monopolistisch (Adjektiv)
+- „monos“ (griech.) = „allein“, „polein“ = „verkaufen“

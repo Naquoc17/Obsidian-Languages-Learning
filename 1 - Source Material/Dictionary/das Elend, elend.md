@@ -1,0 +1,7 @@
+- Elend [ˈeːlɛnt] Nomen (neutrum), Adjektiv
+- Sehr schlechte Lebensbedingungen, großes Leid
+- cảnh khốn khổ, nghèo đói 
+- misery, hardship
+- Nach dem Krieg herrschte großes Elend.
+- elendig (Adjektiv) = sehr schlecht, elendiglich (Adverb)	
+- „alius“ (lat.) = „anders“ (ursprünglich für Exil, später für Leid)

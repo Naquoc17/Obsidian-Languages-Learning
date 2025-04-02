@@ -1,0 +1,7 @@
+- Zeitvertreib [ˈʦaɪ̯t.fɛɐ̯ˌtʁaɪ̯p]	Nomen (maskulin)	
+- Eine Aktivität, die man macht, um sich die Zeit angenehm zu vertreiben
+- thú tiêu khiển, giải trí
+- pastime, hobby
+- Lesen ist ein schöner Zeitvertreib für lange Winterabende.
+- die Zeit (Nomen) = Dauer, vertreiben (Verb) = etwas loswerden oder angenehm gestalten	
+- „verterere“ (lat.) = „vergehen lassen“

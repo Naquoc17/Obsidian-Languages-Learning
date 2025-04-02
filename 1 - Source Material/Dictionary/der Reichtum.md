@@ -1,0 +1,7 @@
+- Reichtum [ˈʁaɪ̯çtuːm] Nomen (maskulin)
+- Ein großer Besitz an Geld, materiellen Gütern oder geistigen Werten
+- sự giàu có, sự phong phú
+- wealth, riches
+- Sein Reichtum ermöglicht ihm ein luxuriöses Leben.	
+- reich (Adjektiv) = wohlhabend, bereichern (Verb) = reicher machen
+- „regere“ (lat.) = „herrschen, lenken“

@@ -1,0 +1,7 @@
+- Angabe [ˈanˌɡaːbə]	Nomen (feminin) 
+- 1. Information oder Mitteilung; 2. Behauptung; 3. Offizielle Erklärung
+- thông tin, lời khai
+- statement, specification, claim
+- Laut den Angaben der Polizei gab es keine Verletzten.
+- angeben (Verb) = informieren oder [[die Prahlerei, prahlen|prahlen]] , Angabe (Nomen) = Information
+- „ad“ + „cavere“ (lat.) = „etwas angeben, nennen“

@@ -1,0 +1,7 @@
+- Ungleichheit	[ˈʊnɡlaɪ̯çhaɪ̯t]	Nomen (feminin)
+- Unterschiedliche Behandlung oder ungleiche Verteilung von Rechten und Chancen
+- bất bình đẳng	
+- inequality 
+- Die soziale Ungleichheit nimmt in vielen Ländern zu.	
+- gleich (Adjektiv) = identisch, Ungleichgewicht (Nomen)	
+- „in- + aequalis“ (lat.) = „nicht gleich“

@@ -1,0 +1,7 @@
+- bankrott	[baŋˈkʁɔt] Adjektiv/Nomen pl. die Bankrotte 	
+- Ohne Geld, zahlungsunfähig	
+- phá sản
+- bankrupt	
+- Nach der Wirtschaftskrise war das Unternehmen bankrott.	
+- Bankrott gehen (Phrase)	
+- „banca rotta“ (ital.) = „zerbrochene Bank“

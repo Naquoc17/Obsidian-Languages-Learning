@@ -1,0 +1,7 @@
+- Abstammung	[ˈapˌʃtamʊŋ] Nomen (feminin)
+- Herkunft einer Person oder einer Gruppe, meist bezogen auf Familie oder [[die Ethnie, ethnisch|Ethnie]] 	
+- nguồn gốc, dòng dõi
+- ancestry, descent	
+- Er ist stolz auf seine italienische Abstammung.
+- abstammen (Verb) = von jemandem herkommen, Stammbaum (Nomen) = genealogische Übersicht
+- „stamen“ (lat.) = „Stamm, Ursprung“

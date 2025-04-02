@@ -1,0 +1,7 @@
+- übernehmen [ˌyːbɐˈneːmən]	Verb
+- Etwas in eigene Verantwortung nehmen oder von jemandem kopieren
+- tiếp quản, đảm nhận
+- to take over, to adopt
+- Er übernahm das Geschäft seines Vaters.
+- Übernahme (Nomen) = Akt des Übernehmens, übernommen (Partizip II)
+- „capere“ (lat.) = „nehmen“

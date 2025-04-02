@@ -1,0 +1,7 @@
+- jdn. um etw. betrügen [ˈbeːtʁyːɡən] Redewendung, Verb
+- Jemandem durch Täuschung etwas wegnehmen
+- lừa đảo ai đó để lấy cái gì
+- to cheat someone out of something
+- Er wurde um sein Erbe betrogen.	
+- der Betrug (Nomen) = Täuschung, betrügerisch (Adjektiv)
+- „trug“ (ahd.) = „Täuschung“

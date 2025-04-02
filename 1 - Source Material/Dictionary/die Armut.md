@@ -1,0 +1,7 @@
+- Armut [ˈaʁmuːt] Nomen (feminin)
+- Zustand, in dem jemand sehr wenig Geld oder Ressourcen hat
+- sự nghèo đói
+- poverty
+- Viele Menschen leiden unter Armut.
+- arm (Adjektiv) = wenig Besitz haben, verarmen (Verb) = arm werden
+- „arma“ (lat.) = „Mangel, Bedürftigkeit“

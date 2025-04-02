@@ -1,0 +1,7 @@
+- aufbrechen [ˈaʊ̯fˌbʁɛçn̩] Verb
+- Etwas [[gewaltsam]] öffnen oder eine Situation beenden
+- mở, phá vỡ
+- to break open, to disrupt
+- Die Demonstranten wollten alte Strukturen aufbrechen.
+- der Aufbruch (Nomen) = Beginn von etwas Neuem
+- „frangere“ (lat.) = „brechen“
