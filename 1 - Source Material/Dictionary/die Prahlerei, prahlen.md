@@ -1,0 +1,7 @@
+- prahlen [ˈpʁaːlən] Verb
+- Übertreiben oder angeben, um andere zu beeindrucken
+- khoe khoang, ba hoa
+- to boast, to brag
+- Er prahlt immer mit seinem teuren Auto.
+- Prahlerei (Nomen) = übertriebenes Angeben, Prahler (Nomen) = eine Person, die angibt
+- „prae“ (lat.) = „voran“

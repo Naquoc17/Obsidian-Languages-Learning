@@ -1,0 +1,7 @@
+- auf etw. aufmerksam machen [aʊ̯f ˈɛtvas ˈaʊ̯fˌmɛʁkzaːm ˈmaχən] Verbphrase
+- Jemandem etwas bewusst machen oder auf etwas hinweisen	
+- làm ai chú ý đến điều gì đó	
+- to draw attention to sth.
+- Die Aktivisten machen auf den Klimawandel aufmerksam.
+- Aufmerksamkeit (Nomen) = Konzentration, aufmerksam (Adjektiv) = wachsam, interessiert
+- „ad“ + „monere“ (lat.) = „erinnern, hinweisen“

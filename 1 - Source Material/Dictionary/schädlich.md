@@ -1,0 +1,7 @@
+- schädlich [ˈʃɛːtlɪç] Adjektiv
+- Etwas, das Schaden verursacht oder negative Folgen hat
+- có hại
+- harmful, detrimental 
+- Rauchen ist schädlich für die Gesundheit.
+- der Schaden, pl. die Schäden (Nomen) = negative Auswirkungen, beschädigen (Verb) = etwas kaputt machen 
+- „scathe“ (altengl.) = „Schaden“

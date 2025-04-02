@@ -1,0 +1,7 @@
+- gewaltsam [ɡəˈvaltzaːm] Adjektiv
+- Mit Gewalt, unter Anwendung von physischer oder psychischer Kraft
+- bạo lực, cưỡng chế
+- violent, forceful
+- Die Polizei beendete die Demonstration gewaltsam.
+- die Gewalt (Nomen) = physische oder psychische Kraft, gewalttätig (Adjektiv) = aggressiv	
+- „valere“ (lat.) = „stark sein“

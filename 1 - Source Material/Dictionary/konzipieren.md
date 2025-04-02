@@ -1,0 +1,7 @@
+- konzipieren [kɔnʦiˈpiːʁən] Verb
+- Etwas entwerfen, planen
+- thiết kế, lên kế hoạch
+- conceived, designed
+- Das Gebäude wurde modern konzipiert.
+- Konzeption (Nomen)
+- „concipere“ (lat.) = „empfangen, erfassen“

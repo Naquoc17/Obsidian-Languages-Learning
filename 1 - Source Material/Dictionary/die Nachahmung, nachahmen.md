@@ -1,0 +1,7 @@
+- Nachahmung	[ˈnaːxʔaːmʊŋ]	Nomen (feminin)
+- Das Kopieren oder Imitieren von etwas 
+- sự bắt chước, mô phỏng
+- imitation, copying
+- Die Nachahmung bekannter Marken ist illegal.
+- nachahmen (Verb) = imitieren, Nachahmer (Nomen) = jemand, der etwas kopiert	
+- „imitari“ (lat.) = „nachahmen“

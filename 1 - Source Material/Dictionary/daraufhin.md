@@ -1,0 +1,7 @@
+- daraufhin [daʁaʊ̯fˈhɪn] Adverb
+- Als Reaktion auf etwas, als Folge von etwas
+- sau đó, vì vậy
+- as a result, consequently, subsequently
+- Er wurde kritisiert, und daraufhin entschuldigte er sich.
+- darauf (Adverb) = auf etwas bezogen, hin (Adverb) = in eine Richtung
+- „de“ + „hinc“ (lat.) = „von hier aus“

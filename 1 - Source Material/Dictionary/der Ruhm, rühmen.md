@@ -1,0 +1,7 @@
+- Ruhm [ʁuːm] Nomen (maskulin) 
+- Bekanntheit oder Anerkennung durch besondere Leistungen
+- danh tiếng, sự nổi tiếng
+- fame, glory
+- Der Künstler erlangte weltweiten Ruhm.
+- ruhmreich (Adjektiv) = berühmt, rühmen (Verb) = loben
+- „rumor“ (lat.) = „Gerücht, Ruhm“

@@ -1,0 +1,7 @@
+- Industrialisierung [ɪndʊstʁi̯a.liˈziːʁʊŋ] Nomen (feminin)
+- Der Prozess, bei dem eine Gesellschaft von Landwirtschaft auf industrielle Produktion umstellt	
+- công nghiệp hóa
+- industrialization
+- Die Industrialisierung begann in England im 18. Jahrhundert.
+- industrialisieren (Verb) = eine Wirtschaft auf Industrie umstellen, Industrie (Nomen) = wirtschaftlicher Produktionssektor
+- „industria“ (lat.) = „Fleiß, Geschäftigkeit“

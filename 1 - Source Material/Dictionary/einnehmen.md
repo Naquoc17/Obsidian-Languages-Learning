@@ -1,0 +1,7 @@
+- einnehmen [ˈaɪ̯nˌneːmən] Verb
+- Geld oder etwas anderes erhalten / Etwas besetzen / Etwas konsumieren (z. B. Medikamente)	
+- thu (tiền), chiếm, uống (thuốc)
+- to take in, to earn, to occupy
+- Der Laden nimmt täglich 500 Euro ein. / Die Armee nahm die Stadt ein. / Ich muss meine Medizin dreimal am Tag einnehmen.
+- die Einnahme (Nomen) = Geld, das man bekommt; eingenommen (Partizip II)
+- „in“ (lat.) = „hinein“ + „nemein“ (ahd.) = „nehmen“

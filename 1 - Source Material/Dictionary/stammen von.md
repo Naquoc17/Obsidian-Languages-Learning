@@ -1,0 +1,7 @@
+- stammen von	[ˈʃtamən fɔn] Verbale Wortverbindung
+- Hat seinen Ursprung bei einer Person oder Sache
+- có nguồn gốc từ
+- originates from, comes from	
+- Die Idee stammt von einer berühmten Wissenschaftlerin.	
+- stammen (Verb) = seinen Ursprung haben, [[die Abstammung, abstammen|Abstammung]]  (Nomen) = Herkunft
+- „stamen“ (lat.) = „Stamm, Ursprung“
