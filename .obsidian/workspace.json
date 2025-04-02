@@ -11,10 +11,24 @@
             "id": "a3e83c8aede74e4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Die Frau, die Monopoly erfand @DWDeutschLernen"
             }
           }
         ]
@@ -253,7 +267,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b26d90b2a5df65eb",
+  "active": "a3e83c8aede74e4f",
   "lastOpenFiles": [
     "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
     "1 - Source Material/Dictionary/verdanken.md",
