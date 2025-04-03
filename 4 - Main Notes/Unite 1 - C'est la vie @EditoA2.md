@@ -34,7 +34,7 @@ En 2012, il a [[traverser|traversé]]  l’Atlantique pour participer à des fil
 
 Ses passions ? Il adore jouer aux cartes ! Il aime la danse et préfère danser sur du [[funk]]. Le jazz le passionne et c’est aussi un [[amateur]] de football.
 
-## C - Grammaire: le passé composé & Vocabulaire: le portrait
+## Grammaire: le passé composé & Vocabulaire: le portrait
 
 - on utilise le passé-composé pour parler ***d'une action terminée*** et ***datée dans le passé***
 
@@ -78,8 +78,38 @@ Le passé composé = être/ avoir + **le participe passé** du verbe
 **Manu :** Bon, très bien. On y va [[plutôt]] samedi ou dimanche ? Tu choisis !  
 **Mariette :** Eh bien, plutôt dimanche. On [[se reposer|se repose]]  le samedi matin.
 
+## Grammaire: la phrase négative
 
+|Word|Pronunciation (IPA)|Word Type|Meaning (French)|Meaning (Vietnamese)|English Equivalent|Example Sentence|Family Words (with meanings)|Latin Root|
+|---|---|---|---|---|---|---|---|---|
+|ne ... rien|[nə ... ʁjɛ̃]|Expression|ne + rien = nothing|không ... gì cả|nothing|Je ne vois **rien**. _(I see nothing.)_|rien (nothing), ne (not)|_res_ (thing)|
+|ne ... jamais|[nə ... ʒa.mɛ]|Expression|ne + jamais = never|không bao giờ|never|Il ne mange **jamais** de viande. _(He never eats meat.)_|jamais (never), ne (not)|_jamais_ (Latin "jam" = ever)|
+|ne ... personne|[nə ... pɛʁ.sɔn]|Expression|ne + personne = nobody|không ai cả|nobody|Elle ne connaît **personne** ici. _(She knows nobody here.)_|personne (person/nobody), ne (not)|_persona_ (person)|
+|ne ... plus|[nə ... ply]|Expression|ne + plus = no more / not anymore|không còn nữa|no more / not anymore|Nous ne travaillons **plus** ici. _(We no longer work here.)_|plus (more), ne (not)|_plus_ (more)|
 
+- Ne ... pas permet de faire une négation simple
+- Ne ... plus, rien, personne, jamais permettent de faire une négation plus précise
+
+- Example:
+	- Négation pour une chose (quelque chose) -> ne ... rien
+		- Elle a vu quelque chose -> ***Elle n'a rien vu***
+		- Ella voit la scène -> ***Elle ne voit rien***
+	- Négation pour une personne (quelqu'un) -> ne ... personne
+		- Je vois quelqu'un/ tout le monde -> ***Je ne vois personne***
+	- Négation pour la fréquence (toujours, parfois, souvent et déjà) -> ne ... jamais
+		- Elle a déjà vu cette pièce -> ***Elle n'a jamais vu cette pièce***
+		- Tu vas souvent/ parfois au théâtre -> ***Tu ne vas jamais au théâtre***
+	- Un changement de situation (toujours, encore) -> ne ... plus
+		- On a encore des bols -> ***On n'a plus de bols*** (= Avant, on avait des bols)
+		- Il est toujours au concert -> ***Il n'est plus au concert*** (= Il est parti maintenant)
+
+- Place de la négation:
+	- Présent: 
+		- Elle ne voit pas
+		- Elle ne voit rien
+	- Passé composé:
+		- Elle n'a pas vu
+		- Elle n'a rien vu
 
 
 # Pronunciation

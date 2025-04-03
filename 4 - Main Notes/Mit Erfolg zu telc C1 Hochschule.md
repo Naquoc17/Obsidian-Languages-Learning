@@ -10,7 +10,7 @@ created date: 2025-03-20 23:06
 
 Status: #baby 
 
-Tags: [[]]
+Tags: [[German]]
 
 # Mit Erfolg zu telc C1 Hochschule
 
@@ -18,12 +18,9 @@ Tags: [[]]
 
 ### [[Leseverstehen, Teil 1 - Textrekonstruktion @MitErfolgzutelcC1Hochschule]]
 
-### 
-
 ## Hörverstehen
 
 ### [[Hörverstehen, Teil 1 - Globalverstehen @MitErfolgzutelcC1Hochschule]]
-
 
 ## Schriftlicher Ausdruck
 
