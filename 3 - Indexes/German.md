@@ -22,7 +22,7 @@ Tags:
 ## [[Mit Erfolg zu telc C1 Hochschule]]
 
 
-## News
+## Articles
 
 ### [[DW Deutsch Lernen]]
 
