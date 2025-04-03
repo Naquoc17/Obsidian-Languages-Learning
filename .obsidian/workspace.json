@@ -15,7 +15,7 @@
               "state": {
                 "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -194,12 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06d44a5d778ce14e",
+  "active": "070ed5dc5756465e",
   "lastOpenFiles": [
+    "1 - Source Material/Dictionary/ne plus.md",
+    "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
     "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
     "4 - Main Notes/Lesson 1 - Plan a Data Analytics Environment.md",
     "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
-    "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
     "4 - Main Notes/Un étudiant, une étudiante... @.md",
     "4 - Main Notes/Registration and Agent installation @Udemy.md",
     "4 - Main Notes/Reading & Writing 12.02.2025 - Le Xuan Huyen.md",
