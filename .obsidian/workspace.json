@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
+                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Die Frau, die Monopoly erfand @DWDeutschLernen"
+              "title": "Unite 1 - C'est la vie @EditoA2"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
+                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Die Frau, die Monopoly erfand @DWDeutschLernen"
+              "title": "Backlinks for Unite 1 - C'est la vie @EditoA2"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
+                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Die Frau, die Monopoly erfand @DWDeutschLernen"
+              "title": "Outgoing links from Unite 1 - C'est la vie @EditoA2"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
+                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Die Frau, die Monopoly erfand @DWDeutschLernen"
+              "title": "Outline of Unite 1 - C'est la vie @EditoA2"
             }
           },
           {
@@ -194,6 +194,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "070ed5dc5756465e",
-  "lastOpenFiles": []
+  "active": "06d44a5d778ce14e",
+  "lastOpenFiles": [
+    "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
+    "4 - Main Notes/Lesson 1 - Plan a Data Analytics Environment.md",
+    "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
+    "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
+    "4 - Main Notes/Un étudiant, une étudiante... @.md",
+    "4 - Main Notes/Registration and Agent installation @Udemy.md",
+    "4 - Main Notes/Reading & Writing 12.02.2025 - Le Xuan Huyen.md",
+    "4 - Main Notes/Mit Erfolg zu telc C1 Hochschule.md",
+    "4 - Main Notes/Präpositionen der geschriebenen Sprache @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/Leseverstehen, Teil 1 - Textrekonstruktion @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/L'état civil, la nationalité.md",
+    "4 - Main Notes/Indirekte Rede - Konjunktiv I @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/Hörverstehen, Teil 1 - Globalverstehen @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/ELE Actual A1 - Libro del alumno A1.md",
+    "4 - Main Notes/Die Ökonomie der Sprache.md",
+    "4 - Main Notes/Deutsch im Thema Konsum.md",
+    "4 - Main Notes/Boosting and MIL algorithms.md",
+    "4 - Main Notes/An Official Cambridge Ielts Course - Mindset for Ielts.md",
+    "4 - Main Notes/Adverbial clauses of time @AGiU.md",
+    "4 - Main Notes/A - Urlaub mal anders.md",
+    "4 - Main Notes/A1 - Auf Sommerfrische.md",
+    "4 - Main Notes/1 Saludos y presentaciones.md",
+    "1 - Source Material/attachments/Piste 005.mp3",
+    "1 - Source Material/attachments/Pasted image 20250328184645.png",
+    "1 - Source Material/attachments/Pasted image 20250328183754.png",
+    "1 - Source Material/attachments/Pasted image 20250324175235.png",
+    "1 - Source Material/attachments/Pasted image 20250328230958.png",
+    "1 - Source Material/attachments/Pasted image 20250315204126.png",
+    "1 - Source Material/attachments/Pasted image 20250315110010.png",
+    "1 - Source Material/attachments/Pasted image 20250315105952.png",
+    "1 - Source Material/attachments/Pasted image 20250315105931.png",
+    "1 - Source Material/attachments/Pasted image 20250315105849.png",
+    "1 - Source Material/attachments/Pasted image 20250315105833.png",
+    "1 - Source Material/attachments/02 Piste 02.mp3",
+    "1 - Source Material/attachments/02 Piste 02 1.mp3",
+    "1 - Source Material/attachments/01 Дорожка 1.wma",
+    "1 - Source Material/attachments/03 Piste 03.mp3",
+    "5 - Templates/Basic.md",
+    "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md"
+  ]
 }

@@ -50,7 +50,13 @@ Dazu [[zuweisen die Zuweisung zugeordnet|wiesen sie den 15 Tagen vor dem Beben e
 
 Neu an dem [[der Ansatz ansetzen|Ansatz]]  ist allerdings, dass die Wissenschaftler nicht nach spezifischen Perioden zwischen Beben und Syzygien suchten, sondern [[von Hand]] den Zusammenhang zwischen den [[gezeitenbedingt|gezeitenbedingten]]  Spannungen [[die Auswertung auswerten auswertbar|auswerteten]] .
 
+## Exercise 3: ...
 
+### Lösungen
+
+Ob Ides Team (1) _dabei_ [[tatsächlich die Tatsache|tatsächlich]]  erfolgreich war, hängt (2) ____________ ab, wie man die Ergebnisse betrachtet. Pickt man sich die stärksten Beben des untersuchten Zeitraums heraus, liegen zehn der zwölf Beben bei den fünf höchsten Spannungswerten, (3) ___________ fanden also bei besonders starken Gezeiten statt. Auch bei der Gesamtheit der Beben mit einer Stärke von mehr als 7,5 ist (4) ____________ Anteil noch leicht höher als erwartet. In der gesamten Stichprobe verschwindet der Effekt jedoch: Die Analyse umfasste über 10.000 Beben weltweit, (5) ___________ Stärken oberhalb von 5,5 lagen – und (6) ___________ Verteilung ist vom Zufall, wie die Arbeitsgruppe schreibt, nicht zu unterscheiden. 
+
+Die Forscher interpretieren den Befund so: Wenn die Gezeitenbelastung hoch ist, steigt die Wahrscheinlichkeit (7) ___________, dass ein Erdbeben eine besonders hohe Intensität erreicht. Vorläufig allerdings stellen (8) __________ Fragen, als die die Studie beantwortet. Zuerst einmal, ob der gefundene Zusammenhang nicht doch nur ein Glückstreffer in einer passend gewählten Untergruppe ist – andere Syzygyien-Analysen brachten negative Ergebnisse. Aber auch die Mechanismen, (9) ___________ für den Zusammenhang verantwortlich sind, bleiben unklar. Dass der Mond Erdbeben verursacht, klingt zwar plausibel. Allein, wenn die (10) ___________ ausgelöste Veränderung der Spannungen im Gestein ist 1000-fach kleiner, als (11) __________ sein müsste, um größere Beben auszulösen.
 
 
 
