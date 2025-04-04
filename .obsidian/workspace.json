@@ -187,13 +187,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unite 1 - C'est la vie @EditoA2"
+              "title": "Outline"
             }
           },
           {
@@ -204,6 +203,26 @@
               "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "63a3ab4d7e6b0a22",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "5333f5549df85588",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -231,12 +250,14 @@
   },
   "active": "06d44a5d778ce14e",
   "lastOpenFiles": [
+
     "6 - undefined/Basic Lab - Azure Log Analytics Workspace.md",
     "6 - undefined/How would you define 'compute resources'.md",
     "6 - undefined/CPU cycle.md",
     "6 - undefined/encompass.md",
     "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
     "1 - Source Material/Dictionary/ne plus.md",
+
     "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
     "4 - Main Notes/Lesson 1 - Plan a Data Analytics Environment.md",
     "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
