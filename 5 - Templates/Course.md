@@ -1,7 +1,6 @@
 ---
 level: 
 type: course
-role: 
 languages: 
 product: 
 duration: 

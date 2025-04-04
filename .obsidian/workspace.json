@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4ce0d259531e247",
+            "id": "2664f3c47da2eb14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Tags/Politik mit Anne Will.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Politik mit Anne Will"
             }
           }
         ]
@@ -180,10 +194,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4ce0d259531e247",
+  "active": "0d007a562a9d2845",
   "lastOpenFiles": [
-    "2 - Tags/DW Deutsch Lernen.md",
+    "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
+    "2 - Tags/Politik mit Anne Will.md",
     "3 - Indexes/German.md",
+    "5 - Templates/Basic.md",
+    "5 - Templates/Exercise.md",
+    "5 - Templates/Documentation.md",
+    "5 - Templates/Course.md",
+    "5 - Templates/Contact.md",
+    "5 - Templates/Book.md",
+    "5 - Templates/Blog, Article, Video.md",
+    "5 - Templates/Internal Link.md",
+    "5 - Templates/Daily.md",
+    "2 - Tags/DW Deutsch Lernen.md",
     "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
     "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
     "4 - Main Notes/Un étudiant, une étudiante... @.md",
@@ -197,17 +222,6 @@
     "4 - Main Notes/Hörverstehen, Teil 1 - Globalverstehen @MitErfolgzutelcC1Hochschule.md",
     "4 - Main Notes/ELE Actual A1 - Libro del alumno A1.md",
     "4 - Main Notes/Die Ökonomie der Sprache.md",
-    "4 - Main Notes/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
-    "4 - Main Notes/Deutsch im Thema Konsum.md",
-    "4 - Main Notes/An Official Cambridge Ielts Course - Mindset for Ielts.md",
-    "4 - Main Notes/Adverbial clauses of time @AGiU.md",
-    "4 - Main Notes/A1 - Auf Sommerfrische.md",
-    "4 - Main Notes/1 Saludos y presentaciones.md",
-    "4 - Main Notes/A - Urlaub mal anders.md",
-    "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
-    "2 - Tags/Netflix.md",
-    "conflict-files-obsidian-git.md",
-    "2 - Tags/Grammaire essentielle A2.md",
     "1 - Source Material/attachments/Piste 005.mp3",
     "1 - Source Material/attachments/Pasted image 20250328184645.png",
     "1 - Source Material/attachments/Pasted image 20250328183754.png",

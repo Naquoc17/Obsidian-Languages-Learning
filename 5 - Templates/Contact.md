@@ -1,6 +1,5 @@
 ---
 type: contact
-role: 
 company: 
 linkedin: 
 creation date: <% tp.file.creation_date() %>
