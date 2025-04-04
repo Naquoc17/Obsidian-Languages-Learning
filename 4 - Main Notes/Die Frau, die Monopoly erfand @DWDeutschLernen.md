@@ -8,7 +8,7 @@ creation date: 2025-04-01 13:05
 alias: [[]]
 modification date: `$= dv.current().file.mtime`
 
-Status: #baby 
+Status: #child 
 
 Tags: [[DW Deutsch Lernen]]
 
