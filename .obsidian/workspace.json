@@ -4,11 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "1622946f3906b798",
+        "id": "5ba0a7947e3a883a",
         "type": "tabs",
         "children": [
           {
-            "id": "813339d478a65553",
+            "id": "75010e26ddd644a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - undefined/encompass.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "encompass"
+            }
+          },
+          {
+            "id": "cf6cafe8d7ee7ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - undefined/CPU cycle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CPU cycle"
+            }
+          },
+          {
+            "id": "7179d0d64b483658",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +65,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,14 +250,14 @@
   },
   "active": "06d44a5d778ce14e",
   "lastOpenFiles": [
-    "Untitled/Untitled.md",
-    "Untitled",
-    "4 - Main Notes/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
-    "2 - Tags/DW Deutsch Lernen.md",
-    "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
-    "3 - Indexes/German.md",
-    "6 - undefined/Untitled.md",
+
+    "6 - undefined/Basic Lab - Azure Log Analytics Workspace.md",
+    "6 - undefined/How would you define 'compute resources'.md",
+    "6 - undefined/CPU cycle.md",
+    "6 - undefined/encompass.md",
     "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
+    "1 - Source Material/Dictionary/ne plus.md",
+
     "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
     "4 - Main Notes/Lesson 1 - Plan a Data Analytics Environment.md",
     "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
@@ -228,6 +277,7 @@
     "4 - Main Notes/An Official Cambridge Ielts Course - Mindset for Ielts.md",
     "4 - Main Notes/Adverbial clauses of time @AGiU.md",
     "4 - Main Notes/A - Urlaub mal anders.md",
+    "4 - Main Notes/A1 - Auf Sommerfrische.md",
     "1 - Source Material/attachments/Piste 005.mp3",
     "1 - Source Material/attachments/Pasted image 20250328184645.png",
     "1 - Source Material/attachments/Pasted image 20250328183754.png",
