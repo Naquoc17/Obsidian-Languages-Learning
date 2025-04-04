@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "663bb6cdb1536265",
+        "id": "48e94df72e54678e",
         "type": "tabs",
         "children": [
           {
-            "id": "359d8d6247bc5502",
+            "id": "70a74bf3b8c4fef3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -193,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "359d8d6247bc5502",
+  "active": "70a74bf3b8c4fef3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "5 - Templates/Toggle lists.md",
