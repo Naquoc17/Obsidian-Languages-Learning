@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "271e97f9bea72147",
+        "id": "663bb6cdb1536265",
         "type": "tabs",
         "children": [
           {
-            "id": "2664f3c47da2eb14",
+            "id": "359d8d6247bc5502",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -156,14 +160,23 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "fd246c96d2d3a65c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +193,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d007a562a9d2845",
+  "active": "359d8d6247bc5502",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "5 - Templates/Toggle lists.md",
+    "2 - Tags/Grammaire essentielle A2.md",
+    "3 - Indexes/French.md",
+    "1 - Source Material/attachments/Pasted image 20250324175235.png",
+    "1 - Source Material/attachments/Pasted image 20250328184645.png",
+    "1 - Source Material/attachments/Pasted image 20250328230958.png",
+    "1 - Source Material/attachments/Piste 005.mp3",
+    "1 - Source Material/attachments/Pasted image 20250315105833.png",
+    "1 - Source Material/attachments/Pasted image 20250306215801.png",
+    "1 - Source Material/attachments/Pasted image 20250303181904.png",
+    "1 - Source Material/attachments/02 Piste 02 1.mp3",
+    "1 - Source Material/attachments/02 Piste 02.mp3",
+    "2 - Tags/Politik mit Anne Will.md",
+    "4 - Main Notes/Lesson 1 - Plan a Data Analytics Environment.md",
+    "4 - Main Notes/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
+    "2 - Tags/DW Deutsch Lernen.md",
+    "1 - Source Material/attachments/Pasted image 20250328183754.png",
+    "1 - Source Material/attachments/Pasted image 20250315204731.png",
+    "1 - Source Material/attachments/Pasted image 20250315204126.png",
+    "1 - Source Material/attachments/Pasted image 20250315110010.png",
+    "1 - Source Material/attachments/03 Piste 03.mp3",
+    "1 - Source Material/attachments/01 Дорожка 1.wma",
     "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
     "1 - Source Material/Other/Writing SMART goals.md",
     "1 - Source Material/Other/Update domain.md",
@@ -194,34 +230,11 @@
     "1 - Source Material/Other/3 Prompt giúp bạn học tiếng Anh siêu đỉnh với ChatGPT (hoặc ngôn ngữ khác).md",
     "1 - Source Material/Other/1. Phase in Company A&O Shearman - 01.03.2025 to 01.04.2025.md",
     "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
-    "2 - Tags/Politik mit Anne Will.md",
     "3 - Indexes/German.md",
     "5 - Templates/Basic.md",
     "5 - Templates/Exercise.md",
     "5 - Templates/Documentation.md",
     "5 - Templates/Course.md",
-    "5 - Templates/Contact.md",
-    "5 - Templates/Book.md",
-    "5 - Templates/Blog, Article, Video.md",
-    "5 - Templates/Internal Link.md",
-    "5 - Templates/Daily.md",
-    "2 - Tags/DW Deutsch Lernen.md",
-    "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
-    "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
-    "1 - Source Material/attachments/Piste 005.mp3",
-    "1 - Source Material/attachments/Pasted image 20250328184645.png",
-    "1 - Source Material/attachments/Pasted image 20250328183754.png",
-    "1 - Source Material/attachments/Pasted image 20250324175235.png",
-    "1 - Source Material/attachments/Pasted image 20250328230958.png",
-    "1 - Source Material/attachments/Pasted image 20250315204126.png",
-    "1 - Source Material/attachments/Pasted image 20250315110010.png",
-    "1 - Source Material/attachments/Pasted image 20250315105952.png",
-    "1 - Source Material/attachments/Pasted image 20250315105931.png",
-    "1 - Source Material/attachments/Pasted image 20250315105849.png",
-    "1 - Source Material/attachments/Pasted image 20250315105833.png",
-    "1 - Source Material/attachments/02 Piste 02.mp3",
-    "1 - Source Material/attachments/02 Piste 02 1.mp3",
-    "1 - Source Material/attachments/01 Дорожка 1.wma",
-    "1 - Source Material/attachments/03 Piste 03.mp3"
+    "5 - Templates/Contact.md"
   ]
 }
