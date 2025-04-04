@@ -1,5 +1,5 @@
 ---
-type: pocast
+type: video
 author: Politik mit Anne Will
 languages: German
 source: https://www.youtube.com/watch?v=KpyAOZip7Fs

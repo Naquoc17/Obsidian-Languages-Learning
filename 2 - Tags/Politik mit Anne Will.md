@@ -1,5 +1,5 @@
 ---
-type: podcast
+type: video
 author: Anne Will
 languages: German
 source: https://www.youtube.com/@PolitikmitAnneWill
