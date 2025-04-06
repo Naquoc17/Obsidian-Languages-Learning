@@ -1,0 +1,6 @@
+- Flut [fluːt] Nomen (f.)
+- Der hohe Wasserstand im Wechsel der Gezeiten	
+- Thuỷ triều lên
+- High tide	
+- Bei Flut steht das Haus fast im Wasser.
+- Überflutung (Hochwasser), fluten (überfluten)

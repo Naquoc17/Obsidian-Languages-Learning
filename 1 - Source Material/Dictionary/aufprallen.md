@@ -1,0 +1,3 @@
+- aufschlagen, hauen
+- hit. bounce
+- tung lên, bật lên

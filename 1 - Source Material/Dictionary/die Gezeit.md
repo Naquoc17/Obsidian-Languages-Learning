@@ -1,0 +1,6 @@
+- Gezeit (f) [ɡəˈt͡saɪ̯t] Substantiv 
+- Regelmäßiges Steigen und Fallen des Meeresspiegels
+- thủy triều
+- tide	
+- Die Gezeiten bestimmen den Rhythmus des Wattenmeeres.	
+- Gezeitenkraftwerk (Kraftwerk, das Energie aus den Gezeiten gewinnt)

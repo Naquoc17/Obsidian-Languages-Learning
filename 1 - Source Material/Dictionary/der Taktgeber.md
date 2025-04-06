@@ -1,0 +1,7 @@
+- Taktgeber [ˈtaktˌɡeːbɐ]	Nomen (m.) 
+- Etwas, das den Rhythmus oder Zeitplan bestimmt 
+- Người/quá trình xác định nhịp điệu hoặc lịch trình
+- Pacemaker, timer
+- Die Gezeiten sind der Taktgeber für die Bootsfahrten.
+- Takt (Rhythmus), geben (etwas bereitstellen)	
+- lat. tactus („Berührung“)

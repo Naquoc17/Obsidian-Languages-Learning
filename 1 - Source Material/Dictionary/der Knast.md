@@ -1,0 +1,5 @@
+- Knast [knast] Nomen (m.) (umgangssprachlich)
+- Gefängnis
+- Nhà tù
+- Jail, prison
+- Er war ein Jahr im Knast.

@@ -1,0 +1,5 @@
+- Ebbe [ˈɛbə] Nomen (f.)	
+- Der niedrige Wasserstand im Wechsel der [[die Gezeit|Gezeiten]] 
+- Thuỷ triều xuống	
+- Low tide	
+- Bei Ebbe kann man über den Meeresboden laufen.

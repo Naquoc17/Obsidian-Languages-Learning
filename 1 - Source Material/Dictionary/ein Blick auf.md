@@ -1,0 +1,2 @@
+- ein Blick auf + Akk.
+- a view of sth.
