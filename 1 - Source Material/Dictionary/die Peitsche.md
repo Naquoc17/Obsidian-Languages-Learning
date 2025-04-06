@@ -1,0 +1,3 @@
+- Schlagwerkzeug
+- whip
+- roi da

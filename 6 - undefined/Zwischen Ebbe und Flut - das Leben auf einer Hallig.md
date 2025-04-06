@@ -30,22 +30,22 @@ Süderoog liegt 140 Kilometer nördlich von Hamburg und ist eine von zehn Hallig
 Die Hallig Süderoog ist 60 Hektar groß, und man braucht so, ja, ’ne gute Stunde, wenn man einmal drum herum um die Kante laufen würde.
 
 *SPRECHER:*
-Holger und Nele sind 2013 hierhergezogen. Eine gut überlegte Entscheidung, trotz der vielen Herausforderungen. Strom bekommt die Familie über eine Solaranlage, und im Winter mithilfe eines Generators. Lebensmittel baut sie zum Teil selbst an. Und die Vorratskammer ist immer gut gefüllt, denn einen Laden gibt es hier nicht. Das Leben auf Süderoog muss gut geplant sein.
+Holger und Nele sind 2013 hierhergezogen. Eine gut überlegte Entscheidung, trotz der vielen Herausforderungen. Strom bekommt die Familie über eine Solaranlage, und im Winter mithilfe eines Generators. Lebensmittel baut sie zum Teil selbst an. Und die [[die Vorratskammer|Vorratskammer]]  ist immer gut gefüllt, denn einen Laden gibt es hier nicht. Das Leben auf Süderoog muss gut geplant sein.
 
 *HOLGER SPREER-WREE (Inselbewohner):*
-Wenn man es so möchte, kann man nicht mal eben zum Kumpel auf ’n Bier oder so, nicht so spontan, ne? Also, wir sind ja auch nicht im Knast. Sondern man muss es einfach alles planen.
+Wenn man es so möchte, kann man nicht mal eben [[zum Kumpel auf ’n Bier]] oder so, nicht so spontan, ne? Also, wir sind ja auch nicht im [[der Knast|Knast]] . Sondern man muss es einfach alles planen.
 
 *SPRECHER:*
-Bei schlechtem Wetter kommt die Familie gar nicht von der Insel weg. Bei Sturm, wenn das Wasser bis zum Haus peitscht, kann sie zur Sicherheit in ihren Schutzraum gehen.
+Bei schlechtem Wetter kommt die Familie gar nicht von der Insel weg. Bei Sturm, wenn das Wasser bis zum Haus [[peitschen|peitscht]] , kann sie zur Sicherheit in ihren Schutzraum gehen.
 
 *HOLGER SPREER-WREE:*
-Schutzraum bedeutet, dass es eigentlich der stabilste Teil des Hauses ist. Und das soll quasi das Letzte sein, was überbleibt, falls die anderen Gebäudeteile mal in Gefahr sind, aufgrund von hohen Wasserständen und Wellenschlag.
+Schutzraum bedeutet, dass es eigentlich der stabilste Teil des Hauses ist. Und das soll quasi das Letzte sein, was überbleibt, falls die anderen Gebäudeteile mal [[in Gefahr sein|in Gefahr sind]] , aufgrund von hohen Wasserständen und [[der Wellenschlag|Wellenschlag]] .
 
 *SPRECHER:*
 Was für andere das Auto oder die öffentlichen Verkehrsmittel sind, ist für Holger sein Boot.
 
 *HOLGER SPREER-WREE:*
-Das Boot ist ja unsere einzige Möglichkeit, wirklich die Hallig zu versorgen. Die Fahrten von der Hallig oder zur Hallig finden eben nach Bedarf statt. Also, und dann sind natürlich noch Taktgeber da wie die Nordsee, muss ja mit Ebbe und Flut beziehungsweise mit den Gezeiten passen, und natürlich das Wetter muss mitspielen.
+Das Boot ist ja unsere einzige Möglichkeit, wirklich die Hallig zu versorgen. Die Fahrten von der Hallig oder zur Hallig finden eben nach Bedarf statt. Also, und dann sind natürlich noch [[der Taktgeber|Taktgeber]]  da wie die Nordsee, muss ja mit Ebbe und Flut beziehungsweise mit den Gezeiten passen, und natürlich das Wetter muss mitspielen.
 
 *SPRECHER:*
 Fenja und Ilvy erleben auf der Insel auf den ersten Blick eine behütete und idyllische Kindheit. Doch Freunde, Kita und Schule sind weit weg. Die beiden Mädchen gehen auf der Nachbarinsel Pellworm in die Kita und in die Schule. Dort wohnen die Mädchen werktags mit ihrer Mutter in einer Ferienwohnung.

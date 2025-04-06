@@ -3,4 +3,4 @@
 - Di sản thiên nhiên thế giới của UNESCO
 - UNESCO World Natural Heritage
 - Das Wattenmeer gehört zum UNESCO-Weltnaturerbe.
-- Erbe (Vermächtnis), Naturerbe (natürliches Kulturgut)
+- Erbe ([[Vermächtnis]]), Naturerbe (natürliches Kulturgut)

@@ -1,0 +1,6 @@
+- peitschen [ˈpaɪ̯tʃn̩]	Verb
+- Heftig schlagen oder gegen etwas prallen	
+- Quất, đánh mạnh	
+- To whip, lash	
+- Der Wind peitscht das Wasser gegen das Ufer.	
+- [[die Peitsche|Peitsche]]  (Nomen: Schlagwerkzeug)

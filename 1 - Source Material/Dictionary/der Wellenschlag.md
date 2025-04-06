@@ -1,0 +1,6 @@
+- Wellenschlag [ˈvɛlənˌʃlaːk] Nomen (m.) 
+- Das [[aufprallen|Aufprallen]] von Wellen auf eine Oberfläche	
+- Sóng vỗ mạnh
+- Wave impact	
+- Der Wellenschlag kann das Ufer beschädigen.	
+- Welle (Nomen: Wasserbewegung), schlagen (Verb: auf etwas treffen)
