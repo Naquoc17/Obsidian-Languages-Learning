@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f373b53720af46bb",
+        "id": "ff9c65ed5ba0a1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "10140451c601ef91",
+            "id": "aab1554212c19a2e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unite 1 - C'est la vie @EditoA2"
+              "title": "Outline"
             }
           },
           {
@@ -158,13 +157,23 @@
             }
           },
           {
-            "id": "fd246c96d2d3a65c",
+            "id": "63a3ab4d7e6b0a22",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "review-queue-list-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "5333f5549df85588",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -172,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -192,47 +201,48 @@
   },
   "active": "06d44a5d778ce14e",
   "lastOpenFiles": [
+    "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
+    "6 - undefined",
+    "5 - Templates/Blog, Article, Video.md",
+    "2 - Tags/Politik mit Anne Will.md",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
-    "1 - Source Material/attachments/Pasted image 20250328230958.png",
-    "2 - Source Material/attachments",
-    "2 - Source Material",
     "1 - Source Material/Dictionary/wo man hin soll.md",
     "1 - Source Material/Dictionary/etwas ist in jemandem.md",
     "1 - Source Material/Dictionary/aus Versehen.md",
     "1 - Source Material/Dictionary/Merkel-Raute.md",
     "1 - Source Material/Dictionary/Haltung.md",
-    "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
-    "6 - undefined/in jemandem.md",
-    "2 - Tags/Politik mit Anne Will.md",
-    "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
-    "4 - Main Notes/Un étudiant, une étudiante... @.md",
+    "Untitled/Untitled.md",
+    "Untitled",
     "4 - Main Notes/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
     "2 - Tags/DW Deutsch Lernen.md",
-    "3 - Indexes/German.md",
-    "5 - Templates/Blog, Article, Video.md",
-    "conflict-files-obsidian-git.md",
-    "5 - Templates/Toggle lists.md",
-    "2 - Tags/Grammaire essentielle A2.md",
-    "3 - Indexes/French.md",
-    "1 - Source Material/attachments/Pasted image 20250324175235.png",
-    "1 - Source Material/attachments/Pasted image 20250328184645.png",
-    "1 - Source Material/attachments/Piste 005.mp3",
-    "1 - Source Material/attachments/Pasted image 20250315105833.png",
-    "1 - Source Material/attachments/Pasted image 20250306215801.png",
-    "1 - Source Material/attachments/Pasted image 20250303181904.png",
-    "1 - Source Material/attachments/02 Piste 02 1.mp3",
-    "1 - Source Material/attachments/02 Piste 02.mp3",
-    "4 - Main Notes/Lesson 1 - Plan a Data Analytics Environment.md",
-    "1 - Source Material/attachments/Pasted image 20250328183754.png",
-    "1 - Source Material/attachments/Pasted image 20250315204731.png",
-    "1 - Source Material/attachments/Pasted image 20250315204126.png",
-    "1 - Source Material/attachments/03 Piste 03.mp3",
-    "1 - Source Material/attachments/01 Дорожка 1.wma",
     "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
-    "1 - Source Material/Other/Writing SMART goals.md",
-    "1 - Source Material/Other/Update domain.md",
-    "1 - Source Material/Other/Time of Flight Camera - Object Detection - AI Yolo 11.md",
-    "1 - Source Material/Other/Information Security Awareness Training 2024.md",
-    "1 - Source Material/Other/Fault isolation.md"
+    "3 - Indexes/German.md",
+    "6 - undefined/Untitled.md",
+    "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
+    "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
+    "4 - Main Notes/Lesson 1 - Plan a Data Analytics Environment.md",
+    "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
+    "4 - Main Notes/Un étudiant, une étudiante... @.md",
+    "4 - Main Notes/Registration and Agent installation @Udemy.md",
+    "4 - Main Notes/Reading & Writing 12.02.2025 - Le Xuan Huyen.md",
+    "4 - Main Notes/Mit Erfolg zu telc C1 Hochschule.md",
+    "4 - Main Notes/Präpositionen der geschriebenen Sprache @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/Leseverstehen, Teil 1 - Textrekonstruktion @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/L'état civil, la nationalité.md",
+    "4 - Main Notes/Indirekte Rede - Konjunktiv I @MitErfolgzutelcC1Hochschule.md",
+    "1 - Source Material/attachments/Piste 005.mp3",
+    "1 - Source Material/attachments/Pasted image 20250328184645.png",
+    "1 - Source Material/attachments/Pasted image 20250328183754.png",
+    "1 - Source Material/attachments/Pasted image 20250324175235.png",
+    "1 - Source Material/attachments/Pasted image 20250328230958.png",
+    "1 - Source Material/attachments/Pasted image 20250315204126.png",
+    "1 - Source Material/attachments/Pasted image 20250315110010.png",
+    "1 - Source Material/attachments/Pasted image 20250315105952.png",
+    "1 - Source Material/attachments/Pasted image 20250315105931.png",
+    "1 - Source Material/attachments/Pasted image 20250315105849.png",
+    "1 - Source Material/attachments/02 Piste 02.mp3",
+    "1 - Source Material/attachments/02 Piste 02 1.mp3",
+    "1 - Source Material/attachments/01 Дорожка 1.wma",
+    "1 - Source Material/attachments/03 Piste 03.mp3"
   ]
 }
