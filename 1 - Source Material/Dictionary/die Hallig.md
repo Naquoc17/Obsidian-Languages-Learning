@@ -1,0 +1,5 @@
+- Hallig [ˈhalɪç] Nomen (f.)	
+- Eine kleine, nicht [[die Eindeichung, eindeichen|eingedeichte]]  Insel in der Nordsee	
+- Hòn đảo nhỏ không có đê chắn sóng
+- Tidal island
+- Auf einer Hallig gibt es oft Sturmfluten.
