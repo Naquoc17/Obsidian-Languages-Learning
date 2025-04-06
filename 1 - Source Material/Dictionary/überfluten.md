@@ -1,0 +1,7 @@
+- überfluten [ʔyːbɐˈfluːtn̩]	Verb 
+- Etwas mit Wasser bedecken	
+- Ngập nước, lụt
+- To flood	
+- Bei Sturmflut wird die Hallig oft überflutet.	
+- Überflutung (Nomen: das Überschwemmen)	
+- flut- (aus „Flut“)

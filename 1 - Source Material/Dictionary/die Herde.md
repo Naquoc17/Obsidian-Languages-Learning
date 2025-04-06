@@ -1,0 +1,6 @@
+- Herde [ˈhɛʁdə] Nomen (f.) pl. Herden
+- Eine Gruppe von Tieren, die zusammenlebt
+- Đàn (động vật)
+- Herd
+- Die Schafherde zieht über die Wiese.
+- Herdentier (Tier, das in Gruppen lebt)

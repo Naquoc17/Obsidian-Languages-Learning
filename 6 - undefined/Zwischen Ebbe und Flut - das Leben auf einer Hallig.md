@@ -18,13 +18,13 @@ Tags: [[DW Deutsch Lernen]]
 Nachbarn gibt es keine, dafür viele Schafe und einen unbegrenzten Meerblick: Nele, Holger und ihre beiden Töchter leben auf der Hallig Süderoog, einer kleinen Insel vor der deutschen Nordseeküste. Wenn die Kinder zur Schule wollen, müssen sie mit dem Boot fahren. Und wenn die Flut kommt, muss die Familie im Haus bleiben. Trotz ihres einsamen Lebens fühlen sich die vier auf Süderoog wohl.
 
 *SPRECHER:*
-Ein Haus, eine Herde Schafe und ein 360-Grad-Blick auf die Nordsee: Viel mehr gibt es nicht auf der Hallig Süderoog, einer kleinen Insel in Norddeutschland. Und diese vier sind die Einzigen, die hier leben: Vater Holger, Mutter Nele und ihre Töchter Fenja und Ilvy.
+Ein Haus, eine [[die Herde|Herde]]  Schafe und [[ein Blick auf|ein]] 360-Grad-[[ein Blick auf|Blick auf]] die Nordsee: Viel mehr gibt es nicht auf der Hallig Süderoog, einer kleinen Insel in Norddeutschland. Und diese vier sind die Einzigen, die hier leben: Vater Holger, Mutter Nele und ihre Töchter Fenja und Ilvy.
 
 *NELE WREE (Inselbewohnerin):*
 Es ist schon ’n besonderes Leben. Es ist auch nicht immer leicht.
 
 *SPRECHER:*
-Süderoog liegt 140 Kilometer nördlich von Hamburg und ist eine von zehn Halligen: kleine Inseln ohne Deiche, die oft überflutet werden. Als Teil des nordfriesischen Wattenmeers gehört die Insel zum UNESCO-Weltnaturerbe und ist ein Vogelschutzgebiet.
+Süderoog liegt 140 Kilometer nördlich von Hamburg und ist eine von zehn Halligen: kleine Inseln ohne [[die Eindeichung, der Deich, eindeichen|Deiche]] , die oft [[überfluten|überflutet]]  werden. Als Teil des nordfriesischen [[das Wattenmeer|Wattenmeers]] gehört die Insel zum [[UNESCO-Weltnaturerbe]] und ist ein Vogelschutzgebiet.
 
 *NELE WREE:*
 Die Hallig Süderoog ist 60 Hektar groß, und man braucht so, ja, ’ne gute Stunde, wenn man einmal drum herum um die Kante laufen würde.

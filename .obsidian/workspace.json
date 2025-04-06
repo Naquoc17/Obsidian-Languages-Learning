@@ -13,54 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Indexes/German.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "German"
-            }
-          },
-          {
-            "id": "fdbd68b6ba6205aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Tags/DW Deutsch Lernen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DW Deutsch Lernen"
-            }
-          },
-          {
-            "id": "bed380226fbd5cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "6 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
                 "mode": "source",
                 "source": false,
@@ -78,9 +30,33 @@
               "icon": "lucide-file",
               "title": "Zwischen Ebbe und Flut - das Leben auf einer Hallig"
             }
+          },
+          {
+            "id": "169aa1879c7fc4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - undefined/UNESCO-Weltnaturerbe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UNESCO-Weltnaturerbe"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,19 +238,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bed380226fbd5cfd",
+  "active": "169aa1879c7fc4d8",
   "lastOpenFiles": [
-    "1 - Source Material/Dictionary/die Hallig.md",
-    "1 - Source Material/Dictionary/die Eindeichung, eindeichen.md",
+    "6 - undefined/UNESCO-Weltnaturerbe.md",
     "6 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
+    "1 - Source Material/Dictionary/das Wattenmeer.md",
+    "1 - Source Material/Dictionary/überfluten.md",
+    "1 - Source Material/Dictionary/die Eindeichung, der Deich, eindeichen.md",
+    "1 - Source Material/Dictionary/ein Blick auf.md",
+    "3 - Indexes/German.md",
+    "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
+    "2 - Tags/DW Deutsch Lernen.md",
+    "ein Blick auf etw./jdn..md",
+    "ein Blick auf etw.",
+    "1 - Source Material/Dictionary/die Herde.md",
+    "1 - Source Material/Dictionary/die Hallig.md",
     "1 - Source Material/Dictionary/die Flut.md",
     "1 - Source Material/Dictionary/die Ebbe.md",
     "1 - Source Material/Dictionary/die Gezeit.md",
-    "2 - Tags/DW Deutsch Lernen.md",
     "4 - Main Notes/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
-    "3 - Indexes/German.md",
     "5 - Templates/Book.md",
-    "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
     "6 - undefined",
     "5 - Templates/Blog, Article, Video.md",
     "2 - Tags/Politik mit Anne Will.md",
@@ -287,12 +270,6 @@
     "Untitled/Untitled.md",
     "Untitled",
     "6 - undefined/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
-    "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
-    "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
-    "4 - Main Notes/Lesson 1 - Plan a Data Analytics Environment.md",
-    "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
-    "4 - Main Notes/Un étudiant, une étudiante... @.md",
-    "4 - Main Notes/Registration and Agent installation @Udemy.md",
     "1 - Source Material/attachments/Piste 005.mp3",
     "1 - Source Material/attachments/Pasted image 20250328184645.png",
     "1 - Source Material/attachments/Pasted image 20250328183754.png",

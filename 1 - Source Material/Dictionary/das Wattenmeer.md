@@ -1,0 +1,6 @@
+- Wattenmeer [ˈvatn̩ˌmeːɐ̯] Nomen (n.)
+- Der Küstenbereich, der bei Ebbe trockenfällt
+- Biển bùn lầy (do thủy triều)
+- Wadden Sea
+- Das Wattenmeer ist ein einzigartiges Ökosystem.
+- Wattwanderung (Spaziergang durch das Watt)
