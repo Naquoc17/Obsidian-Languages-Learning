@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9997879f0007f92a",
+        "id": "6b8bcecbfabc54b1",
         "type": "tabs",
         "children": [
           {
-            "id": "aab5526d1a53aaa1",
+            "id": "fe79527cd8c78d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Indexes/English.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "English"
-            }
-          },
-          {
-            "id": "b258fd1111a095f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Tags/An Official Cambridge Ielts Course - Mindset for Ielts.md",
+                "file": "4 - Main Notes/Un étudiant, une étudiante... @.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "An Official Cambridge Ielts Course - Mindset for Ielts"
-            }
-          },
-          {
-            "id": "c8e95816ede9a25b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - undefined/Unit 1 - The Natural World.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unit 1 - The Natural World"
+              "title": "Un étudiant, une étudiante... @"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,34 +204,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8e95816ede9a25b",
+  "active": "fe79527cd8c78d0f",
   "lastOpenFiles": [
-    "6 - undefined/Compared to or Comparing to @Grammar.md",
-    "6 - undefined/1 Saludos y presentaciones.md",
     "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
-    "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
-    "1 - Source Material/Other/Reading & Writing 12.02.2025 - Le Xuan Huyen.md",
-    "4 - Main Notes/Un étudiant, une étudiante... @.md",
-    "4 - Main Notes/Präpositionen der geschriebenen Sprache @MitErfolgzutelcC1Hochschule.md",
-    "4 - Main Notes/Mit Erfolg zu telc C1 Hochschule.md",
-    "4 - Main Notes/Leseverstehen, Teil 1 - Textrekonstruktion @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/Deutsch im Thema Konsum.md",
+    "4 - Main Notes/Indirekte Rede - Konjunktiv I @MitErfolgzutelcC1Hochschule.md",
     "4 - Main Notes/L'état civil, la nationalité.md",
     "4 - Main Notes/A - Urlaub mal anders.md",
-    "4 - Main Notes/Deutsch im Thema Konsum.md",
-    "3 - Indexes/English.md",
-    "2 - Tags/An Official Cambridge Ielts Course - Mindset for Ielts.md",
-    "4 - Main Notes/Adverbial clauses of time @AGiU.md",
-    "4 - Main Notes/A1 - Auf Sommerfrische.md",
-    "1 - Source Material/Articles, Blogs/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
-    "4 - Main Notes/Indirekte Rede - Konjunktiv I @MitErfolgzutelcC1Hochschule.md",
-    "1 - Source Material/Dictionary/el apellido.md",
-    "6 - undefined/Unit 1 - The Natural World.md",
-    "2 - Tags/Essential Words for The IETLS.md",
-    "2 - Tags/English Grammar.md",
+    "3 - Indexes/German.md",
+    "2 - Tags/Mit Erfolg zu telc C1 Hochschule.md",
+    "2 - Tags/Training Hörverstehen UNI SICHER! 2.md",
+    "1 - Source Material/Dictionary/UNESCO-Weltnaturerbe.md",
+    "4 - Main Notes/Hörverstehen, Teil 1 - Globalverstehen @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/Un étudiant, une étudiante... @.md",
+    "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
+    "6 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
     "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
     "6 - undefined/Unite 1 - C'est la vie @EditoA2.md",
-    "1 - Source Material/Dictionary/secundaria.md",
-    "1 - Source Material/Dictionary/actriz.md",
+    "6 - undefined/Unit 1 - The Natural World.md",
+    "6 - undefined/Compared to or Comparing to @Grammar.md",
+    "6 - undefined/1 Saludos y presentaciones.md",
+    "1 - Source Material/Dictionary/vanish.md",
+    "1 - Source Material/Dictionary/aquatic.md",
+    "1 - Source Material/Dictionary/logging.md",
+    "3 - Indexes/English.md",
+    "2 - Tags/An Official Cambridge Ielts Course - Mindset for Ielts.md",
+    "1 - Source Material/Dictionary/swath.md",
+    "1 - Source Material/Dictionary/to span.md",
+    "1 - Source Material/Dictionary/terrestrial.md",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
     "1 - Source Material/attachments/Pasted image 20250328230958.png",
     "2 - Source Material/attachments",
