@@ -116,7 +116,6 @@ Le passé composé = être/ avoir + **le participe passé** du verbe
 		- Elle n'a rien vu
 
 
-
 # Pronunciation
 
 - il
