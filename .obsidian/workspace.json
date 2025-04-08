@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Unite 1 - C'est la vie @EditoA2"
             }
+          },
+          {
+            "id": "378a535b55bf99fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,8 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0f3bbe4d938f96f",
+  "active": "378a535b55bf99fb",
   "lastOpenFiles": [
+    "6 - undefined/Unite 1 - C'est la vie @EditoA2.md",
+    "conflict-files-obsidian-git.md",
     "6 - undefined/Unit 1 - The Natural World.md",
     "6 - undefined/Compared to or Comparing to @Grammar.md",
     "6 - undefined/1 Saludos y presentaciones.md",
@@ -221,7 +248,6 @@
     "4 - Main Notes/Präpositionen der geschriebenen Sprache @MitErfolgzutelcC1Hochschule.md",
     "4 - Main Notes/Un étudiant, une étudiante... @.md",
     "3 - Indexes/English.md",
-    "6 - undefined/Unite 1 - C'est la vie @EditoA2.md",
     "1 - Source Material/Dictionary/faire les courses.md",
     "3 - Indexes/Spanish.md",
     "3 - Indexes/German.md",
@@ -231,7 +257,6 @@
     "2 - Tags/Training Hörverstehen UNI SICHER! 2.md",
     "1 - Source Material/Dictionary/UNESCO-Weltnaturerbe.md",
     "6 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
-    "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
     "1 - Source Material/attachments/Pasted image 20250328230958.png",
     "2 - Source Material/attachments",
