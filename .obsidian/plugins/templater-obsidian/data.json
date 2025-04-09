@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "5 - Templates",
+  "templates_folder": "1 - Source Material/templates",
   "templates_pairs": [
     [
       "",
@@ -34,5 +34,6 @@
   "startup_templates": [
     "5 - Templates/Basic.md",
     "5 - Templates/Documentation.md"
-  ]
+  ],
+  "intellisense_render": 1
 }

@@ -11,10 +11,24 @@
             "id": "3b9ae5399b774253",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -208,9 +222,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06d44a5d778ce14e",
+  "active": "0d007a562a9d2845",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "5 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
+    "5 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
+    "5 - undefined/Unite 2 -  Souvenirs, souvenirs.md",
+    "5 - undefined/Unite 1 - C'est la vie.md",
+    "5 - undefined/1 Saludos y presentaciones.md",
+    "5 - undefined/Unit 1 - The Natural World.md",
+    "5 - undefined",
+    "1 - Source Material/templates/Toggle lists.md",
+    "1 - Source Material/templates/Internal Link.md",
+    "1 - Source Material/templates/Exercise.md",
+    "1 - Source Material/templates/Documentation.md",
+    "1 - Source Material/templates/Daily.md",
+    "1 - Source Material/templates/Course.md",
+    "1 - Source Material/templates/Contact.md",
+    "1 - Source Material/templates/Book.md",
+    "1 - Source Material/templates/Blog, Article, Video.md",
+    "1 - Source Material/templates/Basic.md",
+    "1 - Source Material/templates",
+    "1 - Source Material/attachments/Pasted image 20250409203624.png",
+    "1 - Source Material/attachments/Pasted image 20250409203234.png",
+    "0 - Tutorials/Tutorial 1 - Structure of notes.md",
+    "0 - Tutorials/Tutorial 2 - Shortcuts.md",
+    "0 - Tutorials",
     "6 - undefined/Testing.md",
     "1 - Source Material/Dictionary/un masque.md",
     "1 - Source Material/Dictionary/le carnaval.md",
@@ -220,24 +257,6 @@
     "6 - undefined/se deroule.md",
     "6 - undefined/le carnaval.md",
     "4 - Main Notes/Un étudiant, une étudiante... @.md",
-    "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
-    "4 - Main Notes/Deutsch im Thema Konsum.md",
-    "4 - Main Notes/Indirekte Rede - Konjunktiv I @MitErfolgzutelcC1Hochschule.md",
-    "4 - Main Notes/L'état civil, la nationalité.md",
-    "4 - Main Notes/A - Urlaub mal anders.md",
-    "3 - Indexes/German.md",
-    "2 - Tags/Mit Erfolg zu telc C1 Hochschule.md",
-    "2 - Tags/Training Hörverstehen UNI SICHER! 2.md",
-    "1 - Source Material/Dictionary/UNESCO-Weltnaturerbe.md",
-    "4 - Main Notes/Hörverstehen, Teil 1 - Globalverstehen @MitErfolgzutelcC1Hochschule.md",
-    "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
-    "6 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
-    "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
-    "6 - undefined/Unite 1 - C'est la vie @EditoA2.md",
-    "6 - undefined/Unit 1 - The Natural World.md",
-    "6 - undefined/Compared to or Comparing to @Grammar.md",
-    "6 - undefined/1 Saludos y presentaciones.md",
-    "1 - Source Material/Dictionary/vanish.md",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
     "1 - Source Material/attachments/Pasted image 20250328230958.png",
     "2 - Source Material/attachments",
@@ -247,10 +266,8 @@
     "1 - Source Material/attachments/Piste 005.mp3",
     "1 - Source Material/attachments/Pasted image 20250315105833.png",
     "1 - Source Material/attachments/Pasted image 20250306215801.png",
-    "1 - Source Material/attachments/Pasted image 20250303181904.png",
     "1 - Source Material/attachments/02 Piste 02 1.mp3",
     "1 - Source Material/attachments/02 Piste 02.mp3",
-    "1 - Source Material/attachments/Pasted image 20250328183754.png",
     "1 - Source Material/attachments/03 Piste 03.mp3",
     "1 - Source Material/attachments/01 Дорожка 1.wma"
   ]
