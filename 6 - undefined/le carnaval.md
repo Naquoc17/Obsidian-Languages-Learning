@@ -1,8 +1,8 @@
 
-- le carnaval	/kaʁ.na.val/	nom masculin	
-- Fête avec des défilés, danses, et costumes	
-- lễ hội hóa trang	
+- le carnaval	[lə kaʁ.na.val]	nom masculin	
+- Fête costumée avec des défilés	
+- Lễ hội hóa trang với diễu hành	
 - carnival	
-- Le carnaval de Kafountine est célèbre.	
-- carnavalesque (adj. – thuộc lễ hội hóa trang)	
-- carne (meat)
+- Le carnaval a lieu chaque année en février.	
+- carnavalesque (adj.) – de carnaval	
+- carne (viande), levare (enlever)
