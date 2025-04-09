@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - undefined/Testing.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - undefined/Testing.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Testing"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -225,14 +225,16 @@
   },
   "active": "3388a82c620c0570",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "6 - undefined/Testing.md",
+    "1 - Source Material/Dictionary/un masque.md",
+    "1 - Source Material/Dictionary/le carnaval.md",
     "1 - Source Material/attachments/Pasted image 20250409090919.png",
     "1 - Source Material/attachments/Pasted image 20250409090910.png",
     "1 - Source Material/Other/Compared to or Comparing to @Grammar.md",
-    "6 - undefined/Testing.md",
     "6 - undefined/se deroule.md",
     "6 - undefined/le carnaval.md",
     "4 - Main Notes/Un étudiant, une étudiante... @.md",
-    "conflict-files-obsidian-git.md",
     "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
     "4 - Main Notes/Deutsch im Thema Konsum.md",
     "4 - Main Notes/Indirekte Rede - Konjunktiv I @MitErfolgzutelcC1Hochschule.md",
@@ -251,7 +253,6 @@
     "6 - undefined/Compared to or Comparing to @Grammar.md",
     "6 - undefined/1 Saludos y presentaciones.md",
     "1 - Source Material/Dictionary/vanish.md",
-    "1 - Source Material/Dictionary/aquatic.md",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
     "1 - Source Material/attachments/Pasted image 20250328230958.png",
     "2 - Source Material/attachments",
@@ -265,7 +266,6 @@
     "1 - Source Material/attachments/02 Piste 02 1.mp3",
     "1 - Source Material/attachments/02 Piste 02.mp3",
     "1 - Source Material/attachments/Pasted image 20250328183754.png",
-    "1 - Source Material/attachments/Pasted image 20250315204731.png",
     "1 - Source Material/attachments/03 Piste 03.mp3",
     "1 - Source Material/attachments/01 Дорожка 1.wma"
   ]
