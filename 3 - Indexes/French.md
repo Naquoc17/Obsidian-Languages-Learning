@@ -7,18 +7,24 @@ Tags:
 
 # French
 
-## Grammaire
+## Articles, Blogs, News
 
-### [[Grammaire essentielle A2]]
+## Books
 
-### [[Grammaire on dialogue]]
+### Grammaire
+
+#### [[Grammaire essentielle A2]]
+
+#### [[Grammaire on dialogue]]
+
+### Edito
+#### [[Edito A1]]
 
 
-## Edito
-
-### [[Edito A1]]
+## Podcasts
 
 
+## Videos
 
 
 

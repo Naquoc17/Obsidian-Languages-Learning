@@ -16,7 +16,9 @@ Tags: [[French]]
 
 # Edito A2
 
-## [[Unite 1 - C'est la vie @EditoA2]]
+## [[Unite 1 - C'est la vie]]
+
+## [[Unite 2 -  Souvenirs, souvenirs]]
 
 
 
