@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6b8bcecbfabc54b1",
+        "id": "16e35382f8d61d56",
         "type": "tabs",
         "children": [
           {
-            "id": "fe79527cd8c78d0f",
+            "id": "3388a82c620c0570",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "6 - undefined/se deroule.md",
-                "bFile": "6 - undefined/se deroule.md",
-                "aRef": "6d2fbb598934880b83a9381a0786813def6deac5^",
-                "bRef": "6d2fbb598934880b83a9381a0786813def6deac5"
+                "file": "6 - undefined/Testing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: se deroule"
+              "icon": "lucide-file",
+              "title": "Testing"
             }
           }
         ]
@@ -143,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
+                "file": "6 - undefined/Testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unite 1 - C'est la vie @EditoA2"
+              "title": "Outline of Testing"
             }
           },
           {
@@ -214,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe79527cd8c78d0f",
+  "active": "3388a82c620c0570",
   "lastOpenFiles": [
+    "6 - undefined/Testing.md",
     "6 - undefined/se deroule.md",
     "6 - undefined/le carnaval.md",
     "4 - Main Notes/Un étudiant, une étudiante... @.md",
@@ -241,7 +251,6 @@
     "1 - Source Material/Dictionary/aquatic.md",
     "1 - Source Material/Dictionary/logging.md",
     "3 - Indexes/English.md",
-    "2 - Tags/An Official Cambridge Ielts Course - Mindset for Ielts.md",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
     "1 - Source Material/attachments/Pasted image 20250328230958.png",
     "2 - Source Material/attachments",
