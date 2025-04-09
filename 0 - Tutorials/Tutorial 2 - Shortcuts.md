@@ -17,11 +17,11 @@ modification date: `$= dv.current().file.mtime`
 
 ## Thao tác khi viết note
 
-| Syntax                                | Example                                            | Explanation                                        | Shortcuts        |
-| ------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------- |
-| `[[<note title>]]`                    | `[[Tutorial 1 - Structure of notes]]`              | Liên kết đến 1 note (có sẵn hoặc không có sẵn)     | alt + K          |
-| `[[<note title>\|<displaying text>]]` | `[[Tutorial 1 - Structure of notes\|Hướng dẫn 1]]` | Liên kế đến 1 note nhưng hiển thị với một tên khác | ctrl + shift + K |
-|                                       |                                                    |                                                    |                  |
+| Syntax                                | Example                                          | Explanation                                        | Shortcuts        |
+| ------------------------------------- | ------------------------------------------------ | -------------------------------------------------- | ---------------- |
+| `[[<note title>]]`                    | [[Tutorial 1 - Structure of notes]]              | Liên kết đến 1 note (có sẵn hoặc không có sẵn)     | alt + K          |
+| `[[<note title>\|<displaying text>]]` | [[Tutorial 1 - Structure of notes\|Hướng dẫn 1]] | Liên kế đến 1 note nhưng hiển thị với một tên khác | ctrl + shift + K |
+|                                       |                                                  |                                                    |                  |
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Tutorials/Tutorial 3 - Conflict files obsidian git.md",
+                "file": "0 - Tutorials/Tutorial 2 - Shortcuts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tutorial 3 - Conflict files obsidian git"
+              "title": "Tutorial 2 - Shortcuts"
             }
           }
         ]
@@ -214,19 +214,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06e7a0042779b081",
+  "active": "06d44a5d778ce14e",
   "lastOpenFiles": [
+    "0 - Tutorials/Tutorial 1 - Structure of notes.md",
+    "0 - Tutorials/Tutorial 2 - Shortcuts.md",
+    "0 - Tutorials/Tutorial 3 - Conflict files obsidian git.md",
     "1 - Source Material/attachments/Pasted image 20250409225120.png",
     "5 - undefined/Testing 60min.md",
     "conflict-files-obsidian-git.md",
-    "0 - Tutorials/Tutorial 3 - Conflict files obsidian git.md",
     "1 - Source Material/attachments/Pasted image 20250409225037.png",
     "tutorial-obsidian.drawio",
     "5 - undefined/Unit 1 - The Natural World.md",
     "1 - Source Material/attachments/Pasted image 20250306220657.png",
     "1 - Source Material/attachments/03 Piste 03.mp3",
-    "0 - Tutorials/Tutorial 1 - Structure of notes.md",
-    "0 - Tutorials/Tutorial 2 - Shortcuts.md",
     "1 - Source Material/attachments/tutorial-obsidian 2.drawio",
     "1 - Source Material/attachments/tutorial-obsidian 1.drawio",
     "1 - Source Material/attachments/tutorial-obsidian.drawio",
@@ -259,7 +259,6 @@
     "1 - Source Material/attachments/Pasted image 20250328230958.png",
     "2 - Source Material/attachments",
     "2 - Source Material",
-    "1 - Source Material/attachments/Pasted image 20250324175235.png",
     "1 - Source Material/attachments/Piste 005.mp3",
     "1 - Source Material/attachments/02 Piste 02 1.mp3"
   ]

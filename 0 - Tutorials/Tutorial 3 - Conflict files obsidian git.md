@@ -12,22 +12,8 @@ modification date: `$= dv.current().file.mtime`
 - Hãy làm theo thứ tự các bước sau:
 	- Nhấn tổ hợp phím `Ctrl + P`
 	- Tìm và chọn `Git: commit all changes`
-	- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	- Tiếp tục nhấn tổ hợp phím `Ctrl + P`
+	- Tìm và chọn `Git: Push`
+- Vậy là xong!
 
 # References
