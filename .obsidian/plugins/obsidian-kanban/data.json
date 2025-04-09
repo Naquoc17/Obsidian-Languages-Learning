@@ -1,0 +1,22 @@
+{
+  "new-note-folder": "5 - undefined",
+  "tag-colors": [
+    {
+      "tagKey": "#anhquoc",
+      "color": "",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#dinhluat",
+      "color": "",
+      "backgroundColor": "rgba(15, 162, 155, 1)"
+    },
+    {
+      "tagKey": "#kimanh",
+      "color": "",
+      "backgroundColor": "rgba(211, 135, 151, 1)"
+    }
+  ],
+  "new-note-template": "1 - Source Material/templates/Basic.md",
+  "show-checkboxes": false
+}
