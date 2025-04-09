@@ -60,9 +60,10 @@ modification date: `$= dv.current().file.mtime`
 ## 4 - Main notes
 
 - Sẽ có một vài note sinh ra trong quá trình làm việc vì vậy những note sẽ được lưu vào hàng chờ cho đến khi được chuyển vào nhóm 6 để thực hiện
-- Nói cách khác nhóm 4 chính là nhóm note chưa được thực hiện cho đến khi chuyển vào nhóm 6 để làm việc
+- Nói cách khác, nhóm 4 chính là nhóm note chưa được thực hiện cho đến khi chuyển vào nhóm 6 để bắt đầu làm việc
 
-![[Pasted image 20250409203624.png]]
+
+![[Pasted image 20250409211441.png]]
 
 
 # References

@@ -11,10 +11,24 @@
             "id": "6b7abb7d89ee018c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -208,9 +222,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06d44a5d778ce14e",
+  "active": "0d007a562a9d2845",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "1 - Source Material/attachments/Pasted image 20250409225120.png",
+    "1 - Source Material/attachments/Pasted image 20250409225037.png",
+    "1 - Source Material/attachments/Pasted image 20250409211441.png",
+    "0 - Tutorials/Tutorial 3 - Conflict files obsidian git.md",
     "5 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
     "5 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
     "5 - undefined/Unite 2 -  Souvenirs, souvenirs.md",
@@ -241,17 +259,12 @@
     "1 - Source Material/attachments/Pasted image 20250409090910.png",
     "1 - Source Material/Other/Compared to or Comparing to @Grammar.md",
     "6 - undefined/se deroule.md",
-    "6 - undefined/le carnaval.md",
-    "4 - Main Notes/Un étudiant, une étudiante... @.md",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
     "1 - Source Material/attachments/Pasted image 20250328230958.png",
     "2 - Source Material/attachments",
     "2 - Source Material",
     "1 - Source Material/attachments/Pasted image 20250324175235.png",
-    "1 - Source Material/attachments/Pasted image 20250328184645.png",
     "1 - Source Material/attachments/Piste 005.mp3",
-    "1 - Source Material/attachments/Pasted image 20250315105833.png",
-    "1 - Source Material/attachments/Pasted image 20250306215801.png",
     "1 - Source Material/attachments/02 Piste 02 1.mp3",
     "1 - Source Material/attachments/02 Piste 02.mp3",
     "1 - Source Material/attachments/03 Piste 03.mp3",

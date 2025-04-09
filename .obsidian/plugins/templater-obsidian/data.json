@@ -32,8 +32,8 @@
     "5 - Templates/Internal Link.md"
   ],
   "startup_templates": [
-    "5 - Templates/Basic.md",
-    "5 - Templates/Documentation.md"
+    "1 - Source Material/templates/Basic.md",
+    "1 - Source Material/templates/Documentation.md"
   ],
   "intellisense_render": 1
 }
