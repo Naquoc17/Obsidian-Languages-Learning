@@ -29,7 +29,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "5 - Templates/Internal Link.md"
+    "1 - Source Material/templates/Internal Link.md"
   ],
   "startup_templates": [
     "1 - Source Material/templates/Basic.md",
