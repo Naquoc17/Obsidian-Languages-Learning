@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d4263d7aad7a7ca0",
+        "id": "08e1475419137334",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f4392b934c1f60",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "6 - undefined/se deroule.md",
-                "bFile": "6 - undefined/se deroule.md",
-                "aRef": "7f94efcf83482c6a55ced20cdc2809eec4c1858b^",
-                "bRef": "7f94efcf83482c6a55ced20cdc2809eec4c1858b"
-              },
-              "icon": "diff",
-              "title": "Diff: se deroule"
-            }
-          },
-          {
-            "id": "3985874e3446ef6a",
+            "id": "e1efa1f928339e63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - undefined/le carnaval.md",
+                "file": "1 - Source Material/Dictionary/un masque.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "le carnaval"
-            }
-          },
-          {
-            "id": "6e8e696734bda258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "un masque"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,11 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e8e696734bda258",
+  "active": "e1efa1f928339e63",
   "lastOpenFiles": [
-    "6 - undefined/le carnaval.md",
+    "1 - Source Material/Dictionary/le carnaval.md",
+    "1 - Source Material/Dictionary/un masque.md",
     "conflict-files-obsidian-git.md",
-    "6 - undefined/Testing.md",
     "1 - Source Material/attachments/Pasted image 20250409090919.png",
     "1 - Source Material/attachments/Pasted image 20250409090910.png",
     "6 - undefined/Unite 1 - C'est la vie @EditoA2.md",
