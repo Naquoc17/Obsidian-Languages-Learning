@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Unite 1 - C'est la vie @EditoA2"
             }
+          },
+          {
+            "id": "8f1f43675dfb34a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,11 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b01dd406eadf3edb",
+  "active": "0d007a562a9d2845",
   "lastOpenFiles": [
+    "6 - undefined/Unite 1 - C'est la vie @EditoA2.md",
+    "conflict-files-obsidian-git.md",
     "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
     "6 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
-    "6 - undefined/Unite 1 - C'est la vie @EditoA2.md",
     "6 - undefined/Unit 1 - The Natural World.md",
     "6 - undefined/1 Saludos y presentaciones.md",
     "2 - Tags/An Official Cambridge Ielts Course - Mindset for Ielts.md",
@@ -241,7 +267,6 @@
     "2 - Tags/Edito A1.md",
     "2 - Tags/Aspekte neu B2.md",
     "4 - Main Notes/Adverbial clauses of time @AGiU.md",
-    "4 - Main Notes/Deutsch im Thema Konsum.md",
     "1 - Source Material/attachments/Pasted image 20250409090919.png",
     "1 - Source Material/attachments/Pasted image 20250409090910.png",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
