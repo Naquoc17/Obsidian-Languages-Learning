@@ -11,13 +11,34 @@
             "id": "a2f4392b934c1f60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "6 - undefined/se deroule.md",
+                "bFile": "6 - undefined/se deroule.md",
+                "aRef": "7f94efcf83482c6a55ced20cdc2809eec4c1858b^",
+                "bRef": "7f94efcf83482c6a55ced20cdc2809eec4c1858b"
+              },
+              "icon": "diff",
+              "title": "Diff: se deroule"
+            }
+          },
+          {
+            "id": "3985874e3446ef6a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "6 - undefined/se deroule.md",
+                "bFile": "6 - undefined/se deroule.md",
+                "aRef": "7f94efcf83482c6a55ced20cdc2809eec4c1858b^",
+                "bRef": "7f94efcf83482c6a55ced20cdc2809eec4c1858b"
+              },
+              "icon": "diff",
+              "title": "Diff: se deroule"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +220,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2f4392b934c1f60",
+  "active": "3985874e3446ef6a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "6 - undefined/le carnaval.md",
     "1 - Source Material/attachments/Pasted image 20250409090919.png",
     "1 - Source Material/attachments/Pasted image 20250409090910.png",
@@ -226,7 +248,6 @@
     "1 - Source Material/Dictionary/jusque jusqu'à ce que jusqu'ici.md",
     "1 - Source Material/Dictionary/grandir grand agrandir.md",
     "2 - Tags/Edito A2.md",
-    "conflict-files-obsidian-git.md",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
     "1 - Source Material/attachments/Pasted image 20250328230958.png",
     "2 - Source Material/attachments",
