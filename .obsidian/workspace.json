@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9ed35a530ccaa3",
+        "id": "6c520acff601e777",
         "type": "tabs",
         "children": [
           {
-            "id": "8629da170ba15987",
+            "id": "06e7a0042779b081",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0 - Tutorials/Tutorial 2 - Shortcuts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tutorial 2 - Shortcuts"
             }
           }
         ]
@@ -138,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Unite 1 - C'est la vie @EditoA2"
             }
           },
           {
@@ -167,17 +182,7 @@
             }
           },
           {
-            "id": "ea83fb826f8aca71",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "9b9c7670b2b086e1",
+            "id": "b2875c691c5a49e1",
             "type": "leaf",
             "state": {
               "type": "git-history-view",
@@ -187,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -208,52 +213,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d007a562a9d2845",
+  "active": "fd246c96d2d3a65c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "1 - Source Material/attachments/Pasted image 20250409225120.png",
-    "1 - Source Material/attachments/Pasted image 20250409225037.png",
-    "1 - Source Material/attachments/Pasted image 20250409211441.png",
-    "0 - Tutorials/Tutorial 3 - Conflict files obsidian git.md",
-    "5 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
-    "5 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
-    "5 - undefined/Unite 2 -  Souvenirs, souvenirs.md",
-    "5 - undefined/Unite 1 - C'est la vie.md",
-    "5 - undefined/1 Saludos y presentaciones.md",
-    "5 - undefined/Unit 1 - The Natural World.md",
-    "5 - undefined",
-    "1 - Source Material/templates/Toggle lists.md",
-    "1 - Source Material/templates/Internal Link.md",
-    "1 - Source Material/templates/Exercise.md",
-    "1 - Source Material/templates/Documentation.md",
-    "1 - Source Material/templates/Daily.md",
-    "1 - Source Material/templates/Course.md",
-    "1 - Source Material/templates/Contact.md",
-    "1 - Source Material/templates/Book.md",
-    "1 - Source Material/templates/Blog, Article, Video.md",
-    "1 - Source Material/templates/Basic.md",
-    "1 - Source Material/templates",
-    "1 - Source Material/attachments/Pasted image 20250409203624.png",
-    "1 - Source Material/attachments/Pasted image 20250409203234.png",
     "0 - Tutorials/Tutorial 1 - Structure of notes.md",
     "0 - Tutorials/Tutorial 2 - Shortcuts.md",
+    "0 - Tutorials/Tutorial 3 - Conflict files obsidian git.md",
+    "1 - Source Material/attachments/Pasted image 20250409225120.png",
+    "5 - undefined/Testing 60min.md",
+    "conflict-files-obsidian-git.md",
+    "1 - Source Material/attachments/Pasted image 20250409225037.png",
+    "tutorial-obsidian.drawio",
+    "5 - undefined/Unit 1 - The Natural World.md",
+    "1 - Source Material/attachments/Pasted image 20250306220657.png",
+    "1 - Source Material/attachments/03 Piste 03.mp3",
+    "1 - Source Material/attachments/tutorial-obsidian 2.drawio",
+    "1 - Source Material/attachments/tutorial-obsidian 1.drawio",
+    "1 - Source Material/attachments/tutorial-obsidian.drawio",
+    "5 - undefined/Unite 2 -  Souvenirs, souvenirs.md",
+    "5 - undefined/Unite 1 - C'est la vie.md",
+    "1 - Source Material/attachments/Pasted image 20250409211441.png",
+    "5 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
+    "5 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
+    "5 - undefined/1 Saludos y presentaciones.md",
+    "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
+    "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
+    "4 - Main Notes/Un étudiant, une étudiante... @.md",
+    "4 - Main Notes/Präpositionen der geschriebenen Sprache @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/Leseverstehen, Teil 1 - Textrekonstruktion @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/L'état civil, la nationalité.md",
+    "4 - Main Notes/Indirekte Rede - Konjunktiv I @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/Hörverstehen, Teil 1 - Globalverstehen @MitErfolgzutelcC1Hochschule.md",
+    "4 - Main Notes/Deutsch im Thema Konsum.md",
+    "4 - Main Notes/Adverbial clauses of time @AGiU.md",
+    "3 - Indexes/Spanish.md",
+    "3 - Indexes/German.md",
+    "3 - Indexes/French.md",
+    "3 - Indexes/English.md",
+    "1 - Source Material/attachments/Pasted image 20250409203624.png",
+    "1 - Source Material/attachments/Pasted image 20250409203234.png",
     "0 - Tutorials",
-    "6 - undefined/Testing.md",
-    "1 - Source Material/Dictionary/un masque.md",
-    "1 - Source Material/Dictionary/le carnaval.md",
     "1 - Source Material/attachments/Pasted image 20250409090919.png",
     "1 - Source Material/attachments/Pasted image 20250409090910.png",
-    "1 - Source Material/Other/Compared to or Comparing to @Grammar.md",
-    "6 - undefined/se deroule.md",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
     "1 - Source Material/attachments/Pasted image 20250328230958.png",
     "2 - Source Material/attachments",
     "2 - Source Material",
-    "1 - Source Material/attachments/Pasted image 20250324175235.png",
     "1 - Source Material/attachments/Piste 005.mp3",
-    "1 - Source Material/attachments/02 Piste 02 1.mp3",
-    "1 - Source Material/attachments/02 Piste 02.mp3",
-    "1 - Source Material/attachments/03 Piste 03.mp3",
-    "1 - Source Material/attachments/01 Дорожка 1.wma"
+    "1 - Source Material/attachments/02 Piste 02 1.mp3"
   ]
 }
