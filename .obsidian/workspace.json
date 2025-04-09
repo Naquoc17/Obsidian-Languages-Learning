@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Main Notes/Un étudiant, une étudiante... @.md",
+                "file": "6 - undefined/se deroule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Un étudiant, une étudiante... @"
-            }
-          },
-          {
-            "id": "3a166097ea2de350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "se deroule"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,12 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a166097ea2de350",
+  "active": "06d44a5d778ce14e",
   "lastOpenFiles": [
+    "6 - undefined/le carnaval.md",
     "4 - Main Notes/Un étudiant, une étudiante... @.md",
     "conflict-files-obsidian-git.md",
     "6 - undefined/se deroule.md",
-    "6 - undefined/le carnaval.md",
     "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
     "4 - Main Notes/Deutsch im Thema Konsum.md",
     "4 - Main Notes/Indirekte Rede - Konjunktiv I @MitErfolgzutelcC1Hochschule.md",
