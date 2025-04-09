@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "16e35382f8d61d56",
+        "id": "2b4fea2086aeb92b",
         "type": "tabs",
         "children": [
           {
-            "id": "3388a82c620c0570",
+            "id": "3b9ae5399b774253",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -152,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline"
             }
           },
           {
@@ -177,8 +162,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -202,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -223,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3388a82c620c0570",
+  "active": "06d44a5d778ce14e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "6 - undefined/Testing.md",
