@@ -1,14 +1,14 @@
 ---
-creation date: <% tp.file.creation_date() %>
+creation date: 2025-04-09 20:51
 ---
 
 Status: #baby 
 
 Tags: [[Daily diary]]
 
-<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] >>
+<< [[2025-04-08]] | [[2025-04-10]] >>
 
-# <% tp.file.title %>
+# Zwischen Ebbe und Flut - das Leben auf einer Hallig
 
 
 

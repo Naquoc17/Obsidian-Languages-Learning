@@ -3,7 +3,7 @@ type: documentation
 languages: 
 product: 
 source:
-creation date: <% tp.file.creation_date("YYYY-MM-DD") %>
+creation date: 2025-04-09
 ---
 alias: [[]]
 modification date: `$= dv.current().file.mtime`
@@ -12,7 +12,7 @@ Status: #baby
 
 Tags: [[]]
 
-# <% tp.file.title %>
+# Zwischen Ebbe und Flut - das Leben auf einer Hallig
 
 
 

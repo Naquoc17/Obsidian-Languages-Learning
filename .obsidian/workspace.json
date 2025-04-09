@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b388955c18716251",
+            "id": "06e7a0042779b081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - undefined/Testing 60min.md",
+                "file": "0 - Tutorials/Tutorial 3 - Conflict files obsidian git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Testing 60min"
+              "title": "Tutorial 3 - Conflict files obsidian git"
             }
           }
         ]
@@ -214,9 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b388955c18716251",
+  "active": "06e7a0042779b081",
   "lastOpenFiles": [
+    "1 - Source Material/attachments/Pasted image 20250409225120.png",
     "5 - undefined/Testing 60min.md",
+    "conflict-files-obsidian-git.md",
+    "0 - Tutorials/Tutorial 3 - Conflict files obsidian git.md",
+    "1 - Source Material/attachments/Pasted image 20250409225037.png",
     "tutorial-obsidian.drawio",
     "5 - undefined/Unit 1 - The Natural World.md",
     "1 - Source Material/attachments/Pasted image 20250306220657.png",
@@ -246,9 +250,6 @@
     "3 - Indexes/German.md",
     "3 - Indexes/French.md",
     "3 - Indexes/English.md",
-    "2 - Tags/Vocabulaire essentiel A1 - A2.md",
-    "2 - Tags/Unite 1 - Et vous @EditoA1.md",
-    "2 - Tags/Training Hörverstehen UNI SICHER! 2.md",
     "1 - Source Material/attachments/Pasted image 20250409203624.png",
     "1 - Source Material/attachments/Pasted image 20250409203234.png",
     "0 - Tutorials",
@@ -259,7 +260,6 @@
     "2 - Source Material/attachments",
     "2 - Source Material",
     "1 - Source Material/attachments/Pasted image 20250324175235.png",
-    "1 - Source Material/attachments/Pasted image 20250328184645.png",
     "1 - Source Material/attachments/Piste 005.mp3",
     "1 - Source Material/attachments/02 Piste 02 1.mp3"
   ]
