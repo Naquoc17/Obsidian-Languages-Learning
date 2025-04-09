@@ -70,18 +70,17 @@ Le passé composé = être/ avoir + **le participe passé** du verbe
 **Mariette :** Oui, bonne idée ! Tu veux aller au cinéma ou visiter une [[la exposition exposer|exposition]]  ?  
 **Manu :** Oh non Mariette, il [[ne rien|n’y a rien ]] en ce moment, mais j’ai lu ce magazine et j’ai trouvé des idées de salons, tu veux regarder ?  
 **Mariette :** Hum, hum, [[pas mal]] ! T[[avoir envie de|’as envie de]]  [[le tatouage tatouer se faire tatouer|te faire tatouer]]  ? Il y a le Salon du [[le tatouage tatouer se faire tatouer|Tatouage]]  en ce moment.  
-**Manu :** Moi, un tatouage ! Ben non, t’es [[fou, folle follement|folle]]  ! Je [[détester détestable détestation|déteste]]  ça.  
+**Manu :** Moi, un tatouage ! Ben non, t’es [[fou, folle follement|folle]]  ! Je [[détester détestable détestation|déteste]]  ça.
 **Mariette :** Pourquoi pas le Salon des Antiquaires ? On[[ne plus| n’a plus]]  de bols et on [[avoir besoin de|a besoin de]]  tasses aussi.  
 **Manu :** Mais non, j’ai acheté des tasses il y a un mois. T’as [[oublier|oublié]] , ou quoi ?  ****
 **Manu :** Oh regarde, il y a le Salon des Sports et de l’Extrême. Toi qui veux [[essayer]] le judo, c’est l’[[une occasion|occasion]]  ! Il y a des cours d’[[un essai|essais]]  gratuits. Oh et il y a aussi de la boxe, de la gym... .Il y a le choix.  
-**Mariette :** Allez, d’accord pour le Salon du Sport !  
-**Manu :** Bon, très bien. On y va [[plutôt]] samedi ou dimanche ? Tu choisis !  
+**Mariette :** Allez, d’accord pour le Salon du Sport!
+**Manu :** Bon, très bien. On y va [[plutôt]] samedi ou dimanche ? Tu choisis!
 **Mariette :** Eh bien, plutôt dimanche. On [[se reposer|se repose]]  le samedi matin.
 
 ## E - Envie de sortir
 
 - Visiter l'expo Niki au Grand Palais
-
 
 ## Grammaire: la phrase négative
 

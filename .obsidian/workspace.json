@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Un étudiant, une étudiante... @"
             }
+          },
+          {
+            "id": "3a166097ea2de350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,8 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06d44a5d778ce14e",
+  "active": "3a166097ea2de350",
   "lastOpenFiles": [
+    "4 - Main Notes/Un étudiant, une étudiante... @.md",
+    "conflict-files-obsidian-git.md",
+    "6 - undefined/se deroule.md",
+    "6 - undefined/le carnaval.md",
     "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
     "4 - Main Notes/Deutsch im Thema Konsum.md",
     "4 - Main Notes/Indirekte Rede - Konjunktiv I @MitErfolgzutelcC1Hochschule.md",
@@ -226,7 +255,6 @@
     "2 - Tags/Training Hörverstehen UNI SICHER! 2.md",
     "1 - Source Material/Dictionary/UNESCO-Weltnaturerbe.md",
     "4 - Main Notes/Hörverstehen, Teil 1 - Globalverstehen @MitErfolgzutelcC1Hochschule.md",
-    "4 - Main Notes/Un étudiant, une étudiante... @.md",
     "4 - Main Notes/Unit 1 - Relationships @MindsetForIelts.md",
     "6 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
     "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
@@ -239,9 +267,6 @@
     "1 - Source Material/Dictionary/logging.md",
     "3 - Indexes/English.md",
     "2 - Tags/An Official Cambridge Ielts Course - Mindset for Ielts.md",
-    "1 - Source Material/Dictionary/swath.md",
-    "1 - Source Material/Dictionary/to span.md",
-    "1 - Source Material/Dictionary/terrestrial.md",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
     "1 - Source Material/attachments/Pasted image 20250328230958.png",
     "2 - Source Material/attachments",
