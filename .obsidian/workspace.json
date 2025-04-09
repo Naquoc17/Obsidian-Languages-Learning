@@ -26,15 +26,24 @@
             "id": "3985874e3446ef6a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "6 - undefined/se deroule.md",
-                "bFile": "6 - undefined/se deroule.md",
-                "aRef": "7f94efcf83482c6a55ced20cdc2809eec4c1858b^",
-                "bRef": "7f94efcf83482c6a55ced20cdc2809eec4c1858b"
+                "file": "6 - undefined/le carnaval.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: se deroule"
+              "icon": "lucide-file",
+              "title": "le carnaval"
             }
           }
         ],
@@ -222,8 +231,8 @@
   },
   "active": "3985874e3446ef6a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "6 - undefined/le carnaval.md",
+    "conflict-files-obsidian-git.md",
     "1 - Source Material/attachments/Pasted image 20250409090919.png",
     "1 - Source Material/attachments/Pasted image 20250409090910.png",
     "6 - undefined/Unite 1 - C'est la vie @EditoA2.md",
