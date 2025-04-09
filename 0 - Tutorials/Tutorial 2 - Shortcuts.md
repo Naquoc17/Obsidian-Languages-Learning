@@ -13,6 +13,7 @@ modification date: `$= dv.current().file.mtime`
 | Tìm note theo title     | ctrl + O         |
 | Tìm từ trong 1 note     | ctrl + shift + F |
 | Tìm từ trong nhiều note | ctrl + F         |
+| Chọn template cho note  | ctrl + T         |
 
 ## Thao tác khi viết note
 
