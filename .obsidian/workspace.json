@@ -11,24 +11,15 @@
             "id": "fe79527cd8c78d0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "6 - undefined/se deroule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "6 - undefined/se deroule.md",
+                "bFile": "6 - undefined/se deroule.md",
+                "aRef": "6d2fbb598934880b83a9381a0786813def6deac5^",
+                "bRef": "6d2fbb598934880b83a9381a0786813def6deac5"
               },
-              "icon": "lucide-file",
-              "title": "se deroule"
+              "icon": "diff",
+              "title": "Diff: se deroule"
             }
           }
         ]
@@ -190,14 +181,23 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "9b9c7670b2b086e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +216,8 @@
   },
   "active": "fe79527cd8c78d0f",
   "lastOpenFiles": [
-    "6 - undefined/le carnaval.md",
     "6 - undefined/se deroule.md",
+    "6 - undefined/le carnaval.md",
     "4 - Main Notes/Un étudiant, une étudiante... @.md",
     "conflict-files-obsidian-git.md",
     "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
