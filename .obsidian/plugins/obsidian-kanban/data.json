@@ -18,5 +18,16 @@
     }
   ],
   "new-note-template": "1 - Source Material/templates/Basic.md",
-  "show-checkboxes": false
+  "show-checkboxes": false,
+  "tag-sort": [
+    {
+      "tag": "#anhquoc"
+    },
+    {
+      "tag": "#kimanh"
+    },
+    {
+      "tag": "#dinhluat"
+    }
+  ]
 }
