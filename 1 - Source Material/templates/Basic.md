@@ -20,8 +20,11 @@ Tags: [[]]
 
 
 
+# Abbreviation
 
-
+| Abbreviation | Meaning |
+| ------------ | ------- |
+|              |         |
 
 
 # References
