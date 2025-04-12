@@ -3,13 +3,12 @@ modification date: `$= dv.current().file.mtime`
 
 # Tutorial 1 - Structure of notes
 
-- Cấu trúc của tất cả các ghi chú sẽ được lưu trong thư mục từ 1 đến 6
+- Cấu trúc của tất cả các ghi chú sẽ được lưu trong thư mục từ 1 đến 5
 	- 1 - Source Material
 	- 2 - Tags
 	- 3 - Indexes
 	- 4 - Main Notes
-	- 5 - Templates
-	- 6 - undefined
+	- 5 - undefined
 - Từ đây từ note sẽ được sử dụng để thay thế cho ghi chú
 - Mỗi thư mục sẽ chứa các note với chức năng khác nhau và sẽ được mô tả dưới đây:
 
