@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "5 - Templates",
+  "templates_folder": "1 - Source Material/templates",
   "templates_pairs": [
     [
       "",
@@ -13,12 +13,7 @@
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "",
-      "template": ""
-    }
-  ],
+  "folder_templates": [],
   "enable_file_templates": false,
   "file_templates": [
     {
@@ -29,10 +24,9 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "5 - Templates/Internal Link.md"
+    "1 - Source Material/templates/Internal Link.md",
+    ""
   ],
-  "startup_templates": [
-    "5 - Templates/Basic.md",
-    "5 - Templates/Documentation.md"
-  ]
+  "startup_templates": [],
+  "intellisense_render": 1
 }

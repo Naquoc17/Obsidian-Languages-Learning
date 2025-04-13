@@ -10,5 +10,7 @@
   "dataview",
   "obsidian-plugin-toc",
   "enhanced-tables",
-  "obsidian-git"
+  "obsidian-git",
+  "number-headings-obsidian",
+  "obsidian-kanban"
 ]

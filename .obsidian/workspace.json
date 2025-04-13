@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
+                "file": "0 - Tutorials/Tutorial 3 - Conflict files obsidian git - Error.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zwischen Ebbe und Flut - das Leben auf einer Hallig"
+              "title": "Tutorial 3 - Conflict files obsidian git - Error"
+            }
+          },
+          {
+            "id": "a57eec3abcadcc6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,51 +224,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06d44a5d778ce14e",
+  "active": "a57eec3abcadcc6e",
   "lastOpenFiles": [
-    "1 - Source Material/Dictionary/idyllisch.md",
-    "1 - Source Material/Dictionary/malerisch.md",
+    "0 - Tutorials/Tutorial 3 - Conflict files obsidian git - Error.md",
+    "0 - Tutorials/Tutorial 2 - Shortcuts.md",
+    "0 - Tutorials/Tutorial 1 - Structure of notes.md",
+    "0 - Tutorials/French Group/Overview.md",
+    "0 - Tutorials/French Group/Bảng phân công giai đoạn 1 (14.04 - 15.06).md",
+    "conflict-files-obsidian-git.md",
+    "5 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
     "6 - undefined/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
-    "1 - Source Material/Dictionary/behütet.md",
-    "1 - Source Material/Dictionary/mitspielen.md",
-    "6 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
-    "1 - Source Material/Dictionary/etwas ist in jemandem.md",
-    "1 - Source Material/Dictionary/der Taktgeber.md",
-    "1 - Source Material/Dictionary/der Wellenschlag.md",
-    "1 - Source Material/Dictionary/aufprallen.md",
-    "1 - Source Material/Dictionary/in Gefahr sein.md",
-    "1 - Source Material/Dictionary/peitschen.md",
-    "1 - Source Material/Dictionary/die Peitsche.md",
-    "3 - Indexes/English.md",
-    "2 - Tags/Advanced Grammar in Use.md",
-    "4 - Main Notes/Adverbial clauses of time @AGiU.md",
-    "2 - Tags/Grammar & Vocabulary - Destination B2.md",
-    "4 - Main Notes/Unit 1 - Present time - Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs - Grammar.md",
-    "1 - Source Material/Dictionary/der Knast.md",
-    "1 - Source Material/Dictionary/zum Kumpel auf ’n Bier.md",
-    "1 - Source Material/Dictionary/die Vorratskammer.md",
-    "1 - Source Material/Dictionary/UNESCO-Weltnaturerbe.md",
-    "1 - Source Material/Dictionary/Vermächtnis.md",
-    "1 - Source Material/Dictionary/das Wattenmeer.md",
-    "1 - Source Material/Dictionary/überfluten.md",
-    "1 - Source Material/Dictionary/die Eindeichung, der Deich, eindeichen.md",
+    "5 - undefined/Unit 1 - The Natural World.md",
+    "5 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
+    "5 - undefined/Unite 3 - À la recherche d'un toit.md",
+    "5 - undefined/Unite 4 - On n'arrête pas le progrès.md",
+    "5 - undefined/Unite 2 -  Souvenirs, souvenirs.md",
+    "5 - undefined/Unite 1 - C'est la vie.md",
+    "5 - undefined/Libro del Alumno Suena 1.md",
+    "5 - undefined/Lección 1 - Quiénes somos.md",
+    "5 - undefined/'Sometimes you have to take medicine' - Trump defends sweeping tariffs.md",
+    "5 - undefined",
+    "3 - Indexes/Italian.md",
+    "2 - Tags/Mit Erfolg zu telc C1 Hochschule.md",
+    "2 - Tags/Essential Words for The IETLS.md",
+    "2 - Tags/ELE Actual A1 - Libro del alumno A1.md",
+    "2 - Tags/An Official Cambridge Ielts Course - Mindset for Ielts.md",
+    "1 - Source Material/templates/Toggle lists.md",
+    "1 - Source Material/templates/Internal Link.md",
+    "1 - Source Material/templates/Exercise.md",
+    "1 - Source Material/templates/Documentation.md",
+    "1 - Source Material/templates",
+    "1 - Source Material/attachments/Pasted image 20250409225120.png",
+    "1 - Source Material/attachments/Pasted image 20250409225037.png",
+    "1 - Source Material/attachments/Pasted image 20250409211441.png",
+    "1 - Source Material/attachments/Pasted image 20250409203624.png",
+    "1 - Source Material/attachments/Pasted image 20250409203234.png",
+    "1 - Source Material/attachments/Pasted image 20250409090919.png",
+    "1 - Source Material/attachments/Pasted image 20250409090910.png",
+    "1 - Source Material/Other",
+    "1 - Source Material/Articles, Blogs",
+    "0 - Tutorials/French Group",
+    "0 - Tutorials",
     "ein Blick auf etw.",
     "6 - undefined",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
     "Untitled",
     "1 - Source Material/attachments/Piste 005.mp3",
     "1 - Source Material/attachments/Pasted image 20250328184645.png",
-    "1 - Source Material/attachments/Pasted image 20250328183754.png",
-    "1 - Source Material/attachments/Pasted image 20250324175235.png",
-    "1 - Source Material/attachments/Pasted image 20250328230958.png",
-    "1 - Source Material/attachments/Pasted image 20250315204126.png",
-    "1 - Source Material/attachments/Pasted image 20250315110010.png",
-    "1 - Source Material/attachments/Pasted image 20250315105952.png",
-    "1 - Source Material/attachments/Pasted image 20250315105931.png",
-    "1 - Source Material/attachments/Pasted image 20250315105849.png",
-    "1 - Source Material/attachments/02 Piste 02.mp3",
-    "1 - Source Material/attachments/02 Piste 02 1.mp3",
-    "1 - Source Material/attachments/01 Дорожка 1.wma",
-    "1 - Source Material/attachments/03 Piste 03.mp3"
+    "1 - Source Material/attachments/Pasted image 20250328183754.png"
   ]
 }
