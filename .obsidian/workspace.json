@@ -11,10 +11,24 @@
             "id": "184d7ad3457969d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4 - Main Notes/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU"
             }
           }
         ]
@@ -202,6 +216,16 @@
   },
   "active": "184d7ad3457969d3",
   "lastOpenFiles": [
+    "4 - Main Notes/Unit 1 - The Natural World.md",
+    "5 - undefined/Unite 1 - C'est la vie.md",
+    "5 - undefined/Unite 2 -  Souvenirs, souvenirs.md",
+    "4 - Main Notes/'Sometimes you have to take medicine' - Trump defends sweeping tariffs.md",
+    "4 - Main Notes/Lección 1 - Quiénes somos.md",
+    "4 - Main Notes/Lezione 1 - Primi contatti 1.md",
+    "2 - Tags/Nuovo Espresso 1.md",
+    "4 - Main Notes/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
+    "1 - Source Material/Dictionary/dottore.md",
+    "1 - Source Material/Dictionary/signora.md",
     "1 - Source Material/templates/Basic.md",
     "1 - Source Material/templates/Blog, Article, Video.md",
     "1 - Source Material/templates/Book.md",
@@ -213,21 +237,11 @@
     "1 - Source Material/templates/Internal Link.md",
     "1 - Source Material/templates/Contact.md",
     "3 - Indexes/Spanish.md",
-    "5 - undefined/Unit 1 - The Natural World.md",
-    "5 - undefined/Unite 1 - C'est la vie.md",
     "5 - undefined/Unite 3 - À la recherche d'un toit.md",
     "5 - undefined/Unite 4 - On n'arrête pas le progrès.md",
-    "5 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
-    "5 - undefined/professore.md",
-    "5 - undefined/signora.md",
+    "1 - Source Material/Dictionary/professore.md",
     "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
     "2 - Tags/DW Deutsch Lernen.md",
-    "3 - Indexes/German.md",
-    "conflict-files-obsidian-git.md",
-    "1 - Source Material/Dictionary/zuschalten.md",
-    "1 - Source Material/Dictionary/sich ausdenken.md",
-    "1 - Source Material/Dictionary/prägen.md",
-    "1 - Source Material/Dictionary/niederschreiben.md",
     "1 - Source Material/attachments/ALMAed_NE1_traccia_2.mp3",
     "0 - Tutorials/French Group",
     "1 - Source Material/attachments/Pasted image 20250409225120.png",
