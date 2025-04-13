@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "412fac545dfbf228",
+        "id": "de77916c8621c27c",
         "type": "tabs",
         "children": [
           {
-            "id": "27f9e1c6e8ddd1a0",
+            "id": "184d7ad3457969d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -214,34 +200,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "27f9e1c6e8ddd1a0",
+  "active": "184d7ad3457969d3",
   "lastOpenFiles": [
+    "1 - Source Material/templates/Basic.md",
+    "1 - Source Material/templates/Blog, Article, Video.md",
+    "1 - Source Material/templates/Book.md",
+    "1 - Source Material/templates/Course.md",
+    "1 - Source Material/templates/Daily.md",
+    "1 - Source Material/templates/Documentation.md",
+    "1 - Source Material/templates/Exercise.md",
+    "1 - Source Material/templates/Toggle lists.md",
+    "1 - Source Material/templates/Internal Link.md",
+    "1 - Source Material/templates/Contact.md",
+    "3 - Indexes/Spanish.md",
+    "5 - undefined/Unit 1 - The Natural World.md",
+    "5 - undefined/Unite 1 - C'est la vie.md",
+    "5 - undefined/Unite 3 - À la recherche d'un toit.md",
+    "5 - undefined/Unite 4 - On n'arrête pas le progrès.md",
+    "5 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
+    "5 - undefined/professore.md",
+    "5 - undefined/signora.md",
+    "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
+    "2 - Tags/DW Deutsch Lernen.md",
+    "3 - Indexes/German.md",
     "conflict-files-obsidian-git.md",
     "1 - Source Material/Dictionary/zuschalten.md",
     "1 - Source Material/Dictionary/sich ausdenken.md",
     "1 - Source Material/Dictionary/prägen.md",
     "1 - Source Material/Dictionary/niederschreiben.md",
-    "1 - Source Material/Dictionary/klarkommen mit.md",
-    "1 - Source Material/Dictionary/jmd. schwerfallen.md",
-    "1 - Source Material/Dictionary/heranwachsen.md",
-    "1 - Source Material/Dictionary/durchdenken.md",
-    "1 - Source Material/Dictionary/die Widrigkeit.md",
-    "1 - Source Material/Dictionary/die Instandhaltung.md",
-    "1 - Source Material/Dictionary/der Rasenmäher.md",
-    "1 - Source Material/Dictionary/auf den Keks gehen.md",
-    "1 - Source Material/Dictionary/abgewandelt.md",
-    "1 - Source Material/Dictionary/Umgang mit.md",
-    "1 - Source Material/Dictionary/Selbstwertgefühl.md",
-    "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
-    "5 - undefined/Come.md",
-    "5 - undefined/Primi contatti 1.md",
-    "1 - Source Material/Dictionary/mitspielen.md",
-    "1 - Source Material/Dictionary/malerisch.md",
-    "1 - Source Material/Dictionary/idyllisch.md",
-    "1 - Source Material/Dictionary/behütet.md",
-    "5 - undefined/professore.md",
-    "5 - undefined/dottore.md",
-    "5 - undefined/signora.md",
     "1 - Source Material/attachments/ALMAed_NE1_traccia_2.mp3",
     "0 - Tutorials/French Group",
     "1 - Source Material/attachments/Pasted image 20250409225120.png",
