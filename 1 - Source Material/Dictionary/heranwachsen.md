@@ -1,0 +1,6 @@
+- heranwachsen [hɛʁanˈvaksn̩] Verb	
+- Aufwachsen, sich entwickeln
+- Lớn lên, trưởng thành	
+- To grow up	
+- Die Kinder sind auf der Hallig herangewachsen.	
+- Wachstum (Prozess des Wachsens), heran (näher kommend)

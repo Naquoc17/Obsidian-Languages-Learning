@@ -1,0 +1,6 @@
+- niederschreiben [ˈniːdɐˌʃʁaɪ̯bn̩] Verb
+- Etwas schriftlich festhalten
+- Viết xuống
+- To write down
+- Er hat seine Erinnerungen niedergeschrieben.
+- Niederschrift (schriftliche Aufzeichnung), Schreiben (Tätigkeit des Schreibens)

@@ -1,0 +1,6 @@
+- Umgang	[ˈʊmɡaŋ]	Nomen (m.)	
+- Die Art und Weise, wie man mit etwas oder jemandem umgeht	
+- Cách xử lý, cách đối phó	
+- Handling, dealing	
+- Der richtige Umgang mit Gefahren ist wichtig.	
+- umgehen (mit etwas zurechtkommen), umgänglich (freundlich im Umgang)
