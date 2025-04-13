@@ -13,7 +13,7 @@ Status: #child
 Tags: [[DW Deutsch Lernen]]
 
 # Zwischen [[die Ebbe|Ebbe]] und [[die Flut|Flut]]  - das Leben auf einer [[die Hallig|Hallig]] 
-
+TEST
 
 Nachbarn gibt es keine, dafür viele Schafe und einen unbegrenzten Meerblick: Nele, Holger und ihre beiden Töchter leben auf der Hallig Süderoog, einer kleinen Insel vor der deutschen Nordseeküste. Wenn die Kinder zur Schule wollen, müssen sie mit dem Boot fahren. Und wenn die Flut kommt, muss die Familie im Haus bleiben. Trotz ihres einsamen Lebens fühlen sich die vier auf Süderoog wohl.
 

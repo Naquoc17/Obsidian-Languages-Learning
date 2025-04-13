@@ -35,10 +35,24 @@
             "id": "00dc8d86f53b01f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zwischen Ebbe und Flut - das Leben auf einer Hallig"
             }
           }
         ],
@@ -227,6 +241,7 @@
   },
   "active": "00dc8d86f53b01f3",
   "lastOpenFiles": [
+    "1 - Source Material/Articles, Blogs/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
     "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
     "1 - Source Material/Dictionary/die Ebbe.md",
     "0 - Tutorials/Tutorial 3 - Conflict files obsidian git - Error.md",
@@ -253,7 +268,6 @@
     "1 - Source Material/Dictionary/jmd. schwerfallen.md",
     "5 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
     "0 - Tutorials/French Group/Bảng phân công giai đoạn 1 (14.04 - 15.06).md",
-    "0 - Tutorials/French Group/Overview.md",
     "5 - undefined",
     "1 - Source Material/templates",
     "1 - Source Material/attachments/Pasted image 20250409225120.png",
