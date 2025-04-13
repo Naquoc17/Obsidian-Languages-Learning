@@ -1,0 +1,6 @@
+- zuschalten [ˈt͡suːʃaltən]	Verb
+- Technisch verbinden, besonders online
+- kết nối (qua mạng)
+- to connect remotely
+- Der Schüler wurde per Zoom zum Unterricht zugeschaltet.
+- Schaltung (Verbindung), anschalten

@@ -1,0 +1,6 @@
+- durchdenken	[dʊʁçˈdɛŋkn̩]	Verb	
+- Etwas genau überlegen und analysieren	
+- Suy nghĩ thấu đáo	
+- To think through	
+- Vor einer Entscheidung sollte man alles gründlich durchdenken.	
+- durchdacht (wohlüberlegt), Denken (Prozess des Nachdenkens)

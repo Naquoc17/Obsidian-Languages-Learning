@@ -1,0 +1,6 @@
+- Selbstwertgefühl	[ˈzɛlpstˌveːɐ̯tɡəˌfyːl] Nomen (n.)
+- Das Gefühl, wertvoll und respektiert zu sein
+- Lòng tự trọng	
+- Self-esteem	
+- Ein positives Selbstwertgefühl ist wichtig für das Wohlbefinden.	
+- Wert (Bedeutung, Bedeutung eines Gegenstandes oder einer Person)

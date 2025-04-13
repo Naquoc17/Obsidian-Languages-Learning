@@ -1,0 +1,6 @@
+- abgewandelt	[ˈapɡəˌvantlt]	Partizip (Adj.)	
+- Verändert, aber ähnlich	
+- Biến đổi, điều chỉnh
+- Modified, adapted	
+- Die Geschichte ist eine abgewandelte Version der Realität.	
+- abwandeln (ändern), Wandlung (Veränderung)

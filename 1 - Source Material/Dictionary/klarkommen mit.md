@@ -1,0 +1,6 @@
+- klarkommen	[ˈklaːɐ̯ˌkɔmən]	Verb	
+- Mit einer Situation oder Herausforderung zurechtkommen
+- Xoay sở, đương đầu
+- To cope, manage
+- Er muss lernen, mit der neuen Situation klarzukommen.	
+- klarkommen mit (sich arrangieren mit), Klarheit (Deutlichkeit)
