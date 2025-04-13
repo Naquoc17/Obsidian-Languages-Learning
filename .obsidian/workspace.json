@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "Die Frau, die Monopoly erfand @DWDeutschLernen"
             }
+          },
+          {
+            "id": "d43e8ed54aae0105",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,10 +249,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00dc8d86f53b01f3",
+  "active": "d43e8ed54aae0105",
   "lastOpenFiles": [
-    "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
     "1 - Source Material/Articles, Blogs/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
+    "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
     "1 - Source Material/Dictionary/die Ebbe.md",
     "0 - Tutorials/Tutorial 3 - Conflict files obsidian git - Error.md",
     "5 - undefined/Lección 1 - Quiénes somos.md",
