@@ -1,0 +1,7 @@
+- idyllisch [ɪˈdʏlɪʃ] Adjektiv
+- [[malerisch|Malerisch]]  schön, friedlich und harmonisch	
+- Bình yên, thơ mộng
+- Idyllic
+- Das Dorf liegt idyllisch in den Bergen.	
+- Idyll (Nomen: ein friedliches Bild oder Leben)	
+- griech. eidyllion („kleines Bild“)

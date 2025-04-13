@@ -45,10 +45,10 @@ Schutzraum bedeutet, dass es eigentlich der stabilste Teil des Hauses ist. Und d
 Was für andere das Auto oder die öffentlichen Verkehrsmittel sind, ist für Holger sein Boot.
 
 *HOLGER SPREER-WREE:*
-Das Boot ist ja unsere einzige Möglichkeit, wirklich die Hallig zu versorgen. Die Fahrten von der Hallig oder zur Hallig finden eben nach Bedarf statt. Also, und dann sind natürlich noch [[der Taktgeber|Taktgeber]]  da wie die Nordsee, muss ja mit Ebbe und Flut beziehungsweise mit den Gezeiten passen, und natürlich das Wetter muss mitspielen.
+Das Boot ist ja unsere einzige Möglichkeit, wirklich die Hallig zu versorgen. Die Fahrten von der Hallig oder zur Hallig finden eben nach Bedarf statt. Also, und dann sind natürlich noch [[der Taktgeber|Taktgeber]]  da wie die Nordsee, muss ja mit Ebbe und Flut beziehungsweise mit den Gezeiten passen, und natürlich das Wetter muss [[mitspielen]] .
 
 *SPRECHER:*
-Fenja und Ilvy erleben auf der Insel auf den ersten Blick eine behütete und idyllische Kindheit. Doch Freunde, Kita und Schule sind weit weg. Die beiden Mädchen gehen auf der Nachbarinsel Pellworm in die Kita und in die Schule. Dort wohnen die Mädchen werktags mit ihrer Mutter in einer Ferienwohnung.
+Fenja und Ilvy erleben auf der Insel auf den ersten Blick eine [[behütet|behütete]]  und [[idyllisch|idyllische]]  Kindheit. Doch Freunde, Kita und Schule sind weit weg. Die beiden Mädchen gehen auf der Nachbarinsel Pellworm in die Kita und in die Schule. Dort wohnen die Mädchen werktags mit ihrer Mutter in einer Ferienwohnung.
 
 *HOLGER SPREER-WREE:*
 Für die Familie ist es natürlich auch schwierig zu sagen: Okay, sie sind jetzt eben nur auf der Nachbarinsel oder nur hier. Deswegen haben wir uns da überlegt, dass sie teils im Unterricht ist, da auf Pellworm, und, wenn möglich, jede zweite Woche dann eben hier, einfach im Unterricht zugeschaltet wird, also über Internet, ne?
