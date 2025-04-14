@@ -136,7 +136,21 @@ Les pays proches de la France sont bien sûr présents mais aussi la Suède, la 
 
 ## Vocabulaire: les loisirs
 
+- Fatima est une grande joueuse de basket
+- Elle [[pratique]] ce sport depuis 15 ans
+- Elle joue dans une [[équipe]] de [[professionnelle|professionnelles]] 
+- Elle a joué presque 1000 matchs et son équipe gagné la dernière compétition nationale
 
+## G - Le Sénégal en fête
+
+**Kafountine**  
+Le Carnaval de Kafountine [[se dérouler|se déroule]]  [[tous les ans]] [[pendant]] une semaine [[au début]] du mois de février. Cet [[événement]] est une [[véritable]] [[vitrine]] de la culture traditionnelle sénégalaise. Les [[carnavaleux]] [[découvrir|découvrent]]  toutes les [[la facette|facettes]]  de la culture du pays [[à travers]] les danses, les chants, les [[le son|sons]]  de percussions, les [[le combat|combats]]  de lutte, la gastronomie...
+
+**Saint-Louis**  
+Chaque année, la dernière semaine du mois de décembre se tient le Fanal* à Saint-Louis. Il s’agit de l’une des plus importantes manifestations de la ville. Le fanal donne lieu à des parades nocturnes, des spectacles de danses et de chants dans les rues de la ville. Des lampions faits à la main illuminent la ville.
+
+**Dakar**  
+Africa Fête est un festival de musique qui a lieu chaque année, de fin novembre à fin décembre à Dakar, mais aussi à Saint-Louis, à Kaolack et à Louga. Ce festival met à l’honneur la musique africaine traditionnelle et contemporaine. Tous les ans, de nombreux chanteurs et groupes se produisent sur les scènes du festival Africa Fête.
 
 
 

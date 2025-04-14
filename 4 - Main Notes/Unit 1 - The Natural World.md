@@ -18,7 +18,15 @@ Tags: [[Essential Words for The IETLS]]
 - nutrients water and shelter for plants, animals and microorganisms throughout the ecosystem are also lost
 - many life forms - both [[terrestrial]] and [[aquatic]] are becoming endangered as forests [[vanish]]
 
+### B
 
+- Trees protect the soil [[beneath]] them; thus, tree loss can affect soil [[integrity]]. 
+- For example, the rain forest floor, home to [[myriad]] plant life as well as insects, worms, reptiles and amphibians, and small mammals, relies on a dense [[canopy]] of branches and leaves to keep it healthy and intact. 
+- The canopy prevents surface [[runoff]] by intercepting heavy rainfall so that water can drip down slowly onto the [[porous]] earth. 
+- Tree roots also stabilize the soil and help prevent [[erosion]]. 
+- In return, a healthy soil encourages root development and [[microbial]] activity, which contribute to tree growth and well-being. 
+- A major factor in logging-related soil damage comes from road building, with trucks and other heavy equipment compressing the spongy soil, creating furrows where water collects, and disrupting the underground water flow. 
+- Eventually, the topsoil wears away, leaving behind an [[infertile]] layer of rocks and hard clay.
 
 
 
