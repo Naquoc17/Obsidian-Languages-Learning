@@ -15,7 +15,7 @@
               "state": {
                 "file": "5 - undefined/Unite 1 - C'est la vie.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 345.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,12 +215,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "06d44a5d778ce14e",
+  "active": "184d7ad3457969d3",
   "lastOpenFiles": [
-    "4 - Main Notes/Unite 2 -  Souvenirs, souvenirs.md",
+    "1 - Source Material/attachments/Pasted image 20250413230625.png",
+    "4 - Main Notes/Trump's iPhone olive branch is a significant trade war retreat.md",
+    "3 - Indexes/English.md",
+    "2 - Tags/BBC.md",
     "5 - undefined/Unite 1 - C'est la vie.md",
-    "4 - Main Notes/Unite 4 - On n'arrête pas le progrès.md",
     "4 - Main Notes/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
+    "4 - Main Notes/Unite 2 -  Souvenirs, souvenirs.md",
+    "4 - Main Notes/Unite 4 - On n'arrête pas le progrès.md",
     "4 - Main Notes/Unit 1 - The Natural World.md",
     "4 - Main Notes/'Sometimes you have to take medicine' - Trump defends sweeping tariffs.md",
     "4 - Main Notes/Lección 1 - Quiénes somos.md",
@@ -238,10 +243,6 @@
     "1 - Source Material/templates/Internal Link.md",
     "1 - Source Material/templates/Contact.md",
     "3 - Indexes/Spanish.md",
-    "4 - Main Notes/Unite 3 - À la recherche d'un toit.md",
-    "1 - Source Material/Dictionary/professore.md",
-    "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
-    "2 - Tags/DW Deutsch Lernen.md",
     "1 - Source Material/attachments/ALMAed_NE1_traccia_2.mp3",
     "0 - Tutorials/French Group",
     "1 - Source Material/attachments/Pasted image 20250409225120.png",

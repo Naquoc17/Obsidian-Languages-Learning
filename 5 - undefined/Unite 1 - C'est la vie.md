@@ -117,15 +117,24 @@ Le passé composé = être/ avoir + **le participe passé** du verbe
 
 ## F - La pétanque est à la mode!
 
-- **Non ! La pétanque n’est plus réservée aux vacances dans le Sud de la France ou aux films inspirés de Marcel Pagnol !**  
-- On joue aussi à la pétanque sur les bords de Seine ou en Bretagne.  
-- **Zoom sur cette pratique, entre sport et loisir.**
+Non ! La pétanque n’est plus réservée aux vacances dans le Sud de la France ou aux films inspirés de Marcel Pagnol !
 
-« En France, la pétanque et le jeu provençal¹ sont des sports majeurs avec plus de 350 000 licenciés dont 20 000 femmes et 15 000 jeunes, se réjouit Hervé Rofritsch.  
+On joue aussi à la pétanque sur les bords de Seine ou en Bretagne.  
+
+Zoom sur cette pratique, entre sport et loisir.
+
+En France, la pétanque et le jeu provençal¹ sont des sports majeurs avec plus de 350 000 licenciés dont 20 000 femmes et 15 000 jeunes, se réjouit Hervé Rofritsch.  
+
 C’est la 4ᵉ fédération sportive nationale. Ce sport évolue : de plus en plus de gens jouent maintenant aux boules pour des parties conviviales².  
+
 On note aussi une augmentation des terrains de boules à domicile !  
+
 Une autre tendance : la pétanque se développe énormément à l’étranger.  
-Les pays proches de la France sont bien sûr présents mais aussi la Suède, la Norvège, le Danemark et, hors Europe, les États-Unis, le Brésil, l’Asie avec le Japon, la Thaïlande, l’Afrique avec Madagascar et les pays du Maghreb, et l’Océanie avec l’Australie et la Nouvelle-Zélande. »
+
+Les pays proches de la France sont bien sûr présents mais aussi la Suède, la Norvège, le Danemark et, hors Europe, les États-Unis, le Brésil, l’Asie avec le Japon, la Thaïlande, l’Afrique avec Madagascar et les pays du Maghreb, et l’Océanie avec l’Australie et la Nouvelle-Zélande.
+
+
+## Vocabulaire: les loisirs
 
 
 
