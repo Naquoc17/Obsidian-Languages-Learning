@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de77916c8621c27c",
+        "id": "a167608a828bb03e",
         "type": "tabs",
         "children": [
           {
-            "id": "184d7ad3457969d3",
+            "id": "11e8374c397bf6b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Indexes/English.md",
+                "file": "5 - undefined/Unite 1 - C'est la vie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "English"
-            }
-          },
-          {
-            "id": "2909bfb29aa25e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Unite 1 - C'est la vie"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,9 +215,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2909bfb29aa25e43",
+  "active": "06d44a5d778ce14e",
   "lastOpenFiles": [
+    "5 - undefined/Unite 3 - À la recherche d'un toit.md",
     "5 - undefined/Unite 1 - C'est la vie.md",
+    "4 - Main Notes/Unite 2 -  Souvenirs, souvenirs.md",
+    "5 - undefined/aménagée.md",
+    "3 - Indexes/English.md",
+    "conflict-files-obsidian-git.md",
     "1 - Source Material/templates/Documentation.md",
     "1 - Source Material/templates/Exercise.md",
     "1 - Source Material/templates/Daily.md",
@@ -250,7 +230,6 @@
     "1 - Source Material/templates/Book.md",
     "1 - Source Material/templates/Blog, Article, Video.md",
     "1 - Source Material/templates/Basic.md",
-    "conflict-files-obsidian-git.md",
     "5 - undefined/un accès.md",
     "5 - undefined/terrasse.md",
     "5 - undefined/tarif.md",
@@ -258,16 +237,12 @@
     "5 - undefined/péniche.md",
     "5 - undefined/havre.md",
     "5 - undefined/avocate.md",
-    "5 - undefined/aménagée.md",
-    "5 - undefined/Unite 3 - À la recherche d'un toit.md",
     "5 - undefined/Leur havre.md",
     "5 - undefined/Installés.md",
     "1 - Source Material/Dictionary/Une péniche.md",
     "5 - undefined/customs.md",
     "5 - undefined/to slip out.md",
     "4 - Main Notes/'Sometimes you have to take medicine' - Trump defends sweeping tariffs.md",
-    "4 - Main Notes/Trump's iPhone olive branch is a significant trade war retreat.md",
-    "2 - Tags/Essential Words for The IETLS.md",
     "1 - Source Material/attachments/Pasted image 20250413230625.png",
     "1 - Source Material/attachments/ALMAed_NE1_traccia_2.mp3",
     "0 - Tutorials/French Group",
