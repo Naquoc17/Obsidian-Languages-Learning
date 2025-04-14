@@ -1,0 +1,7 @@
+-  la péniche	/la pe.niʃ/	nom féminin	
+- Bateau aménagé pour l'habitation ou le transport fluvial	
+- thuyền nhà, sà lan	
+- houseboat	
+- Ils habitent sur une péniche sur le Rhône.	
+- pénichard (personne vivant sur une péniche)	
+- du latin "penicium"

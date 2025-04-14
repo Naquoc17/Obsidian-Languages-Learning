@@ -1,0 +1,6 @@
+- havre (m)	/avʁ/	
+- nom	petit port abrité, lieu calme et protégé	
+- nơi trú ẩn an toàn, bến cảng nhỏ	
+- haven / safe harbor	
+- Ce village est un vrai havre de paix.	havrer (vieilli : abriter), havrais (de la ville du Havre)	
+- habere (tenir, avoir)

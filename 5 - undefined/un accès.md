@@ -1,0 +1,7 @@
+- un accès (m)	/ɛ̃.n‿ak.sɛ/	Nom	
+- Possibilité d’entrer ou d’atteindre	
+- sự tiếp cận, lối vào	
+- access	
+- Cet immeuble a un accès pour les personnes handicapées.	
+- accessible (accessible), accéder (to access)	
+- accessus (approach)
