@@ -1,0 +1,7 @@
+- avocate (f)	/a.vɔ.kat/	Nom	
+- Femme dont le métier est de défendre en justice	
+- luật sư nữ	
+- lawyer (female)	
+- Mon amie est avocate au tribunal de Paris.	
+- avocat (lawyer - m), avocature (profession d’avocat)	
+- advocatus (called to aid)

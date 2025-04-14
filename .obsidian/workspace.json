@@ -1,21 +1,21 @@
 {
   "main": {
-    "id": "2a943197a4cf0676",
+    "id": "45cb6c55c8fb187a",
     "type": "split",
     "children": [
       {
-        "id": "de77916c8621c27c",
+        "id": "4ec9a089d00e35ce",
         "type": "tabs",
         "children": [
           {
-            "id": "184d7ad3457969d3",
+            "id": "a0abbca37f88436c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - undefined/Unite 1 - C'est la vie.md",
+                "file": "5 - undefined/Unite 3 - À la recherche d'un toit.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unite 1 - C'est la vie"
+              "title": "Unite 3 - À la recherche d'un toit"
             }
           }
         ]
@@ -37,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c32fce5523172472",
+    "id": "257e2139f15df256",
     "type": "split",
     "children": [
       {
-        "id": "933ece677d2fae50",
+        "id": "e8b6c6732675550c",
         "type": "tabs",
         "children": [
           {
-            "id": "0d007a562a9d2845",
+            "id": "f7277a1a39db6cc9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +58,12 @@
             }
           },
           {
-            "id": "e283679d2617e925",
+            "id": "9521e646a62c2ab8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "content:\"le duo\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "370e0dd8b73bf018",
+            "id": "1bef3b14bffa2193",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,20 +91,19 @@
     "width": 300
   },
   "right": {
-    "id": "8776e388839939e0",
+    "id": "f297171ead7c6cdc",
     "type": "split",
     "children": [
       {
-        "id": "9b6c63b5e4bb3776",
+        "id": "9fab32f9ec62e359",
         "type": "tabs",
         "children": [
           {
-            "id": "9ce6b587ff514a8d",
+            "id": "c668bd0b31caec1d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +113,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unite 1 - C'est la vie @EditoA2"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e59cefeb61fdee50",
+            "id": "4f45081ef4549a99",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unite 1 - C'est la vie @EditoA2"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "cf8e595c8faa83fc",
+            "id": "16bd359199b5dd54",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,22 +145,21 @@
             }
           },
           {
-            "id": "cd1b9645cd602918",
+            "id": "640e5e389f4d65cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unite 1 - C'est la vie @EditoA2"
+              "title": "Outline"
             }
           },
           {
-            "id": "06d44a5d778ce14e",
+            "id": "ab5c14e8499a08f1",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -170,33 +167,13 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
-          },
-          {
-            "id": "fd246c96d2d3a65c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "b2875c691c5a49e1",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -215,53 +192,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "184d7ad3457969d3",
+  "active": "a0abbca37f88436c",
   "lastOpenFiles": [
-    "1 - Source Material/attachments/Pasted image 20250413230625.png",
-    "4 - Main Notes/Trump's iPhone olive branch is a significant trade war retreat.md",
-    "3 - Indexes/English.md",
-    "2 - Tags/BBC.md",
+    "5 - undefined/havre.md",
+    "5 - undefined/Unite 3 - À la recherche d'un toit.md",
+    "5 - undefined/péniche.md",
+    "5 - undefined/un accès.md",
+    "5 - undefined/tarif.md",
+    "5 - undefined/aménagée.md",
+    "5 - undefined/avocate.md",
+    "5 - undefined/résidence.md",
+    "1 - Source Material/Dictionary/Une péniche.md",
+    "5 - undefined/Leur havre.md",
+    "5 - undefined/terrasse.md",
+    "5 - undefined/Installés.md",
     "5 - undefined/Unite 1 - C'est la vie.md",
-    "4 - Main Notes/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
     "4 - Main Notes/Unite 2 -  Souvenirs, souvenirs.md",
+    "3 - Indexes/French.md",
+    "4 - Main Notes/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
     "4 - Main Notes/Unite 4 - On n'arrête pas le progrès.md",
     "4 - Main Notes/Unit 1 - The Natural World.md",
-    "4 - Main Notes/'Sometimes you have to take medicine' - Trump defends sweeping tariffs.md",
-    "4 - Main Notes/Lección 1 - Quiénes somos.md",
+    "4 - Main Notes/Trump's iPhone olive branch is a significant trade war retreat.md",
     "4 - Main Notes/Lezione 1 - Primi contatti 1.md",
+    "4 - Main Notes/Lección 1 - Quiénes somos.md",
+    "4 - Main Notes/'Sometimes you have to take medicine' - Trump defends sweeping tariffs.md",
+    "3 - Indexes/Italian.md",
     "2 - Tags/Nuovo Espresso 1.md",
-    "1 - Source Material/Dictionary/dottore.md",
-    "1 - Source Material/Dictionary/signora.md",
-    "1 - Source Material/templates/Basic.md",
-    "1 - Source Material/templates/Blog, Article, Video.md",
-    "1 - Source Material/templates/Book.md",
-    "1 - Source Material/templates/Course.md",
-    "1 - Source Material/templates/Daily.md",
-    "1 - Source Material/templates/Documentation.md",
-    "1 - Source Material/templates/Exercise.md",
-    "1 - Source Material/templates/Toggle lists.md",
-    "1 - Source Material/templates/Internal Link.md",
-    "1 - Source Material/templates/Contact.md",
-    "3 - Indexes/Spanish.md",
+    "2 - Tags/Libro del Alumno Suena 1.md",
+    "2 - Tags/BBC.md",
+    "1 - Source Material/attachments/Pasted image 20250413230625.png",
     "1 - Source Material/attachments/ALMAed_NE1_traccia_2.mp3",
-    "0 - Tutorials/French Group",
-    "1 - Source Material/attachments/Pasted image 20250409225120.png",
-    "1 - Source Material/attachments/Pasted image 20250409225037.png",
-    "tutorial-obsidian.drawio",
-    "1 - Source Material/attachments/Pasted image 20250306220657.png",
-    "1 - Source Material/attachments/03 Piste 03.mp3",
-    "1 - Source Material/attachments/tutorial-obsidian 2.drawio",
-    "1 - Source Material/attachments/tutorial-obsidian 1.drawio",
-    "1 - Source Material/attachments/tutorial-obsidian.drawio",
-    "1 - Source Material/attachments/Pasted image 20250409211441.png",
-    "1 - Source Material/attachments/Pasted image 20250409203624.png",
-    "1 - Source Material/attachments/Pasted image 20250409203234.png",
-    "0 - Tutorials",
-    "1 - Source Material/attachments/Pasted image 20250409090919.png",
-    "1 - Source Material/attachments/Pasted image 20250409090910.png",
-    "1 - Source Material/attachments/Pasted image 20250404220723.png",
-    "1 - Source Material/attachments/Pasted image 20250328230958.png",
-    "2 - Source Material/attachments",
-    "2 - Source Material"
+    "Untitled.canvas"
   ]
 }
