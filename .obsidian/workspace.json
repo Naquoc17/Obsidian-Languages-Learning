@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Unite 1 - C'est la vie"
             }
-          },
-          {
-            "id": "383e0b8e28323461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +215,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "383e0b8e28323461",
+  "active": "11e8374c397bf6b5",
   "lastOpenFiles": [
-    "5 - undefined/Unite 1 - C'est la vie.md",
     "conflict-files-obsidian-git.md",
+    "5 - undefined/Unite 1 - C'est la vie.md",
     "5 - undefined/Unite 3 - À la recherche d'un toit.md",
     "4 - Main Notes/Unite 2 -  Souvenirs, souvenirs.md",
     "5 - undefined/aménagée.md",
