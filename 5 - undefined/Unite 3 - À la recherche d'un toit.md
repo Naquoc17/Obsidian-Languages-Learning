@@ -26,6 +26,4 @@ Prix d’achat : 180 000 euros pour 180 m² de surface [[aménagée]], un rappor
 
 
 
-
-
 # References
