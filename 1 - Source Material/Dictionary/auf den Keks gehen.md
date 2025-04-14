@@ -1,0 +1,5 @@
+- jdm. auf den Keks gehen [aʊ̯f deːn keːks ɡeːən]	Redewendung (umgangssprachlich)
+- Jemanden nerven oder stören
+- Làm phiền, gây khó chịu 
+- To get on someone's nerves	
+- Die lauten Nachbarn gehen mir auf den Keks.

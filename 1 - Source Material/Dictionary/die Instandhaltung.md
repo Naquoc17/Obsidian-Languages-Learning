@@ -1,0 +1,6 @@
+- Instandhaltung [ɪnˈʃtantˌhaltʊŋ] Nomen (f.)	
+- Pflege und Reparatur von Gebäuden oder Maschinen
+- Bảo trì, bảo dưỡng	
+- Maintenance
+- Die Instandhaltung des Hauses erfordert viel Arbeit.	
+- instand (Adj.: funktionsfähig), halten (bewahren)

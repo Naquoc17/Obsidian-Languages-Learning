@@ -1,0 +1,6 @@
+- behütet [bəˈhyːtət]	Adjektiv	
+- Geschützt und sorglos aufwachsend
+- Được bảo vệ, che chở	
+- Sheltered, protected
+- Sie hatte eine behütete Kindheit.	
+- behüten (Verb: beschützen), Behütung (Nomen: Schutz)

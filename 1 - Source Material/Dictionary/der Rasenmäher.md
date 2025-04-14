@@ -1,0 +1,6 @@
+- Rasenmäher [ˈʁaːzn̩ˌmɛːɐ̯] Nomen (m.) 
+- Gerät zum Kürzen des Grases
+- Máy cắt cỏ
+- Lawn mower
+- Der Rasenmäher ist kaputt, also müssen wir das Gras von Hand schneiden.	
+- Rasen (Grasfläche), mähen (schneiden)

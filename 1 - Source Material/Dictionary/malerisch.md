@@ -1,0 +1,2 @@
+- Đẹp như tranh vẽ
+- picturesque

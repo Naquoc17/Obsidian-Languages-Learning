@@ -1,0 +1,6 @@
+- Widrigkeiten	[ˈviːdʁɪçkaɪ̯tn̩]	Nomen (Pl.)	
+- Schwierigkeiten oder ungünstige Bedingungen	
+- Những khó khăn, trở ngại	
+- Adversities, hardships	
+- Trotz aller Widrigkeiten gibt die Familie nicht auf.	
+- widrig (ungünstig, negativ)

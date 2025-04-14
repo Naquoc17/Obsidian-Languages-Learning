@@ -1,0 +1,6 @@
+- sich (Dat.) ausdenken [zɪç ˈaʊ̯sˌdɛŋkn̩] reflexives Verb 
+- Etwas in der Fantasie erfinden, kreativ gestalten
+- nghĩ ra, tưởng tượng ra	
+- to make up, to invent, to come up with
+- Der Autor hat sich eine spannende Geschichte ausgedacht.
+- denken (suy nghĩ), ausgedacht (đã nghĩ ra), der Gedanke (ý tưởng)

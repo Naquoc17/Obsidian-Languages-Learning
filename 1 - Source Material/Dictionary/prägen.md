@@ -1,0 +1,7 @@
+- prägen	[ˈpʁɛːɡn̩]	Verb	
+- Starken Einfluss auf etwas oder jemanden haben	
+- Hình thành, tạo dấu ấn	
+- To shape, influence	
+- Das Leben auf der Hallig hat sie geprägt.	
+- Prägung (Einfluss, Formung), geprägt (geformt)	
+- lat. premere („drücken, einprägen“)
