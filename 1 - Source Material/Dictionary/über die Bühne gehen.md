@@ -1,0 +1,1 @@
+- umgangssprachlich für: in einer bestimmten Weise verlaufen

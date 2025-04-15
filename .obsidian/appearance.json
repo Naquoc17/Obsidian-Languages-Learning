@@ -1,5 +1,8 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "",
   "theme": "system",
-  "accentColor": "#914ce6"
+  "accentColor": "#4b879b",
+  "enabledCssSnippets": [
+    "header"
+  ]
 }

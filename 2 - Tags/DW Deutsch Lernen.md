@@ -17,8 +17,9 @@ Tags: [[German]]
 ## Top-Thema mit Vokabeln
 
 ### [[Die Frau, die Monopoly erfand @DWDeutschLernen]]
-### [[Zwischen Ebbe und Flut - das Leben auf einer Hallig]]
+### [[Zwischen Ebbe und Flut - das Leben auf einer Hallig @DWDeutschLernen]]
 
+### [[Ein Leuchtturm in den Schweizer Alpen @DWDeutschLernen]]
 
 
 

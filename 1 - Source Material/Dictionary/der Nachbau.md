@@ -1,0 +1,2 @@
+- Replica, reproduction
+- Bản sao

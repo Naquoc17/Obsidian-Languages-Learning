@@ -1,0 +1,2 @@
+- Kulisse, -n (f.)
+- der Hintergrund; die Umgebung

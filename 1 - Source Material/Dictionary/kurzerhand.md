@@ -1,0 +1,2 @@
+- suddenly
+- Ngay lập tức, không do dự

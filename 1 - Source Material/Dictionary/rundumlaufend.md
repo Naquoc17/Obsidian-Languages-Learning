@@ -1,0 +1,2 @@
+- circular
+- vòng tròn

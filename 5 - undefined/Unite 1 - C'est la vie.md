@@ -117,17 +117,40 @@ Le passé composé = être/ avoir + **le participe passé** du verbe
 
 ## F - La pétanque est à la mode!
 
-- **Non ! La pétanque n’est plus réservée aux vacances dans le Sud de la France ou aux films inspirés de Marcel Pagnol !**  
-- On joue aussi à la pétanque sur les bords de Seine ou en Bretagne.  
-- **Zoom sur cette pratique, entre sport et loisir.**
+Non ! La pétanque n’est plus réservée aux vacances dans le Sud de la France ou aux films inspirés de Marcel Pagnol !
 
-« En France, la pétanque et le jeu provençal¹ sont des sports majeurs avec plus de 350 000 licenciés dont 20 000 femmes et 15 000 jeunes, se réjouit Hervé Rofritsch.  
+On joue aussi à la pétanque sur les bords de Seine ou en Bretagne.  
+
+Zoom sur cette pratique, entre sport et loisir.
+
+En France, la pétanque et le jeu provençal¹ sont des sports majeurs avec plus de 350 000 licenciés dont 20 000 femmes et 15 000 jeunes, se réjouit Hervé Rofritsch.  
+
 C’est la 4ᵉ fédération sportive nationale. Ce sport évolue : de plus en plus de gens jouent maintenant aux boules pour des parties conviviales².  
+
 On note aussi une augmentation des terrains de boules à domicile !  
+
 Une autre tendance : la pétanque se développe énormément à l’étranger.  
-Les pays proches de la France sont bien sûr présents mais aussi la Suède, la Norvège, le Danemark et, hors Europe, les États-Unis, le Brésil, l’Asie avec le Japon, la Thaïlande, l’Afrique avec Madagascar et les pays du Maghreb, et l’Océanie avec l’Australie et la Nouvelle-Zélande. »
+
+Les pays proches de la France sont bien sûr présents mais aussi la Suède, la Norvège, le Danemark et, hors Europe, les États-Unis, le Brésil, l’Asie avec le Japon, la Thaïlande, l’Afrique avec Madagascar et les pays du Maghreb, et l’Océanie avec l’Australie et la Nouvelle-Zélande.
 
 
+## Vocabulaire: les loisirs
+
+- Fatima est une grande joueuse de basket
+- Elle [[pratique]] ce sport depuis 15 ans
+- Elle joue dans une [[équipe]] de [[professionnelle|professionnelles]] 
+- Elle a joué presque 1000 matchs et son équipe gagné la dernière compétition nationale
+
+## G - Le Sénégal en fête
+
+**Kafountine**  
+Le Carnaval de Kafountine [[se dérouler|se déroule]]  [[tous les ans]] [[pendant]] une semaine [[au début]] du mois de février. Cet [[événement]] est une [[véritable]] [[vitrine]] de la culture traditionnelle sénégalaise. Les [[carnavaleux]] [[découvrir|découvrent]]  toutes les [[la facette|facettes]]  de la culture du pays [[à travers]] les danses, les chants, les [[le son|sons]]  de percussions, les [[le combat|combats]]  de lutte, la gastronomie...
+
+**Saint-Louis**  
+Chaque année, la dernière semaine du mois de décembre se tient le Fanal* à Saint-Louis. Il s’agit de l’une des plus importantes manifestations de la ville. Le fanal donne lieu à des parades nocturnes, des spectacles de danses et de chants dans les rues de la ville. Des lampions faits à la main illuminent la ville.
+
+**Dakar**  
+Africa Fête est un festival de musique qui a lieu chaque année, de fin novembre à fin décembre à Dakar, mais aussi à Saint-Louis, à Kaolack et à Louga. Ce festival met à l’honneur la musique africaine traditionnelle et contemporaine. Tous les ans, de nombreux chanteurs et groupes se produisent sur les scènes du festival Africa Fête.
 
 
 

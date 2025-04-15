@@ -1,0 +1,2 @@
+- in hindsight
+- nhìn lại

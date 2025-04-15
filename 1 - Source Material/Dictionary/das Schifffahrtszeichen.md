@@ -1,0 +1,7 @@
+- das Schifffahrtszeichen	[ˈʃɪfˌfaʁt͡sˌt͡saɪ̯çn̩]	Noun	
+- Ein Zeichen oder Signal, das die Schifffahrt regelt oder leitet	
+- biển hiệu điều hướng giao thông đường thủy	
+- nautical sign / navigation mark	
+- Das Schifffahrtszeichen warnte vor Untiefen im Wasser.	
+- das Schiff (ship), die Fahrt (journey/travel), das Zeichen (sign/symbol), die Schifffahrt (navigation)	
+- signum (sign), navis (ship, via Schiff)

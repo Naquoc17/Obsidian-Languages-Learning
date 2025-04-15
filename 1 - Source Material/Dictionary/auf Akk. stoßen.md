@@ -1,0 +1,1 @@
+- auf etwas treffen, eine Reaktion hervorrufen

@@ -1,0 +1,8 @@
+body {
+    --h1-color: #ff9999;  /* bold pastel red */
+    --h2-color: #ffc299;  /* bold pastel orange */
+    --h3-color: #ffff99;  /* bold pastel yellow */
+    --h4-color: #99ffcc;  /* bold pastel green */
+    --h5-color: #99ccff;  /* bold pastel blue */
+    --h6-color: #cc99ff;  /* bold pastel purple */
+}

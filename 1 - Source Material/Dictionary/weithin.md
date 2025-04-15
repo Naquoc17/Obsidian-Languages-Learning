@@ -1,0 +1,2 @@
+- adv.
+- widely, largely

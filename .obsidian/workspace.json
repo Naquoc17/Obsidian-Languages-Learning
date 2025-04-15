@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6fc08b7f26bf620e",
+        "id": "93eda4c4efcd9f64",
         "type": "tabs",
         "children": [
           {
-            "id": "880b8acce348defa",
+            "id": "b5698ca626b765cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
-                "mode": "source",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,45 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zwischen Ebbe und Flut - das Leben auf einer Hallig"
-            }
-          },
-          {
-            "id": "00dc8d86f53b01f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Source Material/Articles, Blogs/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Die Frau, die Monopoly erfand @DWDeutschLernen"
-            }
-          },
-          {
-            "id": "d43e8ed54aae0105",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,35 +214,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06d44a5d778ce14e",
+  "active": "b5698ca626b765cf",
   "lastOpenFiles": [
-    "1 - Source Material/Articles, Blogs/Die Frau, die Monopoly erfand @DWDeutschLernen.md",
-    "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
-    "1 - Source Material/Dictionary/die Ebbe.md",
     "0 - Tutorials/Tutorial 3 - Conflict files obsidian git - Error.md",
-    "5 - undefined/Lección 1 - Quiénes somos.md",
-    "5 - undefined/Libro del Alumno Suena 1.md",
-    "3 - Indexes/Spanish.md",
-    "2 - Tags/ELE Actual A1 - Libro del alumno A1.md",
-    "1 - Source Material/Books/1 Saludos y presentaciones.md",
+    "1 - Source Material/Dictionary/das Leuchtfeuer.md",
+    "1 - Source Material/Articles, Blogs/Ein Leuchtturm in den Schweizer Alpen @DWDeutschLernen.md",
+    "1 - Source Material/Dictionary/Kulisse.md",
+    "5 - undefined/Der große Deal mit Solaranlagen, die nie gebaut werden.md",
+    "1 - Source Material/Dictionary/über die Bühne gehen.md",
+    "1 - Source Material/Dictionary/rückblickend.md",
+    "1 - Source Material/Dictionary/auf Akk. stoßen.md",
+    "0 - Tutorials/Tutorial 2 - Shortcuts.md",
     "0 - Tutorials/Tutorial 1 - Structure of notes.md",
-    "2 - Tags/DW Deutsch Lernen.md",
-    "1 - Source Material/Dictionary/die Widrigkeit.md",
-    "1 - Source Material/Dictionary/klarkommen mit.md",
-    "mit etw./jmd klarkommen.md",
-    "mit etw.",
-    "1 - Source Material/Dictionary/auf den Keks gehen.md",
-    "1 - Source Material/Dictionary/Selbstwertgefühl.md",
-    "1 - Source Material/Dictionary/Umgang mit.md",
-    "1 - Source Material/Dictionary/durchdenken.md",
-    "1 - Source Material/Dictionary/heranwachsen.md",
-    "1 - Source Material/Dictionary/prägen.md",
-    "1 - Source Material/Dictionary/abgewandelt.md",
-    "1 - Source Material/Dictionary/sich ausdenken.md",
-    "1 - Source Material/Dictionary/niederschreiben.md",
-    "1 - Source Material/Dictionary/jmd. schwerfallen.md",
-    "5 - undefined/Was bereuen Sie - Mit Angela Merkel, Bundeskanzlerin a.D. - CDU.md",
     "0 - Tutorials/French Group/Bảng phân công giai đoạn 1 (14.04 - 15.06).md",
+    "0 - Tutorials/French Group/Overview.md",
+    "conflict-files-obsidian-git.md",
+    "1 - Source Material/Dictionary/errichten.md",
+    "1 - Source Material/Dictionary/Blaupause.md",
+    "1 - Source Material/Dictionary/kurzerhand.md",
+    "1 - Source Material/Dictionary/der Nachbau.md",
+    "1 - Source Material/Dictionary/die Wetterfahne.md",
+    "1 - Source Material/Dictionary/die Dachkuppel.md",
+    "1 - Source Material/Dictionary/aus ... heraus.md",
+    "1 - Source Material/Dictionary/rotieren.md",
+    "1 - Source Material/Dictionary/rundumlaufend.md",
+    "1 - Source Material/Dictionary/anstreichen.md",
+    "1 - Source Material/Dictionary/erstaunt sein.md",
+    "1 - Source Material/Dictionary/die Untiefe.md",
+    "1 - Source Material/Dictionary/das Schifffahrtszeichen.md",
+    "1 - Source Material/attachments/Pasted image 20250413230625.png",
+    "1 - Source Material/attachments/Deutsch_Ueben_HuS_C1_Track_01.mp3",
+    "1 - Source Material/attachments/ALMAed_NE1_traccia_2.mp3",
+    "mit etw.",
     "5 - undefined",
     "1 - Source Material/templates",
     "1 - Source Material/attachments/Pasted image 20250409225120.png",
@@ -292,10 +260,7 @@
     "0 - Tutorials/French Group",
     "0 - Tutorials",
     "ein Blick auf etw.",
-    "6 - undefined",
     "1 - Source Material/attachments/Pasted image 20250404220723.png",
-    "Untitled",
-    "1 - Source Material/attachments/Pasted image 20250328184645.png",
-    "1 - Source Material/attachments/Pasted image 20250328183754.png"
+    "1 - Source Material/attachments/Pasted image 20250328184645.png"
   ]
 }

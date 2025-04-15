@@ -1,0 +1,7 @@
+- der Leuchtturm [ˈlɔʏ̯çtˌtʊʁm] Noun	
+- Ein hoher Turm mit Licht, der Schiffen als Orientierung dient
+- hải đăng	
+- lighthouse	
+- Der Leuchtturm war bei Nebel kaum zu sehen.	
+- leuchten (to shine), das Licht (light), der Turm (tower)	
+- lux (light), turris (tower)

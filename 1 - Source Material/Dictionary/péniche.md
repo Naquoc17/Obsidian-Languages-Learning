@@ -1,0 +1,7 @@
+- péniche (f)	/pe.niʃ/	Nom	
+- Bateau long et plat pour transporter des marchandises ou pour habiter	
+- sà lan, tàu nhà nổi	
+- barge, houseboat	
+- Ils vivent sur une péniche au bord de la Seine.	
+- pénichard (personne vivant sur une péniche), pénichable (navigable pour une péniche)
+- Aucun latin direct

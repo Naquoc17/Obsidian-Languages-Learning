@@ -2,7 +2,7 @@
 type: documentation
 languages: 
 source: 
-creation date: 2025-04-13 09:43
+creation date: <% tp.file.creation_date() %>
 ---
 alias: [[]]
 modification date: `$= dv.current().file.mtime`
@@ -11,7 +11,7 @@ Status: #baby
 
 Tags: [[]]
 
-# conflict-files-obsidian-git
+# <% tp.file.title %>
 
 
 

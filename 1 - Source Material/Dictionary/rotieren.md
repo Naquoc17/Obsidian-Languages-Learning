@@ -1,0 +1,3 @@
+- drehen
+- rotate
+- quay, xoay
