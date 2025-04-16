@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Unite 1 - C'est la vie"
             }
+          },
+          {
+            "id": "81d7a4a1f02b0503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,13 +288,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3e0fb60de298647f",
+  "active": "81d7a4a1f02b0503",
   "lastOpenFiles": [
+    "5 - undefined/Unite 1 - C'est la vie.md",
     "conflict-files-obsidian-git.md",
     "5 - undefined/Unite 3 - À la recherche d'un toit.md",
     "5 - undefined/Der große Deal mit Solaranlagen, die nie gebaut werden.md",
     "1 - Source Material/Dictionary/arrondissement.md",
-    "5 - undefined/Unite 1 - C'est la vie.md",
     "1 - Source Material/attachments/13 Piste 13.mp3",
     "1 - Source Material/attachments/12 Piste 12.mp3",
     "1 - Source Material/Dictionary/contemporain.md",
