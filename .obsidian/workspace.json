@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Unite 1 - C'est la vie"
             }
+          },
+          {
+            "id": "dba9df9d87aa5a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,10 +249,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb194cac6c3f806f",
+  "active": "dba9df9d87aa5a91",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "5 - undefined/Unite 1 - C'est la vie.md",
+    "conflict-files-obsidian-git.md",
     "1 - Source Material/Dictionary/weit mehr.md",
     "1 - Source Material/Dictionary/unterm Strich.md",
     "1 - Source Material/Dictionary/sich einig werden.md",
