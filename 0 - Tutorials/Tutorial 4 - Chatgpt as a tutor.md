@@ -11,7 +11,7 @@ Tags: [[]]
 ## Prompt 1: Speaking partner (interruption after every answer)
 
 ```txt
-I'm about to enter voice mode, and I want to have a conversation about this podcast episode
+I'm about to enter voice mode, and I want to have a conversation about the above text:
 
 Here's how I want you to interact with me:
 	- Act as a conversation partner, not a teacher. Keep it natural
