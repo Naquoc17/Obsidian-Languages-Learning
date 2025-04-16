@@ -16,10 +16,10 @@ Tags: [[German]]
 
 ## Top-Thema mit Vokabeln
 
-### [[Die Frau, die Monopoly erfand @DWDeutschLernen]]
-### [[Zwischen Ebbe und Flut - das Leben auf einer Hallig @DWDeutschLernen]]
+### [[Die Frau, die Monopoly erfand]]
+### [[Zwischen Ebbe und Flut - das Leben auf einer Hallig]]
 
-### [[Ein Leuchtturm in den Schweizer Alpen @DWDeutschLernen]]
+### [[Ein Leuchtturm in den Schweizer Alpen]]
 
 
 
