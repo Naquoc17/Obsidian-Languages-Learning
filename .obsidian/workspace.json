@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "605cf2c0b1ad73ec",
+        "id": "4710e6c5b41563b1",
         "type": "tabs",
         "children": [
           {
-            "id": "dd8755be1e4a8d17",
+            "id": "cb194cac6c3f806f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - undefined/Unite 1 - C'est la vie.md",
+                "file": "5 - undefined/Der große Deal mit Solaranlagen, die nie gebaut werden.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unite 1 - C'est la vie"
+              "title": "Der große Deal mit Solaranlagen, die nie gebaut werden"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "content:\"le duo\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Main Notes/Unite 1 - C'est la vie @EditoA2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unite 1 - C'est la vie @EditoA2"
+              "title": "Outline"
             }
           },
           {
@@ -182,7 +181,17 @@
             }
           },
           {
-            "id": "b2875c691c5a49e1",
+            "id": "ea83fb826f8aca71",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "9b9c7670b2b086e1",
             "type": "leaf",
             "state": {
               "type": "git-history-view",
@@ -201,6 +210,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -211,56 +221,56 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "flashcards-obsidian:Generate flashcards": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd8755be1e4a8d17",
+  "active": "06d44a5d778ce14e",
   "lastOpenFiles": [
-    "5 - undefined/Unite 3 - À la recherche d'un toit.md",
+    "5 - undefined/arrondissement.md",
     "1 - Source Material/attachments/13 Piste 13.mp3",
     "1 - Source Material/attachments/12 Piste 12.mp3",
-    "5 - undefined/Unite 1 - C'est la vie.md",
-    "5 - undefined/arrondissement.md",
-    "5 - undefined/Der große Deal mit Solaranlagen, die nie gebaut werden.md",
-    "1 - Source Material/Dictionary/contemporain.md",
-    "1 - Source Material/Dictionary/donne.md",
-    "1 - Source Material/Dictionary/chaque.md",
-    "3 - Indexes/German.md",
-    "1 - Source Material/Dictionary/se tenir.md",
-    "1 - Source Material/Dictionary/se produire.md",
-    "1 - Source Material/Dictionary/mettre à l'honneur.md",
-    "1 - Source Material/Dictionary/festival.md",
-    "1 - Source Material/Dictionary/illuminer.md",
-    "1 - Source Material/Dictionary/lampion.md",
-    "1 - Source Material/Dictionary/nocturne.md",
-    "1 - Source Material/Dictionary/parade.md",
-    "1 - Source Material/Dictionary/fanal.md",
-    "1 - Source Material/Dictionary/s’agit.md",
-    "5 - undefined/agit.md",
-    "1 - Source Material/Dictionary/manifestation.md",
-    "1 - Source Material/Dictionary/percussions.md",
     "1 - Source Material/Dictionary/über die Bühne gehen.md",
     "1 - Source Material/Dictionary/weithin.md",
-    "1 - Source Material/Dictionary/rückblickend.md",
-    "1 - Source Material/Dictionary/rundumlaufend.md",
+    "1 - Source Material/Dictionary/s’agit.md",
+    "1 - Source Material/Dictionary/se tenir.md",
+    "1 - Source Material/Dictionary/se produire.md",
+    "1 - Source Material/Dictionary/die Untiefe.md",
+    "1 - Source Material/Dictionary/die Dachkuppel.md",
+    "1 - Source Material/Dictionary/der Nachbau.md",
+    "1 - Source Material/Dictionary/der Leuchtturm.md",
+    "1 - Source Material/Dictionary/das Schifffahrtszeichen.md",
+    "1 - Source Material/Dictionary/das Leuchtfeuer.md",
+    "1 - Source Material/Dictionary/contemporain.md",
+    "1 - Source Material/Dictionary/chaque.md",
+    "1 - Source Material/Dictionary/aus ... heraus.md",
+    "1 - Source Material/Dictionary/auf Akk. stoßen.md",
+    "1 - Source Material/Dictionary/anstreichen.md",
+    "1 - Source Material/Dictionary/Kulisse.md",
+    "1 - Source Material/Dictionary/Blaupause.md",
+    "1 - Source Material/Articles, Blogs/Ein Leuchtturm in den Schweizer Alpen @DWDeutschLernen.md",
+    "5 - undefined/Der große Deal mit Solaranlagen, die nie gebaut werden.md",
+    "1 - Source Material/Dictionary/verregnet.md",
+    "1 - Source Material/Dictionary/un accès.md",
+    "1 - Source Material/Dictionary/to slip out.md",
+    "1 - Source Material/Dictionary/aménagée.md",
+    "5 - undefined/87 - Kommaregeln.md",
     "1 - Source Material/attachments/Deutsch_Ueben_HuS_C1_Track_01.mp3",
-    "1 - Source Material/attachments/Pasted image 20250413230625.png",
-    "1 - Source Material/attachments/ALMAed_NE1_traccia_2.mp3",
     "0 - Tutorials/French Group",
     "1 - Source Material/attachments/Pasted image 20250409225120.png",
     "1 - Source Material/attachments/Pasted image 20250409225037.png",
-    "tutorial-obsidian.drawio",
-    "1 - Source Material/attachments/Pasted image 20250306220657.png",
-    "1 - Source Material/attachments/03 Piste 03.mp3",
-    "1 - Source Material/attachments/tutorial-obsidian 2.drawio",
-    "1 - Source Material/attachments/tutorial-obsidian 1.drawio",
-    "1 - Source Material/attachments/tutorial-obsidian.drawio",
     "1 - Source Material/attachments/Pasted image 20250409211441.png",
+    "5 - undefined",
+    "1 - Source Material/templates",
     "1 - Source Material/attachments/Pasted image 20250409203624.png",
     "1 - Source Material/attachments/Pasted image 20250409203234.png",
+    "0 - Tutorials",
     "1 - Source Material/attachments/Pasted image 20250409090919.png",
     "1 - Source Material/attachments/Pasted image 20250409090910.png",
-    "1 - Source Material/attachments/Pasted image 20250404220723.png"
+    "1 - Source Material/attachments/Pasted image 20250404220723.png",
+    "1 - Source Material/attachments/Pasted image 20250328230958.png",
+    "2 - Source Material/attachments",
+    "2 - Source Material",
+    "1 - Source Material/attachments/Pasted image 20250324175235.png",
+    "1 - Source Material/attachments/Piste 005.mp3"
   ]
 }
