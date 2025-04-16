@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "605cf2c0b1ad73ec",
+        "id": "305de305b08fa996",
         "type": "tabs",
         "children": [
           {
-            "id": "dd8755be1e4a8d17",
+            "id": "7ad5a6c12447b50b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "5 - undefined/Der große Deal mit Solaranlagen, die nie gebaut werden.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -30,81 +30,8 @@
               "icon": "lucide-file",
               "title": "Der große Deal mit Solaranlagen, die nie gebaut werden"
             }
-          },
-          {
-            "id": "cab97c350c5f4e6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - undefined/Unite 3 - À la recherche d'un toit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unite 3 - À la recherche d'un toit"
-            }
-          },
-          {
-            "id": "3e0fb60de298647f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - undefined/Unite 1 - C'est la vie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unite 1 - C'est la vie"
-            }
-          },
-          {
-            "id": "81d7a4a1f02b0503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,36 +215,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "81d7a4a1f02b0503",
+  "active": "7ad5a6c12447b50b",
   "lastOpenFiles": [
+    "5 - undefined/sich einig werden.md",
+    "5 - undefined/Der große Deal mit Solaranlagen, die nie gebaut werden.md",
+    "5 - undefined/Kontakt aufnehmen mit Dat..md",
+    "5 - undefined/Paneele.md",
+    "5 - undefined/prellen.md",
+    "5 - undefined/mutmaßlich.md",
+    "5 - undefined/Umweltschonend.md",
+    "5 - undefined/beziehen.md",
+    "0 - Tutorials/Tutorial 4 - Chatgpt as a tutor.md",
+    "5 - undefined/ermitteln.md",
+    "5 - undefined/im großen Stil.md",
+    "3 - Indexes/German.md",
+    "1 - Source Material/Articles, Blogs/Ein Leuchtturm in den Schweizer Alpen.md",
+    "2 - Tags/DW Deutsch Lernen.md",
+    "1 - Source Material/Articles, Blogs/Zwischen Ebbe und Flut - das Leben auf einer Hallig.md",
+    "1 - Source Material/Articles, Blogs/Die Frau, die Monopoly erfand.md",
+    "5 - undefined/offenbar.md",
     "5 - undefined/Unite 1 - C'est la vie.md",
     "conflict-files-obsidian-git.md",
     "5 - undefined/Unite 3 - À la recherche d'un toit.md",
-    "5 - undefined/Der große Deal mit Solaranlagen, die nie gebaut werden.md",
     "1 - Source Material/Dictionary/arrondissement.md",
     "1 - Source Material/attachments/13 Piste 13.mp3",
     "1 - Source Material/attachments/12 Piste 12.mp3",
     "1 - Source Material/Dictionary/contemporain.md",
     "1 - Source Material/Dictionary/donne.md",
     "1 - Source Material/Dictionary/chaque.md",
-    "3 - Indexes/German.md",
     "1 - Source Material/Dictionary/se tenir.md",
     "1 - Source Material/Dictionary/se produire.md",
-    "1 - Source Material/Dictionary/mettre à l'honneur.md",
-    "1 - Source Material/Dictionary/festival.md",
-    "1 - Source Material/Dictionary/illuminer.md",
-    "1 - Source Material/Dictionary/lampion.md",
-    "1 - Source Material/Dictionary/nocturne.md",
-    "1 - Source Material/Dictionary/parade.md",
-    "1 - Source Material/Dictionary/fanal.md",
-    "1 - Source Material/Dictionary/s’agit.md",
-    "5 - undefined/agit.md",
-    "1 - Source Material/Dictionary/manifestation.md",
-    "1 - Source Material/Dictionary/percussions.md",
-    "1 - Source Material/Dictionary/über die Bühne gehen.md",
-    "1 - Source Material/Dictionary/weithin.md",
-    "1 - Source Material/Dictionary/rückblickend.md",
-    "1 - Source Material/Dictionary/rundumlaufend.md",
     "1 - Source Material/attachments/Deutsch_Ueben_HuS_C1_Track_01.mp3",
     "1 - Source Material/attachments/Pasted image 20250413230625.png",
     "1 - Source Material/attachments/ALMAed_NE1_traccia_2.mp3",
