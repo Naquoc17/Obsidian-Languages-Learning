@@ -15,13 +15,71 @@ Il y a onze ans, sa compagne a vendu son appartement pour acheter cette [[pénic
 Prix d’achat : 180 000 euros pour 180 m² de surface [[aménagée]], un rapport superficie/prix plutôt intéressant pour le centre-ville lyonnais. À ce [[tarif]], Catherine s’est offert une vue sur un très beau bâtiment de la ville, l’université Lyon II, et [[un accès]] à la place Bellecour et à la gare de Perrache à moins de 15 minutes à pied.
 
 
+***-- Anh chia phần và thêm audio giúp em luôn nhé. Cho tiện em thao tác, đỡ tốn thời gian -- Em đọc rồi thì có thể xóa dòng này ^^***
+## B. Petites annonces
+
+
+
+## C. Vivre ensemble 
+
+![[12 Piste 12.mp3]]
+
+
+
+
+
+## Grammaire: les pronoms relatifs
+
+
+
+
+## Vocabulaire: le logement
+
+
+
+
+
+## D. Trouver un logement à Montréal
+
+
+
+
+## E. Logement à la ferme 
+
+![[13 Piste 13.mp3]]
 
 
 
 
 
 
+## Grammaire: la comparaison
 
+
+
+## G. Le Paris du baron Haussmann
+
+
+
+
+
+## Vocabulaire: le mobilier et le cadre de vie
+
+
+
+
+## H. Découvrez Paris en 2050
+
+
+
+
+
+## I. Villes du futur
+
+
+
+
+## Grammaire: les pronoms possessifs 
 
 
 
