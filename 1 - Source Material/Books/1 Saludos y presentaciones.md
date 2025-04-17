@@ -65,7 +65,7 @@ Tags: [[ELE Actual A1 - Libro del alumno A1]]
 | y     | i griega / ye                       | [i ˈɣɾje.ɣa] / [ʝe] | Y     | i griega mayúscula  | [i ˈɣɾje.ɣa]        |
 | z     | zeta                                | [ˈθe.ta] / [ˈse.ta] | Z     | zeta mayúscula      | [ˈθe.ta] / [ˈse.ta] |
 
-## [[el nombre|Nombres]]  y [[el apellido|apellidos]] 
+## [[1 - Source Material/Dictionary/el nombre|Nombres]]  y [[el apellido|apellidos]] 
 
 - Penélope Cruz gana [[el Óscar]] a la [[mejor]] [[actriz]] [[secundaria]]
 
