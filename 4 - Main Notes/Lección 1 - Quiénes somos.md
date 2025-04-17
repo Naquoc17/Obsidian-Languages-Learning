@@ -9,8 +9,11 @@ Tags: [[Libro del Alumno Suena 1]]
 
 ##  ámbito 1: Cómo te llamas?
 
-- Nombre: Francisco
-- Apellidos: Rodrí
+- [[el nombre|Nombre]] : Francisco
+- [[apellidos|Apellidos]] : Rodríguez de la Fuente
+- [[nacionalidad|Nacionalidad]] : Épañola
+- [[país|País]] : España
+- [[fecha|Fecha]]  de [[nacimiento]]: 4/06/1972
 
 
 

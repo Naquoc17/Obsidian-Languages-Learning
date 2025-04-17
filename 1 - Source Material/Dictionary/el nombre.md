@@ -1,8 +1,8 @@
 
-- nombre (el)	/ˈnom.bɾe/	noun	
-- nombre	
-- tên	
-- name	
-- ¿Cuál es tu nombre? (What is your name?)	
-- nombrar (to name), nombramiento (appointment)	
-- nomen = name
+- Nombre (el)  [ˈnom.bɾe]  Sustantivo  
+- primer nombre de una persona  
+- tên  
+- name  
+- Mi nombre es Ana.  
+- nombrar (đặt tên), nombramiento (sự bổ nhiệm)  
+- nomen (nombre)
