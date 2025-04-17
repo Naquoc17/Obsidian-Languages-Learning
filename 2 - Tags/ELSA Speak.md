@@ -14,16 +14,18 @@ Tags: [[English]]
 
 # ELSA Speak
 
-## [[Tricky English Sounds - Day 5]]
+## Weekly training
+
+### [[Tricky English Sounds - Day 5]]
+
+### [[Tricky English Sounds - Day 6]]
+
+### [[Tricky English Sounds - Day 7]]
 
 
+## IELTS 
 
-
-
-
-
-
-
+### [[Band 6]]
 
 
 
