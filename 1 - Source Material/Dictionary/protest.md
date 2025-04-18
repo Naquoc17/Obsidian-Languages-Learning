@@ -1,0 +1,7 @@
+- protest	[ˈprəʊ.test]	Noun / Verb
+- (n) A public expression of disagreement or disapproval, often in groups; (v) To express strong disagreement
+- Cuộc biểu tình / Phản đối
+- demonstration, oppose
+- Thousands joined the protest against the new law.
+- Family words: protester (n) – người biểu tình, protesting (adj)
+- Latin root: *protestari* = to declare publicly

@@ -1,0 +1,7 @@
+- bound for	[baʊnd fɔːr]	Adjective phrase
+- Going toward a specific place
+- Hướng tới, đi đến
+- heading to, en route to
+- The train is bound for Paris.
+- Family words: bound (adj), boundary (n)
+- Old English *bindan* = to bind

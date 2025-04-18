@@ -1,0 +1,7 @@
+- delay	[dɪˈleɪ]	Verb / Noun
+- To make something happen later than planned (v); a period of waiting (n)
+- Trì hoãn / Sự chậm trễ
+- postpone / postponement
+- The flight was delayed due to bad weather.
+- Family words: delayed (adj), delay (n)
+- Latin root: *differre* = to put off

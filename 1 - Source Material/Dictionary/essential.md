@@ -1,0 +1,7 @@
+- essential	[ɪˈsen.ʃəl]	Adjective
+- Very important or necessary
+- Thiết yếu, quan trọng
+- crucial, vital
+- Water is essential for life.
+- Family words: essence (n) – bản chất, essentialness (n)
+- Latin root: *essentia* = being, essence

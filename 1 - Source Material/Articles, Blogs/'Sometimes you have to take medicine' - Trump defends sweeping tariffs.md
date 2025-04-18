@@ -1,5 +1,5 @@
 ---
-type: blog
+type: article
 author: BBC
 languages: English
 product: 
@@ -9,9 +9,9 @@ creation date: 2025-04-11 18:51
 alias: [[]]
 modification date: `$= dv.current().file.mtime`
 
-Status: #baby 
+Status: #child 
 
-Tags: [[]]
+Tags: [[English]]
 
 # 'Sometimes you have to take medicine' - Trump defends sweeping tariffs
 
@@ -57,42 +57,33 @@ Lutnick also defended tariffs imposed on two tiny Antarctic islands populated o
 
 ## Part 3
 
-Elsewhere, Indonesia and Taiwan have said over the weekend that they will not impose retaliatory tariffs after the US announced a 32% levy on imports from both countries.
+Elsewhere, Indonesia and Taiwan have said over the weekend that they will not [[impose]] [[retaliatory]] tariffs after the US announced a 32% [[levy]] on imports from both countries.
 
-Vietnam's leader, To Lam, has asked Trump to delay a 46% duty on Vietnamese exports to the US by "at least 45 days", according to a letter seen by news agency AFP and the New York Times.
+Vietnam's leader, To Lam, has asked Trump to delay a 46% duty on Vietnamese [[exports]] to the US by "at least 45 days", according to a letter seen by news agency AFP and the New York Times.
 
 However, China announced on Friday that it will impose a 34% tariff on all US imports, beginning on Thursday 10 April.
 
 - CHINA: Are Trump's Asia tariffs a 'full-frontal assault' on China?
-- POLITICS: Trump's agenda grapples with political and economic reality
+- POLITICS: Trump's [[agenda]] [[grapple (with)|grapples with]]  political and economic reality
 - UK IMPACT: How Keir Starmer might tackle Trump tariffs
 
 UK Prime Minister Sir Keir Starmer warned on Saturday that "the world as we knew it has gone".
 
 Starmer said the UK government would keep pushing for an economic deal with the US that avoided some of the tariffs.
 
-A Downing Street spokesman added Starmer and new Canadian Prime Minister Mark Carney agreed in a phone call that "an all-out trade war is in no-one's interest".
+A Downing Street [[spokesman]] added Starmer and new Canadian Prime Minister Mark Carney agreed in a phone call that "an [[all-out]] trade war is in no-one's interest".
 
 On Monday, Israeli Prime Minister Benjamin Netanyahu is expected to meet Trump for trade talks in Washington DC.
 
-Netanyahu, speaking to reporters as he boarded a plane-bound for the US, said he would be "the first international leader that is meeting with Trump" since the new tariffs were introduced.
+Netanyahu, speaking to reporters as he boarded a [[plane-bound]] for the US, said he would be "the first international leader that is meeting with Trump" since the new tariffs were introduced.
 
 He said this showed their "personal connection and the connection between our countries that is so essential in this time".
 
 ## Part 4
 
-Anti-Trump protests were held in cities across the US over the weekend, in the largest nationwide show of opposition since the president took office in January.
+Anti-Trump [[protest|protests]]  were held in cities across the US over the weekend, in the largest [[nationwide]] show of [[opposition]] since the president [[take office|took office]]  in January.
 
-Hundreds of thousands of people turned out in Boston, Chicago, Los Angeles, New York and Washington DC, among other cities, with protesters citing grievances with Trump's agenda ranging from social to economic issues.
-
-
-
-
-
-
-
-
-
+Hundreds of thousands of people [[turn out|turned out]] in Boston, Chicago, Los Angeles, New York and Washington DC, among other cities, with protesters [[cite|citing]]  [[grievance|grievances]]  with Trump's [[agenda]] ranging from social to economic issues.
 
 
 # References

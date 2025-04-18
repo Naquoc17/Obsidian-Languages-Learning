@@ -1,0 +1,7 @@
+- trade war	[treɪd wɔːr]	Noun phrase
+- A situation where countries raise taxes on each other's goods to hurt the other's economy
+- Chiến tranh thương mại
+- tariff conflict
+- The two countries are engaged in a trade war.
+- No common family words
+- Compound noun from “trade” + “war”

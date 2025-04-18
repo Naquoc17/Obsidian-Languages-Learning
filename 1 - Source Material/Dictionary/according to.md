@@ -1,0 +1,7 @@
+- according to	[əˈkɔː.dɪŋ tuː]	Prepositional phrase
+- As stated by someone or something
+- Theo như..., theo lời của...
+- as reported by, as stated by
+- According to the news, the meeting is canceled.
+- No family words
+- Old English *accorden* = to agree

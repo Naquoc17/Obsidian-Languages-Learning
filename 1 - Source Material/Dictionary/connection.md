@@ -1,0 +1,7 @@
+- connection	[kəˈnek.ʃən]	Noun
+- A link or relationship between people or things
+- Mối liên hệ, sự kết nối
+- link, relationship
+- There is a strong connection between the two countries.
+- Family words: connect (v), connected (adj)
+- Latin root: *connectere* = to join together

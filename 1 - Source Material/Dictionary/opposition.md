@@ -1,0 +1,7 @@
+- opposition	[ˌɒp.əˈzɪʃ.ən]	Noun
+- Strong disagreement with something or someone, often organized
+- Sự phản đối
+- resistance, disagreement
+- There is strong opposition to the new tax.
+- Family words: oppose (v) – phản đối, opponent (n) – đối thủ
+- Latin root: *opponere* = to set against

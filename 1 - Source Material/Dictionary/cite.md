@@ -1,0 +1,7 @@
+- cite	[saɪt]	Verb
+- To mention or refer to something as a reason or example
+- Dẫn ra, nêu ra
+- mention, refer to
+- She cited health reasons for leaving the job.
+- Family words: citation (n), cited (adj)
+- Latin root: *citare* = to summon, call

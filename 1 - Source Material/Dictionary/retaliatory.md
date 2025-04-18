@@ -1,0 +1,7 @@
+- retaliatory	[rɪˈtæl.i.ə.tɔː.ri]	Adjective
+- Done as a response to a harmful action, usually to punish
+- Mang tính trả đũa
+- revengeful, responsive
+- The country introduced retaliatory tariffs after being taxed.
+- Family words: retaliate (v) – trả đũa; retaliation (n) – sự trả đũa
+- Latin root: *retaliare* = repay in kind

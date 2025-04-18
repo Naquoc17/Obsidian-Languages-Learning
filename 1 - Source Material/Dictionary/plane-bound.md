@@ -1,0 +1,7 @@
+- plane-bound	[pleɪn baʊnd]	Adjective (compound)
+- Traveling by plane; heading to a location by air
+- Lên máy bay (hướng tới nơi nào đó)
+- flying, en route by air
+- He was plane-bound for Washington.
+- Family words: bound (adj) – hướng tới, heading to
+- Old English *bindan* = to bind, tie

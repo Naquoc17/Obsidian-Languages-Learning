@@ -1,0 +1,7 @@
+- levy	[ˈlev.i]	Noun
+- An amount of money (tax or fine) officially collected by a government
+- Khoản thu (thuế, phạt)
+- tax, duty
+- The government introduced a new carbon levy.
+- Family words: levy (v) – thu (thuế, tiền)
+- Latin root: *levare* = to raise

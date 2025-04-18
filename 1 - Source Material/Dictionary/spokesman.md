@@ -1,0 +1,7 @@
+- spokesman	[ˈspəʊks.mən]	Noun
+- A person who speaks for a group or organization
+- Người phát ngôn
+- representative, press officer
+- The company’s spokesman denied the rumors.
+- Family words: spokeswoman, spokesperson
+- Old English *specan* = to speak

@@ -1,0 +1,7 @@
+- announce	[əˈnaʊns]	Verb
+- To say something officially or publicly
+- Thông báo, tuyên bố
+- declare, state
+- The president announced a new policy.
+- Family words: announcement (n), announcer (n)
+- Latin root: *annuntiare* = to report

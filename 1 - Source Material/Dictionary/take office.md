@@ -1,0 +1,7 @@
+- take office	[teɪk ˈɒf.ɪs]	Verb phrase
+- To begin a role or job, especially a government position
+- Nhậm chức
+- assume power, start role
+- The new president took office in January.
+- No common family words
+- From Old French *ofice* = duty, service

@@ -1,0 +1,7 @@
+- grapple (with)	[ˈɡræp.əl]	Verb (phrasal verb)
+- To struggle with or try hard to deal with something difficult
+- Vật lộn, giải quyết khó khăn
+- wrestle, deal with
+- The government is grappling with inflation.
+- Family words: grappling (n) – sự vật lộn, grappler (n) – người vật lộn
+- Old French *graper* = to seize

@@ -1,0 +1,7 @@
+- exports	[ˈek.spɔːts]	Noun (plural)
+- Goods sent to another country to be sold
+- Hàng xuất khẩu
+- outbound goods, foreign sales
+- Vietnam increased its coffee exports last year.
+- Family words: export (v) – xuất khẩu; exporter (n) – người xuất khẩu
+- Latin root: *exportare* = to carry out

@@ -1,0 +1,7 @@
+- nationwide	[ˈneɪ.ʃən.waɪd]	Adjective / Adverb
+- Happening or existing in all parts of a country
+- Trên toàn quốc
+- countrywide, across the country
+- The campaign received nationwide support.
+- No common family words
+- Compound word: nation + wide

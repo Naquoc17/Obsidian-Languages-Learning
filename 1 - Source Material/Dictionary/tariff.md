@@ -1,0 +1,7 @@
+- tariff	[ˈtær.ɪf]	Noun
+- A tax placed on goods imported from another country
+- Thuế nhập khẩu
+- import tax, customs duty
+- The tariff on cars has increased to 25%.
+- Family words: tariffed (adj) – bị đánh thuế
+- Arabic origin via Italian *tariffa*

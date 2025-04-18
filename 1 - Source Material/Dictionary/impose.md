@@ -1,0 +1,7 @@
+- impose	[ɪmˈpəʊz]	Verb
+- To officially force a rule, tax, or punishment to be accepted
+- Áp đặt (thuế, luật, hình phạt)
+- enforce, apply
+- The government will impose a tax on sugary drinks.
+- Family words: imposition (n) – sự áp đặt
+- Latin root: *imponere* = to place upon

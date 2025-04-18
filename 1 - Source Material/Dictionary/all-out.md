@@ -1,0 +1,7 @@
+- all-out	[ˌɔːlˈaʊt]	Adjective
+- Using all available resources or effort; total
+- Dốc toàn lực, toàn diện
+- full-scale, total
+- They launched an all-out campaign to win votes.
+- No common family words
+- First used in English in 1900s

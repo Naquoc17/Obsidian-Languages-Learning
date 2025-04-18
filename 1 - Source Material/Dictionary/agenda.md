@@ -1,0 +1,7 @@
+- agenda	[əˈdʒen.də]	Noun
+- A list or plan of things to do or discuss (repeated here due to context)
+- Kế hoạch, chương trình nghị sự
+- schedule, plan
+- The meeting’s agenda includes budget cuts.
+- Family words: agendum (rare singular), agendas (plural)
+- Latin root: *agere* = to do

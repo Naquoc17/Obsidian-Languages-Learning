@@ -1,0 +1,7 @@
+- turn out	[tɜːn aʊt]	Phrasal verb
+- To come or attend an event, especially in large numbers
+- Xuất hiện, tham gia (số lượng lớn)
+- show up, attend
+- Thousands turned out for the concert.
+- No common family words
+- Old English *tȳrnan* = to turn

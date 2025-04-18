@@ -1,0 +1,7 @@
+- grievance	[ˈɡriː.vəns]	Noun
+- A complaint or reason for being unhappy or dissatisfied
+- Sự bất bình, điều phàn nàn
+- complaint, objection
+- Workers expressed grievances about unfair treatment.
+- Family words: grieve (v) – buồn, phàn nàn
+- Old French *grever* = to burden

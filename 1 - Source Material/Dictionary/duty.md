@@ -1,0 +1,7 @@
+- duty	[ˈdjuː.ti]	Noun
+- A tax you pay on imported or exported goods
+- Thuế (nhập khẩu, xuất khẩu)
+- tax, tariff
+- The duty on alcohol is very high in this country.
+- Family words: duties (plural) – các khoản thuế; duty-free – miễn thuế
+- Latin root: *debitas* = what is owed

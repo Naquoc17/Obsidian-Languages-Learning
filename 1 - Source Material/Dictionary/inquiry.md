@@ -1,0 +1,7 @@
+- inquiry	[ˈɪn.kwə.ri] (US) / [ɪnˈkwaɪə.ri] (UK)	Noun
+- A question you ask to get information; an act of asking
+- Câu hỏi, sự điều tra
+- question, investigation
+- The journalist made an inquiry about the president’s plans.
+- Family words: inquire (v) – hỏi, điều tra; inquirer (n) – người hỏi
+- Latin root: *quaerere* = to ask, seek
