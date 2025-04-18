@@ -1,10 +1,22 @@
 2025-03-24 17:51
 
-Status: #baby 
+Status: #child 
 
 Tags: [[Edito A2]]
 
 # Unite 1 - C'est la vie @EditoA2
+
+- [[#A - Des artistes se présentent|A - Des artistes se présentent]]
+- [[#B - Omar Sy, une [[|carrière]]  spectaculaire|B - Omar Sy, une [[|carrière]]  spectaculaire]]
+- [[#Grammaire: le passé composé & Vocabulaire: le portrait|Grammaire: le passé composé & Vocabulaire: le portrait]]
+- [[#D - À chacun son salon|D - À chacun son salon]]
+- [[#E - Envie de sortir|E - Envie de sortir]]
+- [[#Grammaire: la phrase négative|Grammaire: la phrase négative]]
+- [[#F - La pétanque est à la mode!|F - La pétanque est à la mode!]]
+- [[#Vocabulaire: les loisirs|Vocabulaire: les loisirs]]
+- [[#G - Le Sénégal en fête|G - Le Sénégal en fête]]
+- [[#H - Tu es libre?|H - Tu es libre?]]
+
 
 ## A - Des artistes se présentent
 
@@ -150,9 +162,24 @@ Le Carnaval de Kafountine [[se dérouler|se déroule]]  [[tous les ans]] [[penda
 [[chaque|Chaque]]  année, la dernière semaine du mois de décembre [[se tenir|se tient]]  le Fanal* à Saint-Louis. Il [[s’agit]] de l’une des plus importantes [[manifestation|manifestations]]  de la ville. Le [[fanal]] [[donne]] lieu à des [[parade|parades]]  [[nocturne|nocturnes]] , des spectacles de danses et de chants dans les rues de la ville. Des [[lampion|lampions]]  faits à la main [[illuminer|illuminent]]  la ville.
 
 **Dakar**  
-Africa Fête est un [[festival]] de musique qui a lieu chaque année, de fin novembre à fin décembre à Dakar, mais aussi à Saint-Louis, à Kaolack et à Louga. Ce festival [[mettre à l'honneur|met à l’honneur]]  la musique africaine traditionnelle et [[contemporain|contemporaine]] . Tous les ans, de nombreux chanteurs et groupes [[se produire|se produisent]]  sur les scènes du festival Africa Fête.
+Africa Fête est un [[1 - Source Material/Dictionary/festival]] de musique qui a lieu chaque année, de fin novembre à fin décembre à Dakar, mais aussi à Saint-Louis, à Kaolack et à Louga. Ce festival [[mettre à l'honneur|met à l’honneur]]  la musique africaine traditionnelle et [[contemporain|contemporaine]] . Tous les ans, de nombreux chanteurs et groupes [[se produire|se produisent]]  sur les scènes du festival Africa Fête.
 
+## H - Tu es libre?
 
+**Voix du [[répondeur]]** : Vous pouvez laisser un message après le bip.  
+**Mayana** : Salut Annick, c’est Mayana. Comme tu le sais, je fais partie de l’[[association]] Sol’Africa depuis mai 2015. Je suis très [[content|contente]]  parce que les activités [[proposer|proposées]]  sont vraiment sympas. Il y a quinze jours, nous avons participé au [[festival]] du cinéma afro-[[caribéen - caribéenne|caribéen]]  qui a lieu tous les ans en octobre pendant cinq jours. Il existe depuis 2007. Le 15 novembre prochain, on organise la 5e [[édition]] de notre [[soirée]] africaine. Ça t’intéresse ? Est-ce que tu es [[libre]] le 15 ? Dis-moi ! Bises
+
+## Grammaire: Les indicateurs de temps
+
+- L'action est terminée au moment où on parle -> il y a
+	- Il y a quinze jours, on a participé au festival du cinéma afro-caribéen
+- La durée de l'action est délimitée dans le temp -> pendant
+	- Il dure pendant cinq jours
+- L'action continue au moment où on parle -> depuis
+	- Je fais partie de l'association Sol'Africa depuis mai 2015
+
+- Remarque: L'élision de pendant est parfois possible
+	- J'ai vécu à Montréal (pendant) dix ans
 
 # Pronunciation
 

@@ -1,8 +1,8 @@
 
-- festival (m.)	/fɛs.ti.val/	noun	
-- événement artistique ou culturel
-- lễ hội âm nhạc / văn hóa
-- festival	
-- Le festival Africa Fête est très populaire.
-- festivité (sự vui chơi), festif (thuộc lễ hội)
-- festivus = festive
+- un festival (masc.)	[fɛs.ti.val]	nom
+- Événement culturel (films, musique, etc.) organisé pour le public
+- Lễ hội
+- festival
+- Ce week-end, il y a un festival de jazz.
+- festivité (fém.) = lễ hội, tiệc tùng
+- Latin: festivus
