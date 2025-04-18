@@ -1,0 +1,5 @@
+- loophole	[ˈluːp.həʊl]	Noun
+- A small mistake in a law that allows people to avoid following it
+- Kẽ hở pháp lý
+- gap, technicality
+- Companies use legal loopholes to pay less tax.

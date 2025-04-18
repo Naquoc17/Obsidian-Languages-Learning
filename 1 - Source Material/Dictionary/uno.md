@@ -1,0 +1,5 @@
+- uno	[ˈuno]	Número  
+- El número 1.
+- một
+- One
+- Ejemplo: Tengo un hermano.

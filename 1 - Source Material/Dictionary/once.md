@@ -1,0 +1,5 @@
+- once	[ˈonθe] (Esp), [ˈonse] (LatAm)	Número  
+- El número 11.
+- mười một
+- Eleven
+- Ejemplo: Tengo once años.

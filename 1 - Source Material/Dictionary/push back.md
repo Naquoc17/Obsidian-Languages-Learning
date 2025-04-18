@@ -1,0 +1,5 @@
+- push back	[pʊʃ bæk]	Phrasal verb
+- To resist or oppose something
+- Phản đối, chống lại
+- resist, oppose
+- He pushed back against the reporter's question.

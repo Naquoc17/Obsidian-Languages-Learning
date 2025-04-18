@@ -1,0 +1,5 @@
+- dieciocho	[dje.sjoˈtʃo]	Número  
+- El número 18.
+- mười tám
+- Eighteen
+- Ejemplo: Dieciocho años.

@@ -1,0 +1,5 @@
+- nueve	[ˈnweβe]	Número  
+- El número 9.
+- chín
+- Nine
+- Ejemplo: Nueve alumnos en clase.

@@ -1,0 +1,5 @@
+- pain threshold	[peɪn ˈθreʃ.həʊld]	Noun phrase
+- The level at which a person starts to feel pain
+- Ngưỡng chịu đau
+- pain limit
+- Some people have a higher pain threshold than others.

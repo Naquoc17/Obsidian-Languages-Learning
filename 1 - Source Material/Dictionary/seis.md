@@ -1,0 +1,5 @@
+- seis	[sejs]	Número  
+- El número 6.
+- sáu
+- Six
+- Ejemplo: Seis manzanas.

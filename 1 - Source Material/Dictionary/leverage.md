@@ -1,0 +1,5 @@
+- leverage	[ˈlev.ər.ɪdʒ]	Noun
+- Power or ability to influence people or situations
+- Đòn bẩy (quyền lực, lợi thế)
+- influence, advantage
+- He used his political leverage to gain support.

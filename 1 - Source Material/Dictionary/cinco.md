@@ -1,0 +1,5 @@
+- cinco	[ˈθiŋko] (Esp), [ˈsiŋko] (LatAm)	Número  
+- El número 5.
+- năm
+- Five
+- Ejemplo: Cinco libros en la mesa.

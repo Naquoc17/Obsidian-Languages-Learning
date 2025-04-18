@@ -1,0 +1,6 @@
+
+- cero	[ˈθeɾo] (España), [ˈseɾo] (LatAm)	Número  
+- El número 0.
+- số không
+- Zero
+- Ejemplo: Tengo cero tareas.

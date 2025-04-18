@@ -1,0 +1,5 @@
+- catorce	[kaˈtoɾθe] (Esp), [kaˈtoɾse] (LatAm)	Número  
+- El número 14.
+- mười bốn
+- Fourteen
+- Ejemplo: Página catorce.

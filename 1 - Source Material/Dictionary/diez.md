@@ -1,0 +1,5 @@
+- diez	[ˈdjes]	Número  
+- El número 10.
+- mười
+- Ten
+- Ejemplo: Diez dedos en las manos.

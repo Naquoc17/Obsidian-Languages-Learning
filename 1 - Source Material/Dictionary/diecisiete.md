@@ -1,0 +1,5 @@
+- diecisiete	[dje.siˈsjete]	Número  
+- El número 17.
+- mười bảy
+- Seventeen
+- Ejemplo: Diecisiete preguntas.

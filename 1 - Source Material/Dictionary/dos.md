@@ -1,0 +1,5 @@
+- dos	[dos]	Número  
+- El número 2.
+- hai
+- Two
+- Ejemplo: Tengo dos lápices.

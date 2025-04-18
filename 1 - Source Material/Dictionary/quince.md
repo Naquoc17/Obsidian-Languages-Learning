@@ -1,0 +1,5 @@
+- quince	[ˈkinθe] (Esp), [ˈkinse] (LatAm)	Número  
+- El número 15.
+- mười lăm
+- Fifteen
+- Ejemplo: Tengo quince minutos.

@@ -1,0 +1,5 @@
+- doce	[ˈdoθe] (Esp), [ˈdose] (LatAm)	Número  
+- El número 12.
+- mười hai
+- Twelve
+- Ejemplo: Doce meses en un año.

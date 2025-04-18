@@ -1,0 +1,5 @@
+- tres	[tɾes]	Número  
+- El número 3.
+- ba
+- Three
+- Ejemplo: Hay tres estudiantes.

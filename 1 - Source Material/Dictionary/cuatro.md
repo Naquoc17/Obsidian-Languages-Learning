@@ -1,0 +1,5 @@
+- cuatro	[ˈkwatɾo]	Número  
+- El número 4.
+- bốn
+- Four
+- Ejemplo: Cuatro personas en la clase.

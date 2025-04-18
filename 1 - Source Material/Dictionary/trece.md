@@ -1,0 +1,5 @@
+- trece	[ˈtɾeθe] (Esp), [ˈtɾese] (LatAm)	Número  
+- El número 13.
+- mười ba
+- Thirteen
+- Ejemplo: El número trece.

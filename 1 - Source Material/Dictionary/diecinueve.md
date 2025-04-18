@@ -1,0 +1,5 @@
+- diecinueve	[dje.siˈnwe.βe]	Número  
+- El número 19.
+- mười chín
+- Nineteen
+- Ejemplo: Diecinueve euros.

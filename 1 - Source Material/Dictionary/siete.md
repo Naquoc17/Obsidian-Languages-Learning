@@ -1,0 +1,5 @@
+- siete	[ˈsjete]	Número  
+- El número 7.
+- bảy
+- Seven
+- Ejemplo: Siete días en una semana.

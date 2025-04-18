@@ -1,0 +1,5 @@
+- non-tariff trade barriers	[nɒn-ˈtær.ɪf]	Noun phrase
+- Restrictions on trade that don't involve taxes (like quotas, licenses, or rules)
+- Rào cản thương mại phi thuế quan
+- import restrictions
+- The country reduced non-tariff trade barriers.

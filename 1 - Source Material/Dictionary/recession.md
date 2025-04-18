@@ -1,7 +1,5 @@
-
-- recession	/rɪˈsɛʃ.ən/	noun	
-- A period of economic decline	
-- Suy thoái kinh tế	
-- Rezession	The country is facing a possible recession.	
-- recess (n) – sự gián đoạn, recessionary (adj) – thuộc suy thoái	
-- recedere (to go back)
+- recession	[rɪˈseʃ.ən]	Noun
+- A period when the economy is not growing, businesses lose money, and people lose jobs
+- Suy thoái kinh tế
+- economic downturn
+- Experts warn of a possible recession next year.

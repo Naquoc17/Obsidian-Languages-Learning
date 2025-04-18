@@ -1,0 +1,5 @@
+- dying (to do something)	[ˈdaɪ.ɪŋ]	Adjective (idiom)
+- Very eager or desperate to do something
+- Rất khao khát, rất muốn làm gì đó
+- (To be) desperate, eager
+- He's dying to make a deal with them.
