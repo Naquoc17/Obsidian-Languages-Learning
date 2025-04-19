@@ -1,0 +1,7 @@
+- ausstrahlen	[ˈaʊ̯sˌʃtʁaːlən]	Verb	
+- eine Wirkung oder Stimmung vermitteln, senden
+- tỏa ra, phát sóng
+- to radiate, to broadcast
+- **Sie strahlt Ruhe und Sicherheit aus.**
+- Ausstrahlung (f) – thần thái, phát sóng, Strahlung (f) – bức xạ	
+- Deutsch: Strahl = beam/ray

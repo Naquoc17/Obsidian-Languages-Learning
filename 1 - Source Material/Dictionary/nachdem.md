@@ -1,0 +1,7 @@
+- nachdem	[ˈnaːxdeːm]	Subjunktion	
+- drückt aus, dass etwas nach einem bestimmten Ereignis passiert
+- sau khi
+- after (conjunction)
+- **Nachdem sie gegessen hatte, ging sie spazieren.**
+- (–)	
+- Deutsch: nach + dem (zeitlich)

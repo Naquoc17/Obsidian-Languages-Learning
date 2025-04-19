@@ -1,0 +1,7 @@
+- hören	[ˈhøːʁən]	Verb	
+- mit den Ohren wahrnehmen oder bewusst lauschen
+- nghe
+- to hear, to listen
+- **Ich höre gern Musik beim Lernen.**
+- Zuhörer (m) – người nghe, Hörbuch (n) – sách nói	
+- Althochdeutsch *hōren*

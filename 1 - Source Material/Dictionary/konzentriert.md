@@ -1,0 +1,7 @@
+- konzentriert	[ˌkɔnʦɛnˈtʁiːɐ̯t]	Adjective / Partizip II	
+- mit voller Aufmerksamkeit bei einer Sache
+- tập trung
+- focused, concentrated
+- **Sie arbeitet sehr konzentriert.**
+- Konzentration (f) – sự tập trung, konzentrieren (v) – tập trung	
+- Lateinisch *concentrare* = zusammenführen

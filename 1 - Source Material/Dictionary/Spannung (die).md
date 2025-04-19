@@ -1,0 +1,7 @@
+- Spannung (die)	[ˈʃpanʊŋ]	Noun	
+- erwartungsvolle, angespannte Stimmung
+- sự hồi hộp, căng thẳng
+- suspense, tension, excitement
+- **Die Spannung vor der Premiere ist groß.**
+- spannend (adj) – gay cấn, entspannen (v) – thư giãn	
+- Deutsch: spannen = to tighten/stretch

@@ -1,0 +1,7 @@
+- Weltpremiere (die)	[ˈvɛltpʁeˌmjɛːʁə]	Noun	
+- erste öffentliche Vorstellung weltweit
+- buổi ra mắt toàn cầu
+- world premiere
+- **Der neue Film hatte gestern seine Weltpremiere.**
+- Premiere (f) – buổi ra mắt đầu tiên, uraufführen (v) – trình chiếu lần đầu	
+- Französisch *première*, Latein *primarius*

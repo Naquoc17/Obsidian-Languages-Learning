@@ -1,0 +1,7 @@
+- zugeben	[ˈʦuːˌɡeːbn̩]	Verb (trennbar)	
+- etwas eingestehen, oft etwas Unangenehmes
+- thừa nhận
+- to admit, to confess
+- **Ich muss zugeben, das war mein Fehler.**
+- Zugeständnis (n) – sự thừa nhận, Zugeber (m) – người thú nhận	
+- Deutsch: zu + geben = to + give

@@ -1,0 +1,7 @@
+- erscheinen	[ɛɐ̯ˈʃaɪ̯nən]	Verb	
+- veröffentlicht oder sichtbar werden
+- xuất bản, xuất hiện
+- to be released, to appear
+- **Das Buch wird morgen erscheinen.**
+- Erscheinung (f) – sự xuất hiện, Veröffentlichen (n) – xuất bản	
+- Altdeutsch *scīnan* = leuchten

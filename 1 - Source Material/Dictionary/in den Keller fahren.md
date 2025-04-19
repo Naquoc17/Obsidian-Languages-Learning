@@ -1,0 +1,7 @@
+- in den Keller fahren	[ɪn deːn ˈkɛlɐ ˈfaːʁən]	Redewendung (umgangssprachlich)	
+- stark im Niveau oder in der Stimmung abfallen; negativ werden
+- (nghĩa bóng) tụt mood, làm không khí trở nên kém đi
+- to go downhill, to drop to a low level (in mood or quality)
+- **Mit dem Thema sind wir voll in den Keller gefahren.**
+- Keller (m) – tầng hầm, herunterfahren – giảm xuống	
+- (–)

@@ -1,0 +1,7 @@
+- Bundesrepublik (die)	[ˈbʊndəsʁepuˌbliːk]	Noun	
+- föderale Republik (wie Deutschland)
+- nước cộng hòa liên bang
+- federal republic
+- **Die Bundesrepublik Deutschland hat 16 Bundesländer.**
+- Republik (f) – nước cộng hòa, bundesweit – toàn quốc	
+- Lateinisch *res publica*

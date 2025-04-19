@@ -1,0 +1,7 @@
+- Schnickschnack (der)	[ˈʃnɪkˌʃnak]	Noun (informell)	
+- überflüssiger Zierrat oder unnützes Zeug
+- đồ lặt vặt, thứ linh tinh không cần thiết
+- frills, bells and whistles, unnecessary stuff
+- **Ich mag minimalistisches Design – kein Schnickschnack.**
+- schnickschnackfrei (adj) – không cầu kỳ	
+- lautmalerisch (onomatopoetisch), kein klarer Ursprung

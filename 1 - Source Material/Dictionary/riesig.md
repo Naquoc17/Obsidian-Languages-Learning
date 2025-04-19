@@ -1,0 +1,7 @@
+- riesig	[ˈʁiːzɪç]	Adjective	
+- sehr groß, im übertragenen Sinn: sehr stark
+- rất to lớn, cực kỳ
+- enormous, huge, immensely
+- **Ich freue mich riesig auf das Konzert.**
+- Riese (m) – người khổng lồ, Riesengröße (f) – kích thước khổng lồ	
+- Deutsch *Riese* = giant

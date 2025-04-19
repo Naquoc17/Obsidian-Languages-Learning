@@ -1,0 +1,7 @@
+- Gespräch (das)	[ɡəˈʃpʁɛːç]	Noun	
+- Unterhaltung, verbale Kommunikation zwischen Personen
+- cuộc trò chuyện
+- conversation, dialogue
+- **Das Gespräch war sehr interessant.**
+- sprechen (v) – nói chuyện, Gesprächspartner (m) – người đối thoại	
+- Deutsch: sprechen = to speak

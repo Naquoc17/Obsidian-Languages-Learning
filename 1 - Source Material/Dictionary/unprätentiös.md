@@ -1,0 +1,7 @@
+- unprätentiös	[ʊnˌpʁɛtɛnˈt͡jøːs]	Adjective (gehoben)	
+- bescheiden, nicht überheblich oder auffällig
+- giản dị, không phô trương
+- unpretentious, modest
+- **Sie hat einen ruhigen, unprätentiösen Stil.**
+- Prätention (f) – sự tự phụ (gehoben), prätentiös – phô trương	
+- Lateinisch *praetendere* = vorgeben

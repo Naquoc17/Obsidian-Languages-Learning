@@ -1,0 +1,7 @@
+- Bundeskanzlerin (die)	[ˈbʊndəsˌkanzləʁɪn]	Noun	
+- weibliche Regierungschefin Deutschlands
+- nữ thủ tướng
+- (female) Chancellor
+- **Angela Merkel war viele Jahre Bundeskanzlerin.**
+- Bundeskanzler (m) – thủ tướng (nam), Kanzleramt (n) – văn phòng thủ tướng	
+- Lateinisch *cancellarius*

@@ -1,0 +1,7 @@
+- Medium (das)	[ˈmeːdi̯ʊm]	Noun	
+- Kommunikationsmittel (z. B. Radio, Zeitung, Internet)
+- phương tiện truyền thông
+- medium, media channel
+- **Der Podcast ist ein modernes Medium.**
+- Medien (Plural) – phương tiện truyền thông, medial – thuộc về truyền thông	
+- Lateinisch *medium* = Mitte, Mitte eines Kanals

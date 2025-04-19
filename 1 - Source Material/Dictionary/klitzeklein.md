@@ -1,0 +1,7 @@
+- klitzeklein	[ˈklɪʦəˌklaɪ̯n]	Adjective (umgangssprachlich)	
+- sehr, sehr klein
+- tí hon, rất nhỏ
+- tiny, teeny-weeny
+- **Das ist ein klitzekleines Studio.**
+- klein (adj) – nhỏ, verkleinern (v) – làm nhỏ lại	
+- Verkleinerungsform von *klein* (intensiviert durch "klitz")

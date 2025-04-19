@@ -1,0 +1,7 @@
+- ausverkauft	[ˈaʊ̯s.fɛʁˌkaʊ̯ft]	Adjective (Partizip II)	
+- es gibt keine Tickets oder Exemplare mehr
+- bán hết
+- sold out
+- **Die Veranstaltung war nach 10 Minuten ausverkauft.**
+- verkaufen (v) – bán, der Ausverkauf (m) – đợt giảm giá lớn	
+- Deutsch: aus + verkaufen

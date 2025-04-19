@@ -1,0 +1,7 @@
+- Podcast (der)	[ˈpɔtkaːst]	Noun	
+- digitale Audio- oder Video-Sendung
+- chương trình âm thanh (podcast)
+- podcast
+- **Ich höre oft einen Politik-Podcast.**
+- Podcastfolge (f) – tập podcast, Podcasten (n) – hành động làm podcast	
+- Englisch *pod* + *broadcast*

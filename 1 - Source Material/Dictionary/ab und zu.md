@@ -1,0 +1,7 @@
+- ab und zu	[ap ʊnt ʦuː]	Redewendung / Adverb	
+- manchmal, gelegentlich
+- thỉnh thoảng
+- now and then, occasionally
+- **Ich gehe ab und zu ins Kino.**
+- gelegentlich (adv) – thỉnh thoảng, manchmal – đôi khi	
+- (–)

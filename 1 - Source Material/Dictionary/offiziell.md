@@ -1,0 +1,7 @@
+- offiziell	[ɔfiˈʦi̯ɛl]	Adjective	
+- formell, staatlich oder öffentlich anerkannt
+- chính thức
+- official, formally
+- **Die offizielle Buchvorstellung ist morgen.**
+- Amtlich (adj) – theo quy định, Behörde (f) – cơ quan	
+- Lateinisch *officialis* = zum Amt gehörend

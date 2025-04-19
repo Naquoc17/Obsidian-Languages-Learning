@@ -1,0 +1,7 @@
+- irgendwie	[ˈɪʁɡəntˌviː]	Adverb	
+- auf irgendeine Weise, unbestimmt, diffus
+- bằng cách nào đó, kiểu gì đó
+- somehow, kind of
+- **Irgendwie gefällt mir das nicht.**
+- irgendwas – cái gì đó, irgendwann – vào lúc nào đó	
+- Deutsch: irgend + wie = bất kỳ + cách

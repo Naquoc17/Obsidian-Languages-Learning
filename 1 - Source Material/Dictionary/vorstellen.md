@@ -1,0 +1,7 @@
+- vorstellen	[ˈfoːɐ̯ˌʃtɛlən]	Verb (trennbar)	
+- öffentlich präsentieren oder bekannt machen
+- giới thiệu
+- to present, to introduce
+- **Morgen wird das Buch offiziell vorgestellt.**
+- Vorstellung (f) – buổi giới thiệu, Präsentation, sich vorstellen – tự giới thiệu	
+- Deutsch: vor + stellen = đặt ra phía trước
