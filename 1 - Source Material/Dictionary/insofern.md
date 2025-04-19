@@ -1,0 +1,7 @@
+- insofern	[ɪnˈzoːfɛʁn]	Adverb / Konjunktion	
+- aus diesem Grund; in dieser Hinsicht / sofern
+- vì lý do đó, xét về mặt đó
+- in that respect, therefore / insofar as
+- **Insofern war es richtig, das Buch zu schreiben.**
+- insofern als … – trong chừng mực mà…, in dieser Hinsicht – về mặt này	
+- Deutsch: in + so + fern = insofern = in welcher Hinsicht

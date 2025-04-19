@@ -1,0 +1,7 @@
+- Macht sowas was mit Ihnen?	[maxt ˈzoːvas vas mɪt ˈiːnən]	Redewendung / Frageform	
+- Hat das eine emotionale Wirkung auf Sie?
+- Điều đó có làm bạn cảm động / thay đổi cảm xúc không?
+- Does that affect you emotionally?
+- **So eine große Premiere – macht das was mit Ihnen?**
+- umgangssprachlich, aus der Psychologie/Selbsterfahrung übernommen	
+- (–)

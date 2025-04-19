@@ -1,0 +1,7 @@
+- beeindruckend	[bəˈʔaɪ̯nˌdʁʊkŋ̩t]	Adjective (Partizip I)	
+- stark wirkend, großen Eindruck machend
+- ấn tượng
+- impressive
+- **Die Veranstaltung war wirklich beeindruckend.**
+- Eindruck (m) – ấn tượng, beeindrucken (v) – gây ấn tượng	
+- Deutsch: ein + drücken (wörtlich: ấn vào tâm trí)

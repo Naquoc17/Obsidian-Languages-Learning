@@ -1,0 +1,7 @@
+- in sich ruhen	[ɪn zɪç ˈʁuːən]	Redewendung	
+- innerlich ausgeglichen und gelassen sein
+- bình thản trong lòng
+- to be at peace with oneself
+- **Nach dem Schreiben des Buches ruhe ich in mir.**
+- Ruhe (f) – sự yên bình, ausgeglichen – cân bằng	
+- Deutsch: ruhig in der eigenen Mitte sein

@@ -1,0 +1,7 @@
+- Dauerzustand (der)	[ˈdaʊ̯ɐˌʦuːʃtant]	Noun	
+- ein Zustand, der dauerhaft anhält
+- tình trạng kéo dài
+- permanent state, ongoing condition
+- **Ich möchte das nicht als Dauerzustand haben.**
+- dauerhaft (adj) – lâu dài, Zustand (m) – tình trạng	
+- Deutsch: Dauer = length, Zustand = condition

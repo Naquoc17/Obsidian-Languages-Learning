@@ -1,0 +1,7 @@
+- nach bestem Wissen und Gewissen	[naːx ˈbɛstəm ˈvɪsn̩ ʊnt ɡəˈvɪsn̩]	Redewendung	
+- so gut und ehrlich wie möglich; verantwortungsbewusst
+- theo hiểu biết và lương tâm tốt nhất của mình
+- to the best of one’s knowledge and conscience
+- **Ich habe die Entscheidung nach bestem Wissen und Gewissen getroffen.**
+- Gewissen (n) – lương tâm, Wissen (n) – kiến thức	
+- Deutsch: moralisch und sachlich korrekt handeln

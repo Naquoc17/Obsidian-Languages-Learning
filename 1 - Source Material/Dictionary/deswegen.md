@@ -1,0 +1,6 @@
+- deswegen	[ˈdɛsˌveːɡn̩]	Adverb	
+- deshalb, aus diesem Grund
+- vì vậy, do đó
+- because of that, therefore
+- **Es regnet. Deswegen bleiben wir zu Hause.**
+- Folge, Grund

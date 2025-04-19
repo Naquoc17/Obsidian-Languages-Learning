@@ -1,0 +1,7 @@
+- Anspannung (die)	[ˈanˌʃpanʊŋ]	Noun	
+- nervöse Erwartung, Stress
+- căng thẳng
+- tension, nervousness
+- **Vor Prüfungen spüre ich oft eine Anspannung.**
+- anspannen (v) – làm căng, entspannen (v) – thư giãn	
+- Deutsch: spannen = to stretch/tighten

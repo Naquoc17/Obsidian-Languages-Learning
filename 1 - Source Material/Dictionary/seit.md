@@ -1,0 +1,6 @@
+- seit	[zaɪ̯t]	Präposition / Konjunktion	
+- von einem Zeitpunkt in der Vergangenheit bis jetzt
+- từ khi
+- since
+- **Seit 2020 lebt er in Berlin.**
+- Zeitangabe

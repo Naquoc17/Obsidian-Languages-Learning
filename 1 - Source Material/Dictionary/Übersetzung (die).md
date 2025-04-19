@@ -1,0 +1,7 @@
+- Übersetzung (die)	[ˌyːbɐˈzɛʦʊŋ]	Noun	
+- Übertragung eines Textes in eine andere Sprache
+- bản dịch
+- translation
+- **Die Übersetzung ins Spanische dauert noch.**
+- übersetzen (v) – dịch, Übersetzer(in) – người dịch	
+- Deutsch: über + setzen (to set across)

@@ -1,0 +1,7 @@
+- Na ja	[naˈja]	Redewendung (umgangssprachlich)	
+- Ausdruck von Zögern, Nachdenken oder Relativierung
+- ừ thì..., ờ thì..., cũng tàm tạm
+- well..., kind of..., I guess...
+- **Na ja, es war nicht so schlecht.**
+- (–)	
+- Lautmalerisch, Alltagssprache

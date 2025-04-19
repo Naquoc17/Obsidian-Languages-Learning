@@ -1,0 +1,7 @@
+- sich (über etwas) ein Urteil bilden	[ˈʊʁtaɪ̯l]	Redewendung / reflexives Verb	
+- sich eine eigene Meinung über etwas machen
+- tự mình đánh giá về điều gì đó
+- to form an opinion/judgment about something
+- **Man sollte den Film sehen, bevor man sich ein Urteil darüber bildet.**
+- Urteil (n) – sự phán đoán, beurteilen (v) – đánh giá, Meinung (f) – ý kiến	
+- Lateinisch *iudicium* (Gerichtsurteil)

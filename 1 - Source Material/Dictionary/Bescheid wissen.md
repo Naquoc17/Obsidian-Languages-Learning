@@ -1,0 +1,7 @@
+- Bescheid wissen	[bəˈʃaɪ̯t ˈvɪsn̩]	Redewendung	
+- informiert sein, über etwas Klarheit haben
+- biết rõ điều gì
+- to be informed, to know for sure
+- **Ich weiß noch nicht Bescheid.**
+- Bescheid geben – thông báo, sich auskennen – biết rõ	
+- Deutsch: Bescheid = offizielle Info

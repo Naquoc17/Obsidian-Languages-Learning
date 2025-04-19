@@ -1,0 +1,7 @@
+- im Zentrum stehen	[ɪm ˈʦɛntrʊm ˈʃteːən]	Redewendung	
+- im Mittelpunkt der Aufmerksamkeit sein
+- ở trung tâm chú ý
+- to be in the spotlight
+- **Ich will nicht ständig im Zentrum stehen.**
+- Zentrum (n) – trung tâm, zentral – trọng tâm	
+- Deutsch: Zentrum = center

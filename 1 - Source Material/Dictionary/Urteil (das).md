@@ -1,0 +1,7 @@
+- Urteil (das)	[ˈʊʁtaɪ̯l]	Noun	
+- Meinung oder Entscheidung über etwas
+- đánh giá, phán xét
+- judgment, opinion
+- **Jeder bildet sich ein eigenes Urteil.**
+- urteilen (v) – đánh giá, Richter (m) – thẩm phán	
+- Deutsch: ur- (Grund) + teilen (chia sẻ)

@@ -16,23 +16,6 @@
       "key": "K"
     }
   ],
-  "editor:open-search": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
-  "global-search:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
   "templater-obsidian:5 - Templates/Templater.md": [
     {
       "modifiers": [

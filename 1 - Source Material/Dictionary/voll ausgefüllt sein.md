@@ -1,0 +1,7 @@
+- voll ausgefüllt sein	[fɔl ˈaʊ̯sɡəfʏlt zaɪ̯n]	Redewendung	
+- ganz beschäftigt oder innerlich erfüllt sein
+- bị choáng ngợp (vì việc), hoặc cảm thấy trọn vẹn
+- to be fully occupied or emotionally fulfilled
+- **Ich bin mit dem Projekt voll ausgefüllt.**
+- ausfüllen (v) – điền vào, lấp đầy, Erfüllung (f) – sự trọn vẹn	
+- Deutsch: voll = full, ausfüllen = to fill out

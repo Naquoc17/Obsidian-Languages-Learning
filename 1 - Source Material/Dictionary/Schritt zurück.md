@@ -1,0 +1,7 @@
+- Schritt zurück	[ʃʁɪt ʦuˈʁʏk]	Noun phrase	
+- sich zurücknehmen, Abstand gewinnen
+- lùi lại một bước (nghĩa bóng: giảm sự hiện diện)
+- a step back
+- **Danach möchte ich einen Schritt zurück machen.**
+- Schritt (m) – bước chân, zurückgehen – quay lại	
+- (–)

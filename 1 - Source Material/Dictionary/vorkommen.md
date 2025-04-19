@@ -1,0 +1,7 @@
+- vorkommen	[ˈfoːɐ̯ˌkɔmən]	Verb (trennbar)	
+- geschehen, existieren, auftreten
+- xảy ra, xuất hiện
+- to occur, to happen
+- **So ein Leben wird vielleicht nie wieder vorkommen.**
+- das Vorkommen (n) – sự xuất hiện, auftauchen – nổi lên	
+- Deutsch: vor + kommen = đến trước mặt

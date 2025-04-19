@@ -1,0 +1,7 @@
+- es ist es wert	[ɛs ɪst ɛs veːɐ̯t]	Redewendung	
+- es lohnt sich; es hat einen hohen Wert
+- điều đó xứng đáng
+- it’s worth it
+- **Die Arbeit war anstrengend, aber sie war es wert.**
+- wertvoll (adj) – quý giá, lohnend – đáng công	
+- Deutsch: wert = valuable

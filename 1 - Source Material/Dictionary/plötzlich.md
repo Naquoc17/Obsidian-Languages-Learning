@@ -1,0 +1,7 @@
+- plötzlich	[ˈplœt͡slɪç]	Adverb	
+- sehr unerwartet, schnell
+- đột ngột
+- suddenly
+- **Plötzlich fängt es an zu regnen.**
+- Plötzlichkeit (f) – sự đột ngột, unerwartet – bất ngờ	
+- Mittelhochdeutsch *plözlich*

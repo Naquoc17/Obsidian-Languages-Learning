@@ -1,0 +1,7 @@
+- zurückziehen (sich)	[tsuˈʁʏkˌʦiːən]	Verb (trennbar)	
+- sich entfernen, aus dem öffentlichen Leben aussteigen
+- rút lui, lui về ở ẩn
+- to withdraw, to retreat
+- **Er hat sich nach dem Skandal zurückgezogen.**
+- Rückzug (m) – sự rút lui, zurückhaltend – dè dặt	
+- Deutsch: zurück + ziehen = kéo về sau

@@ -1,0 +1,7 @@
+- Eindruck (der)	[ˈʔaɪ̯nˌdʁʊk]	Noun	
+- subjektive Wahrnehmung, Wirkung
+- ấn tượng
+- impression
+- **Ich habe den Eindruck, dass sie ehrlich ist.**
+- beeindrucken (v) – gây ấn tượng, eindrucksvoll – ấn tượng	
+- ein + drücken (hình ảnh ấn sâu vào tâm trí)

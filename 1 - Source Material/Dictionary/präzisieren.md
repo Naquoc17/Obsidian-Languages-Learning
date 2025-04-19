@@ -1,0 +1,7 @@
+- präzisieren	[pʁɛʦiˈziːʁən]	Verb	
+- etwas genauer erklären oder definieren
+- làm rõ, nói chính xác hơn
+- to specify, to clarify
+- **Ich muss meine Aussage noch präzisieren.**
+- Präzision (f) – độ chính xác, präzise (adj) – chính xác	
+- Lateinisch *praecisus* = genau abgegrenzt

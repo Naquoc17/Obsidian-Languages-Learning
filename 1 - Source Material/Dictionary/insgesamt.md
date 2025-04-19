@@ -1,0 +1,7 @@
+- insgesamt	[ˈɪnʦəɡəˌzamt]	Adverb	
+- im Großen und Ganzen, alles zusammen betrachtet
+- nhìn chung, tổng thể
+- overall, all in all
+- **Insgesamt war es ein gutes Jahr.**
+- gesamt – toàn bộ, zusammenfassend – tóm lại	
+- Deutsch: in + gesamt = in total

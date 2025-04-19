@@ -1,0 +1,6 @@
+- allerdings	[ˈalɐˌdɪŋs]	Adverb	
+- jedoch, aber (Einschränkung oder Zustimmung mit Vorbehalt)
+- tuy nhiên, dẫu vậy
+- however, indeed
+- **Das Buch ist interessant, allerdings etwas lang.**
+- Gegensatz, Einschränkung

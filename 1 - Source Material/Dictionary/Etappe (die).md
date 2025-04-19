@@ -1,0 +1,7 @@
+- Etappe (die)	[ɛˈtapə]	Noun	
+- Abschnitt in einem größeren Prozess oder Weg
+- chặng, giai đoạn
+- stage, phase
+- **Eine neue Etappe beginnt jetzt.**
+- Abschnitt (m) – đoạn, Lebensphase (f) – giai đoạn cuộc đời	
+- Französisch *étape* = Zwischenstation

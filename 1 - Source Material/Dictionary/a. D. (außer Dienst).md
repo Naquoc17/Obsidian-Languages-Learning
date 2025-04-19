@@ -1,0 +1,7 @@
+- a. D. (außer Dienst)	[ˌaʊ̯sɐ ˈdiːnst]	Abbreviation	
+- nicht mehr im Amt, im Ruhestand
+- đã nghỉ hưu, không còn tại chức
+- retired, former (official title)
+- **Er ist Professor a. D.**
+- Dienst (m) – nhiệm vụ, außer – ngoài	
+- Deutsch: Dienst = service

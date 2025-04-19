@@ -1,7 +1,7 @@
-- besonders	[bəˈzɔndɐs]	Adverb / Adjective	
-- speziell, außergewöhnlich
+- besonders	[bəˈzɔndɐs]	Adverb / Adjektiv	
+- außergewöhnlich, speziell
 - đặc biệt
 - special, especially
-- **Ein besonders interessanter Gast ist heute da.**
-- Besonderheit (f) – sự đặc biệt	
+- **Das ist schon auch was Besonderes.**
+- Besonderheit (f) – điểm đặc biệt, speziell – riêng biệt	
 - Altdeutsch *sundar* = apart

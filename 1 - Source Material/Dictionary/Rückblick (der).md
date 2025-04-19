@@ -1,0 +1,7 @@
+- Rückblick (der)	[ˈʁʏkˌblɪk]	Noun	
+- Blick zurück auf die Vergangenheit
+- sự nhìn lại, hồi tưởng
+- retrospective, look back
+- **Der Rückblick auf ihr Leben war emotional.**
+- zurückblicken (v) – nhìn lại, Erinnerung (f) – ký ức	
+- Deutsch: rück = zurück + Blick = nhìn

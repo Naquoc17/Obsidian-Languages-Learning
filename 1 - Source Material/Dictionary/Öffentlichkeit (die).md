@@ -1,0 +1,7 @@
+- Öffentlichkeit (die)	[ˈœfn̩tliçkaɪ̯t]	Noun	
+- der öffentliche Raum, die Gesellschaft, in der man beobachtet wird
+- công chúng, sự hiện diện trước công chúng
+- the public, public eye
+- **Sie steht seit Jahren in der Öffentlichkeit.**
+- öffentlich (adj) – công khai, die Öffentlichkeit meiden – tránh công chúng	
+- Deutsch: offen, öffentlich machen = công khai

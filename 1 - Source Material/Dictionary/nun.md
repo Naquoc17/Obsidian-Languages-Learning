@@ -1,0 +1,6 @@
+- nun	[nuːn]	Adverb / Konnektor	
+- jetzt, mittlerweile, also
+- bây giờ, hiện tại
+- now, well then
+- **Nun ist alles klar.** / **Nun, was denken Sie?**
+- Zeitlich oder als Übergang im Gespräch

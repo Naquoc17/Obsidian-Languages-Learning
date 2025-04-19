@@ -1,0 +1,7 @@
+- spannend	[ˈʃpanənt]	Adjective	
+- aufregend, interessant
+- hấp dẫn
+- exciting, fascinating
+- **Es war ein spannendes Leben.**
+- Spannung (f) – sự hồi hộp, entspannen (v) – thư giãn	
+- Deutsch: spannen = to tighten, to engage
