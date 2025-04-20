@@ -14,12 +14,15 @@ Tags:
 ### Grammaire
 
 -  [[Grammaire essentielle A2]]
--  [[Grammaire on dialogue]]
 
 ### Edito
 
 - [[Edito A1]]
 - [[Edito A2]]
+
+### Le DELF 100% réussite
+
+- [[Le DELF 100% réussite B1]]
 
 ## Course
 

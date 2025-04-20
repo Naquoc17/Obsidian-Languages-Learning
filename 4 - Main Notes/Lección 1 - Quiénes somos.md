@@ -92,7 +92,8 @@ Tags: [[Libro del Alumno Suena 1]]
 | 16. Holanda         | [[holandesa]]                    |
 | 17. Rusia           | [[rusa]]                         |
 | 18. Corea           | [[coreana]]                      |
-
+- [[País y Nacionnalidad]]
+- 
 ### 9.
 
 ![[Track-4.mp3]]
@@ -122,6 +123,8 @@ Tags: [[Libro del Alumno Suena 1]]
 | 20     | [[veinte]]                |
 
 ### 10. 
+
+
 
 
 
