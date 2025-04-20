@@ -1,0 +1,7 @@
+- Draw (moisture)	[drɔː]	Verb	
+- To pull in or absorb something.
+- Hút vào, hấp thụ
+- aufnehmen (German)
+- Trees draw moisture from the soil.
+- draw in (to take in), draw out (to extract)
+- From Old English "dragan" (to pull)

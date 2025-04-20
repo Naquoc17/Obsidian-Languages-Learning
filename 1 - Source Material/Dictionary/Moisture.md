@@ -1,0 +1,7 @@
+- Moisture	[ˈmɔɪstʃə(r)]	Noun	
+- Small amounts of water in the air or in something.
+- Độ ẩm
+- Feuchtigkeit (German)
+- Trees release moisture into the atmosphere.
+- moist (slightly wet), moisturize (to add moisture)
+- From Latin "mucidus" (moldy)

@@ -1,0 +1,7 @@
+- Natural resource	[ˈnætʃrəl rɪˈzɔːs]	Noun (compound)	
+- Materials or substances from nature that are useful to humans.
+- Tài nguyên thiên nhiên
+- Natürliche Ressource (German)
+- Forests are a vital natural resource.
+- nature (the natural world), resourceful (clever in using resources)
+- From Latin "natura" (birth) + "resurgere" (to rise again)

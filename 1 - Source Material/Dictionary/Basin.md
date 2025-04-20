@@ -1,0 +1,7 @@
+- Basin	[ˈbeɪsən]	Noun	
+- A low area of land where water collects (e.g., a river basin).
+- Lưu vực
+- Becken (German)
+- The Amazon basin is affected by deforestation.
+- river basin, basin-shaped (adj)
+- From Latin "bacca" (bowl)

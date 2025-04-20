@@ -1,0 +1,7 @@
+- Ensure	[ɪnˈʃʊə(r)]	Verb	
+- To make sure that something happens or is true.
+- Đảm bảo
+- sicherstellen (German)
+- Responsible logging ensures forest protection.
+- insurance (guarantee), assured (certain)
+- From Old French "enseurer"

@@ -1,0 +1,7 @@
+- Global warming	[ˌɡləʊbəl ˈwɔːmɪŋ]	Noun	
+- The gradual increase in Earth's temperature.
+- Hiện tượng nóng lên toàn cầu
+- Globale Erwärmung (German)
+- Global warming affects ecosystems worldwide.
+- globe (the Earth), warm (adj/verb)
+- Compound: global + warming

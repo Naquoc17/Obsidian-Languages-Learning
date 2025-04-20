@@ -34,17 +34,17 @@ Tags: [[Essential Words for The IETLS]]
 
 ### D
 
-Trees provide a natural **[[Defense|defense]] ** against air **[[Pollution|pollution]] **. They remove [[Carbon dioxide|carbon dioxide]]  from the atmosphere while they **[[Emit|emit]] ** oxygen, and their leaves [[Filter|filter]]  **pollutants** from the air. Cutting down trees keeps **[[Pollutant|pollutants]] ** [[Airborne|airborne]] , where they can mix with water vapor¹ and form acid rain. Water quality in nearby streams and rivers also deteriorates as tree loss contributes to increased sedimentation.
+Trees provide a natural **[[Defense|defense]] ** against air **[[Pollution|pollution]] **. They remove [[Carbon dioxide|carbon dioxide]]  from the atmosphere while they **[[Emit|emit]] ** oxygen, and their leaves [[Filter|filter]]  **[[Pollutant|pollutants]] ** from the air. Cutting down trees keeps **[[Pollutant|pollutants]] ** [[Airborne|airborne]] , where they can mix with water [[Vapor|vapor¹]]  and form [[Acid rain|acid rain]] . Water quality in nearby streams and rivers also [[Deteriorate|deteriorates]]  as tree loss contributes to increased [[Sedimentation|sedimentation]] .
 
 
 ### E
 
-In a healthy forest ecosystem, trees draw moisture from the soil and release it into the atmosphere while they provide shade to lessen evaporation. Thus, **deforestation impacts** rainfall patterns, leading to flooding as well as drought and forest **fires**. **Deforestation** is responsible for about one-fifth of carbon dioxide emissions worldwide, making it a major contributor to climate change—in particular, **global warming**. In the Amazon basin alone, **deforestation** is responsible for millions of tons of carbon dioxide being released into the atmosphere annually. Some **logging** companies burn large tracts of forest just to facilitate access to one area—a practice² that discharges even more carbon dioxide.
+In a healthy forest [[Ecosystem|ecosystem]] , trees [[Draw (moisture)|draw moisture]]  from the soil and release it into the atmosphere while they provide [[Shade|shade]]  to lessen [[Evaporation|evaporation]] . Thus, **[[Deforestation|deforestation]]  impacts** [[Rainfall|rainfall]]  patterns, leading to [[Flooding|flooding]]  as well as [[Drought|drought]]  and forest **fires**. **Deforestation** is responsible for about one-fifth of carbon dioxide [[Emission|emissions]]  worldwide, making it a major [[Contributor|contributor]]  to climate change—in particular, **[[Global warming|global warming]] **. In the Amazon [[Basin|basin]]  alone, **deforestation** is responsible for millions of tons of carbon dioxide being released into the atmosphere annually. Some **logging** companies burn large [[Tract|tracts]]  of forest just to [[Facilitate|facilitate]]  access to one area—a practice² that [[Discharge|discharges]]  even more carbon dioxide.
 
 
 ### F
 
-Forests, especially the tropical rain forests, are a vital natural resource with extensive biodiversity and irreplaceable wildlife **habitats**. More responsible **logging** practices would help ensure that they are protected for future generations.
+Forests, especially the [[Tropical rain forest|tropical rain forests]] , are a [[Vital|vital]]  [[Natural resource|natural resource]]  with [[Extensive|extensive]]  [[Biodiversity|biodiversity]]  and [[Irreplaceable|irreplaceable]]  wildlife **habitats**. More responsible **logging** practices would help [[Ensure|ensure]]  that they are protected for [[Future generations|future generations]] .
 
 
 

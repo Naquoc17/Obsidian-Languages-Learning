@@ -1,0 +1,7 @@
+- Deforestation	[diːˌfɒrɪˈsteɪʃən]	Noun	
+- The removal or clearing of forests.
+- Nạn phá rừng
+- Abholzung (German)
+- Deforestation impacts rainfall patterns.
+- forest (rừng), reforestation (trồng lại rừng)
+- From Latin "de-" (remove) + "forestis" (forest)

@@ -1,0 +1,7 @@
+- Protect	[prəˈtekt]	Verb	
+- To keep safe from harm or damage.
+- Bảo vệ
+- schützen (German)
+- Forests must be protected.
+- protection (noun), protective (adj)
+- From Latin "protegere" (to cover in front)

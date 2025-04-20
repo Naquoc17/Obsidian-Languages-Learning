@@ -1,0 +1,7 @@
+- Emission	[ɪˈmɪʃən]	Noun	
+- The act of sending out gas, heat, or light.
+- Sự thải ra
+- Emission (German – same word)
+- CO₂ emissions contribute to global warming.
+- emit (to release), emitter (something that emits)
+- From Latin "emittere"

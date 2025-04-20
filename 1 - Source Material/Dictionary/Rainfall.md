@@ -1,0 +1,7 @@
+- Rainfall	[ˈreɪnfɔːl]	Noun	
+- The amount of rain that falls in an area.
+- Lượng mưa
+- Niederschlag (German)
+- Deforestation affects rainfall patterns.
+- rain (noun/verb), fall (to drop)
+- Compound: rain + fall

@@ -1,0 +1,7 @@
+- Evaporation	[ɪˌvæpəˈreɪʃən]	Noun	
+- The process of turning from liquid into vapor.
+- Sự bốc hơi
+- Verdunstung (German)
+- Shade helps reduce evaporation.
+- evaporate (to change into vapor), evaporative (causing evaporation)
+- From Latin "evaporare"

@@ -1,0 +1,7 @@
+- Facilitate	[fəˈsɪlɪteɪt]	Verb	
+- To make something easier or help it happen.
+- Tạo điều kiện thuận lợi
+- erleichtern (German)
+- Fire facilitates access to remote areas.
+- facility (place that helps activity), facilitator (person who helps)
+- From Latin "facilis" (easy)

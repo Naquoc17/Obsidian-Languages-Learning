@@ -1,0 +1,7 @@
+- Drought	[draʊt]	Noun	
+- A long period with no rain.
+- Hạn hán
+- Dürre (German)
+- Deforestation can also cause drought.
+- dry (adj – khô), dryness (noun)
+- From Old English "drūgath"

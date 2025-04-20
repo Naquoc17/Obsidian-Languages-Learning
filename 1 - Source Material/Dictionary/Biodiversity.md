@@ -1,0 +1,7 @@
+- Biodiversity	[ˌbaɪəʊdaɪˈvɜːsəti]	Noun	
+- The variety of life in the world or a specific ecosystem.
+- Đa dạng sinh học
+- Biodiversität (German)
+- Tropical rain forests have high biodiversity.
+- biological (related to life), diverse (varied)
+- From Greek "bios" (life) + "diversitas" (variety)

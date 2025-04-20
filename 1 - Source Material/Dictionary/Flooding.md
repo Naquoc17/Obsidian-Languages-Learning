@@ -1,0 +1,7 @@
+- Flooding	[ˈflʌdɪŋ]	Noun	
+- When water overflows and covers land.
+- Lũ lụt
+- Überschwemmung (German)
+- Deforestation can cause flooding.
+- flood (verb/noun), flooded (adj)
+- From Old English "flōd"

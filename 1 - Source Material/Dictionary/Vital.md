@@ -1,0 +1,7 @@
+- Vital	[ˈvaɪtl]	Adjective	
+- Very important and necessary for life or success.
+- Rất quan trọng, thiết yếu
+- lebenswichtig (German)
+- Forests are a vital resource for the planet.
+- vitality (energy or life force), vitally (extremely)
+- From Latin "vita" (life)

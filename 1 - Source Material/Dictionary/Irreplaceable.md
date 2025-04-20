@@ -1,0 +1,7 @@
+- Irreplaceable	[ˌɪrɪˈpleɪsəbl]	Adjective	
+- Too valuable to be replaced; one of a kind.
+- Không thể thay thế được
+- unersetzlich (German)
+- Forests provide irreplaceable habitats.
+- replace (to take the place of), replacement (thing used instead)
+- From Latin "replacere" (to put back)

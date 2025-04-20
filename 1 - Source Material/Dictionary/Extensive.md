@@ -1,0 +1,7 @@
+- Extensive	[ɪkˈstensɪv]	Adjective	
+- Large in size, amount, or coverage.
+- Rộng lớn, sâu rộng
+- umfangreich (German)
+- Forests have extensive biodiversity.
+- extension (increase), extend (to make larger), extensively (widely)
+- From Latin "extendere" (to stretch out)

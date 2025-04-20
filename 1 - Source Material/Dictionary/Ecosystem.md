@@ -1,0 +1,7 @@
+- Ecosystem	[ˈiːkəʊˌsɪstəm]	Noun	
+- A system where living things interact with each other and their environment.
+- Hệ sinh thái
+- Ökosystem (German)
+- A forest ecosystem includes trees, animals, and soil.
+- eco- (related to environment), ecological (adj)
+- From Greek "oikos" (house) + "systema" (system)

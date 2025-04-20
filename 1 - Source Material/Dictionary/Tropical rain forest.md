@@ -1,0 +1,7 @@
+- Tropical rain forest	[ˈtrɒpɪkəl reɪn ˌfɒrɪst]	Noun (compound)	
+- A dense, hot, wet forest found near the equator with high biodiversity.
+- Rừng mưa nhiệt đới
+- Tropischer Regenwald (German)
+- Tropical rain forests are home to many rare species.
+- tropical (warm and humid region), rainforest (dense wet forest)
+- From Latin "tropicus" + Old French "forest"

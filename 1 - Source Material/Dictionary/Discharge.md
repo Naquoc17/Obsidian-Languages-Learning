@@ -1,0 +1,8 @@
+- Discharge	[dɪsˈtʃɑːdʒ]	Verb / Noun	
+- (Verb) To release something, especially gas or liquid.  
+- (Noun) The act of releasing something.
+- (Verb) Thải ra / (Noun) sự thải
+- abgeben / Ausstoß (German)
+- This practice discharges more carbon dioxide.
+- discharged (released), discharge pipe
+- From Latin "dis-" (out) + "carricare" (to load)

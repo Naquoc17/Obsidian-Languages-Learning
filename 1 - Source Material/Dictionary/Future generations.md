@@ -1,0 +1,7 @@
+- Future generations	[ˈfjuːtʃə ˌdʒɛnəˈreɪʃənz]	Noun (plural)	
+- People who will live in the future.
+- Các thế hệ tương lai
+- künftige Generationen (German)
+- We must protect forests for future generations.
+- future (the time to come), generation (group born at the same time)
+- From Latin "generare" (to produce)
