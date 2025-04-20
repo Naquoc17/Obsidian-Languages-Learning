@@ -1,0 +1,6 @@
+- Buongiorno	[ˌbwonˈd͡ʒor.no]	Interiezione  
+- Saluto formale usato la mattina
+- Chào buổi sáng
+- Good morning
+- Buongiorno, signor Muti!
+- —	—

@@ -1,0 +1,6 @@
+- rire (v.)	[ʁiʁ]	Verbe
+- Faire un son joyeux avec la bouche quand on trouve quelque chose drôle.
+- Cười
+- To laugh
+- Solène rit pendant le cours.
+- sourire (v.) = mỉm cười / un rire (n.m.) = tiếng cười

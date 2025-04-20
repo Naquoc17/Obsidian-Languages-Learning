@@ -1,0 +1,7 @@
+- chino (el)	[ˈtʃi.no]	Adjetivo/Sustantivo masculino
+- Significado: Persona de China (masculino)
+- Vietnamese: người Trung Quốc (nam)
+- Traducción: Chinese (man)
+- Ejemplo: Él es chino.
+- Familia: china (femenino), China (país)
+- Latín: Sinae (forma antigua)

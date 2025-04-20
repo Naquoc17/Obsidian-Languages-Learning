@@ -1,0 +1,6 @@
+- voir (v.)	[vwaʁ]	Verbe
+- Utiliser ses yeux / rencontrer quelqu’un.
+- Nhìn thấy / gặp
+- To see / to meet
+- Je voulais vous voir au collège.
+- revoir = gặp lại

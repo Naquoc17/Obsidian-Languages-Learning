@@ -1,0 +1,6 @@
+- s’amuser (v. pronominal)	[sa.my.ze]	Verbe
+- Prendre du plaisir, se divertir.
+- Vui chơi
+- To have fun / to enjoy
+- Les élèves ne sont pas là pour s’amuser.
+- amusement (n.m.) = sự vui chơi

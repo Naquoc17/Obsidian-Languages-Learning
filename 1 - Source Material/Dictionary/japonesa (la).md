@@ -1,0 +1,6 @@
+- japonesa (la)	[xapoˈnesa]	Adjetivo/Sustantivo femenino
+- Significado: Persona de Japón (femenino)
+- Vietnamese: người Nhật (nữ)
+- Traducción: Japanese (woman)
+- Ejemplo: Ella es japonesa.
+- Familia: japonés, Japón

@@ -1,0 +1,7 @@
+- belga (el/la)	[ˈbel.ɣa]	Sustantivo/Adjetivo
+- Significado: Persona de Bélgica
+- Vietnamese: người Bỉ / thuộc về Bỉ
+- Traducción: Belgian
+- Ejemplo: Soy belga.
+- Familia: Bélgica (country)
+- Latín: Belgae (tribu céltica)

@@ -1,0 +1,5 @@
+- portuguesa (la)	[poɾtuˈɣesa]	Adjetivo/Sustantivo femenino
+- Significado: Persona de Portugal (femenino)
+- Vietnamese: người Bồ Đào Nha (nữ)
+- Traducción: Portuguese (woman)
+- Ejemplo: Ella es portuguesa.

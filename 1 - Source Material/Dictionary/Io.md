@@ -1,0 +1,6 @@
+- Io	[ˈi.o]	Pronome personale (1ª persona singolare)  
+- Usato per parlare di sé stessi
+- Tôi
+- I
+- Io sono Valeria.
+- —	Latin root: *ego*

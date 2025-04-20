@@ -1,0 +1,6 @@
+- poser un problème (expression)	[pɔ.ze œ̃ pʁɔ.blɛm]	Expression
+- Être une difficulté ou une cause de souci.
+- Gây ra vấn đề
+- To be a problem / cause a problem
+- Elle est joyeuse, et cela pose problème ?
+- un problème = vấn đề

@@ -1,0 +1,6 @@
+- bureau (n.m.)	[by.ʁo]	Nom masculin
+- La pièce où on travaille.
+- Văn phòng
+- Office / Desk
+- Elle entre dans son bureau.
+- le bureau du directeur

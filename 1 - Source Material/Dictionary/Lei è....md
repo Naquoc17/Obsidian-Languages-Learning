@@ -1,0 +1,6 @@
+- Lei è...?	[ˈlɛi ɛ]	Frase (forma cortese)  
+- Per chiedere il nome/formalità
+- Bà/Ông là...?
+- Are you...? (formal)
+- Lei è il signor De Giuli?
+- —	—

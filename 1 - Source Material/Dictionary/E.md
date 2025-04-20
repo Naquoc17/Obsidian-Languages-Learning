@@ -1,0 +1,6 @@
+- E	[e]	Congiunzione  
+- Collega due elementi: "e" = và
+- Và
+- And
+- Valeria e Cecilia.
+- —	Latin root: *et*

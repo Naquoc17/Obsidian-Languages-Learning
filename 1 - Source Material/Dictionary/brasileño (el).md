@@ -1,0 +1,6 @@
+- brasileño (el)	[bɾasiˈleɲo]	Adjetivo/Sustantivo masculino
+- Significado: Persona de Brasil (masculino)
+- Vietnamese: người Brazil (nam)
+- Traducción: Brazilian (man)
+- Ejemplo: Él es brasileño.
+- Familia: brasileña, Brasil

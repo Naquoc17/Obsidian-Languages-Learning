@@ -1,8 +1,7 @@
-
-- Signora (f.)	/siɲˈɲɔ.ra/	sostantivo femminile	
-- Donna adulta, sposata	
-- Quý bà	
-- Madam / Mrs	
-- Buona sera, signora!	
-- Signore (man), Signorina (young woman)	
-- senior
+- Signora	[siɲˈɲo.ra]	Sostantivo femminile  
+- Titolo di rispetto per una donna
+- Bà
+- Mrs. / Madam
+- La signora Genovesi?
+- Signorina: cô (trẻ chưa chồng) — Signore: ông	
+- Latin root: *seniora*

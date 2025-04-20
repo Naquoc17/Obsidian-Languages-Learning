@@ -1,0 +1,6 @@
+- directrice (n.f.)	[di.ʁɛk.tʁis]	Nom féminin
+- La personne qui dirige une école.
+- Hiệu trưởng (nữ)
+- Headmistress / Principal (female)
+- La directrice parle avec le père de l’élève.
+- directeur (n.m.) = masculin de directrice

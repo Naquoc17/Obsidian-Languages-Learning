@@ -1,0 +1,6 @@
+- suivre (v.)	[sɥivʁ]	Verbe
+- Aller derrière quelqu’un, accompagner.
+- Đi theo
+- To follow
+- Suivez-moi, s’il vous plaît.
+- suivre un cours = theo học một khóa

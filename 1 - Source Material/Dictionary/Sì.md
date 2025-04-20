@@ -1,0 +1,6 @@
+- Sì	[si]	Avverbio  
+- Risposta affermativa
+- Vâng / Có
+- Yes
+- Sì, sono io.
+- —	Latin root: *sic*

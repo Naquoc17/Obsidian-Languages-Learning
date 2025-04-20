@@ -1,2 +1,6 @@
-
-- 
+- Come	[ˈko.me]	Avverbio interrogativo  
+- Chỉ cách thức hoặc dùng để hỏi "như thế nào?"
+- Như thế nào?
+- How
+- Come ti chiami?
+- —	Latin root: *quomodo*

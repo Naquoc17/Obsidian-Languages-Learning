@@ -1,0 +1,6 @@
+- excité (adj.)	[ɛk.si.te]	Adjectif
+- Très content ou agité à cause d’un événement.
+- Hào hứng, phấn khích
+- Excited
+- Elle est très excitée par cette nouvelle.
+- excitation (n.f.) = sự phấn khích

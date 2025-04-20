@@ -1,0 +1,6 @@
+- portugués (el)	[poɾtuˈɣes]	Adjetivo/Sustantivo masculino
+- Significado: Persona de Portugal (masculino)
+- Vietnamese: người Bồ Đào Nha (nam)
+- Traducción: Portuguese (man)
+- Ejemplo: Él es portugués.
+- Familia: portuguesa, Portugal

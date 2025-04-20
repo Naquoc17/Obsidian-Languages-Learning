@@ -1,0 +1,6 @@
+- copine (n.f.)	[kɔ.pin]	Nom féminin
+- Amie (informel).
+- Bạn gái (bạn thân)
+- Friend (female) / Girlfriend
+- Elle est en classe avec ses copines.
+- copain (n.m.) = bạn trai / bạn thân (nam)

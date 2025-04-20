@@ -1,0 +1,6 @@
+- Ciao	[t͡ʃa.o]	Interiezione  
+- Saluto informale per dire "ciao" o "arrivederci"
+- Chào (thân mật)
+- Hello / Hi / Bye
+- Ciao, sono Valeria!
+- —	—

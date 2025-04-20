@@ -1,0 +1,6 @@
+- tellement (adv.)	[tɛl.mɑ̃]	Adverbe d’intensité
+- Sert à renforcer un adjectif ou un verbe.
+- Rất là / quá trời
+- So / so much / such
+- Elle est tellement gentille !
+- tellement de + nom = rất nhiều

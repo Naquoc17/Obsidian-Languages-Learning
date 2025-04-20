@@ -1,0 +1,6 @@
+- Io sono...	[ˈi.o ˈso.no]	Frase  
+- Forma base per presentarsi
+- Tôi là...
+- I am...
+- Io sono Giovanni.
+- —	—

@@ -14,6 +14,10 @@ Tags: [[Italian]]
 
 # Nuovo Espresso 1
 
+[Open PDF](file:///D:/Languages/italian/nuovo%20espresso/1/NE1.pdf)
+
+## Lezione 1
+
 - [[Lezione 1 - Primi contatti 1]]
 
 

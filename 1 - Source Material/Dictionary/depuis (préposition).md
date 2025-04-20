@@ -1,0 +1,6 @@
+- depuis (préposition)	[də.pɥi]	Préposition
+- Indique le début d’une action qui continue maintenant.
+- Từ khi
+- Since / For
+- Elle dérange la classe depuis deux semaines.
+- depuis + durée / date

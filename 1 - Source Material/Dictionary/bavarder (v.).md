@@ -1,0 +1,6 @@
+- bavarder (v.)	[ba.vaʁ.de]	Verbe
+- Parler beaucoup, souvent inutilement.
+- Nói chuyện phiếm
+- To chat / talk
+- Solène bavarde pendant le cours.
+- bavard (adj. / nom) = hay nói

@@ -1,0 +1,6 @@
+- Anch’io	[aŋˈki.o]	Avverbio + Pronome  
+- Unione di "anche" + "io" = tôi cũng vậy
+- Tôi cũng thế
+- Me too
+- Anch’io mi chiamo Gucci.
+- —	Latin root: *etiam ego*

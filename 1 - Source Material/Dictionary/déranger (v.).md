@@ -1,0 +1,6 @@
+- déranger (v.)	[de.ʁɑ̃.ʒe]	Verbe
+- Interrompre, gêner quelqu’un.
+- Làm phiền
+- To disturb / bother
+- Elle dérange la classe.
+- être dérangé = bị làm phiền

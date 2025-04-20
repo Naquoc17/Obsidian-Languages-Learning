@@ -1,0 +1,6 @@
+- collège (n.m.)	[kɔ.lɛʒ]	Nom masculin
+- École pour les enfants de 11 à 15 ans en France.
+- Trường trung học cơ sở
+- Middle school / Junior high school
+- Ma fille est en cinquième au collège.
+- collégien(ne) = học sinh cấp hai

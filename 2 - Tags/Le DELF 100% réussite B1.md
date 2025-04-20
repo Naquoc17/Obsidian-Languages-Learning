@@ -14,6 +14,8 @@ Tags: [[French]]
 
 # Le DELF 100% réussite B1
 
+[Open PDF](file:///D:/Languages/french/DELF%20100%20Reussite/Le%20DELF%20-%20100%%20r%C3%A9ussite%20-%20B1/B1_100_compressed.pdf)
+
 ## Compréhension de l'oral
 
 ### Comprendre un é change formel, informel

@@ -1,0 +1,7 @@
+- Sono	[ˈso.no]	Verbo (1ª persona singolare di "essere")  
+- Forma del verbo "essere" (io sono = tôi là)
+- Tôi là
+- I am
+- Sono Giovanni.
+- Essere: là, thì, là ai đó — stato: đã từng	
+- Latin root: *esse*

@@ -1,0 +1,6 @@
+- concentré (adj.)	[kɔ̃.sɑ̃.tʁe]	Adjectif
+- Qui fait attention, attentif.
+- Tập trung
+- Focused
+- Il est concentré en classe.
+- se concentrer (tập trung)

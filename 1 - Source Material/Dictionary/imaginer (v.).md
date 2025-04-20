@@ -1,0 +1,6 @@
+- imaginer (v.)	[i.ma.ʒi.ne]	Verbe
+- Penser quelque chose dans sa tête, sans preuve.
+- Tưởng tượng, nghĩ rằng
+- To imagine / suppose
+- J’imagine que vous savez pourquoi je vous vois.
+- imagination (n.f.) = trí tưởng tượng

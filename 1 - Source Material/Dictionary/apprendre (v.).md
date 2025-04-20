@@ -1,0 +1,6 @@
+- apprendre (v.)	[a.pʁɑ̃dʁ]	Verbe
+- Mémoriser, comprendre une connaissance.
+- Học
+- To learn
+- Les élèves sont à l’école pour apprendre.
+- l’apprentissage (n.m.) = việc học

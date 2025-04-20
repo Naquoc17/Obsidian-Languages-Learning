@@ -1,0 +1,6 @@
+- bientôt (adv.)	[bjɛ̃.to]	Adverbe
+- Dans peu de temps.
+- Sắp tới
+- Soon
+- Elle aura bientôt un petit frère.
+- à bientôt = hẹn gặp lại

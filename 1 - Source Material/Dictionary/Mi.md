@@ -1,0 +1,6 @@
+- Mi	[mi]	Pronome riflessivo (1ª persona singolare)  
+- Parte del verbo riflessivo (mi chiamo = tên tôi là)
+- Tôi (trong cấu trúc phản thân)
+- Myself
+- Mi chiamo Marco.
+- —	Latin root: *me*

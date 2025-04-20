@@ -1,0 +1,7 @@
+- Scusi	[ˈsku.zi]	Verbo (forma cortese di "scusare")  
+- Usato per attirare l’attenzione o chiedere scusa
+- Xin lỗi (lịch sự)
+- Excuse me / Sorry
+- Scusi, Lei come si chiama?
+- Scusare: xin lỗi — Scusa: xin lỗi (không trang trọng)	
+- Latin root: *excusare*

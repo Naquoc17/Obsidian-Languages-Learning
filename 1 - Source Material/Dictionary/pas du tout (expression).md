@@ -1,0 +1,6 @@
+- pas du tout (expression)	[pa dy tu]	Expression
+- Absolument pas, en aucune manière.
+- Hoàn toàn không
+- Not at all
+- — Tu es fatigué ? — Pas du tout !
+- du tout (một chút nào)

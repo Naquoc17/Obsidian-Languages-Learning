@@ -1,0 +1,6 @@
+- alemana (la)	[aleˈmana]	Adjetivo/Sustantivo femenino
+- Significado: Persona de Alemania (femenino)
+- Vietnamese: người Đức (nữ)
+- Traducción: German (woman)
+- Ejemplo: Ella es alemana.
+- Familia: alemán (masc.), Alemania

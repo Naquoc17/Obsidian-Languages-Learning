@@ -1,0 +1,7 @@
+- nacionalidad (la)	[naθjonalidad] o [nasjonalidad]	Sustantivo femenino
+- Significado: Condición de pertenecer a un país
+- Vietnamese: quốc tịch
+- Traducción: nationality
+- Ejemplo: Mi nacionalidad es mexicana.
+- Familia: nación, nacional, nacionalizar	
+- Latín: nationalitas

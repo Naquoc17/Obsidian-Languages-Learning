@@ -1,0 +1,6 @@
+- professeur (n.m./f.)	[pʁɔ.fe.sœʁ]	Nom masculin/féminin
+- Personne qui enseigne à l’école.
+- Giáo viên
+- Teacher / Professor
+- Tous les professeurs se plaignent.
+- prof = cách nói ngắn của professeur

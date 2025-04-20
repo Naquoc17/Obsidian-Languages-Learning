@@ -1,0 +1,6 @@
+- comportement (n.m.)	[kɔ̃.pɔʁ.tə.mɑ̃]	Nom masculin
+- Manière d’agir, d’être.
+- Hành vi
+- Behavior
+- Son comportement change depuis deux semaines.
+- bien/mal se comporter = cư xử tốt/xấu

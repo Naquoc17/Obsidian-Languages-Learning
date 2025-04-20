@@ -1,0 +1,6 @@
+- Tu	[tu]	Pronome personale (2ª persona singolare)  
+- Usato per parlare con una persona in modo informale
+- Bạn (thân mật)
+- You (informal)
+- E tu come ti chiami?
+- —	Latin root: *tu*

@@ -1,0 +1,6 @@
+- annoncer (v.)	[a.nɔ̃.se]	Verbe
+- Dire une nouvelle, informer.
+- Thông báo
+- To announce
+- Ils ont annoncé une bonne nouvelle.
+- une annonce (n.f.) = thông báo

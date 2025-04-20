@@ -1,0 +1,6 @@
+- Ti	[ti]	Pronome riflessivo (2ª persona singolare)  
+- Forma di "te" usata con verbi riflessivi
+- Bạn (dùng trong cấu trúc động từ phản thân)
+- Yourself
+- Come ti chiami?
+- —	Latin root: *te*

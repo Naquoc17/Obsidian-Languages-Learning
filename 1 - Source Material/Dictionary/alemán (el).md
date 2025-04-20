@@ -1,0 +1,7 @@
+- alemán (el)	[aleˈman]	Adjetivo/Sustantivo masculino
+- Significado: Persona de Alemania (masculino)
+- Vietnamese: người Đức (nam)
+- Traducción: German (man)
+- Ejemplo: Soy alemán.
+- Familia: alemana (femenino), Alemania
+- Latín: Alaman(n)i

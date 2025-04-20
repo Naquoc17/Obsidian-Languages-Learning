@@ -1,0 +1,7 @@
+- japonés (el)	[xapoˈnes]	Adjetivo/Sustantivo masculino
+- Significado: Persona de Japón (masculino)
+- Vietnamese: người Nhật (nam)
+- Traducción: Japanese (man)
+- Ejemplo: Él es japonés.
+- Familia: japonesa, Japón
+- Latín: Japonia (forma antigua)

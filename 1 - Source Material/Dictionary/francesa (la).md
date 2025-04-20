@@ -1,0 +1,4 @@
+- francesa (la)	[fɾanˈsesa]	Adjetivo/Sustantivo femenino
+- Significado: Persona de Francia (femenino)
+- Vietnamese: người Pháp (nữ)
+- Traducción: French (woman)

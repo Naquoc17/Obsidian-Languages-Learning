@@ -1,0 +1,6 @@
+- plainte (n.f.)	[plɛ̃t]	Nom féminin
+- Une expression de mécontentement.
+- Lời phàn nàn
+- Complaint
+- Il y a des plaintes de la part des professeurs.
+- porter plainte (nộp đơn khiếu nại)

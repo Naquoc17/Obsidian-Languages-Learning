@@ -1,0 +1,7 @@
+- Signor	[siɲˈɲor]	Sostantivo maschile (forma tronca di “signore”)  
+- Titolo di rispetto per un uomo
+- Ông
+- Mr. / Sir
+- Il signor Ragazzi.
+- Signore: ông — Signorotto: địa chủ (cổ)	
+- Latin root: *senior*

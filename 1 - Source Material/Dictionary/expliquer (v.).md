@@ -1,0 +1,6 @@
+- expliquer (v.)	[ɛks.pli.ke]	Verbe
+- Donner une raison, rendre quelque chose clair.
+- Giải thích
+- To explain
+- Le professeur explique bien la leçon.
+- une explication (n.f.) = lời giải thích

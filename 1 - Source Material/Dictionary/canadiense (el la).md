@@ -1,0 +1,7 @@
+- canadiense (el/la)	[kanaˈðjense]	Adjetivo/Sustantivo
+- Significado: Persona de Canadá
+- Vietnamese: người Canada
+- Traducción: Canadian
+- Ejemplo: Soy canadiense.
+- Familia: Canadá
+- Latín: —

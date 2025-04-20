@@ -1,0 +1,6 @@
+- normal (adj.)	[nɔʁ.mal]	Adjectif
+- Habituel, pas étrange.
+- Bình thường
+- Normal / Usual
+- Ce comportement n’est pas normal.
+- normalement (adv.) = thông thường

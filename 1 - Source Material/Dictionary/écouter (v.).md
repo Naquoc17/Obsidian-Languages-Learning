@@ -1,0 +1,6 @@
+- écouter (v.)	[e.ku.te]	Verbe
+- Faire attention à un son ou à quelqu’un qui parle.
+- Lắng nghe
+- To listen
+- Elle n’écoute pas en classe.
+- écouter de la musique

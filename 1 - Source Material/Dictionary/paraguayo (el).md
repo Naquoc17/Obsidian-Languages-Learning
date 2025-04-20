@@ -1,0 +1,6 @@
+- paraguayo (el)	[paɾaˈɣwaʝo]	Adjetivo/Sustantivo masculino
+- Significado: Persona de Paraguay (masculino)
+- Vietnamese: người Paraguay (nam)
+- Traducción: Paraguayan (man)
+- Ejemplo: Soy paraguayo.
+- Familia: paraguaya, Paraguay

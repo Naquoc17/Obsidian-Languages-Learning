@@ -1,0 +1,7 @@
+- Chiami (chiamarsi)	[ˈkja.mi]	Verbo (2ª persona singolare)  
+- Verbo riflessivo per dire tên mình là gì
+- Tên bạn là gì
+- Your name is
+- Come ti chiami?
+- Chiamare: gọi — Chiamato: đã gọi	
+- Latin root: *clamare*

@@ -1,0 +1,7 @@
+- francés (el)	[fɾanˈses]	Adjetivo/Sustantivo masculino
+- Significado: Persona de Francia (masculino)
+- Vietnamese: người Pháp (nam)
+- Traducción: French (man)
+- Ejemplo: Él es francés.
+- Familia: francesa, Francia
+- Latín: Francus

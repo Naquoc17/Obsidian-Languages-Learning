@@ -1,0 +1,7 @@
+- país (el)	[paˈis]	Sustantivo masculino
+- Significado: Territorio con gobierno propio
+- Vietnamese: quốc gia
+- Traducción: country
+- Ejemplo: España es un país de Europa.
+- Familia: países (plural), nacionalidad (nationality)	
+- Latín: pagensis

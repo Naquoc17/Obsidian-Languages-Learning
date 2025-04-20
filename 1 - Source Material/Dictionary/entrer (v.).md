@@ -1,0 +1,6 @@
+- entrer (v.)	[ɑ̃.tʁe]	Verbe
+- Aller dans un endroit (dans une pièce, un bâtiment…)
+- Đi vào
+- To enter / go in
+- Entrez dans mon bureau !
+- entrée (n.f.) = lối vào

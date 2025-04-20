@@ -1,0 +1,6 @@
+- résultat (n.m.)	[ʁe.zyl.ta]	Nom masculin
+- La note ou le score d’un élève.
+- Kết quả học tập
+- Result / Grade
+- Ses résultats sont bons ce trimestre.
+- avoir de bons/mauvais résultats

@@ -1,0 +1,4 @@
+- paraguaya (la)	[paɾaˈɣwaʝa]	Adjetivo/Sustantivo femenino
+- Significado: Persona de Paraguay (femenino)
+- Vietnamese: người Paraguay (nữ)
+- Traducción: Paraguayan (woman)

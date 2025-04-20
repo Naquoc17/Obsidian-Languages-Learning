@@ -1,0 +1,6 @@
+- attendre (v.)	[a.tɑ̃dʁ]	Verbe
+- Rester jusqu'à ce que quelque chose arrive ; ici : être enceinte, attendre un bébé.
+- Chờ đợi / đang mang thai (nghĩa đặc biệt)
+- To wait / To expect (a child)
+- Nous attendons un bébé pour le mois de juin.
+- attente (n.f.) = sự chờ đợi

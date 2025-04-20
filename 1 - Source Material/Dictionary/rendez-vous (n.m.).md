@@ -1,0 +1,6 @@
+- rendez-vous (n.m.)	[ʁɑ̃.de.vu]	Nom masculin
+- Une rencontre prévue à une heure précise.
+- Cuộc hẹn
+- Appointment / Meeting
+- J’ai rendez-vous avec le médecin.
+- prendre un rendez-vous (đặt lịch hẹn)

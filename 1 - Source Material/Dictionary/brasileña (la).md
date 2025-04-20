@@ -1,0 +1,4 @@
+- brasileña (la)	[bɾasiˈleɲa]	Adjetivo/Sustantivo femenino
+- Significado: Persona de Brasil (femenino)
+- Vietnamese: người Brazil (nữ)
+- Traducción: Brazilian (woman)
