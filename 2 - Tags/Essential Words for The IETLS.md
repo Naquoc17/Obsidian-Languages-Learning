@@ -14,6 +14,8 @@ Tags: [[English]]
 
 # Essential Words for The IETLS
 
+[Open Barron IELTS PDF](file:///D:/Languages/english/Barrons%20-%20Essential%20Words%20for%20the%20IELTS/Barron_Essential_Words_For_IELTS.pdf)
+
 ## [[Unit 1 - The Natural World]]
 
 
