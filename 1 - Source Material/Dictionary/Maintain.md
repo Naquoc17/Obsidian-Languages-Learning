@@ -1,0 +1,7 @@
+- Maintain	[meɪnˈteɪn]	Verb	
+- To keep something in good condition or continue it at the same level.
+- Duy trì
+- aufrechterhalten (German)
+- Vegetation helps maintain a steady water flow.
+- maintenance (noun – upkeep), maintained (adj – kept in good condition)
+- From Latin "manu tenere" (to hold in the hand)

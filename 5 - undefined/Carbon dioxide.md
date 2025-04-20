@@ -1,0 +1,7 @@
+- Carbon dioxide	[ˈkɑːbən daɪˈɒksaɪd]	Noun	
+- A gas produced by breathing and burning fuels.
+- Khí CO₂ (cacbon điôxít)
+- Kohlendioxid (German)
+- Trees remove carbon dioxide from the air.
+- carbon (element), dioxide (compound with two oxygen atoms)
+- From Latin "carbo" + Greek "dioxys"

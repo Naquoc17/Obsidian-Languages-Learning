@@ -1,0 +1,7 @@
+- Logging	[ˈlɒɡɪŋ]	Noun	
+- The activity or business of cutting down trees for wood.
+- Hoạt động khai thác gỗ
+- Holzernte (German)
+- Logging can also damage aquatic habitats.
+- log (verb – to cut down trees), logger (person who cuts trees)
+- From Old English "logg" (tree trunk)

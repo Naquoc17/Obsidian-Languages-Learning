@@ -1,0 +1,7 @@
+- Deplete	[dɪˈpliːt]	Verb	
+- To reduce or use up the supply of something.
+- Làm cạn kiệt
+- erschöpfen (German)
+- Organic matter depletes oxygen in the water.
+- depletion (noun), depleted (adj – reduced)
+- From Latin "deplere" (to empty out)

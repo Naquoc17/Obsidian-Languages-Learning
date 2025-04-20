@@ -1,0 +1,7 @@
+- Vapor	[ˈveɪpə(r)]	Noun	
+- A substance in gas form, especially water in the air.
+- Hơi nước
+- Dampf (German)
+- Water vapor can combine with pollutants.
+- evaporate (to turn into gas), vaporize (to become vapor)
+- From Latin "vapor" (steam)

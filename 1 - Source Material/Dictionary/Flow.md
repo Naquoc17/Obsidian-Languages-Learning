@@ -1,0 +1,8 @@
+- Flow	[fləʊ]	Noun / Verb	
+- (Noun) The movement of a liquid, gas, or electricity.  
+- (Verb) To move in a continuous stream.
+- (Noun) Dòng chảy / (Verb) chảy
+- Fluss (German)
+- A steady water flow prevents erosion.
+- overflow (excessive flow), inflow, outflow
+- From Old English "flowan"

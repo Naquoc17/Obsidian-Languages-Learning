@@ -1,0 +1,7 @@
+- Consume	[kənˈsjuːm]	Verb	
+- To use up something, especially resources or food.
+- Tiêu thụ, sử dụng
+- verbrauchen (German)
+- Organic matter consumes more oxygen.
+- consumer (buyer), consumption (the act of using)
+- From Latin "consumere" (to take completely)

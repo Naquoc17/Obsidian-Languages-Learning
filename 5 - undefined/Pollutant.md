@@ -1,0 +1,7 @@
+- Pollutant	[pəˈluːtənt]	Noun	
+- A harmful substance that pollutes air, water, or land.
+- Chất gây ô nhiễm
+- Schadstoff (German)
+- Pollutants stay airborne without trees.
+- pollution (result of polluting), pollute (to make dirty)
+- From Latin "polluere" (to soil)

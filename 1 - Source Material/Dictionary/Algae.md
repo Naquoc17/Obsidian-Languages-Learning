@@ -1,0 +1,7 @@
+- Algae	[ˈælɡiː]	Noun (plural)	
+- Simple green plants that grow in or near water.
+- Tảo
+- Algen (German)
+- Tree shade inhibits the growth of algae.
+- algal (adjective, related to algae)
+- From Latin "alga" (seaweed)

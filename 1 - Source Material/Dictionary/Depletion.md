@@ -1,0 +1,7 @@
+- Depletion	[dɪˈpliːʃən]	Noun	
+- The reduction or exhaustion of something.
+- Sự suy giảm, cạn kiệt
+- Erschöpfung (German)
+- Oxygen depletion can kill aquatic wildlife.
+- deplete (to use up), depleted (reduced)
+- From Latin "deplere" (to empty)

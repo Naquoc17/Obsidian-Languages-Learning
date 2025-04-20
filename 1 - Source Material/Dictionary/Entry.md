@@ -1,0 +1,7 @@
+- Entry	[ˈɛntri]	Noun	
+- The act of going in or coming in.
+- Sự xâm nhập, sự đi vào
+- Eintritt (German)
+- Vegetation blocks the entry of soil.
+- enter (verb – to go in), entrance (noun – doorway)
+- From Latin "intrare" (to enter)

@@ -1,0 +1,7 @@
+- Wildlife	[ˈwaɪldlaɪf]	Noun	
+- Animals and plants in their natural environment.
+- Động vật hoang dã
+- Wildtiere (German)
+- Pollution is dangerous to wildlife.
+- wild (adj – untamed), life (living things)
+- Compound: wild + life

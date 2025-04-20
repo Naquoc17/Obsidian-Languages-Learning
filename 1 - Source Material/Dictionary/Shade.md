@@ -1,0 +1,7 @@
+- Shade	[ʃeɪd]	Noun	
+- An area that is darker and cooler because the light is blocked.
+- Bóng râm
+- Schatten (German)
+- Tree shade inhibits the growth of algae.
+- shadow (a dark shape cast by something), shady (partly dark)
+- From Old English "sceadu"

@@ -1,0 +1,7 @@
+- Aquatic	[əˈkwætɪk]	Adjective	
+- Relating to water; living or growing in, on, or near water.
+- Sống dưới nước
+- Wasser- (German)
+- Aquatic habitats are home to many species.
+- aquarium (place for aquatic animals), aquatics (water sports)
+- From Latin "aqua" (water)

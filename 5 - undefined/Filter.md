@@ -1,0 +1,8 @@
+- Filter	[ˈfɪltə(r)]	Verb / Noun	
+- (Verb) To remove unwanted substances from something.  
+- (Noun) A device or material for removing impurities.
+- (Verb) Lọc / (Noun) bộ lọc
+- filtern / Filter (German)
+- Leaves filter pollutants from the air.
+- filtration (process of filtering), unfiltered (not filtered)
+- From Latin "filtrum"

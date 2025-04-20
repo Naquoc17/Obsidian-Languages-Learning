@@ -1,0 +1,7 @@
+- Deteriorate	[dɪˈtɪəriəreɪt]	Verb	
+- To become worse over time.
+- Trở nên tệ hơn, suy thoái
+- sich verschlechtern (German)
+- Water quality deteriorates after tree loss.
+- deterioration (noun – decline)
+- From Latin "deterior" (worse)

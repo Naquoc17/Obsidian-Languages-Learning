@@ -1,0 +1,7 @@
+- Residue	[ˈrɛzɪdjuː]	Noun	
+- A small amount of something that remains after the main part is gone.
+- Cặn bã, phần còn lại
+- Rückstand (German)
+- Soil and other residue can flow into waterways.
+- residual (remaining part), reside (to live or remain)
+- From Latin "residuum"

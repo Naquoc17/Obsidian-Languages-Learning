@@ -1,0 +1,7 @@
+- Steady	[ˈstɛdi]	Adjective	
+- Constant, regular, and not changing suddenly.
+- Ổn định
+- stabil (German)
+- Vegetation helps maintain a steady water flow.
+- steadily (adv – continuously), steadiness (noun)
+- From Old English "stæðig" (firm)

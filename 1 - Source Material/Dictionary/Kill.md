@@ -1,0 +1,7 @@
+- Kill	[kɪl]	Verb	
+- To cause the death of a living thing.
+- Giết chết
+- töten (German)
+- The lack of oxygen can kill aquatic life.
+- killer (person or thing that kills), killing (act of killing)
+- Possibly from Old English "cyllan"

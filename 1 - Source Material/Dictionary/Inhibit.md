@@ -1,0 +1,7 @@
+- Inhibit	[ɪnˈhɪbɪt]	Verb	
+- To slow down or prevent something from happening.
+- Ngăn chặn, làm chậm lại
+- hemmen (German)
+- Tree shade inhibits the growth of algae.
+- inhibition (something that holds back), uninhibited (free)
+- From Latin "inhibere" (to hold back)

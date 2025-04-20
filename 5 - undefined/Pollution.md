@@ -1,0 +1,7 @@
+- Pollution	[pəˈluːʃən]	Noun	
+- Harmful substances in the environment.
+- Sự ô nhiễm
+- Verschmutzung (German)
+- Air pollution affects health.
+- pollute (to make dirty), polluted (adj)
+- From Latin "polluere" (to defile)

@@ -1,0 +1,7 @@
+- Emit	[ɪˈmɪt]	Verb	
+- To send out light, heat, gas, or sound.
+- Thải ra, phát ra
+- ausstoßen (German)
+- Trees emit oxygen into the atmosphere.
+- emission (the act of releasing), emitter (something that emits)
+- From Latin "emittere" (to send out)

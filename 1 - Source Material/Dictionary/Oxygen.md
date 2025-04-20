@@ -1,0 +1,7 @@
+- Oxygen	[ˈɒksɪdʒən]	Noun	
+- A gas in the air that humans and animals need to breathe.
+- Oxy (khí ôxy)
+- Sauerstoff (German)
+- Oxygen depletion can harm aquatic life.
+- oxygenate (to add oxygen), oxygenation (noun)
+- From Greek "oxys" (sharp) + "genes" (producer)

@@ -1,0 +1,7 @@
+- Habitat	[ˈhæbɪtæt]	Noun	
+- The natural environment where a plant or animal lives.
+- Môi trường sống
+- Lebensraum (German)
+- Logging can damage aquatic habitats.
+- habitation (act of living in a place), inhabit (to live in)
+- From Latin "habitare" (to live)

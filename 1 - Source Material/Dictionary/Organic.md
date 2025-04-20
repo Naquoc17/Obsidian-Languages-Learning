@@ -1,0 +1,7 @@
+- Organic	[ɔːˈɡænɪk]	Adjective	
+- Relating to natural matter from living organisms.
+- Hữu cơ
+- organisch (German)
+- Organic matter in soil consumes oxygen.
+- organism (living thing), organically (naturally)
+- From Greek "organon" (tool/instrument)

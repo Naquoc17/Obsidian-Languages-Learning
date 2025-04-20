@@ -1,0 +1,7 @@
+- Obliterate	[əˈblɪtəreɪt]	Verb	
+- To completely destroy or remove something.
+- Xóa sạch, phá hủy hoàn toàn
+- auslöschen (German)
+- Removing trees obliterates these benefits.
+- obliteration (destruction)
+- From Latin "oblitterare"

@@ -1,0 +1,7 @@
+- Erode	[ɪˈrəʊd]	Verb	
+- To wear away gradually (often by wind, water, or natural forces).
+- Xói mòn
+- erodieren (German)
+- Eroding soil flows into waterways.
+- erosion (noun)
+- From Latin "erodere" (to gnaw away)

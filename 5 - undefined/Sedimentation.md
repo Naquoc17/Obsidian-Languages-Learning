@@ -1,0 +1,7 @@
+- Sedimentation	[ˌsɛdɪmɛnˈteɪʃən]	Noun	
+- The process by which solid particles settle in a liquid.
+- Sự lắng đọng (trầm tích)
+- Sedimentierung (German)
+- Tree loss increases sedimentation in rivers.
+- sediment (solid matter that settles), sedimentary (related to sediment)
+- From Latin "sedimentum" (a settling)

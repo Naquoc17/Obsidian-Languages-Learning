@@ -1,0 +1,7 @@
+- Acid rain	[ˈæsɪd reɪn]	Noun	
+- Rain that contains harmful acids from air pollution.
+- Mưa axít
+- Saurer Regen (German)
+- Acid rain can damage forests and rivers.
+- acidic (containing acid), acidification (the process of becoming acidic)
+- From Latin "acidus" (sour)

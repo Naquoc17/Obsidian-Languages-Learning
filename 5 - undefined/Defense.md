@@ -1,0 +1,7 @@
+- Defense	[dɪˈfɛns]	Noun	
+- Protection against harm, danger, or attack.
+- Sự bảo vệ
+- Verteidigung (German)
+- Trees provide a natural defense against pollution.
+- defend (to protect), defensive (protective), defender (protector)
+- From Latin "defendere" (to ward off)

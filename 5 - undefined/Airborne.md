@@ -1,0 +1,7 @@
+- Airborne	[ˈeəˌbɔːn]	Adjective	
+- Carried through the air.
+- Trong không khí
+- in der Luft (German)
+- Pollutants remain airborne when trees are cut down.
+- air (không khí), born (carried or delivered)
+- Compound: air + borne

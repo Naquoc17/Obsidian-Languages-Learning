@@ -7,7 +7,7 @@ Tags: [[Essential Words for The IETLS]]
 
 # Unit 1 - The Natural World
 
-## Environmental Impacts of [[logging|Logging]] 
+## Environmental Impacts of [[Logging 1|Logging]] 
 
 ### A
 
@@ -16,7 +16,7 @@ Tags: [[Essential Words for The IETLS]]
 - the damage includes habitat loss, pollution and climate change, with the effects [[to span|spanning]]  the globe from the rain forests of Central Africa, Southeast Asia and South America to the northern forests of Canada and  Scandinavia
 - The effects of logging extend beyond just the felling of [[swath|a swath of]]  trees
 - nutrients water and shelter for plants, animals and microorganisms throughout the ecosystem are also lost
-- many life forms - both [[terrestrial]] and [[aquatic]] are becoming endangered as forests [[vanish]]
+- many life forms - both [[terrestrial]] and [[Aquatic 1]] are becoming endangered as forests [[vanish]]
 
 ### B
 
@@ -30,19 +30,21 @@ Tags: [[Essential Words for The IETLS]]
 
 ### C
 
-_Logging_ can also damage _aquatic habitats_. _Vegetation_ along rivers and stream banks helps maintain a steady water flow by blocking the entry of soil and other residue, and tree shade _inhibits_ the growth of algae. Removing trees _obliterates_ these benefits. When eroding soil flows into waterways, the organic matter within it consumes more oxygen, which can lead to oxygen depletion in the water, _killing_ fish and other _aquatic_ wildlife.
+**[[Logging 1|Logging]] ** can also damage **[[Aquatic 1]] habitats**. **Vegetation** along rivers and stream banks helps maintain a [[Steady|steady]]  water flow by [[Block|blocking]]  the [[Entry|entry]]  of soil and other [[Residue|residue]] , and tree [[Shade|shade]]  **[[Inhibit|inhibits]] ** the growth of [[Algae|algae]] . Removing trees **[[Obliterate|obliterates]] ** these benefits. When [[Erode|eroding]]  soil [[Flow|flows]]  into waterways, the [[Organic|organic]]  matter within it consumes more [[Oxygen|oxygen]] , which can lead to oxygen [[Depletion|depletion]]  in the water, **killing** fish and other **aquatic** [[Wildlife|wildlife]] .
 
 ### D
 
-Trees provide a natural _defense_ against air _pollution_. They remove carbon dioxide from the atmosphere while they _emit_ oxygen, and their leaves filter _pollutants_ from the air. Cutting down trees keeps _pollutants_ airborne, where they can mix with water vapor¹ and form acid rain. Water quality in nearby streams and rivers also deteriorates as tree loss contributes to increased sedimentation.
+Trees provide a natural **[[Defense|defense]] ** against air **[[Pollution|pollution]] **. They remove [[Carbon dioxide|carbon dioxide]]  from the atmosphere while they **[[Emit|emit]] ** oxygen, and their leaves [[Filter|filter]]  **pollutants** from the air. Cutting down trees keeps **[[Pollutant|pollutants]] ** [[Airborne|airborne]] , where they can mix with water vapor¹ and form acid rain. Water quality in nearby streams and rivers also deteriorates as tree loss contributes to increased sedimentation.
+
 
 ### E
 
-In a healthy forest ecosystem, trees draw moisture from the soil and release it into the atmosphere while they provide shade to lessen evaporation. Thus, _deforestation impacts_ rainfall patterns, leading to flooding as well as drought and forest _fires_. _Deforestation_ is responsible for about one-fifth of carbon dioxide emissions worldwide, making it a major contributor to climate change—in particular, _global warming_. In the Amazon basin alone, _deforestation_ is responsible for millions of tons of carbon dioxide being released into the atmosphere annually. Some _logging_ companies burn large tracts of forest just to facilitate access to one area—a practice² that discharges even more carbon dioxide.
+In a healthy forest ecosystem, trees draw moisture from the soil and release it into the atmosphere while they provide shade to lessen evaporation. Thus, **deforestation impacts** rainfall patterns, leading to flooding as well as drought and forest **fires**. **Deforestation** is responsible for about one-fifth of carbon dioxide emissions worldwide, making it a major contributor to climate change—in particular, **global warming**. In the Amazon basin alone, **deforestation** is responsible for millions of tons of carbon dioxide being released into the atmosphere annually. Some **logging** companies burn large tracts of forest just to facilitate access to one area—a practice² that discharges even more carbon dioxide.
+
 
 ### F
 
-Forests, especially the tropical rain forests, are a vital natural resource with extensive biodiversity and irreplaceable wildlife _habitats_. More responsible _logging_ practices would help ensure that they are protected for future generations.
+Forests, especially the tropical rain forests, are a vital natural resource with extensive biodiversity and irreplaceable wildlife **habitats**. More responsible **logging** practices would help ensure that they are protected for future generations.
 
 
 
