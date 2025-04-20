@@ -121,6 +121,10 @@ Tags: [[Libro del Alumno Suena 1]]
 | 19     | [[diecinueve]]            |
 | 20     | [[veinte]]                |
 
+### 10. 
+
+
+
 
 
 # Abbreviation
