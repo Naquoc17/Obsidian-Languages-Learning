@@ -1,0 +1,7 @@
+- klar kommen	[ˈklaːɐ̯ ˌkɔmən]	Redewendung (trennbar)	
+- bedeutet: sich mit jemandem gut verstehen / zurechtkommen
+- nghĩa là: hòa thuận, hiểu nhau, xoay xở được
+- to get along / manage
+- Wir werden schon klar kommen.
+- klarkommen mit jdm/etw = hòa hợp, giải quyết được
+- klar = rõ ràng, kommen = đến

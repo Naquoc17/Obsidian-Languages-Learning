@@ -1,0 +1,7 @@
+- unterzeichnen	[ʊntɐˈtsaɪ̯çnən]	Verb	
+- bedeutet: etwas offiziell unterschreiben
+- nghĩa là: ký tên chính thức
+- to sign (formally)
+- Herr Dr. Kampe hat sie unterzeichnet.
+- Unterzeichnung (f) = sự ký kết
+- unter (under) + zeichnen (to sign/draw)

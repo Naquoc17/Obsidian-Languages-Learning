@@ -1,0 +1,7 @@
+- vorstellen	[ˈfoːɐ̯ˌʃtɛlən]	Verb (trennbar)	
+- bedeutet: jemanden bekannt machen
+- nghĩa là: giới thiệu ai đó
+- to introduce
+- Ich wollte nur kurz Herrn Lespignasse vorstellen.
+- die Vorstellung (f) = sự giới thiệu; sich vorstellen = tự giới thiệu
+- vor (before) + stellen (to place)

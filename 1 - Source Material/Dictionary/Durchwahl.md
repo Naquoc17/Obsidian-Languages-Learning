@@ -1,0 +1,7 @@
+- Durchwahl	[ˈdʊʁçˌvaːl]	Nomen (f)	
+- bedeutet: direkte Telefonnummer innerhalb eines Unternehmens
+- nghĩa là: số máy lẻ (trong công ty)
+- extension number
+- Ich bin in meinem Büro – die Durchwahl haben Sie ja.
+- durchwählen = chọn số trực tiếp; Hauptnummer = số chính
+- German: durch (qua) + Wahl (sự chọn)

@@ -1,0 +1,7 @@
+- Bescheid sagen	[bəˈʃaɪ̯t ˈzaːɡn̩]	Redewendung	
+- bedeutet: jemanden über etwas informieren
+- nghĩa là: báo cho ai đó biết
+- to let someone know
+- Dann seien Sie doch so nett und sagen mir kurz Bescheid.
+- Bescheid wissen = biết rõ; Bescheid geben = thông báo
+- Old High German: bisceit (Entscheidung)

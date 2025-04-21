@@ -1,0 +1,7 @@
+- vormerken	[ˈfoːɐ̯ˌmɛʁkn̩]	Verb	
+- bedeutet: etwas (z. B. einen Termin) im Voraus eintragen oder reservieren
+- nghĩa là: ghi chú trước, đặt lịch trước
+- to schedule / to reserve
+- Sie sind um 11.30 Uhr vorgemerkt.
+- Vormerkung (f) = sự ghi chú trước
+- Germanic: merken = ghi nhớ

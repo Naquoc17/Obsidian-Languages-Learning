@@ -1,0 +1,7 @@
+- vertreten	[ˈfɛɐ̯ˌtʁeːtən]	Verb	
+- bedeutet: für jemanden einspringen, anstelle von jemandem arbeiten
+- nghĩa là: đại diện cho ai đó, làm thay ai đó
+- to represent / to substitute
+- Ich vertrete Frau Krause während der nächsten drei Monate.
+- Vertreter (m) = người đại diện; Vertretung (f) = sự thay thế, đại diện
+- Latin: tractare (behandeln)

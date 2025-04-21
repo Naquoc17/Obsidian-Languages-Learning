@@ -1,0 +1,7 @@
+- aufhalten	[ˈaʊ̯fˌhaltn̩]	Verb (trennbar)	
+- bedeutet: jemanden an etwas hindern, jemanden nicht weitergehen lassen
+- nghĩa là: giữ lại, làm chậm trễ
+- to hold up / delay
+- Wir wollen Sie nicht länger aufhalten.
+- aufhaltbar = có thể trì hoãn; Aufenthalt (m) = chỗ ở, thời gian ở lại
+- auf (on) + halten (to hold)

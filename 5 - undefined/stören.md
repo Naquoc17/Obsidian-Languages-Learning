@@ -1,0 +1,7 @@
+- stören	[ˈʃtøːʁən]	Verb	
+- bedeutet: unterbrechen, Unruhe verursachen
+- nghĩa là: làm phiền, quấy rầy
+- to disturb
+- Dürfen wir kurz stören?
+- störend (adj) = gây phiền; Störung (f) = sự gián đoạn
+- Germanic root: sturjan (to scatter)

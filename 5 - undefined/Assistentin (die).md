@@ -1,0 +1,7 @@
+- Assistentin (die)	[asɪsˈtɛntɪn]	Nomen (f)	
+- bedeutet: weibliche Person, die jemanden bei der Arbeit unterstützt
+- nghĩa là: trợ lý (nữ)
+- assistant (female)
+- Frau Steinbach, die Assistentin von Herrn Dr. Kampe.
+- Assistent (m) = trợ lý nam; assistieren = hỗ trợ
+- Latin: assistere (to assist)

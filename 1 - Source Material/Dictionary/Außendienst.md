@@ -1,0 +1,7 @@
+- Außendienst	[ˈʔaʊ̯sn̩ˌdiːnst]	Nomen (m)	
+- bedeutet: Arbeit außerhalb des Büros, z. B. bei Kunden vor Ort
+- nghĩa là: công việc bên ngoài (đi công tác, gặp khách hàng...)
+- field service / outside sales
+- Ich bin Peter Bauer, Außendienst.
+- Außendienstmitarbeiter (m) = nhân viên làm việc bên ngoài; Innendienst (m) = công việc trong văn phòng
+- Latin: extra (außerhalb) + dienst (service)
