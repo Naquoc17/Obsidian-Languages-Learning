@@ -62,22 +62,22 @@ Morgen, Frau Steinbach. Dürfen wir kurz [[stören]]?
 Guten Tag, Frau Wenker. Selbstverständlich.
 
 **Wenker:**  
-Ich wollte nur kurz Herrn Lespignasse [[5 - undefined/vorstellen|vorstellen]], der bei uns in der Personalabteilung als Praktikant arbeiten wird. Er kommt aus Frankreich. Herr Lespignasse, das ist Frau Steinbach, die Assistentin von Herrn Dr. Kampe. Sie werden sicher häufiger mit ihr zu tun haben.
+Ich wollte nur kurz Herrn Lespignasse [[vorstellen 1|vorstellen 1]], der bei uns in der Personalabteilung als Praktikant arbeiten wird. Er kommt aus Frankreich. Herr Lespignasse, das ist Frau Steinbach, die [[Assistentin (die)|Assistentin]]  von Herrn Dr. Kampe. Sie werden sicher häufiger mit ihr zu tun haben.
 
 **Lespignasse:**  
 Guten Tag, Madame ... äh Frau ... Stennback?
 
 **Steinbach:**  
-Stein-bach ... Stein-bach ... Guten Tag, Herr ... Lespignasse ... spreche ich Ihren Namen richtig aus?
+Stein-bach ... Stein-bach ... Guten Tag, Herr ... Lespignasse ... ***spreche ich Ihren Namen richtig aus***?
 
 **Lespignasse:**  
 Ja, ganz richtig. Entschuldigen Sie, dass mein Deutsch noch nicht so ... perfekt ist.
 
 **Steinbach:**  
-Wir werden schon klar kommen. Ach, Frau Wenker, da Sie gerade hier sind. Darf ich Ihnen gleich die Verträge mitgeben? Herr Dr. Kampe hat sie unterzeichnet.
+Wir werden schon [[klar kommen|klar kommen]] . Ach, Frau Wenker, da Sie gerade hier sind. Darf ich Ihnen gleich die Verträge mitgeben? Herr Dr. Kampe hat sie unterzeichnet.
 
 **Wenker:**  
-Ja, danke ... Gut, dann werden wir Sie jetzt nicht länger aufhalten ... Bis später, Frau Steinbach.
+Ja, danke ... Gut, dann werden wir Sie jetzt nicht länger [[aufhalten]] ... Bis später, Frau Steinbach.
 
 **Steinbach:**  
 Ja, bis später, Frau Wenker.
