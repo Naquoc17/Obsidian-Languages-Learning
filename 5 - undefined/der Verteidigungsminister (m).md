@@ -1,0 +1,6 @@
+- der Verteidigungsminister (m)	[fɛɐ̯ˈtaɪ̯dɪɡʊŋsˌmɪnɪstɐ]	Noun	
+- Minister, der für die Armee und nationale Sicherheit zuständig ist
+- Bộ trưởng quốc phòng
+- defense minister
+- Der Verteidigungsminister sprach vor dem Parlament.
+- verteidigen (to defend), das Ministerium (ministry)	Latin: *ministrare*

@@ -1,0 +1,6 @@
+- zur Kenntnis gelangen	[tsuːɐ̯ ˈkɛntnɪs ɡəˈlaŋən]	Redewendung	
+- bekannt werden, erfahren werden
+- Được biết đến, tiếp nhận thông tin
+- to come to someone's attention
+- Die Information gelangte an die Öffentlichkeit.
+- die Kenntnis (knowledge), gelangen (to reach)	Latin: *cognitio*

@@ -1,0 +1,6 @@
+- die Staatsanleihe (f)	[ˈʃtaːtsˌʔanˌlaɪ̯ə]	Noun	
+- Schuldverschreibung, die ein Staat ausgibt, um Geld zu leihen
+- Trái phiếu chính phủ
+- government bond
+- Viele Investoren kaufen sichere Staatsanleihen.
+- der Staat (state), die Anleihe (bond)	Latin: *status* + *ligare*

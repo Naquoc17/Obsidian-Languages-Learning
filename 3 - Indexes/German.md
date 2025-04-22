@@ -23,7 +23,7 @@ Tags:
 
 ### [[Mit Erfolg zu telc C1 Hochschule]]
 
-## [[Erfolgreich am Telefon und bei Gesprächen im Büro]]
+### [[Erfolgreich am Telefon und bei Gesprächen im Büro]]
 
 ## Podcast
 
@@ -34,12 +34,20 @@ Tags:
 
 - [[Der große Deal mit Solaranlagen, die nie gebaut werden]]
 
-### [[DW Deutsch Lernen]]
+### DW Deutsch Lernen
 
+## Top-Thema mit Vokabeln
 
+- [[Die Frau, die Monopoly erfand]]
+- [[Zwischen Ebbe und Flut - das Leben auf einer Hallig]]
+- [[Ein Leuchtturm in den Schweizer Alpen]]
 
+## Videos
 
+### Youtube
 
+- [[USA Börsen-Beben! Äußerung von Trump sorgt für Absturz! Wie reagiert die Notenbank Fed]]
+- [[USA Chat-Affäre im Pentagon! Trump tobt! Hegseth weist Vorwürfe über Angriffe im Jemen zurück]]
 
 
 

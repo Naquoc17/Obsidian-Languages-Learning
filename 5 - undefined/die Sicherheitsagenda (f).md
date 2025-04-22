@@ -1,0 +1,6 @@
+- die Sicherheitsagenda (f)	[ˈzɪçɐhaɪ̯ts aˈɡɛnda]	Noun	
+- Plan zur Gewährleistung der nationalen Sicherheit
+- Chương trình nghị sự an ninh
+- security agenda
+- Die Regierung stellte ihre neue Sicherheitsagenda vor.
+- sicher (safe), die Agenda (agenda)	Latin: *agenda*

@@ -14,13 +14,6 @@ Tags: [[German]]
 
 # DW Deutsch Lernen
 
-## Top-Thema mit Vokabeln
-
-### [[Die Frau, die Monopoly erfand]]
-### [[Zwischen Ebbe und Flut - das Leben auf einer Hallig]]
-
-### [[Ein Leuchtturm in den Schweizer Alpen]]
-
 
 
 

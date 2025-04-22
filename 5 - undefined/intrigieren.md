@@ -1,0 +1,6 @@
+- intrigieren	[ɪntʁiˈɡiːʁən]	Verb	
+- heimlich gegen jemanden arbeiten oder Pläne schmieden
+- Gièm pha, âm mưu chống lại ai đó
+- to plot / to scheme
+- Die Kollegen intrigierten gegen ihren Chef.
+- die Intrige (plot), intrigant (scheming)	Latin: *intricare*

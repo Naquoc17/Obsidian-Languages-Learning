@@ -1,0 +1,6 @@
+- in die Kritik geraten	[ɡəˈʁaːtn̩]	Redewendung	
+- öffentlich negativ bewertet oder hinterfragt werden
+- Bị chỉ trích
+- to come under criticism
+- Der Politiker ist wegen seiner Entscheidung in die Kritik geraten.
+- kritisieren (to criticize), die Kritik (criticism)	Latin: *critica*

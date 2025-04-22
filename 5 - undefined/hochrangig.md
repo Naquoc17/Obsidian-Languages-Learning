@@ -1,0 +1,6 @@
+- hochrangig	[ˈhoːχˌʁaŋɪç]	Adjective	
+- eine hohe Position oder einen wichtigen Rang habend
+- Cấp cao
+- high-ranking
+- Der Präsident traf sich mit hochrangigen Offizieren.
+- der Rang (rank), ranghoch (of high rank)	No Latin root

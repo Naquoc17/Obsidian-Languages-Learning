@@ -1,0 +1,6 @@
+- anstelle	[anˈʃtɛlə]	Preposition	
+- anstatt, als Ersatz für etwas
+- Thay vì
+- instead of
+- Er trinkt Tee anstelle von Kaffee.
+- stattdessen (instead), stellvertretend (representing)	No Latin root

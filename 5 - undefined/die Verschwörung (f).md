@@ -1,0 +1,6 @@
+- die Verschwörung (f)	[fɛɐ̯ˈʃvøːʁʊŋ]	Noun	
+- geheime Absprache mehrerer Personen, um Schaden zu verursachen
+- Âm mưu
+- conspiracy
+- Er glaubt an eine politische Verschwörung.
+- verschwören (to conspire), der Verschwörer (conspirator)	Latin: *conspiratio*

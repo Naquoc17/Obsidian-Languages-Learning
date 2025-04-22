@@ -1,0 +1,6 @@
+- der Kurs (m)	[kʊʁs]	Noun	
+- Wert von Aktien, Währungen oder Rohstoffen auf dem Markt
+- Tỷ giá, giá trị thị trường
+- rate / price / exchange rate
+- Der Euro-Kurs ist heute gestiegen.
+- der Kursverlust (price loss), Kursanstieg (price increase)	Latin: *cursus*

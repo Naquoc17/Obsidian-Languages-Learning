@@ -1,0 +1,6 @@
+- der Messengerdienst (m)	[ˈmɛsɛnʒɐ diːnst]	Noun	
+- App oder Service zum Senden von Nachrichten
+- Dịch vụ nhắn tin
+- messaging service
+- Signal ist ein sicherer Messengerdienst.
+- die Nachricht (message), der Dienst (service)	Latin: *missus* + *ministerium*

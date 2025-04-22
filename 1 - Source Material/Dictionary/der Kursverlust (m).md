@@ -1,0 +1,6 @@
+- der Kursverlust (m)	[ˈkʊʁs fɛɐ̯ˌlʊst]	Noun	
+- Rückgang des Wertes von Aktien oder Währungen
+- Sự giảm giá (chứng khoán, tiền tệ)
+- price loss / depreciation
+- Die Firma erlitt gestern erhebliche Kursverluste.
+- verlieren (to lose), der Verlust (loss)	Latin: *cursus* + *perditio*

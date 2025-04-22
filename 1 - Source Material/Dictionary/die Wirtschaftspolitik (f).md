@@ -1,0 +1,6 @@
+- die Wirtschaftspolitik (f)	[ˈvɪʁtʃaftsˌpoliˌtiːk]	Noun	
+- Gesamtheit der Maßnahmen, mit denen ein Staat die Wirtschaft lenkt
+- Chính sách kinh tế
+- economic policy
+- Die Regierung diskutiert über eine neue Wirtschaftspolitik.
+- wirtschaftlich (economic), der Politiker (politician)	Latin: *politia*

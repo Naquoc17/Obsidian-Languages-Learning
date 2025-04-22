@@ -1,0 +1,6 @@
+- der Zoll (m)	[tsɔl]	Noun	
+- Abgabe, die beim Import oder Export von Waren erhoben wird
+- Thuế hải quan
+- customs duty
+- Der Zoll auf importierte Waren ist sehr hoch.
+- die Zollgebühr (fee for customs), das Zollamt (customs office)	Latin: *teloneum*

@@ -1,0 +1,6 @@
+- auslösen	[ˈaʊ̯sˌløːzn̩]	Verb	
+- etwas verursachen oder in Gang setzen
+- Gây ra, kích hoạt
+- to trigger / to cause
+- Die Nachricht löste Panik aus.
+- der Auslöser (trigger), auslösbar (triggerable)	No Latin root

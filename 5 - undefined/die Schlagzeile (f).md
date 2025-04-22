@@ -1,0 +1,6 @@
+- die Schlagzeile (f)	[ˈʃlaːkˌtsaɪ̯lə]	Noun	
+- großer Titel in Zeitungen, der Aufmerksamkeit erregen soll
+- Tiêu đề báo
+- headline
+- Die Nachricht war heute die größte Schlagzeile.
+- schlagen (to hit), die Zeile (line)	No Latin root

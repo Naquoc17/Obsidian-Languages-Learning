@@ -1,0 +1,6 @@
+- verzeichnen	[fɛɐ̯ˈtsaɪ̯çnən]	Verb	
+- offiziell etwas registrieren oder feststellen
+- Ghi nhận, ghi chú lại
+- to record / to register
+- Die Firma verzeichnete letztes Jahr hohe Gewinne.
+- das Verzeichnis (directory, list), verzeichnet (recorded)	Latin: *signare*
