@@ -1,0 +1,7 @@
+- Swot up (on)	[swɒt ʌp ɒn]	Phrasal Verb
+- Study very hard, especially for an exam.
+- Cày (học gấp trước kỳ thi)
+- Pauken (in German)
+- Example: He’s swotting up on history for the test.
+- No family words
+- No Latin root (British informal)

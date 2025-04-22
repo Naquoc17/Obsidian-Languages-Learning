@@ -1,0 +1,7 @@
+- Come up with	[kʌm ʌp wɪð]	Phrasal Verb
+- Think of an idea or plan.
+- Nảy ra ý tưởng
+- Sich etwas einfallen lassen (in German)
+- Example: She came up with a brilliant solution.
+- No family words
+- No Latin root

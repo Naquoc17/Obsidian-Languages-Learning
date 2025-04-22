@@ -1,0 +1,7 @@
+- Brush up (on)	[brʌʃ ʌp ɒn]	Phrasal Verb
+- Practise and improve your skills or knowledge of something.
+- Ôn lại, trau dồi
+- Auffrischen (in German)
+- Example: I need to brush up on my Spanish before the trip.
+- No family words
+- No Latin root

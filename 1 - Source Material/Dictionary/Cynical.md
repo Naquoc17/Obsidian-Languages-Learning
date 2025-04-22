@@ -1,0 +1,7 @@
+- Cynical	[ˈsɪn.ɪ.kəl]	Adjective
+- Believing people are motivated by self-interest; distrustful of others' sincerity.
+- Hoài nghi, ích kỷ
+- Zynisch (in German)
+- Example: He has a cynical view of politics.
+- Family words: cynicism
+- Greek root: *kynikos* (dog-like)

@@ -1,0 +1,7 @@
+- Plagiarise	[ˈpleɪ.dʒə.raɪz]	Verb
+- To copy someone’s work and pretend it is yours.
+- Đạo văn
+- Plagiieren (in German)
+- Example: Never plagiarise in your essays.
+- Family words: plagiarism (n)
+- Latin root: *plagiarius* (kidnapper)

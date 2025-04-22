@@ -1,0 +1,7 @@
+- Piece together	[piːs təˈɡeð.ər]	Phrasal Verb
+- Learn the truth by considering all the information.
+- Ghép lại thông tin để hiểu rõ
+- Zusammenfügen (in German)
+- Example: The police pieced together the evidence.
+- No family words
+- No Latin root

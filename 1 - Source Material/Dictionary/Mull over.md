@@ -1,0 +1,7 @@
+- Mull over	[mʌl ˈəʊ.vər]	Phrasal Verb
+- Think carefully about something for a period of time.
+- Suy nghĩ kỹ
+- Überlegen (in German)
+- Example: I’ll mull over your proposal tonight.
+- No family words
+- No Latin root

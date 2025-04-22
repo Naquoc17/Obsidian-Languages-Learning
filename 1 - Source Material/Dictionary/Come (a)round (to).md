@@ -1,0 +1,7 @@
+- Come (a)round (to)	[kʌm əˈraʊnd tuː]	Phrasal Verb
+- Change your opinion because someone persuaded you.
+- Thay đổi ý kiến
+- Sich überzeugen lassen (in German)
+- Example: He finally came around to my way of thinking.
+- No family words
+- No Latin root

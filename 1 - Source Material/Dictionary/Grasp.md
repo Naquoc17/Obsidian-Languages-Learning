@@ -1,0 +1,7 @@
+- Grasp	[ɡrɑːsp]	Verb
+- To understand something fully.
+- Hiểu rõ, nắm bắt
+- Begreifen (in German)
+- Example: It’s hard to grasp this concept.
+- Family words: grasp (noun - sự hiểu biết)
+- No clear Latin root (Germanic origin)

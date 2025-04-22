@@ -1,0 +1,7 @@
+- Figure out	[ˈfɪɡər aʊt]	Phrasal Verb
+- Understand something or solve a problem.
+- Tìm ra, hiểu ra
+- Herausfinden (in German)
+- Example: I can't figure out how this machine works.
+- No family words
+- No Latin root

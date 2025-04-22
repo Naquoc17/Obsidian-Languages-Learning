@@ -1,0 +1,7 @@
+- Baffle	[ˈbæf.əl]	Verb
+- To confuse or puzzle someone completely.
+- Làm rối trí, gây bối rối
+- Verwirren (in German)
+- Example: The question baffled me.
+- Family words: baffling (adj)
+- No Latin root (origin: Scottish)

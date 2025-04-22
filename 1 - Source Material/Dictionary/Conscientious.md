@@ -1,0 +1,7 @@
+- Conscientious	[ˌkɒn.ʃiˈen.ʃəs]	Adjective
+- Putting a lot of effort into your work; careful and responsible.
+- Tận tâm, chu đáo
+- Gewissenhaft (in German)
+- Example: She’s a very conscientious student.
+- Family words: conscience
+- Latin root: *conscientia* (knowledge within oneself)

@@ -1,0 +1,7 @@
+- Ponder	[ˈpɒn.dər]	Verb
+- To think carefully about something.
+- Suy nghĩ, cân nhắc
+- Nachdenken (in German)
+- Example: He pondered the meaning of life.
+- No family words
+- Latin root: *ponderare* (to weigh)

@@ -1,0 +1,7 @@
+- Puzzle out	[ˈpʌz.əl aʊt]	Phrasal Verb
+- Solve a confusing problem by thinking carefully.
+- Tìm ra lời giải
+- Herausknobeln (in German)
+- Example: She finally puzzled out the answer.
+- Family words: puzzle (n)
+- No Latin root

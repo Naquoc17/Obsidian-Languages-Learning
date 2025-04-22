@@ -1,0 +1,7 @@
+- Tuition	[tjuˈɪʃ.ən]	Noun
+- Teaching or the fee paid for instruction.
+- Học phí / sự giảng dạy
+- Unterricht / Studiengebühr (in German)
+- Example: Tuition fees are expensive.
+- No family words
+- Latin root: *tuitio* (protection, care)

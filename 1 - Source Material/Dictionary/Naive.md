@@ -1,0 +1,7 @@
+- Naive	[naɪˈiːv]	Adjective
+- Having little experience and trusting people too easily.
+- Ngây thơ, khờ khạo
+- Naiv (in German)
+- Example: She’s too naive to notice his lies.
+- Family words: naivety
+- Latin root: *nativus* (natural)

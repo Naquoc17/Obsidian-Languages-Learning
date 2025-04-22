@@ -1,0 +1,7 @@
+- Intensive	[ɪnˈten.sɪv]	Adjective
+- Involving a lot of effort in a short period.
+- Cấp tốc, chuyên sâu
+- Intensiv (in German)
+- Example: He took an intensive English course.
+- Family words: intensify, intensity
+- Latin root: *intensus* (stretched, strained)

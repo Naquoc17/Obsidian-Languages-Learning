@@ -1,0 +1,7 @@
+- Think through	[θɪŋk θruː]	Phrasal Verb
+- Consider something in an organized, thorough way.
+- Suy nghĩ thấu đáo
+- Durchdenken (in German)
+- Example: You need to think through all the options.
+- Family words: think
+- No Latin root

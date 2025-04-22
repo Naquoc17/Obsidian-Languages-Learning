@@ -1,0 +1,7 @@
+- Cram	[kræm]	Verb
+- To study a lot in a short time before an exam.
+- Nhồi nhét kiến thức
+- Pauken (in German)
+- Example: He crammed all night for the test.
+- No family words
+- No Latin root (Middle English origin)

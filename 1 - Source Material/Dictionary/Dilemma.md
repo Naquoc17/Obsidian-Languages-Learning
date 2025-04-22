@@ -1,0 +1,6 @@
+- Dilemma	[dɪˈlem.ə]	Noun
+- A situation where a difficult choice has to be made between two options.
+- Tình thế khó xử
+- Dilemma (in German)
+- Example: She faced a dilemma about whether to stay or leave.
+- No Latin root (from Greek *dilemma*)

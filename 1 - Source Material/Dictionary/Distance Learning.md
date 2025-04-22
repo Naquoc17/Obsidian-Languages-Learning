@@ -1,0 +1,7 @@
+- Distance Learning	[ˈdɪs.təns ˈlɜː.nɪŋ]	Noun Phrase
+- Studying online or by mail instead of going to school.
+- Học từ xa
+- Fernunterricht (in German)
+- Example: Many students prefer distance learning.
+- Family words: learn, learner
+- Latin root: *dis* (apart) + *longus* (long)

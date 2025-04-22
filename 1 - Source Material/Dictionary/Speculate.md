@@ -1,0 +1,7 @@
+- Speculate	[ˈspek.jʊ.leɪt]	Verb
+- To guess possible answers based on limited information.
+- Suy đoán
+- Spekulieren (in German)
+- Example: People speculate about the cause of the accident.
+- Family words: speculation
+- Latin root: *speculari* (to observe)

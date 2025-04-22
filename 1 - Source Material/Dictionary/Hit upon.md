@@ -1,0 +1,7 @@
+- Hit upon	[hɪt əˈpɒn]	Phrasal Verb
+- Suddenly have an idea or discover something by chance.
+- Tình cờ nghĩ ra
+- Auf etwas stoßen (in German)
+- Example: They hit upon a way to save energy.
+- No family words
+- No Latin root

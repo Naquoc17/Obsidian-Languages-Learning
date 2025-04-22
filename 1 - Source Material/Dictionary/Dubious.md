@@ -1,0 +1,7 @@
+- Dubious	[ˈdjuː.bi.əs]	Adjective
+- Not sure or doubtful about something.
+- Nghi ngờ, mơ hồ
+- Zweifelhaft (in German)
+- Example: I'm dubious about his promises.
+- Family words: doubt
+- Latin root: *dubium* (doubt)

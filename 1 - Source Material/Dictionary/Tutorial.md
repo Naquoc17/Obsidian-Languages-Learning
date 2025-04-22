@@ -1,0 +1,7 @@
+- Tutorial	[tjuːˈtɔː.ri.əl]	Noun
+- A small class or session where a tutor helps students.
+- Buổi hướng dẫn, bài hướng dẫn
+- Tutorium (in German)
+- Example: I have a math tutorial today.
+- Family words: tutor
+- Latin root: *tutor* (guardian)

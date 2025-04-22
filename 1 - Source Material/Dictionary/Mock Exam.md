@@ -1,0 +1,7 @@
+- Mock Exam	[mɒk ɪɡˈzæm]	Noun Phrase
+- A practice exam taken before the real one.
+- Bài thi thử
+- Probeklausur (in German)
+- Example: We have a mock exam next week.
+- Family words: mock (v - giả)
+- No Latin root (mock: Old French origin)

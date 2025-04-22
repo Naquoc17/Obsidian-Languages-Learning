@@ -1,0 +1,7 @@
+- Hunch	[hʌntʃ]	Noun
+- A feeling or guess based on intuition, not facts.
+- Linh cảm
+- Ahnung (in German)
+- Example: I had a hunch that it would rain.
+- No family words
+- No Latin root (origin unknown)
