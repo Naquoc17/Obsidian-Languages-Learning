@@ -1,0 +1,7 @@
+- Enivrant(e)	[ɑ̃.ni.vʁɑ̃]	Adjectif	
+- Qui donne une sensation très agréable, comme un parfum fort.
+- Làm say mê, quyến rũ
+- Intoxicating / Delightful
+- Exemple : L'odeur enivrante des fleurs remplit la pièce.
+- Famille : enivrer (verbe - rendre "ivre" de plaisir)
+- Latin : *ebrius* (ivre)

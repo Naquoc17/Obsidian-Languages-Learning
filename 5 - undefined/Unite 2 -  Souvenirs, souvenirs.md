@@ -15,7 +15,14 @@ Ce [[visage]] tout blanc, ces [[les yeux|yeux]]  [[pétillant|pétillants]]  de 
 
 Mais comment [[pouvoir|pouvait]] -il [[savoir]] certains [[un détail|détails]]  de ma petite [[existence]] ? Il me [[montrer du doigt|montrait du doigt]] , [[s'adresser à |s’adressait au]]  [[le public|public]]  et disait : « Voilà un petit garçon qui n’a pas voulu manger sa [[la soupe|soupe]]  [[hier au soir]] ! » Et c’était vrai. Comment pouvait-il [[deviner]] ces choses que mon père ne [[devoir|devait]]  [[raconter]] qu’à ses amis [[intime|intimes]]  ? Quelle pouvait-être [[la source]] de ses [[un renseignement|renseignements]]  ?
 
+## B - Je me souviens
 
+1 Je me souviens des dîners à la grande table de la [[Boulangerie (f)|boulangerie]] .  
+Soupe au lait l'hiver, soupe au vin l'été.  
+2 Je me souviens des jeux à l'élastique à l'école.  
+3 Je me souviens de Monsieur Mouton, l'[[Ophtalmo (m)|ophtalmo¹]] , qui avait une moustache blanche.  
+4 Je me souviens de l'odeur **[[Enivrant(e)|enivrante²]] ** des livres, à la [[Rentrée scolaire (f)|rentrée scolaire]] .  
+5 Je me souviens de notre voiture qui [[Prendre feu|prend feu]]  dans les bois de Lancôme en 76.
 
 
 

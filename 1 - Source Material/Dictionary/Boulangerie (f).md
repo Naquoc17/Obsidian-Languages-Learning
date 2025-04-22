@@ -1,0 +1,7 @@
+- Boulangerie (f)	[bu.lɑ̃ʒ.ʁi]	Nom (féminin)	
+- Lieu où on fait et vend du pain, des gâteaux.
+- Tiệm bánh mì
+- Bakery
+- Exemple : J'achète du pain à la boulangerie.
+- Famille : boulanger (personne qui fait le pain), boulangère
+- Latin : *boulenc* (ancien français)

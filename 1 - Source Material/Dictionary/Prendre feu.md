@@ -1,0 +1,7 @@
+- Prendre feu	[pʁɑ̃dʁ fø]	Expression (verbe)	
+- Commencer à brûler.
+- Bắt lửa, cháy
+- Catch fire
+- Exemple : La voiture a pris feu soudainement.
+- Famille : feu (nom - le feu), brûler (verbe)
+- Latin : *focus* (foyer, feu)

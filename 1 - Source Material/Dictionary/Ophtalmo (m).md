@@ -1,0 +1,7 @@
+- Ophtalmo (m)	[ɔf.tal.mo]	Nom (abréviation)	
+- Médecin pour les yeux (abréviation de "ophtalmologiste").
+- Bác sĩ mắt
+- Eye doctor / Ophthalmologist
+- Exemple : Je vais chez l'ophtalmo pour mes lunettes.
+- Famille : ophtalmologie (science des yeux)
+- Latin : *ophthalmos* (grec, signifie "œil")
