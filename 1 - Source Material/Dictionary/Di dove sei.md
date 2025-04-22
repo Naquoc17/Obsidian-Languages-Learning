@@ -1,0 +1,7 @@
+- Di dove sei	[di ˈdo.ve sɛi]	Expression (Informal)
+- Meaning: Domanda informale per chiedere da dove viene qualcuno.
+- Meaning (Vietnamese): Bạn đến từ đâu? (thân mật)
+- Properly translated word: Where are you from? (informal)
+- Example sentence: Ciao! Di dove sei?
+- Family words: Dove (where), Essere (to be)
+- Latin root: de + ubi

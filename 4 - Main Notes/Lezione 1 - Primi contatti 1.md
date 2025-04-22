@@ -27,7 +27,7 @@ Tags: [[Nuovo Espresso 1]]
 
 **1**
 - [[Ciao]], [[Sono]]  Valeria, e tu [[Come|come]]  ti [[Chiami (chiamarsi)|chiami]] ?  
-- Alberto. E [[Tu|tu]] ?  
+- Alberto. E [[Tu 1|tu]] ?  
 - Io Cecilia.
 
 **2**
@@ -128,6 +128,18 @@ Tags: [[Nuovo Espresso 1]]
 - La **"g"** si pronuncia **[dʒ]** davanti a **i, e**  
   e **[g]** davanti a **a, o, u**
 
+### E Lei di dov'è?
+
+- ...[[Lei]] è [[Italiana (feminine)|italiana]] ?  
+- Sì. E Lei? È inglese?  
+- No, sono [[Irlandese|irlandese]] .  
+- Ah, irlandese!  
+- Sì, sono di Dublino. E Lei **[[Di dov'è|di dov'è]] **?  
+- [[Di]] Verona.
+
+- Sei [[Tedesco (masculine)|tedesco]] ?  
+- No, sono [[Austriaco (masculine)|austriaco]] . E [[Tu 1|tu]] , **[[Di dove sei|di dove sei]] **?  
+- Sono italiana, di Genova.
 
 
 

@@ -1,0 +1,7 @@
+- Tu	[tu]	Pronoun (Informal "You")
+- Meaning: Forma informale per rivolgersi a una persona.
+- Meaning (Vietnamese): Bạn (thân mật)
+- Properly translated word: You (informal)
+- Example sentence: Tu sei di Napoli?
+- Family words: —
+- Latin root: tu

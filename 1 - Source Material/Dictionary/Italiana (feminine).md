@@ -1,0 +1,7 @@
+- Italiana (feminine)	[i.taˈlja.na]	Adjective / Noun
+- Meaning: Nazionalità femminile per una persona dall'Italia.
+- Meaning (Vietnamese): Quốc tịch nữ Ý
+- Properly translated word: Italian (female)
+- Example sentence: Maria è italiana.
+- Family words: Italiano (m.); Italia (country)
+- Latin root: Italia

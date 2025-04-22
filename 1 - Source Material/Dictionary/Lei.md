@@ -1,0 +1,7 @@
+- Lei	[ˈlɛi]	Pronoun (Formal "You")
+- Meaning: Forma formale per rivolgersi a una persona.
+- Meaning (Vietnamese): Bạn (lịch sự)
+- Properly translated word: You (formal)
+- Example sentence: Lei è di Milano?
+- Family words: —
+- Latin root: illa (she) — evolved to formal "you"

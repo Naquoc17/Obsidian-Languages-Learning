@@ -1,0 +1,7 @@
+- Di dov'è	[di doˈvɛ]	Expression (Formal)
+- Meaning: Domanda formale per chiedere da dove viene qualcuno.
+- Meaning (Vietnamese): Bạn đến từ đâu? (trang trọng)
+- Properly translated word: Where are you from? (formal)
+- Example sentence: Buongiorno, di dov'è Lei?
+- Family words: Dove (where), Essere (to be)
+- Latin root: de + ubi

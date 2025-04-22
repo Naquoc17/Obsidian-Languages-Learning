@@ -1,0 +1,7 @@
+- Tedesco (masculine)	[teˈdes.ko]	Adjective / Noun
+- Meaning: Nazionalità maschile per una persona dalla Germania.
+- Meaning (Vietnamese): Người Đức (nam) / quốc tịch Đức
+- Properly translated word: German (male)
+- Example sentence: Lui è tedesco.
+- Family words: Tedesca (f.); Germania (country)
+- Latin root: Theodiscus (medieval Latin)

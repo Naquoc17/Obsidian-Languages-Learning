@@ -1,0 +1,7 @@
+- Di	[di]	Preposition
+- Meaning: Indica origine o appartenenza ("from", "of").
+- Meaning (Vietnamese): Của, từ
+- Properly translated word: from / of
+- Example sentence: Sono di Roma.
+- Family words: —
+- Latin root: de
