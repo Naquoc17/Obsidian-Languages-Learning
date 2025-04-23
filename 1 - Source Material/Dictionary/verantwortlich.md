@@ -1,0 +1,7 @@
+- verantwortlich	[faˈʔantvɔrtlɪç]	Adjektiv
+- Zuständig oder schuld an etwas
+- chịu trách nhiệm
+- responsible
+- Wer ist für das Projekt verantwortlich?
+- Verantwortung (die Pflicht), verantworten (Verb)
+- Latein: *responsum* (Antwort)

@@ -1,0 +1,7 @@
+- Glückstreffer	[ˈɡlʏksˌtʁɛfɐ]	Substantiv (der)
+- Ein zufälliger Erfolg ohne Planung
+- cú ăn may
+- lucky hit / fluke
+- Der Gewinn war ein reiner Glückstreffer.
+- Glück (das, happiness/luck), Treffer (hit)
+- Kein lateinischer Ursprung

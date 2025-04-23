@@ -1,0 +1,7 @@
+- Stichprobe	[ˈʃtɪçˌproːbə]	Substantiv (die)
+- Eine kleine Auswahl aus einer größeren Menge zur Untersuchung
+- mẫu thử
+- sample
+- Die Studie basiert auf einer großen Stichprobe.
+- Probe (Test), stichprobenartig (adjektivisch)
+- Kein lateinischer Ursprung

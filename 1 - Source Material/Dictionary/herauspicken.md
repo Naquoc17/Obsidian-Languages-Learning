@@ -1,0 +1,7 @@
+- herauspicken	[ˈhɛraʊ̯sˌpɪkən]	Verb
+- Etwas gezielt auswählen (meist aus einer größeren Menge)
+- chọn ra
+- to pick out / select
+- Sie pickt sich immer die besten Stücke heraus.
+- herauspicken (auswählen), herausgepickt (Partizip)
+- Kein lateinischer Ursprung

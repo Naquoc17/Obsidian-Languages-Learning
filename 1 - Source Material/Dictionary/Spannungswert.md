@@ -1,0 +1,7 @@
+- Spannungswert	[ˈʃpanʊŋsˌveːɐ̯t]	Substantiv (der)
+- Maß für die Stärke einer Spannung (z.B. in Physik oder Geologie)
+- giá trị ứng suất
+- stress value
+- Die höchsten Spannungswerte wurden gemessen.
+- Spannung (Spannungskraft), Wert (Zahl, Maß)	
+- Latein: *tensio* (für Spannung)

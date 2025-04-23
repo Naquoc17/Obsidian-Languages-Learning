@@ -1,0 +1,7 @@
+- vorläufig	[ˈfoːɐ̯ˌlɔɪ̯fɪç]	Adjektiv
+- Nicht endgültig, nur für eine gewisse Zeit gültig
+- tạm thời
+- provisional / temporary
+- Das ist nur eine vorläufige Entscheidung.
+- Vorläufigkeit (Substantiv)
+- Kein lateinischer Ursprung

@@ -1,0 +1,7 @@
+- Syzygien	[ˈzyːtsyɡiən]	Substantiv (die, Plural)
+- Astronomischer Begriff: Konstellation, wenn Sonne, Erde und Mond in einer Linie stehen
+- sự thẳng hàng (thiên văn học)
+- syzygies
+- Während der Syzygien sind die Gezeiten besonders stark.
+- Syzygie (Singular)
+- Griechisch: *syzygia* (Verbindung, Paarung)

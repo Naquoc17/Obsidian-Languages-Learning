@@ -6,7 +6,7 @@ Tags: [[Mit Erfolg zu telc C1 Hochschule]]
 
 # Leseverstehen, Teil 1 - Textrekonstruktion @MitErfolgzutelcC1Hochschule
 
-## Exercise 1: Neue Erkenntnisse in der Erdbebenforschung
+## Exercise 2: Neue Erkenntnisse in der Erdbebenforschung
 
 ![[Pasted image 20250328230958.png]]
 
@@ -24,7 +24,7 @@ Die Gravitation von Sonne und Mond lässt (1a) $input{"nicht nur"} Wasserberge e
 
 [[die Gravitation gravitätisch|Die Gravitation]]  von Sonne und Mond lässt nicht nur Wasserberge entstehen, sondern sie [[die Verformung verformen verformbar|verformt]]  auch [[die Erdkruste]] selbst im täglichen [[der Rhythmus rhythmisch|Rhythmus]]  von [[Ebbe und Flut]] . Nun will eine japanische Arbeitsgruppe einen [[der Zusammenhang zusammenhängen zusammenhängend|Zusammenhang]] zwischen den stärksten [[Gezeiten]] und den [[die Zerstörung zerstören zerstörerisch|zerstörerischsten]]  [[Erdbeben]] gefunden haben. [[demzufolge|Demzufolge]]  treten bei [[der Vollmond der Neumond|Voll- und Neumond]] , wenn Sonne, Mond und Erde [[in einer Linie stehen]], besonders oft Beben mit Stärken von 8,2 oder höher auf. Seit Jahren [[die Spekulation spekulieren spekulativ|spekulieren]]  Fachleute über einen solchen Zusammenhang, die Suche danach war allerdings bisher nur [[mäßigen mäßig gemäßigt|mäßig]]  erfolgreich: Eindeutige Zusammenhänge zeigten sich bis jetzt nur in Einzelfällen oder in sehr speziellen Situationen. So weiß man, dass tiefe [[die Erschütterung erschüttern erschütternd|Erschütterungen]]  in Zonen, in denen sich eine Erdplatte [[sich unter etwas schieben|unter eine andere schiebt]] , [[exponentiell]] häufiger auftreten, wenn die Gezeiten besonders stark sind. Dagegen gibt es gerade bei den häufigeren und deswegen gut statistisch [[die Auswertung auswerten auswertbar|auswertbaren]]  schwachen Beben keinen klaren Zusammenhang mit den Gezeiten.
 
-## Exercise 2: 
+## Exercise 3: 
 
 ```exercise
 $select{*"3", "1", "2", "4", "5"} a) Sie fallen mit den so genannten Syzygien zusammen, bei denen Sonne, Mond und Erde in einer Linie stehen und die gemeinsame Gravitation der beiden Himmelskörper zu besonders starken Gezeiten führt.
@@ -50,13 +50,12 @@ Dazu [[zuweisen die Zuweisung zugeordnet|wiesen sie den 15 Tagen vor dem Beben e
 
 Neu an dem [[der Ansatz ansetzen|Ansatz]]  ist allerdings, dass die Wissenschaftler nicht nach spezifischen Perioden zwischen Beben und Syzygien suchten, sondern [[von Hand]] den Zusammenhang zwischen den [[gezeitenbedingt|gezeitenbedingten]]  Spannungen [[die Auswertung auswerten auswertbar|auswerteten]] .
 
-## Exercise 3: ...
+## Exercise 4: ...
 
-### Lösungen
+Ob ldes Team **dabei** tatsächlich erfolgreich war, hängt **davon** ab, wie man die Ergebnisse betrachtet. [[herauspicken|Pickt]]  man sich die stärksten Beben des untersuchten Zeitraums heraus, liegen zehn der zwölf Beben bei den fünf höchsten [[Spannungswert|Spannungswerten]] , **deren** fanden also bei besonders starken Gezeiten statt. Auch bei der Gesamtheit der Beben mit einer Stärke von mehr als 7,5 ist **der** Anteil noch leicht höher als erwartet. In der gesamten [[Stichprobe|Stichprobe]]  verschwindet der Effekt jedoch: Die Analyse umfasst über 10.000 Beben weltweit, **deren** Stärken oberhalb von 5,5 lagen – und **deren** Verteilung ist vom Zufall, wie die Arbeitsgruppe schreibt, nicht zu unterscheiden.
 
-Ob Ides Team (1) _dabei_ [[tatsächlich die Tatsache|tatsächlich]]  erfolgreich war, hängt (2) ____________ ab, wie man die Ergebnisse betrachtet. Pickt man sich die stärksten Beben des untersuchten Zeitraums heraus, liegen zehn der zwölf Beben bei den fünf höchsten Spannungswerten, (3) ___________ fanden also bei besonders starken Gezeiten statt. Auch bei der Gesamtheit der Beben mit einer Stärke von mehr als 7,5 ist (4) ____________ Anteil noch leicht höher als erwartet. In der gesamten Stichprobe verschwindet der Effekt jedoch: Die Analyse umfasste über 10.000 Beben weltweit, (5) ___________ Stärken oberhalb von 5,5 lagen – und (6) ___________ Verteilung ist vom Zufall, wie die Arbeitsgruppe schreibt, nicht zu unterscheiden. 
+Die Forscher interpretieren den Befund so: Wenn die Gezeitenbelastung hoch ist, steigt die Wahrscheinlichkeit **dass**, dass ein Erdbeben eine besonders hohe Intensität erreicht. [[vorläufig|Vorläufig]]  allerdings stellen **sich** mehr Fragen, als die Studie beantwortet. Zuerst einmal, ob der gefundene Zusammenhang nicht doch nur ein [[Glückstreffer|Glückstreffer]]  in einer passend gewählten Untergruppe ist – andere [[Syzygien|Syzygien]] -Analysen brachten negative Ergebnisse. Aber auch die Mechanismen, **die** für den Zusammenhang [[verantwortlich]] sind, bleiben unklar. Dass der Mond Erdbeben verursacht, klingt zwar plausibel. Allein, die von **ihm** ausgelöste Veränderung der Spannungen im Gestein ist 1000-fach kleiner, als **die** sein müsste, um größere Beben auszulösen.
 
-Die Forscher interpretieren den Befund so: Wenn die Gezeitenbelastung hoch ist, steigt die Wahrscheinlichkeit (7) ___________, dass ein Erdbeben eine besonders hohe Intensität erreicht. Vorläufig allerdings stellen (8) __________ Fragen, als die die Studie beantwortet. Zuerst einmal, ob der gefundene Zusammenhang nicht doch nur ein Glückstreffer in einer passend gewählten Untergruppe ist – andere Syzygyien-Analysen brachten negative Ergebnisse. Aber auch die Mechanismen, (9) ___________ für den Zusammenhang verantwortlich sind, bleiben unklar. Dass der Mond Erdbeben verursacht, klingt zwar plausibel. Allein, wenn die (10) ___________ ausgelöste Veränderung der Spannungen im Gestein ist 1000-fach kleiner, als (11) __________ sein müsste, um größere Beben auszulösen.
 
 
 

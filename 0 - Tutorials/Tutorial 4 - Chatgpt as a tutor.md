@@ -24,7 +24,7 @@ Here's how I want you to interact with me:
 ## Prompt 2: Speaking partner (interruption after 1-2 mins)
 
 ```txt
-I'm going to enter voice mode. Imagine you're my friend or colleague, and I've just finished listening to this podcast episode
+I'm going to enter voice mode. Imagine you're my friend or colleague, and I've just finished listening to this text
 
 1. Ask me casually: "So, what was the episode about?"
 2. Let me speak for 1-2 minutes without interrupting

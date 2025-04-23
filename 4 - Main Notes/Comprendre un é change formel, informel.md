@@ -37,9 +37,9 @@ Tags: [[Le DELF 100% réussite B1]]
 – Bonjour madame. Rien de [[Spécial|spécial]] , je visite la ville, pourquoi ?  
 – Excusez-moi mais vous venez de me prendre en photo !  
 – Tout à fait, je fais un petit [[Reportage|reportage]]  sur les gens qui traversent cette place ; je m’intéresse en fait aux [[Passant|passants]]  qui sont [[Typique|typiques]]  de cette ville.  
-– Et alors, vous faites des [[Portrait|portraits]]  sans demander l’autorisation des personnes ? Mais, je ne suis pas d’accord ! Et dans quel but utilisez-vous les photos ?  
-– Ne vous inquiétez pas, c’est un projet de livre de voyage à travers des villes d’Europe et je fais attention à ce qu’on ne reconnaisse pas les visages. Regardez, je vous montre les photos.  
-– Ah oui, c’est bien, les gens sont pris de loin ou de dos. Très bien, je préfère. Merci et bonne chance pour votre projet.
+– Et alors, vous faites des [[Portrait|portraits]]  sans demander l’[[Autorisation|autorisation]]  des personnes ? Mais, je ne suis pas d’accord ! Et dans quel [[But|but]]  utilisez-vous les photos ?  
+– Ne vous inquiétez pas, c’est un [[Projet|projet]]  de livre de voyage à travers des villes d’Europe et je fais attention à ce qu’on ne [[Reconnaître|reconnaisse]]  pas les [[Visage 1|visages]] . Regardez, je vous montre les photos.  
+– Ah oui, c’est bien, les gens sont pris [[De loin De dos|de loin ou de dos]] . Très bien, je préfère. Merci et bonne chance pour votre projet.
 
 
 
