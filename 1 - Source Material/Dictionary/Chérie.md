@@ -1,0 +1,6 @@
+- Chérie	[ʃe.ʁi]	Nom féminin / Adjectif (forme féminine de "chéri")
+- Signifie : Personne aimée ; terme affectueux
+- Nghĩa : Em yêu / Người yêu dấu
+- Traduction : Darling / Sweetheart
+- Exemple : Ma chérie, tu es magnifique.
+- Mots de la même famille : Chéri (nam), Chérir (yêu quý)	Latin : *carus*

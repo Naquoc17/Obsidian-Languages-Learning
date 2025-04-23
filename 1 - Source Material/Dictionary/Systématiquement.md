@@ -1,0 +1,7 @@
+- Systématiquement	[sys.te.ma.tik.mɑ̃]	Adverbe	
+- Toujours, de façon régulière.
+- Một cách hệ thống, đều đặn
+- Systematically / Always
+- Exemple : Il arrive systématiquement en retard.
+- Famille : système (hệ thống)
+- Latin : *systema* (système)

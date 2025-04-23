@@ -1,0 +1,12 @@
+- De loin / De dos	[də lwɛ̃] / [də do]	Locutions adverbiales
+- Signifie : 
+   - **De loin** : À une grande distance  
+   - **De dos** : En montrant son dos (pas le visage)
+- Nghĩa : 
+   - **De loin** : Từ xa  
+   - **De dos** : Từ phía sau
+- Traduction : 
+   - **De loin** : From afar / From a distance  
+   - **De dos** : From behind
+- Exemple : Les photos sont prises de loin ou de dos.
+- Mots de la même famille : Loin (xa), Dos (lưng)	Latin : *longinus* / *dorsum*

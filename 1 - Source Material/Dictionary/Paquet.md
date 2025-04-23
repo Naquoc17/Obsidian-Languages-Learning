@@ -1,0 +1,6 @@
+- Paquet	[pa.kɛ]	Nom masculin
+- Signifie : Objet emballé, colis
+- Nghĩa : Gói hàng, bưu kiện
+- Traduction : Package / Parcel
+- Exemple : J’ai reçu un paquet ce matin.
+- Mots de la même famille : Paqueter (gói lại)	Latin : *paccus*

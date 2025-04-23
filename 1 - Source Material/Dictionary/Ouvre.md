@@ -1,0 +1,6 @@
+- Ouvre	[uvʁ]	Verbe (ouvrir - infinitif)
+- Signifie : Action de faire que quelque chose ne soit plus fermé
+- Nghĩa : Mở
+- Traduction : Open
+- Exemple : Ouvre la porte, s’il te plaît.
+- Mots de la même famille : Ouverture (sự mở), Réouverture (mở lại)	Latin : *aperire*

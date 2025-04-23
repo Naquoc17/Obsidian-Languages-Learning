@@ -1,0 +1,7 @@
+- Auditeur / Auditrice	[o.di.tœʁ] / [o.di.tʁis]	Nom	
+- Personne qui écoute une émission (radio, etc.).
+- Thính giả
+- Listener
+- Exemple : Les auditeurs posent des questions à la radio.
+- Famille : audition (sự nghe)
+- Latin : *audire* (écouter)

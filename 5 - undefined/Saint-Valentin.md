@@ -1,0 +1,6 @@
+- Saint-Valentin	[sɛ̃ va.lɑ̃.tɛ̃]	Nom propre
+- Signifie : Fête des amoureux célébrée le 14 février
+- Nghĩa : Lễ Tình Nhân
+- Traduction : Valentine's Day
+- Exemple : On fête la Saint-Valentin ensemble.
+- Mots de la même famille : Saint (thánh), Valentin (tên riêng)	Latin : *Sanctus Valentinus*

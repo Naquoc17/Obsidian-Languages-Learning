@@ -1,0 +1,7 @@
+- Rôle (m)	[ʁol]	Nom (masculin)	
+- Fonction ou tâche de quelqu'un dans un groupe.
+- Vai trò
+- Role
+- Exemple : Mon rôle est d’organiser la fête.
+- Famille : rouler (origine du mot : rouleau de papier)
+- Latin : *rotulus* (petit rouleau)

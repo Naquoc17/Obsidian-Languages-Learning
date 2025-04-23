@@ -1,0 +1,6 @@
+- Carte	[kaʁt]	Nom féminin
+- Signifie : Feuille de papier avec un message ou une information
+- Nghĩa : Thiệp / Thẻ / Bản đồ (tùy ngữ cảnh)
+- Traduction : Card / Map
+- Exemple : J’ai écrit une carte pour son anniversaire.
+- Mots de la même famille : Carton (bìa cứng), Cartographie (bản đồ học)	Latin : *charta*

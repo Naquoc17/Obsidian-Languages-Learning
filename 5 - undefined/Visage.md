@@ -1,0 +1,6 @@
+- Visage	[vi.zaʒ]	Nom masculin
+- Signifie : Partie de la tête où il y a les yeux, le nez, la bouche
+- Nghĩa : Khuôn mặt
+- Traduction : Face
+- Exemple : Il cache les visages sur les photos.
+- Mots de la même famille : Visager (nhìn mặt - rare), Dévisager (nhìn chằm chằm)	Latin : *visus*

@@ -1,0 +1,6 @@
+- Cadeau	[ka.do]	Nom masculin
+- Signifie : Objet offert pour faire plaisir
+- Nghĩa : Quà tặng
+- Traduction : Gift / Present
+- Exemple : Il m’a offert un joli cadeau.
+- Mots de la même famille : Cadeauter (tặng quà - familier)	Pas de racine latine directe

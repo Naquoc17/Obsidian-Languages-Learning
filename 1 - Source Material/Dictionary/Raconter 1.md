@@ -1,0 +1,7 @@
+- Raconter	[ʁa.kɔ̃.te]	Verbe	
+- Dire une histoire, expliquer quelque chose.
+- Kể lại
+- To tell (a story)
+- Exemple : Il raconte son voyage à ses amis.
+- Famille : conte (chuyện kể)
+- Latin : *racontare* (dérivé de "compter")

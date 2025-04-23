@@ -1,0 +1,6 @@
+- Reconnaître	[ʁə.kɔ.nɛtʁ]	Verbe
+- Signifie : Identifier quelqu’un ou quelque chose
+- Nghĩa : Nhận ra
+- Traduction : Recognize
+- Exemple : On ne peut pas reconnaître les visages.
+- Mots de la même famille : Reconnaissance (sự nhận ra / lòng biết ơn), Connaître (biết)	Latin : *recognoscere*

@@ -1,0 +1,7 @@
+- Inoubliable	[i.nu.blja.blə]	Adjectif	
+- Qu'on ne peut pas oublier.
+- Không thể quên
+- Unforgettable
+- Exemple : C’était un voyage inoubliable.
+- Famille : oublier (verbe - quên)
+- Latin : *obliviscor* (oublier)

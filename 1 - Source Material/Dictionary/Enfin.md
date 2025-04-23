@@ -1,0 +1,6 @@
+- Enfin	[ɑ̃.fɛ̃]	Adverbe
+- Signifie : À la fin, après une attente ou un effort
+- Nghĩa : Cuối cùng
+- Traduction : Finally
+- Exemple : Je suis enfin à la maison.
+- Mots de la même famille : Final (adj : cuối cùng), Finalement (adv : rốt cuộc)	Latin : *finalis*

@@ -1,0 +1,6 @@
+- Amoureux	[a.mu.ʁø]	Nom masculin / Adjectif
+- Signifie : Qui aime ou est amoureux de quelqu’un
+- Nghĩa : Người yêu / Đang yêu
+- Traduction : Lover / In love
+- Exemple : Ils sont très amoureux.
+- Mots de la même famille : Amour (tình yêu), Aimer (yêu)	Latin : *amor*

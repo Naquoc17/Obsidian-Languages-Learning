@@ -1,0 +1,7 @@
+- Cousin / Cousine	[ku.zɛ̃] / [ku.zin]	Nom	
+- Enfant de l’oncle ou de la tante.
+- Anh/chị/em họ
+- Cousin / Cousin (female)
+- Exemple : Je joue avec ma cousine le week-end.
+- Famille : famille
+- Latin : *consobrinus* (cousin du côté maternel)

@@ -1,0 +1,6 @@
+- Spécial	[spe.sjal]	Adjectif
+- Signifie : Qui n’est pas comme les autres, particulier
+- Nghĩa : Đặc biệt
+- Traduction : Special
+- Exemple : Rien de spécial aujourd’hui.
+- Mots de la même famille : Spécialement (một cách đặc biệt), Spécialité (chuyên môn)	Latin : *specialis*

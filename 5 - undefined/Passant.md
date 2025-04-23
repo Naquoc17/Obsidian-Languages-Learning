@@ -1,0 +1,6 @@
+- Passant	[pa.sɑ̃]	Nom masculin
+- Signifie : Personne qui passe dans la rue
+- Nghĩa : Người qua đường
+- Traduction : Passerby
+- Exemple : Il prend des photos des passants.
+- Mots de la même famille : Passer (đi qua), Passage (lối đi)	Latin : *passare*

@@ -1,0 +1,7 @@
+- Camp (m)	[kɑ̃]	Nom (masculin)	
+- Lieu où l’on reste pour des vacances ou activités.
+- Trại
+- Camp
+- Exemple : Ils partent en camp d’été.
+- Famille : camper (dựng trại)
+- Latin : *campus* (champ)

@@ -1,0 +1,7 @@
+- Directeur (m)	[di.ʁɛk.tœʁ]	Nom (masculin)	
+- Personne qui dirige, qui est responsable.
+- Giám đốc
+- Director / Manager
+- Exemple : Le directeur parle aux employés.
+- Famille : direction (sự điều hành)
+- Latin : *directus* (dirigé)

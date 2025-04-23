@@ -1,0 +1,6 @@
+- But	[by]	Nom masculin
+- Signifie : Objectif, raison pour laquelle on fait quelque chose
+- Nghĩa : Mục đích
+- Traduction : Goal / Purpose
+- Exemple : Quel est le but de ce projet ?
+- Mots de la même famille : Buter (vấp phải), Début (sự khởi đầu)	Latin : *buttum*

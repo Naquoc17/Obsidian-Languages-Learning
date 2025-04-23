@@ -1,0 +1,7 @@
+- Souvenir (m)	[su.və.niʁ]	Nom (masculin)	
+- Ce dont on se rappelle, une mémoire du passé.
+- Kỷ niệm
+- Memory
+- Exemple : J’ai un bon souvenir de mes vacances.
+- Famille : se souvenir (verbe - nhớ lại)
+- Latin : *subvenire* (venir à l’esprit)

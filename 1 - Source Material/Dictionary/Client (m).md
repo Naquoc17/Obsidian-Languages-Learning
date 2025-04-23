@@ -1,0 +1,7 @@
+- Client (m)	[kli.jɑ̃]	Nom (masculin)	
+- Personne qui achète quelque chose.
+- Khách hàng
+- Customer
+- Exemple : Le client achète du pain.
+- Famille : clientèle (tập khách hàng)
+- Latin : *cliens* (protégé, client)

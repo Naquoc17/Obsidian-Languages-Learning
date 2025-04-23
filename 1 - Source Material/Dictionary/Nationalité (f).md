@@ -1,0 +1,7 @@
+- Nationalité (f)	[na.sjɔ.na.li.te]	Nom (féminin)	
+- Appartenance à un pays.
+- Quốc tịch
+- Nationality
+- Exemple : Il a la nationalité française.
+- Famille : nation (quốc gia)
+- Latin : *natio* (nation)

@@ -1,0 +1,7 @@
+- Fabricant(e)	[fa.bʁi.kɑ̃]	Nom	
+- Personne qui fabrique, qui construit des choses.
+- Người sản xuất
+- Manufacturer / Maker
+- Exemple : Le fabricant de jouets travaille beaucoup.
+- Famille : fabriquer (làm ra)
+- Latin : *fabricare* (faire)

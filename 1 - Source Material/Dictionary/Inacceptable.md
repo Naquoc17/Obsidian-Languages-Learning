@@ -1,0 +1,6 @@
+- Inacceptable	[ɛ̃.nak.sɛp.tabl]	Adjectif
+- Signifie : Qu'on ne peut pas accepter
+- Nghĩa : Không thể chấp nhận được
+- Traduction : Unacceptable
+- Exemple : C’est inacceptable de devoir attendre si longtemps.
+- Mots de la même famille : Acceptable (có thể chấp nhận) / Accepter (chấp nhận)	Latin : *acceptabilis*

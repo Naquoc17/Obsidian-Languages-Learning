@@ -1,0 +1,7 @@
+- Ensemble	[ɑ̃.sɑ̃bl]	Adverbe	
+- Avec quelqu’un d’autre, en groupe.
+- Cùng nhau
+- Together
+- Exemple : Ils travaillent ensemble.
+- Famille : assembler (lắp ráp)
+- Latin : *insimul* (ensemble)

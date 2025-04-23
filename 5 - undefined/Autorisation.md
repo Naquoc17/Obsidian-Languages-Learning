@@ -1,0 +1,6 @@
+- Autorisation	[o.tɔ.ʁi.za.sjɔ̃]	Nom féminin
+- Signifie : Permission donnée pour faire quelque chose
+- Nghĩa : Sự cho phép
+- Traduction : Authorization / Permission
+- Exemple : Vous prenez des photos sans autorisation ?
+- Mots de la même famille : Autoriser (cho phép), Autorisé (được phép)	Latin : *auctorisatio*

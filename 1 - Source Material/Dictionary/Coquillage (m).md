@@ -1,0 +1,7 @@
+- Coquillage (m)	[kɔ.ki.jaʒ]	Nom (masculin)	
+- Objet dur trouvé sur la plage, maison d’un animal marin.
+- Vỏ sò
+- Seashell
+- Exemple : Les enfants ramassent des coquillages.
+- Famille : coquille (vỏ)
+- Latin : *conchilia* (coquille)

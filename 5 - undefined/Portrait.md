@@ -1,0 +1,6 @@
+- Portrait	[pɔʁ.tʁɛ]	Nom masculin
+- Signifie : Image ou photo d’une personne
+- Nghĩa : Chân dung
+- Traduction : Portrait
+- Exemple : Il fait des portraits sans autorisation.
+- Mots de la même famille : Portraiturer (vẽ chân dung), Portraitiste (họa sĩ chân dung)	Latin : *protractus*

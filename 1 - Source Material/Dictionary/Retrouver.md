@@ -1,0 +1,7 @@
+- Retrouver	[ʁə.tʁu.ve]	Verbe	
+- Voir de nouveau quelqu'un ou quelque chose.
+- Gặp lại
+- To meet again / find
+- Exemple : Je retrouve mes amis au café.
+- Famille : trouver (tìm thấy)
+- Latin : *tropare* (trouver)

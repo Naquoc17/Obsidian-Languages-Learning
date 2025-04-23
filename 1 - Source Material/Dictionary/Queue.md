@@ -1,0 +1,6 @@
+- Queue	[kø]	Nom féminin
+- Signifie : Ligne d'attente ; file de personnes
+- Nghĩa : Hàng đợi
+- Traduction : Queue / Line
+- Exemple : Il y a une longue queue à la poste.
+- Mots de la même famille : Faire la queue (xếp hàng)	Latin : *coda*

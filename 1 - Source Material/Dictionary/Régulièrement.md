@@ -1,0 +1,7 @@
+- Régulièrement	[ʁe.gy.ljɛʁ.mɑ̃]	Adverbe	
+- De façon fréquente, souvent.
+- Thường xuyên
+- Regularly
+- Exemple : Ils se voient régulièrement.
+- Famille : régulier (đều đặn)
+- Latin : *regularis*

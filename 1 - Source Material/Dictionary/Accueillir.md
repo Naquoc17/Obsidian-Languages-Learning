@@ -1,0 +1,7 @@
+- Accueillir	[a.kœ.jiʁ]	Verbe	
+- Recevoir quelqu'un, être hospitalier.
+- Chào đón
+- To welcome
+- Exemple : Ils accueillent des invités chez eux.
+- Famille : accueil (sự chào đón)
+- Latin : *accolligere* (recueillir)

@@ -1,0 +1,7 @@
+- Équitation (f)	[e.ki.ta.sjɔ̃]	Nom (féminin)	
+- Sport où l’on monte à cheval.
+- Cưỡi ngựa
+- Horse riding
+- Exemple : Elle pratique l’équitation le week-end.
+- Famille : équiper (trang bị), équestre (liên quan đến ngựa)
+- Latin : *equus* (cheval)

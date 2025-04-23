@@ -1,0 +1,7 @@
+- Plage (f)	[plaʒ]	Nom (féminin)	
+- Bord de mer avec du sable.
+- Bãi biển
+- Beach
+- Exemple : Ils se reposent sur la plage.
+- Famille : plager (ancien français - rivage)
+- Latin : *plagia* (rive)

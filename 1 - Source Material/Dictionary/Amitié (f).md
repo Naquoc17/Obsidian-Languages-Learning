@@ -1,0 +1,7 @@
+- Amitié (f)	[a.mi.tje]	Nom (féminin)	
+- Relation d'affection entre amis.
+- Tình bạn
+- Friendship
+- Exemple : Leur amitié dure depuis 10 ans.
+- Famille : ami (bạn)
+- Latin : *amicitia*

@@ -1,0 +1,6 @@
+- Exactement	[ɛɡ.zakt.mɑ̃]	Adverbe
+- Signifie : De manière précise, justement
+- Nghĩa : Chính xác
+- Traduction : Exactly
+- Exemple : Que faites-vous exactement ?
+- Mots de la même famille : Exact (chính xác), Exacter (đòi hỏi - rare)	Latin : *exacte*

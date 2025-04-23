@@ -18,9 +18,9 @@ Tags: [[French]]
 
 ## Compréhension de l'oral
 
-### Comprendre un é change formel, informel
+### Se préparer
 
-- [[Identifier la fonction des locuteurs]]
+- [[Comprendre un é change formel, informel]]
 
 ## Compréhension des écrits
 
