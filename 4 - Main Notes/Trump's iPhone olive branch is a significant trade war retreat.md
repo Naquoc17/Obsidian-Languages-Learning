@@ -42,7 +42,7 @@ Tim Cook, the chief executive of Apple, is a key player here. He can walk into a
 
 That's based on his deep fundamental role in connecting the two economies. He was hand selected by Apple's co-founder Steve Jobs for his unrivalled expertise in just-in-time supply logistics.
 
-## Part 3: ## 'Art of the Repeal'
+## Part 3: 'Art of the Repeal'
 
 This is all moving rather quickly now. Weekend reports in the US press claim White House trade hawk Pete Navarro is being side lined too in favour of US Treasury Secretary Scott Bessent.
 
