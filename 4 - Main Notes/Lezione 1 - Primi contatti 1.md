@@ -35,7 +35,7 @@ Tags: [[Nuovo Espresso 1]]
 - [[Piacere]] , Carlo De Giuli.
 
 **3**
-- [[Scusi]], [[Lei]] come si chiama?  
+- [[Scusi 1]], [[Lei]] come si chiama?  
 - Franca Gucci.  
 - [[E]] Lei?  
 - [[Anch’io]] [[Mi|mi]]  [[Chiamo (chiamarsi)|chiamo]]  Gucci, Paola Gucci.
@@ -140,6 +140,44 @@ Tags: [[Nuovo Espresso 1]]
 - Sei [[Tedesco (masculine)|tedesco]] ?  
 - No, sono [[Austriaco (masculine)|austriaco]] . E [[Tu 1|tu]] , **[[Di dove sei|di dove sei]] **?  
 - Sono italiana, di Genova.
+
+### Numeri
+
+![[ALMAed_NE1_traccia_9.mp3]]
+
+| Number | Italian     | IPA                |
+| ------ | ----------- | ------------------ |
+| 0      | Zero        | /ˈd͡zɛ.ro/         |
+| 1      | Uno         | /ˈu.no/            |
+| 2      | Due         | /ˈdu.e/            |
+| 3      | Tre         | /tre/              |
+| 4      | Quattro     | /ˈkwat.tro/        |
+| 5      | Cinque      | /ˈt͡ʃiŋ.kwe/       |
+| 6      | Sei         | /sɛi/              |
+| 7      | Sette       | /ˈset.te/          |
+| 8      | Otto        | /ˈɔt.to/           |
+| 9      | Nove        | /ˈnɔ.ve/           |
+| 10     | Dieci       | /ˈdjɛ.t͡ʃi/        |
+| 11     | Undici      | /ˈun.di.t͡ʃi/      |
+| 12     | Dodici      | /ˈdɔ.di.t͡ʃi/      |
+| 13     | Tredici     | /ˈtrɛ.di.t͡ʃi/     |
+| 14     | Quattordici | /kwatˈtɔr.di.t͡ʃi/ |
+| 15     | Quindici    | /ˈkwin.di.t͡ʃi/    |
+| 16     | Sedici      | /ˈsɛ.di.t͡ʃi/      |
+| 17     | Diciassette | /ˌdi.t͡ʃasˈset.te/ |
+| 18     | Diciotto    | /diˈt͡ʃɔt.to/      |
+| 19     | Diciannove  | /ˌdi.t͡ʃanˈnɔ.ve/  |
+| 20     | Venti       | /ˈven.ti/          |
+
+### Qual è il Suo numero di telefono?
+
+Qual è il suo [[Indirizzo|indirizzo]] ?  
+Via Garibaldi, 16.  
+E il Suo [[Numero|numero]]  di [[Telefono|telefono]] ?
+63426795. [[Però]] ho anche il [[Cellulare|cellulare]] : 340-7621782.  
+Come, [[Scusi 1|scusi]] ?  
+340-7621782.
+
 
 
 

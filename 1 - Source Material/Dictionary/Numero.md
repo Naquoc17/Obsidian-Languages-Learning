@@ -1,0 +1,7 @@
+- Numero	['nu.me.ro]	Noun (masculine)
+- Meaning: Simbolo o parola che indica una quantità.
+- Meaning (Vietnamese): Số
+- Properly translated word: Number
+- Example sentence: Il mio numero di telefono è lungo.
+- Family words: Numerare (v. - đánh số), numerico (adj. - thuộc về số)	
+- Latin root: *numerus*

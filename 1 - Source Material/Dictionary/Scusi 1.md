@@ -1,0 +1,7 @@
+- Scusi	['sku.zi]	Verb (formal, 2nd person singular imperative)
+- Meaning: Forma di cortesia per chiedere perdono o attirare l'attenzione.
+- Meaning (Vietnamese): Xin lỗi (lịch sự)
+- Properly translated word: Excuse me / Pardon
+- Example sentence: Scusi, dov'è la stazione?
+- Family words: Scusare (v. - tha thứ), scusa (n. - lời xin lỗi)	
+- Latin root: *excusare*

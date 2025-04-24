@@ -1,0 +1,7 @@
+- Telefono	[teˈlɛ.fo.no]	Noun (masculine)
+- Meaning: Dispositivo per comunicare a distanza.
+- Meaning (Vietnamese): Điện thoại
+- Properly translated word: Telephone / Phone
+- Example sentence: Il telefono squilla.
+- Family words: Telefonare (v. - gọi điện), telefonata (n. - cuộc gọi)	
+- Latin root: From Greek *tēle* (far) + *phōnē* (voice)

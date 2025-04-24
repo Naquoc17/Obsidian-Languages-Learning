@@ -1,0 +1,7 @@
+- Cellulare	[tʃel.luˈla.re]	Noun (masculine)
+- Meaning: Telefono portatile.
+- Meaning (Vietnamese): Điện thoại di động
+- Properly translated word: Mobile phone / Cell phone
+- Example sentence: Il mio cellulare è nuovo.
+- Family words: Cellula (n. - tế bào)	
+- Latin root: *cellula* (small room)

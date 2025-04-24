@@ -1,0 +1,7 @@
+- Indirizzo	[in.diˈrit.tso]	Noun (masculine)
+- Meaning: Luogo dove una persona abita o lavora.
+- Meaning (Vietnamese): Địa chỉ
+- Properly translated word: Address
+- Example sentence: Qual è il tuo indirizzo?
+- Family words: Indirizzare (v. - hướng dẫn), indirizzamento (n. - sự định hướng)	
+- Latin root: *indirigere*

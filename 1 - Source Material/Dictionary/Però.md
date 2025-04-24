@@ -1,0 +1,7 @@
+- Però	[peˈrɔ]	Adverb / Conjunction
+- Meaning: Introduce una contrapposizione o aggiunta ("nhưng").
+- Meaning (Vietnamese): Nhưng
+- Properly translated word: But / However
+- Example sentence: Mi piace, però è costoso.
+- Family words: — (No direct family words)	
+- Latin root: From Latin *per hoc* ("by this")
