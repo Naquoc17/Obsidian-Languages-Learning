@@ -1,0 +1,7 @@
+- Tannin(s)	[ˈtæn.ɪn]	Noun (usually plural)
+- Meaning: A natural substance found in plants, especially in tea and wine, giving a bitter taste.
+- Meaning (Vietnamese): Chất tannin (chất tự nhiên trong thực vật, tạo vị chát, đắng)
+- Properly translated word: Tannin
+- Example sentence: Tannins give red wine and tea their slightly bitter taste.
+- Family words: tannic (adj. relating to tannin)	
+- Latin root: *tannare* (to tan, referring to tanning leather)

@@ -1,0 +1,7 @@
+- Astringent	[əˈstrɪn.dʒənt]	Adjective / Noun
+- Meaning: (Adj.) Having a sharp or bitter taste; (Noun) A substance that tightens skin or tissue.
+- Meaning (Vietnamese): (Tính từ) Có vị chát, đắng; (Danh từ) Chất làm se
+- Properly translated word: herbitter / adstringierend (in German)
+- Example sentence: The lemon gave the tea an astringent flavor.
+- Family words: astringency (n. the quality of being astringent)	
+- Latin root: *adstringere* (to bind fast)

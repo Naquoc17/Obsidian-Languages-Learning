@@ -1,0 +1,7 @@
+- Soluble	[ˈsɒl.jə.bəl]	Adjective
+- Meaning: Able to dissolve in a liquid, especially water.
+- Meaning (Vietnamese): Có thể hòa tan
+- Properly translated word: löslich (in German)
+- Example sentence: Sugar is soluble in water.
+- Family words: solubility (n. ability to dissolve)	
+- Latin root: *solvere* (to loosen, dissolve)

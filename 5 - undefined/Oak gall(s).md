@@ -1,0 +1,7 @@
+- Oak gall(s)	[əʊk ɡɔːl]	Noun
+- Meaning: Abnormal growths on oak trees caused by insects, used in medicine.
+- Meaning (Vietnamese): U sồi (bướu trên cây sồi, dùng trong y học)
+- Properly translated word: Gallapfel (in German)
+- Example sentence: Oak galls have been used in traditional medicine for centuries.
+- Family words: gall (n. a growth on plants)	
+- Latin root: *galla* (Latin for oak-apple)
