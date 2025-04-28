@@ -11,9 +11,9 @@ Tags: [[The Official Cambridge Guide to IELTS for Academic & General Training]]
 
 *Sid Cowans looks at the health properties of a favourite drink*
 
-If you are a tea drinker you have probably heard of **tannins**, which are plant based chemicals found in tea. They are responsible for the **astringent** bitter taste sometimes associated with tea. When you drink a cup of tea, it usually dissolves and remains clear unless the water is too cold or too **alkaline**.
+If you are a tea drinker you have probably heard of **[[Tannin(s)|tannins]] **, which are plant based chemicals found in tea. They are responsible for the **[[Astringent|astringent]] ** bitter taste sometimes associated with tea. When you drink a cup of tea, it usually dissolves and remains clear unless the water is too cold or too **[[Alkaline|alkaline]] **.
 
-Tannins occur in many different types of plants and food, but are especially present in **oak galls**, which have been used for centuries in Chinese medicine due to their health giving properties. Tannins are often present in drinks and medicine because they are **soluble** in water, but how much they dissolve depends on factors like temperature and the chemical make up of the liquid.
+Tannins occur in many different types of plants and food, but are especially present in **[[Oak gall(s)|oak galls]] **, which have been used for centuries in Chinese medicine due to their health giving properties. Tannins are often present in drinks and medicine because they are **[[Soluble|soluble]] ** in water, but how much they dissolve depends on factors like temperature and the chemical make up of the liquid.
 
 ---
 
