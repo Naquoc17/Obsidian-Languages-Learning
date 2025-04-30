@@ -2,15 +2,15 @@
 type: article
 author: 
 languages: English
-source: 
+source: https://engoo.com/app/daily-news/article/blood-and-cuts-germanys-finger-wrestling-competition/n8J3biQkEfCggLNLRTAy3g
 creation date: 2025-04-30 20:46
 ---
 alias: [[]]
 modification date: `$= dv.current().file.mtime`
 
-Status: #baby 
+Status: #child 
 
-Tags: [[]]
+Tags: [[Engoo]]
 
 # Blood and Cuts - Germany's Finger Wrestling Competition
 
@@ -30,15 +30,15 @@ Two competitors sit on opposite sides of a table and each hooks one finger — u
 
 As soon as a referee signals the start, each [[contestant]] tries to pull the other across the table. The whole thing usually lasts a few seconds, and dislocated fingers are common.
 
-Officials sit behind each athlete to catch them should one of them suddenly lose his [[grip]] and fly backwards. The winner moves to the next round. By custom, only men take part.
+Officials sit behind each athlete to catch them should one of them suddenly lose his [[grip]] and fly backwards. The winner moves to the next round. By [[custom]], only men take part.
 
-Today, _fingerhakeln_ is highly organized and follows strict rules. In this year's championship, there were several winners in different weight and age categories.
+Today, _fingerhakeln_ is highly organized and follows strict rules. In this year's championship, there were several winners in different weight and age [[category|categories]] .
 
-There are nine clubs in Germany and another four in neighboring Austria, says Georg Hailer, chairman of Germany's oldest and biggest club.
+There are nine clubs in Germany and another four in neighboring Austria, says Georg Hailer, [[chairman]] of Germany's oldest and biggest club.
 
-"It's not dangerous at all," Hailer says. "Of course, there will be open wounds and small injuries on the fingers from time to time. It looks worse than it really is, because there's blood."
+"It's not dangerous at all," Hailer says. "Of course, there will be open [[wound|wounds]]  and small injuries on the fingers from time to time. It looks worse than it really is, because there's blood."
 
-It's a sport that requires skill, not just strength, says one wrestler. "There are different techniques — how do I sit at the table?" he says. "How do I transfer my power as quickly as possible to the loop? And of course you need a well-trained finger."
+It's a sport that requires skill, not just strength, says one wrestler. "There are different [[technique|techniques]]  — how do I sit at the table?" he says. "How do I [[transfer]] my power as quickly as possible to the loop? And of course you need a [[well-trained]] finger."
 
 Competitors warm up by lifting heavy blocks or pulling on cables with their competition finger!
 
