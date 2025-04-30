@@ -1,0 +1,7 @@
+- originate	[əˈrɪdʒ.ən.eɪt]	Verb
+- Meaning (English): To come from or begin in a certain place or time
+- Meaning (Vietnamese): Bắt nguồn
+- Properly translated word: entstehen / seinen Ursprung haben (German)
+- Example sentence: The sport originated in the Alps.
+- Family words: origin (noun – nguồn gốc), original (adjective – nguyên bản)	
+- Latin root: oriri (to rise)

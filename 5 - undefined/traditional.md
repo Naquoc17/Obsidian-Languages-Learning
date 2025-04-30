@@ -1,0 +1,7 @@
+- traditional	[trəˈdɪʃ.ən.əl]	Adjective
+- Meaning (English): Related to long-established customs or ways of doing things
+- Meaning (Vietnamese): Truyền thống
+- Properly translated word: traditionell (German)
+- Example sentence: They wore traditional Bavarian clothing.
+- Family words: tradition (noun – truyền thống), traditionally (adverb – theo truyền thống)	
+- Latin root: traditio (a handing over)

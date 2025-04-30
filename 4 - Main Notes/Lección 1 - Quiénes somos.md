@@ -124,6 +124,41 @@ Tags: [[Libro del Alumno Suena 1]]
 
 ### 10. 
 
+| Number | Spanish           | IPA Pronunciation       | Number | Spanish           | IPA Pronunciation       |
+|--------|-------------------|--------------------------|--------|-------------------|--------------------------|
+| 21     | veintiuno         | [ˌbejn̪.t̪iˈu.no]         | 61     | sesenta y uno     | [seˈsen.t̪a i ˈu.no]     |
+| 22     | veintidós         | [ˌbejn̪.t̪iˈðos]          | 62     | sesenta y dos     | [seˈsen.t̪a i ˈðos]      |
+| 23     | veintitrés        | [ˌbejn̪.t̪iˈtɾes]         | 63     | sesenta y tres    | [seˈsen.t̪a i ˈtɾes]     |
+| 24     | veinticuatro      | [ˌbejn̪.t̪iˈkwa.t̪ɾo]     | 64     | sesenta y cuatro  | [seˈsen.t̪a i ˈkwa.t̪ɾo] |
+| 25     | veinticinco       | [ˌbejn̪.t̪iˈθiŋ.ko]        | 65     | sesenta y cinco   | [seˈsen.t̪a i ˈθiŋ.ko]   |
+| 26     | veintiséis        | [ˌbejn̪.t̪iˈsejs]          | 66     | sesenta y seis    | [seˈsen.t̪a i ˈsejs]     |
+| 27     | veintisiete       | [ˌbejn̪.t̪iˈsjɛ.t̪e]       | 67     | sesenta y siete   | [seˈsen.t̪a i ˈsjɛ.t̪e]  |
+| 28     | veintiocho        | [ˌbejn̪.t̪iˈo.t͡ʃo]        | 68     | sesenta y ocho    | [seˈsen.t̪a i ˈo.t͡ʃo]   |
+| 29     | veintinueve       | [ˌbejn̪.t̪iˈnwe.βe]        | 69     | sesenta y nueve   | [seˈsen.t̪a i ˈnwe.βe]   |
+| 30     | treinta           | [ˈtɾejn̪.t̪a]              | 70     | setenta           | [seˈt̪en.t̪a]            |
+| 31     | treinta y uno     | [ˈtɾejn̪.t̪a i ˈu.no]      | 71     | setenta y uno     | [seˈt̪en.t̪a i ˈu.no]     |
+| 32     | treinta y dos     | [ˈtɾejn̪.t̪a i ˈðos]       | 72     | setenta y dos     | [seˈt̪en.t̪a i ˈðos]      |
+| 33     | treinta y tres    | [ˈtɾejn̪.t̪a i ˈtɾes]      | 73     | setenta y tres    | [seˈt̪en.t̪a i ˈtɾes]     |
+| 34     | treinta y cuatro  | [ˈtɾejn̪.t̪a i ˈkwa.t̪ɾo]  | 74     | setenta y cuatro  | [seˈt̪en.t̪a i ˈkwa.t̪ɾo] |
+| 35     | treinta y cinco   | [ˈtɾejn̪.t̪a i ˈθiŋ.ko]    | 75     | setenta y cinco   | [seˈt̪en.t̪a i ˈθiŋ.ko]   |
+| 36     | treinta y seis    | [ˈtɾejn̪.t̪a i ˈsejs]      | 76     | setenta y seis    | [seˈt̪en.t̪a i ˈsejs]     |
+| 40     | cuarenta          | [kwaˈɾen.t̪a]              | 77     | setenta y siete   | [seˈt̪en.t̪a i ˈsjɛ.t̪e]  |
+| 41     | cuarenta y uno    | [kwaˈɾen.t̪a i ˈu.no]      | 78     | setenta y ocho    | [seˈt̪en.t̪a i ˈo.t͡ʃo]   |
+| 42     | cuarenta y dos    | [kwaˈɾen.t̪a i ˈðos]       | 79     | setenta y nueve   | [seˈt̪en.t̪a i ˈnwe.βe]   |
+| 50     | cincuenta         | [θiŋˈkwen.t̪a]             | 80     | ochenta           | [oˈt͡ʃen.t̪a]            |
+| 51     | cincuenta y uno   | [θiŋˈkwen.t̪a i ˈu.no]     | 81     | ochenta y uno     | [oˈt͡ʃen.t̪a i ˈu.no]     |
+| 52     | cincuenta y dos   | [θiŋˈkwen.t̪a i ˈðos]      | 82     | ochenta y dos     | [oˈt͡ʃen.t̪a i ˈðos]      |
+| 60     | sesenta           | [seˈsen.t̪a]               | 83     | ochenta y tres    | [oˈt͡ʃen.t̪a i ˈtɾes]     |
+| 90     | noventa           | [noˈβen.t̪a]               | 84     | ochenta y cuatro  | [oˈt͡ʃen.t̪a i ˈkwa.t̪ɾo] |
+| 91     | noventa y uno     | [noˈβen.t̪a i ˈu.no]       | 85     | ochenta y cinco   | [oˈt͡ʃen.t̪a i ˈθiŋ.ko]   |
+| 92     | noventa y dos     | [noˈβen.t̪a i ˈðos]        | 86     | ochenta y seis    | [oˈt͡ʃen.t̪a i ˈsejs]     |
+| 93     | noventa y tres    | [noˈβen.t̪a i ˈtɾes]       | 87     | ochenta y siete   | [oˈt͡ʃen.t̪a i ˈsjɛ.t̪e]  |
+| 94     | noventa y cuatro  | [noˈβen.t̪a i ˈkwa.t̪ɾo]   | 88     | ochenta y ocho    | [oˈt͡ʃen.t̪a i ˈo.t͡ʃo]   |
+| 95     | noventa y cinco   | [noˈβen.t̪a i ˈθiŋ.ko]     | 89     | ochenta y nueve   | [oˈt͡ʃen.t̪a i ˈnwe.βe]   |
+| 96     | noventa y seis    | [noˈβen.t̪a i ˈsejs]       | 100    | cien              | [sjɛn]                  |
+| 97     | noventa y siete   | [noˈβen.t̪a i ˈsjɛ.t̪e]    |        |                   |                          |
+| 98     | noventa y ocho    | [noˈβen.t̪a i ˈo.t͡ʃo]     |        |                   |                          |
+| 99     | noventa y nueve   | [noˈβen.t̪a i ˈnwe.βe]     |        |                   |                          |
 
 
 

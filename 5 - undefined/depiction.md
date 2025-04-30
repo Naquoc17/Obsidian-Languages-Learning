@@ -1,0 +1,7 @@
+- depiction	[dɪˈpɪk.ʃən]	Noun
+- Meaning (English): A representation or description of something
+- Meaning (Vietnamese): Sự mô tả, hình ảnh miêu tả
+- Properly translated word: Darstellung (German)
+- Example sentence: The earliest depictions show men wrestling with one finger.
+- Family words: depict (verb – mô tả)	
+- Latin root: depingere (to paint)

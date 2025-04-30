@@ -1,0 +1,7 @@
+- dislocated	[ˈdɪs.lə.keɪ.tɪd]	Adjective
+- Meaning (English): A joint (like a finger or shoulder) moved out of its normal position
+- Meaning (Vietnamese): Trật khớp
+- Properly translated word: verrenkt (German)
+- Example sentence: He couldn't play because of a dislocated shoulder.
+- Family words: dislocate (verb – làm trật khớp), dislocation (noun – sự trật khớp)	
+- Latin root: dis- (apart) + locare (to place)
