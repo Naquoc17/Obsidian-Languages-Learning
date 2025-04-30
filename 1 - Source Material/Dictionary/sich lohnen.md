@@ -1,0 +1,6 @@
+- sich lohnen	[ˈloːnən]	Verb (reflexiv)	
+- von Nutzen sein; sich auszahlen
+- xứng đáng / đáng công sức
+- to be worth it / to pay off
+- Die Mühe lohnt sich am Ende.
+- Lohn (m – wage), lohnenswert (adj – worthwhile)	→ dt. *Lohn*

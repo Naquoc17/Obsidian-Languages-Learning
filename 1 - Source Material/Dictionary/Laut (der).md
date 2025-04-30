@@ -1,0 +1,6 @@
+- Laut (der)	[laʊ̯t]	Nomen	
+- ein Sprachgeräusch
+- âm thanh (ngôn ngữ)
+- sound (linguistic)
+- Im Deutschen gibt es viele harte Laute.
+- laut (adj – loud), Lautschrift (f – phonetic script)	→ lat. *clamare*

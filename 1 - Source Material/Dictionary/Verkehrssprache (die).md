@@ -1,0 +1,6 @@
+- Verkehrssprache (die)	[fɛɐ̯ˈkeːɐ̯ˌʃpʁaːxə]	Nomen	
+- Sprache, die in einem bestimmten Bereich zur Kommunikation dient
+- ngôn ngữ giao tiếp chung
+- lingua franca / contact language
+- Englisch ist eine weltweite Verkehrssprache.
+- Verkehr (m – traffic, communication), Sprache (f – language)	→ dt. *Verkehr*

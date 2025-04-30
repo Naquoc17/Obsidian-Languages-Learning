@@ -1,0 +1,6 @@
+- Handelshemmnis (das)	[ˈhandl̩sˌhɛm.nɪs]	Nomen	
+- eine Maßnahme, die den Handel zwischen Ländern erschwert
+- rào cản thương mại
+- trade barrier
+- Zölle sind typische Handelshemmnisse.
+- Handel (m – trade), hemmen (v – to inhibit)	→ dt. *hemmen*

@@ -1,0 +1,6 @@
+- erfassen	[ɛɐ̯ˈfasn̩]	Verb	
+- registrieren, dokumentieren, verstehen
+- ghi nhận, nắm bắt
+- to record / to capture / to comprehend
+- Alle Informationen wurden erfasst.
+- Erfassung (f – capture, recording)	→ dt. *fassen*

@@ -1,0 +1,6 @@
+- berücksichtigen	[bəˈʁʏkˌzɪçtɪɡn̩]	Verb	
+- in Betracht ziehen, beachten
+- cân nhắc, tính đến
+- to take into account / to consider
+- Wir müssen die Umstände berücksichtigen.
+- Rücksicht (f – consideration), Berücksichtigung (f – consideration)	→ dt. *Rücksicht*

@@ -1,0 +1,6 @@
+- jeweilig	[ˈjeːvaɪ̯lɪç]	Adjektiv	
+- zu einem bestimmten Zeitpunkt oder Fall gehörend
+- tương ứng, cụ thể
+- respective / particular
+- Die jeweilige Regierung entscheidet das.
+- jeweils (adv – respectively)	→ dt. *je* + *weil*

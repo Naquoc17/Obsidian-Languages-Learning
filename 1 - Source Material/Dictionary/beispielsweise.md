@@ -1,0 +1,6 @@
+- beispielsweise	[ˈbaɪ̯ʃpiːlˌvaɪ̯zə]	Adverb	
+- zum Beispiel, als Beispiel
+- ví dụ như
+- for example / for instance
+- Man kann beispielsweise nach Berlin reisen.
+- Beispiel (n – example)	→ dt. *Beispiel*

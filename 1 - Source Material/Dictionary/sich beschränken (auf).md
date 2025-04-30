@@ -1,0 +1,6 @@
+- sich beschränken (auf)	[bəˈʃʁɛŋkn̩]	Verb (reflexiv)	
+- sich auf etwas begrenzen
+- giới hạn vào
+- to limit oneself (to something)
+- Wir beschränken uns auf das Wesentliche.
+- Beschränkung (f – limitation), beschränkt (adj – limited)	→ dt. *schranken*

@@ -1,0 +1,6 @@
+- Datensatz (der)	[ˈdaːtn̩ˌzat͡s]	Nomen	
+- strukturierte Sammlung von Daten
+- tập dữ liệu
+- dataset / data record
+- Der Datensatz umfasst Millionen Einträge.
+- Daten (Pl – data), Satz (m – set, sentence)	→ dt. *setzen*

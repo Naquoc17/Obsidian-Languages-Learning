@@ -1,0 +1,6 @@
+- entscheidend	[ɛntˈʃaɪ̯dn̩t]	Adjektiv	
+- ausschlaggebend, von großer Bedeutung
+- then chốt, quan trọng
+- crucial / decisive
+- Der Preis ist ein entscheidender Faktor.
+- Entscheidung (f – decision), entscheiden (v – to decide)	→ dt. *scheiden*

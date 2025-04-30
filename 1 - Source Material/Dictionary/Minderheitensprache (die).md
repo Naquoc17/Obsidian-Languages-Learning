@@ -1,0 +1,6 @@
+- Minderheitensprache (die)	[ˈmɪndɐˌhaɪ̯tn̩ʃpʁaːxə]	Nomen	
+- Sprache einer Bevölkerungsgruppe mit geringer Anzahl
+- ngôn ngữ của dân tộc thiểu số
+- minority language
+- Sorbisch ist eine Minderheitensprache in Deutschland.
+- Minderheit (f – minority), Sprache (f – language)	→ dt. *minder* + *heißt*

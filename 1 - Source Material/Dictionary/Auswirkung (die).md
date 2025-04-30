@@ -1,0 +1,6 @@
+- Auswirkung (die)	[ˈaʊ̯sˌvɪʁkʊŋ]	Nomen	
+- Folge oder Effekt einer Handlung
+- tác động, ảnh hưởng
+- effect / impact
+- Die Auswirkung war enorm.
+- wirken (v – to affect), Wirkung (f – effect)	→ dt. *wirken*

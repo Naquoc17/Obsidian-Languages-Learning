@@ -1,0 +1,6 @@
+- messbar	[ˈmɛsˌbaːɐ̯]	Adjektiv	
+- quantitativ erfassbar, messfähig
+- có thể đo lường
+- measurable
+- Der Erfolg ist klar messbar.
+- messen (v – to measure), Messung (f – measurement)	→ dt. *messen*

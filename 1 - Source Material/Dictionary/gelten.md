@@ -1,0 +1,6 @@
+- gelten	[ˈɡɛltən]	Verb	
+- als gültig oder wirksam betrachtet werden
+- được coi là hợp lệ / có hiệu lực
+- to be considered / to apply
+- Diese Regelungen gelten auch im Ausland.
+- gültig (adj – valid), Geltung (f – validity)	→ lat. *valere*

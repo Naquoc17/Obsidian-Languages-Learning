@@ -1,0 +1,6 @@
+- Amtssprache (die)	[ˈamtsˌʃpʁaːxə]	Nomen	
+- offizielle Sprache eines Staates
+- ngôn ngữ chính thức
+- official language
+- In der Schweiz gibt es mehrere Amtssprachen.
+- Amt (n – office), Sprache (f – language)	→ dt. *Amt* + *Sprache*

@@ -1,0 +1,6 @@
+- rücken	[ˈʁʏkən]	Verb	
+- sich bewegen oder verschieben (in Position)
+- di chuyển, dịch chuyển (vị trí)
+- to move / to shift
+- Die Kamera rückte näher an das Motiv heran.
+- Rückung (f – shift), Rücken (m – back)	→ dt. *rücken*

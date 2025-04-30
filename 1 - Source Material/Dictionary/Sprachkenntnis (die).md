@@ -1,0 +1,6 @@
+- Sprachkenntnis (die)	[ˈʃpʁaːχˌkɛntnɪs]	Nomen	
+- Wissen und Fähigkeiten im Bereich Sprache
+- kiến thức ngôn ngữ
+- language proficiency
+- Sprachkenntnisse sind für den Beruf sehr wichtig.
+- Sprache (f – language), Kenntnis (f – knowledge)	→ dt. *kennen*
