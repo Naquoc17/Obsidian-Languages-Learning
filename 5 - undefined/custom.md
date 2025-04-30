@@ -1,0 +1,7 @@
+- custom	[ˈkʌs.təm]	Noun
+- Meaning (English): A traditional practice followed by a group of people
+- Meaning (Vietnamese): Phong tục
+- Properly translated word: Brauch (German)
+- Example sentence: By custom, only men take part in this sport.
+- Family words: customary (adjective – theo lệ thường), customer (noun – khách hàng, khác nghĩa)
+- Latin root: consuetudo (custom, habit)

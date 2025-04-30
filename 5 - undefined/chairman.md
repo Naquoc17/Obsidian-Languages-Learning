@@ -1,0 +1,7 @@
+- chairman	[ˈtʃer.mən]	Noun
+- Meaning (English): The leader of a meeting or organization
+- Meaning (Vietnamese): Chủ tịch
+- Properly translated word: Vorsitzender (German)
+- Example sentence: Georg Hailer is the chairman of the oldest club.
+- Family words: chair (noun – ghế, chủ tọa), chairperson (gender-neutral version)
+- Latin root: (no Latin root; from "chair" + "man")

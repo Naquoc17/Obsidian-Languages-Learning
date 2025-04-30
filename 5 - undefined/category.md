@@ -1,0 +1,7 @@
+- category	[ˈkæt̬.ə.ɡɔːr.i]	Noun
+- Meaning (English): A group or class that things are divided into
+- Meaning (Vietnamese): Hạng mục, thể loại
+- Properly translated word: Kategorie (German)
+- Example sentence: There are different weight categories in the competition.
+- Family words: categorize (verb – phân loại), categorical (adjective – rõ ràng)
+- Latin root: katēgoria (Greek – accusation, declaration)

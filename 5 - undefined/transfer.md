@@ -1,0 +1,7 @@
+- transfer	[trænsˈfɝː]	Verb
+- Meaning (English): To move something from one place to another
+- Meaning (Vietnamese): Chuyển giao
+- Properly translated word: übertragen (German)
+- Example sentence: He quickly transferred power to the loop.
+- Family words: transfer (noun – sự chuyển), transferable (adjective – có thể chuyển giao)
+- Latin root: transferre (to carry across)

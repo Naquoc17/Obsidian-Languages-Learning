@@ -1,0 +1,7 @@
+- technique	[tekˈniːk]	Noun
+- Meaning (English): A way of doing something skillfully
+- Meaning (Vietnamese): Kỹ thuật
+- Properly translated word: Technik (German)
+- Example sentence: His technique helped him win the match.
+- Family words: technical (adjective – kỹ thuật), technician (noun – kỹ thuật viên)
+- Latin root: technē (Greek – art, skill)

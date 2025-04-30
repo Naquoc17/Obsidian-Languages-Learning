@@ -1,0 +1,7 @@
+- well-trained	[ˌwelˈtreɪnd]	Adjective
+- Meaning (English): Skilled due to good training
+- Meaning (Vietnamese): Được huấn luyện tốt
+- Properly translated word: gut trainiert (German)
+- Example sentence: You need a well-trained finger to compete.
+- Family words: train (verb – đào tạo), training (noun – sự huấn luyện)
+- Latin root: trahere (to pull or draw — from which "train" derives)

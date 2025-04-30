@@ -1,0 +1,7 @@
+- wound	[wuːnd]	Noun
+- Meaning (English): An injury to the body, often with blood
+- Meaning (Vietnamese): Vết thương
+- Properly translated word: Wunde (German)
+- Example sentence: He had several open wounds on his finger.
+- Family words: wounded (adjective – bị thương), wound (verb – làm bị thương)
+- Latin root: (Germanic origin; no Latin root)
