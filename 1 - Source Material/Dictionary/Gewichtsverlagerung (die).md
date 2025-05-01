@@ -1,0 +1,6 @@
+- Gewichtsverlagerung (die)	[ɡəˈvɪçtsfɛɐ̯ˌlaːɡɐʊ̯ŋ]	Nomen	
+- Verschiebung des Körpergewichts zur Erzeugung von Kraft
+- chuyển trọng lượng cơ thể
+- weight shift / shifting of body weight
+- Die Gewichtsverlagerung bringt mehr Schlagkraft.
+- Gewicht (n – weight), verlagern (v – to shift)	→ dt. *Last* (load)

@@ -1,0 +1,6 @@
+- in die Knie gehen	[ɪn diː ˈkniːə ɡeːən]	Redewendung	
+- leicht beugen, um in Kampfstellung zu kommen
+- chùng gối / hạ trọng tâm
+- to bend your knees
+- Beim Boxen musst du immer in die Knie gehen.
+- Knie (n – knee), gehen (v – to go)	→ dt. *Knie*

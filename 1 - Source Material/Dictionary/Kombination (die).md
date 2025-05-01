@@ -1,0 +1,6 @@
+- Kombination (die)	[ˌkɔmbiˈnaːt͡si̯oːn]	Nomen	
+- Verbindung mehrerer Bewegungen
+- sự kết hợp
+- combination
+- Die Kombination aus Haken und Gerade ist effektiv.
+- kombinieren (v – to combine), Kombi (f – informal for combination)	→ lat. *combinare*

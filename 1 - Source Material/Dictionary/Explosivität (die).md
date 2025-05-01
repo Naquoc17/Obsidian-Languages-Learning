@@ -1,0 +1,6 @@
+- Explosivität (die)	[ɛksploziˈviːtɛːt]	Nomen	
+- Fähigkeit, schnell und kraftvoll zu reagieren
+- độ bùng nổ, sức bật
+- explosiveness
+- Tiefe Haltung erhöht die Explosivität.
+- explosiv (adj – explosive)	→ lat. *explodere*

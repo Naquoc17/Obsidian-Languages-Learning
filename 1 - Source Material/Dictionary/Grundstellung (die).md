@@ -1,0 +1,6 @@
+- Grundstellung (die)	[ˈɡʁʊntˌʃtɛlʊŋ]	Nomen	
+- die Basisposition (z. B. beim Sport oder Kampfsport)
+- tư thế cơ bản
+- basic stance / starting position
+- Die Grundstellung ist beim Boxen sehr wichtig.
+- Grund (m – base), Stellung (f – position)	→ dt. *stellen*

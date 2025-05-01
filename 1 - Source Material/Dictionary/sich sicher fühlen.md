@@ -1,0 +1,6 @@
+- sich sicher fühlen	[ˈzɪçɐ ˈfyːlən]	Redewendung (reflexiv)	
+- keine Angst haben; sich geschützt fühlen
+- cảm thấy an toàn
+- to feel safe / secure
+- Beim Training solltest du dich sicher fühlen.
+- Sicherheit (f – safety), sicher (adj – safe)	→ dt. *sicher*

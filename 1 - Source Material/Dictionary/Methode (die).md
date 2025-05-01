@@ -1,0 +1,6 @@
+- Methode (die)	[meˈtoːdə]	Nomen	
+- ein geplanter Weg, um etwas zu lernen oder zu erreichen
+- phương pháp
+- method
+- Welche Methode benutzt du zum Lernen?
+- methodisch (adj – methodical)	→ gr. *methodos*

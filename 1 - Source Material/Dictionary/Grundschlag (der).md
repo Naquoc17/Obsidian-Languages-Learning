@@ -1,0 +1,6 @@
+- Grundschlag (der)	[ˈɡʁʊntˌʃlaːk]	Nomen	
+- grundlegender Schlag, Basisbewegung (Boxen)
+- cú đấm cơ bản
+- basic punch
+- Es gibt verschiedene Grundschläge im Training.
+- Schlag (m – punch, hit), grundlegend (adj – basic)	→ dt. *schlagen*

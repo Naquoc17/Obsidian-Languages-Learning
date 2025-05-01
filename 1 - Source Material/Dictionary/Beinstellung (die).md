@@ -1,0 +1,6 @@
+- Beinstellung (die)	[ˈbaɪ̯nʃtɛlʊŋ]	Nomen	
+- die Position der Füße und Beine beim Stehen
+- tư thế chân
+- leg position / stance
+- Die Beinstellung beeinflusst deine Balance.
+- Bein (n – leg), Stellung (f – position)	→ dt. *stellen*

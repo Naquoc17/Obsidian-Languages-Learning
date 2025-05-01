@@ -1,0 +1,6 @@
+- zum Gegner zeigen	[tsʊm ˈɡeːɡnɐ ˈʦaɪ̯ɡn̩]	Redewendung	
+- in Richtung des Gegners gerichtet sein
+- hướng về đối thủ
+- to point towards the opponent
+- Deine Füße sollen zum Gegner zeigen.
+- Gegner (m – opponent), zeigen (v – to point/show)	→ dt. *zeigen*

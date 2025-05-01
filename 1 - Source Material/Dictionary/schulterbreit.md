@@ -1,0 +1,6 @@
+- schulterbreit	[ˈʃʊltɐˌbʁaɪ̯t]	Adjektiv	
+- mit so viel Abstand wie die Schultern
+- rộng bằng vai
+- shoulder-width apart
+- Stell dich schulterbreit hin!
+- Schulter (f – shoulder), breit (adj – wide)	→ dt. *breit*

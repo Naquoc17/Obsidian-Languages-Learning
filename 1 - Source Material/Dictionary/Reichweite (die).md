@@ -1,0 +1,6 @@
+- Reichweite (die)	[ˈʁaɪ̯çˌvaɪ̯tə]	Nomen	
+- die Entfernung, die man mit einem Schlag erreichen kann
+- tầm với
+- reach / range
+- Er hat eine große Reichweite mit seinen Schlägen.
+- reichen (v – to reach), weit (adj – far)	→ dt. *reichen*

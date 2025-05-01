@@ -1,0 +1,6 @@
+- von Grund auf	[fɔn ɡʁʊnt aʊ̯f]	Redewendung	
+- ganz am Anfang beginnend, vollständig neu
+- từ đầu
+- from scratch / from the ground up
+- Er hat das Unternehmen von Grund auf aufgebaut.
+- Grund (m – base), auf (prep – on)	→ dt. *Grund*

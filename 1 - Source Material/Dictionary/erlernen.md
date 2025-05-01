@@ -1,0 +1,6 @@
+- erlernen	[ɛɐ̯ˈlɛʁnən]	Verb	
+- durch Übung und Lernen etwas vollständig beherrschen
+- học, tiếp thu
+- to master / to learn thoroughly
+- Man kann Sprachen leicht erlernen.
+- erlernt (adj – acquired)	→ dt. *lernen*

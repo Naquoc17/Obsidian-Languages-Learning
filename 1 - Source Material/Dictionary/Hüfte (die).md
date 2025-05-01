@@ -1,0 +1,6 @@
+- Hüfte (die)	[ˈhʏftə]	Nomen	
+- Körperteil zwischen Bauch und Oberschenkel
+- hông
+- hip
+- Die Hüfte spielt beim Boxen eine große Rolle.
+- hüftbreit (adj – hip-width)	→ dt. *Hüfte*
