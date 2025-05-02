@@ -1,0 +1,6 @@
+- Buenas	[ˈbwe.nas]	interjección / adjetivo (femenino, plural)  
+- Forma abreviada de saludo (buenas noches/días/tardes)
+- Chào
+- Good
+- Buenas noches
+- bueno (tốt), buena (tốt, nữ)	Lat. *bonus*

@@ -1,0 +1,6 @@
+- Noches	[ˈno.tʃes]	sustantivo (femenino, plural)  
+- Tiempo entre el anochecer y la mañana
+- Buổi tối
+- Nights
+- Buenas noches
+- noche (đêm, số ít)	Lat. *nox*

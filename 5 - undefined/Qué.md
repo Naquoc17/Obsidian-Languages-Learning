@@ -1,0 +1,6 @@
+- Qué	[ke]	pronombre interrogativo  
+- Palabra para preguntar o exclamar
+- Gì
+- What
+- ¿Qué tal?
+- (no family words)	Lat. *quid*

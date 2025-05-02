@@ -1,0 +1,6 @@
+- Me	[me]	pronombre reflexivo / objeto  
+- Se refiere a uno mismo
+- Tôi
+- Myself
+- Me llamo Niclas
+- (no family words)	Lat. *me*

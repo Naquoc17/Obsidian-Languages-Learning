@@ -1,0 +1,6 @@
+- Italiano	[i.taˈlja.no]	adjetivo / sustantivo  
+- De Italia o relativo a Italia
+- Người Ý / (thuộc) Ý
+- Italian
+- Un amigo italiano
+- italiana (nữ người Ý)	Lat. *italianus*

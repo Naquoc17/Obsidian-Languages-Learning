@@ -1,0 +1,6 @@
+- Gracias	[ˈɡɾa.sjas]	sustantivo plural / interjección  
+- Expresión de agradecimiento
+- Cảm ơn
+- Thanks
+- Bien, gracias
+- agradecer (cảm ơn)	Lat. *gratiae*

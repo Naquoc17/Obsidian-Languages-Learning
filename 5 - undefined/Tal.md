@@ -1,0 +1,6 @@
+- Tal	[tal]	pronombre / adjetivo  
+- Forma de preguntar por estado/situación
+- Như thế nào
+- How / such
+- ¿Qué tal?
+- (no family words)	Lat. *talis*

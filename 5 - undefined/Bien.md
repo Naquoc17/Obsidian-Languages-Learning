@@ -1,0 +1,6 @@
+- Bien	[bjen]	adverbio  
+- Correctamente, satisfactoriamente
+- Tốt
+- Well
+- Bien, gracias
+- (no family words)	Lat. *bene*

@@ -1,0 +1,6 @@
+- Un	[un]	artículo indefinido (masculino, singular)  
+- Se usa para hablar de algo no específico
+- Một
+- A
+- Un amigo italiano
+- unos (một vài)	(no Latin root)

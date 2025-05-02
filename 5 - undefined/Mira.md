@@ -1,0 +1,6 @@
+- Mira	[ˈmi.ɾa]	verbo (imperativo de "mirar")  
+- Forma de decirle a alguien que observe
+- Nhìn
+- Look
+- Mira, este es Giovanni
+- mirar (nhìn), mirado (đã nhìn)	Lat. *mirari*

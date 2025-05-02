@@ -1,0 +1,6 @@
+- Encantada	[eŋ.kanˈta.ða]	adjetivo (femenino)  
+- Expresión de gusto al conocer a alguien
+- Rất vui được gặp bạn
+- Nice to meet you
+- Encantada
+- encantado (nam), encantar (yêu thích)	Lat. *incantare*

@@ -1,0 +1,6 @@
+- Muy	[mui]	adverbio  
+- Indica intensidad
+- Rất
+- Very
+- Muy bien
+- (no family words)	Lat. *magi*

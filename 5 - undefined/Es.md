@@ -1,0 +1,6 @@
+- Es	[es]	verbo (3ra pers. singular de "ser")  
+- Forma de "ser" (verbo de identidad o existencia)
+- Là
+- Is
+- Este es Giovanni
+- ser (là), sido (đã là)	Lat. *esse*

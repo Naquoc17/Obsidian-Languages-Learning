@@ -1,0 +1,6 @@
+- Y	[i]	conjunción  
+- Une palabras u oraciones
+- Và
+- And
+- ¿y tú?
+- (no family words)	(no Latin root)

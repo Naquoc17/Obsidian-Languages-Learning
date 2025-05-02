@@ -1,0 +1,6 @@
+- Tú	[tu]	pronombre personal  
+- Se usa para hablar con una persona (informal)
+- Bạn
+- You
+- ¿y tú?
+- (no family words)	Lat. *tu*

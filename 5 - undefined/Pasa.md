@@ -1,0 +1,6 @@
+- Pasa	[ˈpa.sa]	verbo (imperativo de "pasar")  
+- Forma de invitar a entrar
+- Vào đi
+- Come in
+- Pasa, pasa
+- pasar (đi qua), pasado (đã qua)	Lat. *passare*

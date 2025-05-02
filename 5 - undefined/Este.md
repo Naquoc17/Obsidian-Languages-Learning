@@ -1,0 +1,6 @@
+- Este	[ˈes.te]	demostrativo (masculino, singular)  
+- Palabra que señala algo cercano
+- Này
+- This
+- Este es Giovanni
+- estos (những cái này), esta (này, giống cái)	Lat. *iste*

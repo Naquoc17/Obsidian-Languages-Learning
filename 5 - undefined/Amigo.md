@@ -1,0 +1,6 @@
+- Amigo	[aˈmi.ɣo]	sustantivo (masculino)  
+- Persona con la que tienes una relación de amistad
+- Bạn
+- Friend
+- Un amigo italiano
+- amiga (bạn gái), amistad (tình bạn)	Lat. *amicus*

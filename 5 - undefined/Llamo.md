@@ -1,0 +1,6 @@
+- Llamo	[ˈʎa.mo]	verbo (1ra pers. singular de "llamarse")  
+- Forma de presentarse, decir el nombre
+- Gọi
+- I am called
+- Me llamo Niclas
+- llamar (gọi), llamado (đã gọi)	Lat. *clamare*

@@ -1,0 +1,6 @@
+- Hola	[ˈo.la]	interjección  
+- Saludo usado al encontrarse con alguien
+- Chào
+- Hello
+- ¡Hola, Paula!  
+- (no family words)	(no Latin root)
