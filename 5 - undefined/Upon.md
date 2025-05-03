@@ -1,0 +1,7 @@
+- Upon	[əˈpɒn]	preposition
+- Meaning (explanation in original language): used to show something happens immediately after something else; formal way of saying "on"
+- Meaning (Vietnamese): ngay khi, trên, vào lúc
+- Properly translated word: upon
+- Example sentence: Upon arrival, please report to the reception desk.
+- Family words: none (preposition, so no direct family forms)
+- Latin root (if any): from Old English *uppan* (up + on)

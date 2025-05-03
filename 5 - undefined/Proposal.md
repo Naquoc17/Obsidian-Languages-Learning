@@ -1,0 +1,7 @@
+- Proposal	[prəˈpəʊzəl]	noun
+- Meaning (explanation in original language): a suggestion or plan offered for others to consider
+- Meaning (Vietnamese): đề xuất, kế hoạch
+- Properly translated word: proposal
+- Example sentence: The peace proposal included several compromises from both sides.
+- Family words: propose (v) = to suggest; proposition (n) = a statement or plan
+- Latin root (if any): from Latin *proponere* (to put forth)

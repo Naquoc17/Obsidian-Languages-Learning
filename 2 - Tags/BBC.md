@@ -21,7 +21,6 @@ Tags: [[English]]
 
 
 
-
 # Abbreviation
 
 | Abbreviation | Meaning |

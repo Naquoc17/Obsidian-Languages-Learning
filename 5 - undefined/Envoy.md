@@ -1,0 +1,7 @@
+- Envoy	[ˈenvɔɪ]	noun
+- Meaning (explanation in original language): an official person sent by one government to another
+- Meaning (Vietnamese): đặc phái viên, sứ giả
+- Properly translated word: envoy
+- Example sentence: The US envoy met with Russian leaders to discuss the agreement.
+- Family words: envoyship (n) = the position of an envoy
+- Latin root (if any): from Latin *inviare* (to send)

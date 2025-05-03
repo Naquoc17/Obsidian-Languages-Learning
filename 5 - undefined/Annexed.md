@@ -1,0 +1,7 @@
+- Annexed	[ˈænɛkst]	verb (past)
+- Meaning (explanation in original language): took control of land and added it to a country, especially by force
+- Meaning (Vietnamese): sáp nhập, thôn tính
+- Properly translated word: annexed
+- Example sentence: The region was annexed by the neighboring country in 2014.
+- Family words: annex (v) = to take over; annexation (n) = the act of annexing
+- Latin root (if any): from Latin *annectere* (to tie to, connect)

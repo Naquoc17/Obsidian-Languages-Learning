@@ -1,0 +1,7 @@
+- Territorial	[ˌtɛrɪˈtɔːriəl]	adjective
+- Meaning (explanation in original language): relating to the ownership or control of land or territory
+- Meaning (Vietnamese): thuộc về lãnh thổ
+- Properly translated word: territorial
+- Example sentence: There are still territorial disputes between the two countries.
+- Family words: territory (n) = land controlled by a country; territoriality (n) = behavior of defending an area
+- Latin root (if any): from Latin *territorium* (land around a town)
