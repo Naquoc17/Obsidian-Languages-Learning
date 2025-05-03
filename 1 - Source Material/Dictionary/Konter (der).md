@@ -1,0 +1,7 @@
+- Konter (der) [ˈkɔntɐ] Substantiv
+- Gegenangriff im Sport
+- pha phản đòn
+- counter (attack)
+- Er landete einen schnellen Konter.
+- kontern (to counter), Konterschlag (counterpunch)  
+- Engl. counter < franz. contre < Latein: contra

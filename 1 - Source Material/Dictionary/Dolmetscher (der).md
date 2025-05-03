@@ -1,0 +1,7 @@
+- Dolmetscher (der) [ˈdɔlˌmɛtʃɐ] Substantiv
+- Person, die mündlich übersetzt
+- phiên dịch
+- interpreter
+- Der Dolmetscher half bei den Verhandlungen.
+- dolmetschen (to interpret), Dolmetscherdienst (interpreting service)  
+- Kein lateinischer Ursprung (althochdeutsch)

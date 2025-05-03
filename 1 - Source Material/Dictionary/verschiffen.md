@@ -1,0 +1,7 @@
+- verschiffen [fɛɐ̯ˈʃɪfn̩] Verb
+- per Schiff transportieren
+- vận chuyển bằng tàu
+- to ship (by sea)
+- Die Waren wurden nach Amerika verschifft.
+- Verschiffung (shipping), verschiffbar (shippable)  
+- Kein lateinischer Ursprung (deutsch)

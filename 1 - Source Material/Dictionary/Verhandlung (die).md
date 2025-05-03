@@ -1,0 +1,7 @@
+- Verhandlung (die) [fɛɐ̯ˈhandlʊŋ] Substantiv
+- Besprechung, um eine Einigung zu erzielen
+- đàm phán
+- negotiation
+- Die Verhandlungen dauerten mehrere Tage.
+- verhandeln (to negotiate), Verhandlungsbasis (negotiation basis)  
+- Althochdeutsch: handlung (Handlung)

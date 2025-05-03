@@ -1,0 +1,7 @@
+- fundamental [ˌfʊndamɛnˈtaːl] Adjektiv
+- grundlegend, wesentlich
+- cơ bản
+- fundamental
+- Es gibt fundamentale Unterschiede zwischen den Kulturen.
+- Fundament (foundation), fundamentalistisch (fundamentalist)  
+- Latein: fundamentum (Basis)

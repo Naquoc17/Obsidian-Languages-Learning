@@ -1,0 +1,7 @@
+- Führhand (die) [ˈfyːɐ̯ˌhant] Substantiv
+- die vordere Schlaghand im Boxen
+- tay dẫn
+- lead hand
+- Seine Führhand ist sehr schnell.
+- keine gängigen Familienwörter  
+- Zusammensetzung: führen + Hand

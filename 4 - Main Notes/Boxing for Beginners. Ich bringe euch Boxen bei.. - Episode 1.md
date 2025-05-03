@@ -32,11 +32,11 @@ Um [[sich sicher fühlen|dich sicher zu fühlen]] , empfehle ich jedem wirklich,
    - Mehr Power durch [[Gewichtsverlagerung (die)|Gewichtsverlagerung]]  in die [[Hüfte (die)|Hüfte]]  (siehe Mike Tyson als Beispiel).
    - Kleine Kämpfer nutzen tiefere Stellung für mehr [[Explosivität (die)|Explosivität]] .
 ## Arm- und Handstellung
-- Rechte Hand ans Kinn (nicht zu hoch).
-- Linke Hand vorne, wie durch einen „Tunnel“ schauen.
+- Rechte Hand ans [[Kinn (das)|Kinn]]  (nicht zu hoch).
+- Linke Hand vorne, wie durch einen „[[Tunnel (der)|Tunnel]] “ schauen.
 - Nicht zu nah am Gesicht, aber auch nicht zu weit vorne.
-- Vorteil: Kürzerer Weg zum Gegner, weniger Raum für Konter.
-- Inspiration: Viele Top-Boxer halten ihre Führhand etwas vorne.
+- Vorteil: Kürzerer Weg zum [[Gegner (der)|Gegner]] , weniger Raum für [[Konter (der)|Konter]] .
+- [[Inspiration (die)|Inspiration]] : Viele [[Top-Boxer (der)|Top-Boxer]]  halten ihre [[Führhand (die)|Führhand]]  etwas vorne.
 ## Die Linke Gerade (Jab)
 - Langsam starten, dann schneller werden.
 - Ziel: Gegner ermüden durch Tempowechsel.

@@ -1,0 +1,7 @@
+- Vorteil (der) [ˈfɔɐ̯ˌtaɪ̯l] Substantiv
+- günstiger Umstand, Nutzen
+- lợi thế
+- advantage
+- Er hat einen klaren Vorteil.
+- vorteilhaft (advantageous), Vorteilnahme (taking advantage)  
+- Althochdeutsch: vorteil (Vorrecht)

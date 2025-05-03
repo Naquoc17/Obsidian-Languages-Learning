@@ -1,0 +1,7 @@
+- Wagnis (das) [ˈvaːɡnɪs] Substantiv
+- riskantes Unternehmen, gewagte Handlung
+- sự mạo hiểm
+- venture, risk
+- Es ist ein großes Wagnis, das Projekt zu starten.
+- wagen (to dare), waghalsig (reckless)  
+- Kein lateinischer Ursprung (germanisch)

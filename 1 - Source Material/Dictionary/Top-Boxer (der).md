@@ -1,0 +1,7 @@
+- Top-Boxer (der) [tɔpˈbɔksɐ] Substantiv
+- sehr erfolgreicher Boxer
+- võ sĩ hàng đầu
+- top boxer
+- Viele Top-Boxer nutzen diese Technik.
+- Boxen (boxing), Boxer (boxer)  
+- Engl. top + Boxer

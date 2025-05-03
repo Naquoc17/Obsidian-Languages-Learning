@@ -1,0 +1,7 @@
+- Kolonialbeziehung (die) [kɔloˈni̯aːl bəˈtsiːʊŋ] Substantiv
+- Beziehung zwischen Kolonialmacht und Kolonie
+- quan hệ thực dân
+- colonial relationship
+- Die Kolonialbeziehung prägt die Wirtschaft bis heute.
+- Kolonialismus (colonialism), Kolonie (colony)  
+- Latein: colonia (Siedlung)

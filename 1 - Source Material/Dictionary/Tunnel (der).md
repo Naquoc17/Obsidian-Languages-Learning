@@ -1,0 +1,7 @@
+- Tunnel (der) [ˈtʊnl̩] Substantiv
+- unterirdischer Durchgang
+- đường hầm
+- tunnel
+- Der Zug fährt durch den Tunnel.
+- Tunnelblick (tunnel vision), Tunnelbau (tunnel construction)  
+- Engl. tunnel < Altfranz. tonel < Latein: tonnellus (Fass)

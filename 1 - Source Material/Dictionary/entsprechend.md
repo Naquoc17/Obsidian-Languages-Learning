@@ -1,0 +1,7 @@
+- entsprechend [ɛntˈʃpʁɛçn̩t] Adjektiv/Adverb
+- passend, gemäß
+- tương ứng, phù hợp
+- corresponding, accordingly
+- Er wurde seiner Leistung entsprechend belohnt.
+- entsprechen (to correspond), Entsprechung (correspondence)  
+- Latein: respondere (antworten)

@@ -1,0 +1,7 @@
+- Inspiration (die) [ɪnspɪʁaˈt͡si̯oːn] Substantiv
+- Anregung, schöpferischer Impuls
+- cảm hứng
+- inspiration
+- Seine Inspiration kam aus der Natur.
+- inspirieren (to inspire), inspirativ (inspirational)  
+- Latein: inspiratio (Einhauchen)

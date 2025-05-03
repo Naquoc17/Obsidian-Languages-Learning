@@ -1,0 +1,7 @@
+- Kinn (das) [kɪn] Substantiv
+- unterster Teil des Gesichts unter dem Mund
+- cằm
+- chin
+- Er hielt sein Kinn hoch.
+- Kinnhaken (uppercut), Kinngrübchen (dimple)  
+- Kein lateinischer Ursprung (germanisch)

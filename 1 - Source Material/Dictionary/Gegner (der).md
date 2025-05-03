@@ -1,0 +1,7 @@
+- Gegner (der) [ˈɡeːɡnɐ] Substantiv
+- Person, gegen die man kämpft oder antritt
+- đối thủ
+- opponent
+- Der Gegner war stark.
+- gegnerisch (opposing), Gegnerschaft (opposition)  
+- Kein lateinischer Ursprung (germanisch)

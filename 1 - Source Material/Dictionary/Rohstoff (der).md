@@ -1,0 +1,7 @@
+- Rohstoff (der) [ˈʁoːˌʃtɔf] Substantiv
+- natürlicher, unbearbeiteter Stoff
+- nguyên liệu thô
+- raw material
+- Erdöl ist ein wichtiger Rohstoff.
+- Rohstoffquelle (raw material source), Rohstoffmarkt (raw materials market)  
+- Kein lateinischer Ursprung (germanisch)

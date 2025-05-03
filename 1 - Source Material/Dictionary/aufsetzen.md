@@ -1,0 +1,7 @@
+- aufsetzen [ˈaʊ̯fˌzɛtsn̩] Verb
+- etwas schriftlich formulieren
+- soạn thảo
+- to draft (a contract)
+- Der Vertrag wurde gestern aufgesetzt.
+- Aufsetzung (drafting), aufgesetzt (formal, artificial)  
+- Kein lateinischer Ursprung (germanisch)

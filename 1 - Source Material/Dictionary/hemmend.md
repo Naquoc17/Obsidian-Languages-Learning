@@ -1,0 +1,7 @@
+- hemmend [ˈhɛmən̩t] Adjektiv
+- etwas zurückhaltend, einschränkend wirkend
+- cản trở
+- inhibiting
+- Die Angst wirkt hemmend auf seine Leistung.
+- hemmen (to inhibit), Hemmung (inhibition)  
+- Kein lateinischer Ursprung (germanisch)

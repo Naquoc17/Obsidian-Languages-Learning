@@ -21,15 +21,15 @@ Doch. Die Mühe [[sich lohnen|lohnt sich]] , vor allem für Unternehmen: Wer Man
 
 > „Die Fähigkeit, direkt miteinander zu kommunizieren, ist im internationalen Handel ein [[entscheidend|entscheidender]]  Faktor“, schreiben die zwei Ökonomen Jacques Mélitz von der Heriot-Watt-Universität und Farid Toubal von der Universität Angers in einer jetzt [[veröffentlichen|veröffentlichten]]  Studie, für die sie die [[Auswirkung (die)|Auswirkungen]]  von [[Sprachkenntnis (die)|Sprachkenntnissen]]  auf den globalen Handel untersucht haben.
 
-Die Forscher trugen einen detaillierten [[Datensatz (der)|Datensatz]]  über Sprachen in 195 Ländern zusammen. Dabei [[sich beschränken (auf)|beschränkten sie sich]]  nicht auf die [[jeweilig|jeweilige]]  [[Amtssprache (die)|Amtssprache]] . [[erfassen|Erfasst]]  wurden auch [[Minderheitensprache (die)|Minderheitensprachen]] , kleinere [[Verkehrssprache (die)|Verkehrssprachen]]  in den Ländern [[berücksichtigen|berücksichtigt]]  und Sprachkenntnisse, wie sie [[beispielsweise]] mit der [[Außenhandelsstatistik (die)|Außenhandelsstatistik]]  der Staaten.
+Die Forscher trugen einen detaillierten [[Datensatz (der)|Datensatz]]  über Sprachen in 195 Ländern zusammen. Dabei [[sich beschränken (auf)|beschränkten sie sich]]  nicht auf die [[jeweilig|jeweilige]]  [[Amtssprache (die)|Amtssprache]], sondern ermittelten in mühevoller Kleinarbeit, welche weiteren Sprachen in den Ländern verbreitet sind. Ihre Sprachdatenbank verglichen sie anschließend mit der [[Außenhandelsstatistik (die)|Außenhandelsstatistik]]  der Staaten.
 
 ### Zu welchen Ergebnissen kamen Mélitz und Toubal?
 
-Das Ergebnis lautet: Sprechen die Menschen in zwei Ländern die gleiche Sprache, werden messbar mehr Waren verschifft. Der Effekt ist so groß, dass er sich nicht allein mit fundamentalen Faktoren wie geografischer Nähe oder ehemaligen Kolonialbeziehungen zwischen Staaten erklären lässt.
+Das Ergebnis lautet: Sprechen die Menschen in zwei Ländern die gleiche Sprache, werden messbar mehr Waren [[verschiffen|verschifft]] . Der Effekt ist so groß, dass er sich nicht allein mit [[fundamental|fundamentalen]]  Faktoren wie geografischer Nähe oder ehemaligen [[Kolonialbeziehung (die)|Kolonialbeziehungen]]  zwischen Staaten erklären lässt.
 
-Je komplexer und weniger stark standardisiert Güter sind, desto größer ist der Einfluss der Sprache – als Beispiele nennen die Forscher Autos und Computerchips. Bei derartigen Geschäften müssen Unternehmen meist besonders intensiv verhandeln und detaillierte Verträge aufsetzen – entsprechend hoch sind die Kosten für Dolmetscher und Übersetzer.
+Je komplexer und weniger stark [[standardisiert]] Güter sind, desto größer ist der [[Einfluss (der)|Einfluss]]  der Sprache – als Beispiele nennen die Forscher Autos und Computerchips. Bei derartigen Geschäften müssen Unternehmen meist besonders intensiv verhandeln und detaillierte Verträge [[aufsetzen]] – [[entsprechend]] hoch sind die Kosten für [[Dolmetscher (der)|Dolmetscher]]  und Übersetzer.
 
-Aber selbst bei standardisierten Gütern wie Rohstoffen verschwindet der hemmende Effekt von Sprachunterschieden nicht völlig. Mélitz und Toubal sind daher überzeugt, Sprachgrenzen zu überwinden, sei für Unternehmen ein teures Wagnis.
+Aber selbst bei standardisierten Gütern wie [[Rohstoff (der)|Rohstoffen]]  verschwindet der [[hemmend|hemmende]]  Effekt von Sprachunterschieden nicht völlig. Mélitz und Toubal sind daher überzeugt, Sprachgrenzen zu überwinden, sei für Unternehmen ein teures [[Wagnis (das)|Wagnis]] .
 
 ### Gibt es auch andere Untersuchungen, die diese These bestätigen?
 

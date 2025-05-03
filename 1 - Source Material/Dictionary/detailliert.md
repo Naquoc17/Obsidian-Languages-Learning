@@ -1,0 +1,7 @@
+- detailliert [detaˈjiːɐ̯t] Adjektiv
+- mit vielen Einzelheiten
+- chi tiết
+- detailed
+- Der Bericht ist sehr detailliert.
+- Detail (detail), Detaillierung (detailing)  
+- Latein: de-taliare (zurechtschneiden)

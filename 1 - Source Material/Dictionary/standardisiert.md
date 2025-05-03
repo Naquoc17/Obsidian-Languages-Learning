@@ -1,0 +1,7 @@
+- standardisiert [ˈʃtandaʁdiˈziːɐ̯t] Adjektiv
+- nach einer Norm vereinheitlicht
+- tiêu chuẩn hóa
+- standardized
+- Das Verfahren ist standardisiert.
+- Standardisierung (standardization), Standard (standard)  
+- Latein: standard (über engl. aus franz.)
