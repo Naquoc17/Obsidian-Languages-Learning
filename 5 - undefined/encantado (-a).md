@@ -1,0 +1,7 @@
+- encantado (-a)	[enkaŋˈtado]	adjetivo (adjective)
+- Muy feliz de conocer a alguien.
+- Rất vui được gặp bạn
+- Pleased to meet you
+- Encantado de conocerlo.
+- encantar (v) = thích thú; encantador (adj) = quyến rũ
+- Del latín *incantare*

@@ -1,0 +1,7 @@
+- director (m)	[diɾekˈtoɾ]	sustantivo (noun)
+- Persona que dirige una organización.
+- Giám đốc
+- Director
+- El director de Recursos Humanos.
+- dirección (f) = sự quản lý; dirigir (v) = quản lý
+- Del latín *director*

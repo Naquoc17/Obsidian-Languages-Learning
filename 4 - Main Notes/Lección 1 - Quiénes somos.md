@@ -181,7 +181,13 @@ Tags: [[Libro del Alumno Suena 1]]
 – [[Muy]] bien.
 
 
+### 8. 
 
+— Buenos días, señor Rodríguez. [[¿Qué tal]] está?  
+— Muy bien, gracias, ¿y usted?  
+— [[encantado (-a)|Encantado]] .  
+— Bien. [[mire|Mire]] , este es el señor Alonso, el nuevo [[director (m)|director]]  de Recursos Humanos.  
+— [[mucho gusto|Mucho gusto]] .
 
 
 

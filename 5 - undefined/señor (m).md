@@ -1,0 +1,7 @@
+- señor (m)	[ˈseɲoɾ]	sustantivo (noun)
+- Hombre adulto, tratamiento respetuoso.
+- Ông (cách xưng hô lịch sự)
+- Mister, sir
+- Buenos días, señor Rodríguez.
+- señora (f) = bà; señorita (f) = cô
+- Del latín *senior*
