@@ -1,0 +1,6 @@
+- Experimentation (n)	[ɪkˌsperɪmənˈteɪʃən]	Noun
+- Meaning (the process of trying new ideas to discover results)
+- Meaning (sự thử nghiệm)
+- Properly translated word (German: Experimentieren)
+- Example sentence: "There’s a lot of experimentation in the industry."
+- Family words: experiment (noun, verb), experimental (adj)	Latin root: experimentum

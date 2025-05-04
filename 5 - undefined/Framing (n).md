@@ -1,0 +1,6 @@
+- Framing (n)	[ˈfreɪmɪŋ]	Noun
+- Meaning (the structure or skeleton of a building)
+- Meaning (kết cấu khung)
+- Properly translated word (German: Rahmung)
+- Example sentence: "Traditional wood framing is still cheaper than 3D printing."
+- Family words: frame (n, v), framework (n)	Latin root: framen (Old English)

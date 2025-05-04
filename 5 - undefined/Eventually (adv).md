@@ -1,0 +1,6 @@
+- Eventually (adv)	[ɪˈventʃuəli]	Adverb
+- Meaning (in the end; after a period of time)
+- Meaning (cuối cùng, rốt cuộc)
+- Properly translated word (German: schließlich)
+- Example sentence: "The process will eventually become cheaper."
+- Family words: eventual (adj), eventuality (n)	Latin root: eventus ('outcome')

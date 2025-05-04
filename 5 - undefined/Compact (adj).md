@@ -1,0 +1,6 @@
+- Compact (adj)	[kəmˈpækt]	Adjective
+- Meaning (small and arranged efficiently)
+- Meaning (nhỏ gọn, chắc chắn)
+- Properly translated word (German: kompakt)
+- Example sentence: "The building has a compact rectangular shape."
+- Family words: compactness (noun)	Latin root: compactus ('joined together')

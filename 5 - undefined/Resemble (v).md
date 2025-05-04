@@ -1,0 +1,6 @@
+- Resemble (v)	[rɪˈzɛmbl]	Verb
+- Meaning (to look like or be similar to something)
+- Meaning (giống, tương tự)
+- Properly translated word (German: ähneln)
+- Example sentence: "The walls resemble stacked tubes."
+- Family words: resemblance (noun)	Latin root: similare ('to make like')

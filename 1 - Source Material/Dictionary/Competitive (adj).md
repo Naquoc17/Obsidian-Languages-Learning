@@ -1,0 +1,6 @@
+- Competitive (adj)	[kəmˈpetətɪv]	Adjective
+- Meaning (as good as or better than others)
+- Meaning (có tính cạnh tranh)
+- Properly translated word (German: wettbewerbsfähig)
+- Example sentence: "The process will become more competitive in price."
+- Family words: compete (verb), competition (noun)	Latin root: competere ('strive together')

@@ -1,0 +1,6 @@
+- Leading edge (adj)	[ˈliːdɪŋ ɛdʒ]	Adjective
+- Meaning (very advanced; at the forefront of progress)
+- Meaning (tiên tiến nhất)
+- Properly translated word (German: Spitzen-)
+- Example sentence: "The store is considered leading edge in construction."
+- Family words: lead (verb: to guide)	Latin root: none

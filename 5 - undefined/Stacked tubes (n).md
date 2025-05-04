@@ -1,0 +1,6 @@
+- Stacked tubes (n)	[stækt tjuːbz]	Noun (phrase)
+- Meaning (tubes or pipes placed on top of each other in layers)
+- Meaning (ống xếp chồng lên nhau)
+- Properly translated word (German: gestapelte Rohre)
+- Example sentence: "The walls look like stacked tubes."
+- Family words: stack (v: to pile), stacking (n)	Latin root: stakkr (Old Norse)

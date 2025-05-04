@@ -1,0 +1,6 @@
+- A labor shortage (n)	[ə ˈleɪbər ˈʃɔːrtɪdʒ]	Noun (phrase)
+- Meaning (not enough workers to do the jobs available)
+- Meaning (sự thiếu hụt lao động)
+- Properly translated word (German: Arbeitskräftemangel)
+- Example sentence: "3D printing helps solve a labor shortage."
+- Family words: labor (workforce), shortage (lack)	Latin root: laborare (to work)

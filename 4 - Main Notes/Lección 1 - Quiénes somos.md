@@ -200,28 +200,28 @@ En el número 36.
 ✅ ¿Cómo se apellida Manolo?  
 Se apellida García Mederos.
 
-✅ ¿Cuál es el número de teléfono de Manolo?  
+✅ [[¿Cuál]] es el número de teléfono de Manolo?  
 91 442 26 11.
 
 ✅ ¿Cuál es el código postal de Raúl?  
 28060.
 
 ✅ ¿Dónde vive Óscar?  
-En la calle Prado.
+En la [[calle (f)|calle]]  Prado.
 
-✅ ¿Cuál es su apellido?  
+✅ ¿Cuál es su [[apellido (m)|apellido]] ?  
 Pérez Montes.
 
-✅ ¿Dónde vive Mariola?  
+✅ ¿Dónde [[vive (v)|vive]]  Mariola?  
 En la calle Los Huertos.
 
-✅ ¿En qué piso vive Mariola?  
+✅ ¿En qué [[piso (m)|piso]]  vive Mariola?  
 En el 6º A.
 
-✅ ¿Cuál es su código postal?  
+✅ ¿Cuál es su [[código postal (m)|código postal]] ?  
 28054.
 
-✅ ¿Cuál es su número de teléfono?  
+✅ ¿Cuál es su [[número (m)|número]]  de [[teléfono (m)|teléfono]] ?  
 91 659 83 49.
 
 

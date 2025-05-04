@@ -1,0 +1,6 @@
+- Retailer (n)	[ˈriːteɪlər]	Noun
+- Meaning (a business that sells products directly to customers)
+- Meaning (nhà bán lẻ)
+- Properly translated word (German: Einzelhändler)
+- Example sentence: "A major retailer is trying new construction methods."
+- Family words: retail (the activity of selling), retailing (the process)	Latin root: re- + tailler (French, 'to cut again')

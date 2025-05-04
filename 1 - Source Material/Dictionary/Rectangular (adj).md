@@ -1,0 +1,6 @@
+- Rectangular (adj)	[rekˈtæŋɡjələr]	Adjective
+- Meaning (having the shape of a rectangle)
+- Meaning (hình chữ nhật)
+- Properly translated word (German: rechteckig)
+- Example sentence: "The building has a compact rectangular shape."
+- Family words: rectangle (noun)	Latin root: rectus + angulus ('right' + 'angle')

@@ -1,0 +1,6 @@
+- Ridged (adj)	[rɪdʒd]	Adjective
+- Meaning (having long raised lines)
+- Meaning (có gờ, có đường gân)
+- Properly translated word (German: gerippt)
+- Example sentence: "The walls were ridged like stacked tubes."
+- Family words: ridge (noun: raised line)	Latin root: hruga (Old English)

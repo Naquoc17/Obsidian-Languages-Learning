@@ -1,0 +1,6 @@
+- Giant (n)	[ˈdʒaɪənt]	Noun
+- Meaning (a very large and powerful company or organization)
+- Meaning (gã khổng lồ)
+- Properly translated word (German: Riese)
+- Example sentence: "The coffee giant is opening new stores worldwide."
+- Family words: gigantic (very big)	Latin root: gigas

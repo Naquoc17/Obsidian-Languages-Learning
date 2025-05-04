@@ -1,0 +1,6 @@
+- Drive-thru (n)	[ˈdraɪv ˌθruː]	Noun
+- Meaning (a service where you can get food, drinks, etc., without leaving your car)
+- Meaning (dịch vụ mua hàng qua cửa sổ cho xe ô tô)
+- Properly translated word (German: Drive-in)
+- Example sentence: "The store is a drive-thru only."
+- Family words: none	Latin root: none

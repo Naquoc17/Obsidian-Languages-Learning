@@ -1,0 +1,6 @@
+- Affordable (adj)	[əˈfɔːrdəbl]	Adjective
+- Meaning (inexpensive; able to be bought by most people)
+- Meaning (giá cả phải chăng)
+- Properly translated word (German: erschwinglich)
+- Example sentence: "They aim to provide affordable housing."
+- Family words: affordability (noun: ability to afford)	Latin root: ad + fortis ('toward' + 'strong')
