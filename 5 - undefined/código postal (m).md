@@ -1,0 +1,7 @@
+- código postal (m)	[ˈkoðiko posˈtal]	sustantivo (noun phrase)
+- Número que identifica una zona postal.
+- Mã bưu chính
+- Postal code
+- ¿Cuál es el código postal de Raúl?
+- código (n) = mã; postal (adj) = bưu điện
+- Del latín *codex* + *postalis*

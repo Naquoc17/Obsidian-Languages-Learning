@@ -1,0 +1,7 @@
+- ¿Cuál?	[kwal]	pronombre interrogativo (interrogative pronoun)
+- Se usa para preguntar por una opción.
+- Cái nào?
+- Which one?
+- ¿Cuál es su número de teléfono?
+- cuáles (pl) = những cái nào
+- Del latín *qualis*

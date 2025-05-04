@@ -1,0 +1,6 @@
+- piso (m)	[ˈpiso]	sustantivo (noun)
+- Cada uno de los niveles de un edificio.
+- Tầng
+- Vive en el 6º A.
+- pisar (v) = giẫm lên; pisito (m) = căn hộ nhỏ
+- Del latín *pensus*

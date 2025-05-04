@@ -1,0 +1,7 @@
+- número (m)	[ˈnumeɾo]	sustantivo (noun)
+- Cifra o signo que representa una cantidad.
+- Số
+- Number
+- En el número 36.
+- numerar (v) = đánh số; numeración (f) = sự đánh số
+- Del latín *numerus*

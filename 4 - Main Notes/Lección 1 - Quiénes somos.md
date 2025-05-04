@@ -183,13 +183,46 @@ Tags: [[Libro del Alumno Suena 1]]
 
 ### 8. 
 
-— Buenos días, señor Rodríguez. [[¿Qué tal]] está?  
+
+
+— Buenos días, [[señor (m)|señor]]  Rodríguez. [[¿Qué tal]] está?  
 — Muy bien, gracias, ¿y usted?  
 — [[encantado (-a)|Encantado]] .  
-— Bien. [[mire|Mire]] , este es el señor Alonso, el nuevo [[director (m)|director]]  de Recursos Humanos.  
+— Bien. [[mire|Mire]] , este es el señor Alonso, el nuevo [[director (m)|director]]  de [[Recursos Humanos (m, pl)|Recursos Humanos]] .  
 — [[mucho gusto|Mucho gusto]] .
 
 
+### 11
+
+✅ ¿En qué número vive Teresa?  
+En el número 36.
+
+✅ ¿Cómo se apellida Manolo?  
+Se apellida García Mederos.
+
+✅ ¿Cuál es el número de teléfono de Manolo?  
+91 442 26 11.
+
+✅ ¿Cuál es el código postal de Raúl?  
+28060.
+
+✅ ¿Dónde vive Óscar?  
+En la calle Prado.
+
+✅ ¿Cuál es su apellido?  
+Pérez Montes.
+
+✅ ¿Dónde vive Mariola?  
+En la calle Los Huertos.
+
+✅ ¿En qué piso vive Mariola?  
+En el 6º A.
+
+✅ ¿Cuál es su código postal?  
+28054.
+
+✅ ¿Cuál es su número de teléfono?  
+91 659 83 49.
 
 
 

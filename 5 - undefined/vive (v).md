@@ -1,0 +1,6 @@
+- vive (v)	[ˈbiβe]	verbo (forma de "vivir")
+- Habita en un lugar; reside.
+- Sống
+- ¿Dónde vive Óscar?
+- vivir (v) = sống; vivienda (f) = nơi ở
+- Del latín *vivere*

@@ -1,0 +1,7 @@
+- apellido (m)	[apeˈʝiðo]	sustantivo (noun)
+- Nombre de familia que sigue al nombre propio.
+- Họ
+- Surname
+- Se apellida García Mederos.
+- apellidar (v) = gọi tên họ
+- Del latín *appellitare*

@@ -1,0 +1,6 @@
+- teléfono (m)	[teˈlefono]	sustantivo (noun)
+- Aparato para comunicarse a distancia.
+- Điện thoại
+- ¿Cuál es su número de teléfono?
+- telefónico (adj) = thuộc về điện thoại
+- Del griego *tēle* + *phōnē*

@@ -1,0 +1,7 @@
+- calle (f)	[ˈkaʎe]	sustantivo (noun)
+- Vía pública de una ciudad o pueblo.
+- Đường phố
+- Street
+- Vive en la calle Prado.
+- callejón (m) = ngõ; callejero (adj) = thuộc đường phố
+- Del latín *callis*
