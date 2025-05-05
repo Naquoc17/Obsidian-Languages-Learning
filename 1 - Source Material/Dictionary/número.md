@@ -1,0 +1,6 @@
+- número	[ˈnu.me.ɾo]	Noun (masculine)
+- Meaning (explicación en español): Conjunto de cifras que identifica algo
+- Meaning (Vietnamese): số
+- Properly translated word: number
+- Example sentence: Tu número de teléfono es el 3245436.
+- Family words: numerar (to number), numeral (numeral)	Latin root: numerus

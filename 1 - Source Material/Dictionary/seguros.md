@@ -1,0 +1,6 @@
+- seguros	[seˈɣu.ɾos]	Noun (masculine plural)
+- Meaning (explicación en español): Empresa de protección económica
+- Meaning (Vietnamese): bảo hiểm
+- Properly translated word: insurance
+- Example sentence: A: Seguros Vabién. ¿Dígame?
+- Family words: seguro (sure, safe)	Latin root: securus

@@ -1,0 +1,6 @@
+- contestar	[kon.tesˈtaɾ]	Verb (infinitive)
+- Meaning (explicación en español): Responder
+- Meaning (Vietnamese): trả lời
+- Properly translated word: to answer
+- Example sentence: No puede contestar al teléfono.
+- Family words: contestación (reply)	Latin root: contestari

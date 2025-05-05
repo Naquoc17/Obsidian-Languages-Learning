@@ -1,0 +1,6 @@
+- Diga	[ˈdi.ɣa]	Verb (imperative)
+- Meaning (explicación en español): Forma de contestar el teléfono, equivalente a “alo”
+- Meaning (Vietnamese): Cách nói “alo” khi nghe điện thoại
+- Properly translated word: Hello? (on the phone)
+- Example sentence: A: ¿Diga? B: ¿Está Carolina?
+- Family words: decir (to say)	Latin root: dīcere

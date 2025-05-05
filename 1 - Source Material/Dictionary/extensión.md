@@ -1,0 +1,6 @@
+- extensión	[eks.tenˈθjon] (Spain) / [eks.tenˈsjon] (LatAm)	Noun (feminine)
+- Meaning (explicación en español): Número interno de una oficina telefónica
+- Meaning (Vietnamese): số máy lẻ
+- Properly translated word: extension
+- Example sentence: B: ¿Me pone con la extensión 234, por favor?
+- Family words: extender (to extend)	Latin root: extendere

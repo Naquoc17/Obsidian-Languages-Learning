@@ -1,0 +1,6 @@
+- hola	[ˈo.la]	Interjection
+- Meaning (explicación en español): Saludo informal
+- Meaning (Vietnamese): xin chào
+- Properly translated word: hello
+- Example sentence: A: ¡Hola, Eduardo!
+- Family words: ninguno	Latin root: (none)

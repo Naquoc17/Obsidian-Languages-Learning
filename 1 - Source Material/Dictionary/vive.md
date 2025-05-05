@@ -1,0 +1,6 @@
+- vive	[ˈbi.βe]	Verb (third person singular, present)
+- Meaning (explicación en español): Tercera persona del verbo “vivir”
+- Meaning (Vietnamese): (cô ấy/anh ấy) sống
+- Properly translated word: lives
+- Example sentence: En tu casa vive Ana.
+- Family words: vivir (to live), vida (life)	Latin root: vivere

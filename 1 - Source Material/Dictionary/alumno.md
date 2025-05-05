@@ -1,0 +1,6 @@
+- alumno	[aˈlum.no]	Noun (masculine)
+- Meaning (explicación en español): Persona que estudia en una escuela o curso
+- Meaning (Vietnamese): học sinh
+- Properly translated word: student
+- Example sentence: Alumno A llama al 4352637.
+- Family words: alumna (female student), alumnado (student body)	Latin root: alumnus

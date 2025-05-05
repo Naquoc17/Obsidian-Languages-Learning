@@ -1,0 +1,6 @@
+- luego	[ˈlwe.ɣo]	Adverb
+- Meaning (explicación en español): Después, más tarde
+- Meaning (Vietnamese): sau đó
+- Properly translated word: later
+- Example sentence: B: No, luego la llamo.
+- Family words: posteriormente (afterwards)	Latin root: loco

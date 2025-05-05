@@ -1,0 +1,6 @@
+- soy	[ˈsoi]	Verb (first person singular, present)
+- Meaning (explicación en español): Primera persona de “ser”
+- Meaning (Vietnamese): tôi là
+- Properly translated word: I am
+- Example sentence: A: Soy Eduardo.
+- Family words: ser (to be)	Latin root: esse

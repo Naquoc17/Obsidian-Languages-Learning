@@ -1,0 +1,6 @@
+- ducha	[ˈdu.tʃa]	Noun (feminine)
+- Meaning (explicación en español): aparato para bañarse
+- Meaning (Vietnamese): vòi hoa sen
+- Properly translated word: shower
+- Example sentence: A: Claudia está en la ducha…
+- Family words: ducharse (to shower oneself)	Latin root: (from Italian doccia < Latin ductus)

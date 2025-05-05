@@ -1,0 +1,6 @@
+- volver	[bolˈβeɾ]	Verb (infinitive)
+- Meaning (explicación en español): Regresar, hacer de nuevo
+- Meaning (Vietnamese): quay lại
+- Properly translated word: to return
+- Example sentence: Di que luego vuelves a llamar.
+- Family words: volver (to return), vuelto (returned)	Latin root: volvere

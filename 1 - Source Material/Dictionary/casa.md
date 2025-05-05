@@ -1,0 +1,6 @@
+- casa	[ˈka.sa]	Noun (feminine)
+- Meaning (explicación en español): Lugar donde vive una persona
+- Meaning (Vietnamese): nhà
+- Properly translated word: house
+- Example sentence: En tu casa vive Ana.
+- Family words: casero (homemade), casita (small house)	Latin root: casa

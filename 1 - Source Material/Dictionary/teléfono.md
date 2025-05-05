@@ -1,0 +1,6 @@
+- teléfono	[teˈle.fo.no]	Noun (masculine)
+- Meaning (explicación en español): Aparato para comunicarse a distancia
+- Meaning (Vietnamese): điện thoại
+- Properly translated word: telephone
+- Example sentence: Tu número de teléfono es el 3245436.
+- Family words: telefónico (telephonic)	Latin root: tēle + phōnē

@@ -1,0 +1,6 @@
+- señora	[seˈɲo.ɾa]	Noun (feminine)
+- Meaning (explicación en español): Mujer casada o adulta; título formal
+- Meaning (Vietnamese): bà, quý bà
+- Properly translated word: Mrs., madam
+- Example sentence: B: La señora García, por favor?
+- Family words: señor (mister), señorita (miss)	Latin root: senior

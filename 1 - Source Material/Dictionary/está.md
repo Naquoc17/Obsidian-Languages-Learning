@@ -1,0 +1,6 @@
+- está	[esˈta]	Verb (third person singular, present)
+- Meaning (explicación en español): Verbo “estar” en tercera persona (él/ella/usted)
+- Meaning (Vietnamese): (anh ấy/cô ấy) đang ở
+- Properly translated word: is (he/she/it is)
+- Example sentence: B: ¿Está Carolina?
+- Family words: estar (to be)	Latin root: stare

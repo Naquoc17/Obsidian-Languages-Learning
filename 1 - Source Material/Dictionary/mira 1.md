@@ -1,0 +1,6 @@
+- mira	[ˈmi.ɾa]	Verb (imperative)
+- Meaning (explicación en español): Mandato del verbo “mirar”; atraer atención
+- Meaning (Vietnamese): nhìn này
+- Properly translated word: look
+- Example sentence: A: Mira, Claudia está en la ducha…
+- Family words: mirar (to look), mirador (viewpoint)	Latin root: mirari

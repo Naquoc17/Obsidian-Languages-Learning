@@ -1,0 +1,6 @@
+- novio	[ˈno.βjo]	Noun (masculine)
+- Meaning (explicación en español): Persona con la que se mantiene una relación amorosa
+- Meaning (Vietnamese): bạn trai
+- Properly translated word: boyfriend
+- Example sentence: Tu novio, Gabriel, está en la ducha.
+- Family words: novia (girlfriend), noviazgo (courtship)	Latin root: novius

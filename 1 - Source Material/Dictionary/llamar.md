@@ -1,0 +1,6 @@
+- llamar	[ʎaˈmaɾ] / [ʝaˈmaɾ] (LatAm)	Verb (infinitive)
+- Meaning (explicación en español): Usar teléfono para comunicarse; nombrar
+- Meaning (Vietnamese): gọi (điện thoại)
+- Properly translated word: to call
+- Example sentence: Llama al 5678798.
+- Family words: llamada (call), llamativo (striking)	Latin root: clamare

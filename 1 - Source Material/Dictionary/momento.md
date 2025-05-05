@@ -1,0 +1,6 @@
+- momento	[moˈmen.to]	Noun (masculine)
+- Meaning (explicación en español): Pequeño periodo de tiempo
+- Meaning (Vietnamese): khoảnh khắc
+- Properly translated word: moment
+- Example sentence: A: Sí, un momento.
+- Family words: momentáneo (momentary)	Latin root: momentum

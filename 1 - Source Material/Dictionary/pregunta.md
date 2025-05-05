@@ -1,0 +1,6 @@
+- pregunta	[preˈɣun.ta]	Noun (feminine) / Verb (imperative/third person)
+- Meaning (explicación en español): Acción de interrogar o consulta
+- Meaning (Vietnamese): câu hỏi / hỏi
+- Properly translated word: question / ask
+- Example sentence: Pregunta por Juan.
+- Family words: preguntar (to ask), preguntón (inquisitive)	Latin root: percontari

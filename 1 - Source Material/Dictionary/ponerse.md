@@ -1,0 +1,6 @@
+- ponerse	[poˈneɾ.se]	Verb (reflexive infinitive)
+- Meaning (explicación en español): “Ponerse al teléfono” = contestar la llamada
+- Meaning (Vietnamese): bắt máy (trả lời điện thoại)
+- Properly translated word: to come to the phone
+- Example sentence: A: Sí, pero no puede ponerse.
+- Family words: poner (to put)	Latin root: ponere

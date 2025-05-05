@@ -1,0 +1,6 @@
+- médico	[ˈme.ði.ko]	Noun (masculine)
+- Meaning (explicación en español): Persona que cuida la salud; doctor
+- Meaning (Vietnamese): bác sĩ
+- Properly translated word: doctor
+- Example sentence: Ahora está en el médico.
+- Family words: médica (female doctor), medicina (medicine)	Latin root: medicus

@@ -166,7 +166,7 @@ Tags: [[Libro del Alumno Suena 1]]
 
 ![[Track-9.mp3]]
 
-– ¡[[Hola]], Paula! [[Mira]], [[Este|este]]  [[Es|es]]  Giovanni, [[Un|un]]  [[Amigo|amigo]]  [[Italiano|italiano]] .  
+– ¡[[hola 1]], Paula! [[mira 1]], [[Este|este]]  [[Es|es]]  Giovanni, [[Un|un]]  [[Amigo|amigo]]  [[Italiano|italiano]] .  
 – ¡Hola! ¿[[Qué]] [[Tal|tal]] ?  
 – [[Bien]], [[Gracias|gracias]] , ¿[[Y|y]]  [[Tú|tú]] ?
 
@@ -224,8 +224,48 @@ En el 6º A.
 ✅ ¿Cuál es su [[número (m)|número]]  de [[teléfono (m)|teléfono]] ?  
 91 659 83 49.
 
+### 13
 
+![[Track-13.mp3]]
 
+A: ¿[[Diga]]?  
+B: ¿Está Carolina?  
+A: Sí, soy yo.
+
+A: [[seguros|Seguros]]  Vabién. ¿[[Dígame]]?  
+B: ¿Me pone con la [[extensión]] 234, por favor?  
+A: Sí, un momento.
+
+A: ¿Diga?  
+B: ¿Está Mar?  
+A: Sí, ¿de parte de [[quién]]?
+
+A: ¿[[Dígame]]?  
+B: La [[señora]] García, [[por favor]]?  
+A: No, no [[está]] en este [[momento]].  
+   ¿[[de parte de quién|De parte de quién]] ?  
+B: Soy Pilar Núñez.  
+A: ¿Quiere dejarle algún [[recado 1]]?  
+B: No, [[luego]] la llamo.
+
+A: ¿Diga?  
+B: ¿Está Claudia?  
+A: Sí, pero no [[puede]] [[ponerse]].  
+B: ¿Quién es?  
+A: Soy Eduardo.  
+A: ¡Hola, Eduardo! [[mira 1|Mira]] , Claudia está en la [[ducha]]…
+
+### 14
+
+[[alumno|ALUMNO]]  A
+1. [[llama]] al 4352637, pregunta por Juan.
+2. Tu [[número]] de [[teléfono]] es el 3245436. En tu [[casa]] [[vive]] Ana, pero ahora está en el [[médico]]. Pregunta si quiere dejar algún [[recado 1|recado 1]].
+3. Te llamas Pablo. Llama al 5678798, [[pregunta]] por Gabriel.
+
+ALUMNO B
+1. Tu número de teléfono es el 4352637, te llamas Juan.
+2. [[llamar|Llama]]  al 3245436, pregunta por Ana. Di que luego [[volver|vuelves]]  a llamar.
+3. Tu número de teléfono es el 5678798. Tu [[novio]], Gabriel, está en la ducha y no puede [[contestar]] al teléfono.
 
 
 

@@ -1,0 +1,6 @@
+- puede	[ˈpwe.ðe]	Verb (third person singular, present)
+- Meaning (explicación en español): Verbo “poder” en tercera persona
+- Meaning (Vietnamese): (cô ấy/anh ấy) có thể
+- Properly translated word: can (he/she can)
+- Example sentence: A: Sí, pero no puede ponerse.
+- Family words: poder (to be able to)	Latin root: potere

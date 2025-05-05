@@ -1,0 +1,6 @@
+- Dígame	[ˈdi.ɣa.me]	Verb (imperative + pronoun)
+- Meaning (explicación en español): Forma más formal de “diga”, significa literalmente “diga a mí”
+- Meaning (Vietnamese): “Hãy nói với tôi” (lịch sự hơn “diga”)
+- Properly translated word: Hello? / Tell me
+- Example sentence: A: Seguros Vabién. ¿Dígame?
+- Family words: decir (to say)	Latin root: dīcere

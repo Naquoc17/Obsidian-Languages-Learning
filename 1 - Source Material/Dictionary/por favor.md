@@ -1,0 +1,6 @@
+- por favor	[poɾ faˈβoɾ]	Phrase
+- Meaning (explicación en español): Expresión de cortesía
+- Meaning (Vietnamese): xin vui lòng
+- Properly translated word: please
+- Example sentence: B: ¿Me pone con la extensión 234, por favor?
+- Family words: favor (favor)	Latin root: favor

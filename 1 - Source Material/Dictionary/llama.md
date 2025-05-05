@@ -1,0 +1,6 @@
+- llama	[ˈʎa.ma] / [ˈʝa.ma] (LatAm)	Verb (third person singular or imperative)
+- Meaning (explicación en español): Verbo “llamar” en mandato o tercera persona
+- Meaning (Vietnamese): gọi (điện thoại)
+- Properly translated word: call
+- Example sentence: Llama al 4352637.
+- Family words: llamar (to call), llamada (call)	Latin root: clamare

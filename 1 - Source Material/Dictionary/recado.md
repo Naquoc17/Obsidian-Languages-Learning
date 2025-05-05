@@ -1,0 +1,6 @@
+- recado	[reˈka.ðo]	Noun (masculine)
+- Meaning (explicación en español): Mensaje breve para alguien
+- Meaning (Vietnamese): lời nhắn
+- Properly translated word: message
+- Example sentence: A: ¿Quiere dejarle algún recado?
+- Family words: recadero (messenger)	Latin root: recaptare
