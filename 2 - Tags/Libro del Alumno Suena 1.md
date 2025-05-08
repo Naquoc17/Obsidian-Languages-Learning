@@ -15,7 +15,7 @@ Tags: [[Spanish#Libro del Alumno Suena]]
 # Libro del Alumno Suena 1
 
 - [[Lección 1 - Quiénes somos]]
-
+- [[Lección 2 - Mi mundo]]
 
 
 
