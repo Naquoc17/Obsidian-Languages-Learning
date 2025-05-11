@@ -1,0 +1,6 @@
+- Barato	[baˈɾato]	Adjetivo
+- Que cuesta poco dinero
+- Rẻ
+- Cheap
+- Este coche es muy barato.
+- Económico (economical), asequible (affordable)	Latín: *barattare*

@@ -1,0 +1,6 @@
+- Cafetería (femenino)	[kafe.teˈɾi.a]	Sustantivo
+- Lugar donde se puede comer o tomar café
+- Quán ăn / quán cà phê
+- Cafeteria / coffee shop
+- Come en la cafetería.
+- Café (coffee), camarero (waiter)	Francés: *cafétéria*

@@ -1,0 +1,6 @@
+- Ciudad (femenino)	[θjuˈðað] o [sjuˈðað]	Sustantivo
+- Lugar grande donde vive mucha gente
+- Thành phố
+- City
+- Madrid es una ciudad muy bonita.
+- Ciudadano (citizen), ciudadanía (citizenship)	Latín: *civitas*

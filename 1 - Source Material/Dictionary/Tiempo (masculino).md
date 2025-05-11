@@ -1,0 +1,6 @@
+- Tiempo (masculino)	[ˈtjempo]	Sustantivo
+- Condición del clima o el paso de las horas
+- Thời gian / thời tiết
+- Time / weather
+- Hoy hace buen tiempo.
+- Temporal (storm/time-related), temporada (season)	Latín: *tempus*

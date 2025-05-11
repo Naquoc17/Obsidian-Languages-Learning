@@ -1,0 +1,6 @@
+- Práctica (femenino)	[ˈpɾaktika]	Sustantivo
+- Actividad de entrenamiento o aplicación
+- Buổi thực hành
+- Practical work / practice
+- Tiene prácticas por la tarde.
+- Practicar (to practice), práctico (practical)	Griego: *praktikos*

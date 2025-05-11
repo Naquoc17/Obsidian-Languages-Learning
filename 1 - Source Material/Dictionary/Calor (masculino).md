@@ -1,0 +1,6 @@
+- Calor (masculino)	[kaˈloɾ]	Sustantivo
+- Alta temperatura
+- Nóng
+- Heat
+- Tengo calor.
+- Caliente (hot), calentar (to heat)	Latín: *calor*

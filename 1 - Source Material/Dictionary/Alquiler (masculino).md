@@ -1,0 +1,6 @@
+- Alquiler (masculino)	[al.kiˈleɾ]	Sustantivo
+- Dinero que se paga cada mes para vivir en un piso
+- Tiền thuê nhà
+- Rent
+- El alquiler es barato.
+- Alquilar (to rent), inquilino (tenant)	Árabe: *kirā’*

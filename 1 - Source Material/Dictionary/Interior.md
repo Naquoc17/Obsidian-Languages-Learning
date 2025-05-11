@@ -1,0 +1,6 @@
+- Interior	[in.teˈɾjoɾ]	Adjetivo
+- Que no da a la calle; está hacia dentro
+- Hướng vào trong
+- Interior-facing
+- Es un piso interior.
+- Externo (external), interno (internal)	Latín: *interior*

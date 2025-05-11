@@ -1,0 +1,6 @@
+- Exterior (masculino)	[eks.teˈɾjoɾ]	Adjetivo
+- Que da hacia fuera, hacia la calle
+- Hướng ra ngoài
+- Facing outside
+- Es exterior y tiene mucha luz.
+- Interior (inside), externo (external)	Latín: *exterus*

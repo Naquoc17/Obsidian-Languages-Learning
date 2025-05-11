@@ -1,0 +1,6 @@
+- Andar	[anˈdaɾ]	Verbo
+- Caminar, ir a pie
+- Đi bộ
+- To walk
+- Ando cinco minutos hasta la universidad.
+- Caminante (walker), andanza (journey)	Latín: *ambulare*

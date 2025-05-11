@@ -1,0 +1,6 @@
+- Terraza (femenino)	[teˈraθa] o [teˈrasa]	Sustantivo
+- Espacio abierto en un piso, como un balcón grande
+- Sân thượng
+- Terrace
+- No tiene terraza.
+- Balcón (balcony), azotea (rooftop)	Latín: *terracea*

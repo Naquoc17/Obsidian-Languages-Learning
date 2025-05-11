@@ -1,0 +1,6 @@
+- Ascensor (masculino)	[as.enˈsoɾ]	Sustantivo
+- Máquina para subir o bajar pisos
+- Thang máy
+- Elevator / lift
+- Tiene ascensor.
+- Subir (go up), bajar (go down)	Latín: *ascendere*

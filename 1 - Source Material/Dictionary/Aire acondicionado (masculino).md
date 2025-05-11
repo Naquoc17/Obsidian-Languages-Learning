@@ -1,0 +1,6 @@
+- Aire acondicionado (masculino)	[ˈai̯ɾe akondiθjoˈnaðo]	Frase nominal
+- Máquina que enfría el aire
+- Máy lạnh
+- Air conditioning
+- El salón tiene aire acondicionado.
+- Aire (air), frío (cold)	Latín: *aer*

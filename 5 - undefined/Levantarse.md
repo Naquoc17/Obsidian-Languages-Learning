@@ -1,0 +1,6 @@
+- Levantarse	[leβanˈtaɾse]	Verbo reflexivo
+- Ponerse de pie después de dormir
+- Thức dậy
+- To get up
+- Paco se levanta a las 8:00.
+- Levantar (to lift), levantamiento (uprising)	Latín: *levare*

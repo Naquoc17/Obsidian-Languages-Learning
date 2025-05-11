@@ -1,0 +1,6 @@
+- Piscina (femenino)	[pisˈθina] o [pisˈsina]	Sustantivo
+- Lugar artificial con agua para nadar
+- Hồ bơi
+- Swimming pool
+- Tiene piscina privada.
+- Nadar (to swim), natación (swimming)	Latín: *piscina*

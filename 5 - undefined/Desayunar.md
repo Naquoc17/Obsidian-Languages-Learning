@@ -1,0 +1,6 @@
+- Desayunar	[desaʝuˈnaɾ]	Verbo
+- Comer por la mañana
+- Ăn sáng
+- To have breakfast
+- Desayuna café con leche.
+- Desayuno (breakfast), almorzar (to have lunch)	Latín: *dis-jejunare*

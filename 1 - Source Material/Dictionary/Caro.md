@@ -1,0 +1,6 @@
+- Caro	[ˈkaɾo]	Adjetivo
+- Que cuesta mucho dinero
+- Mắc, đắt
+- Expensive
+- La ropa es muy cara aquí.
+- Costoso (costly), lujoso (luxurious)	Latín: *carus*

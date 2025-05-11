@@ -1,0 +1,6 @@
+- Jardín (masculino)	[xaɾˈðin]	Sustantivo
+- Espacio con plantas o césped en una casa
+- Vườn
+- Garden
+- El chalé tiene jardín.
+- Jardinería (gardening), jardinero (gardener)	Francés: *jardin*

@@ -1,0 +1,6 @@
+- Habitación (femenino)	[aβi.taˈθjon] o [aβi.taˈsjon]	Sustantivo
+- Cuarto donde se duerme o descansa
+- Phòng ngủ
+- Room / bedroom
+- Tengo una habitación con ventana.
+- Habitar (to live in), habitante (inhabitant)	Latín: *habitātiō*

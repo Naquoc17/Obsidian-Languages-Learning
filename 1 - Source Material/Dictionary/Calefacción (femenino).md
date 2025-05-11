@@ -1,0 +1,6 @@
+- Calefacción (femenino)	[ka.le.fakˈθjon]	Sustantivo
+- Sistema para calentar una casa
+- Hệ thống sưởi
+- Heating
+- Tiene calefacción central.
+- Calentar (to heat), calefactor (heater)	Latín: *calefacere*

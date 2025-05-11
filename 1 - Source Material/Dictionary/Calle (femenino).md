@@ -1,0 +1,6 @@
+- Calle (femenino)	[ˈkaʎe]	Sustantivo
+- Camino dentro de una ciudad por donde pasan los coches y la gente
+- Đường phố
+- Street
+- Vivo en una calle tranquila.
+- Callejón (alley), callejero (street map)	Latín: *callis*

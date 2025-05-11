@@ -1,0 +1,6 @@
+- Viejo	[ˈbjeχo]	Adjetivo
+- No nuevo; con mucha edad o uso
+- Cũ, già
+- Old
+- El edificio es viejo.
+- Antiguo (ancient), envejecido (aged)	Latín: *vetulus*

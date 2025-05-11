@@ -1,0 +1,6 @@
+- Coger	[koˈxeɾ]	Verbo
+- Tomar un medio de transporte (en España)
+- Bắt (xe)
+- To take / catch (a bus)
+- Coge el autobús a las 9:30.
+- Tomar (to take), recoger (to pick up)	Latín: *colligere*

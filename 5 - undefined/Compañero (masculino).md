@@ -1,0 +1,6 @@
+- Compañero (masculino)	[kompaˈɲeɾo]	Sustantivo
+- Persona con la que se comparte algo (clase, trabajo, etc.)
+- Bạn cùng lớp / đồng nghiệp
+- Classmate / partner
+- Come con sus compañeros.
+- Compañía (company), acompañar (to accompany)	Latín: *companio*

@@ -1,0 +1,6 @@
+- Piso (masculino)	[ˈpiso]	Sustantivo
+- Vivienda dentro de un edificio, normalmente en una ciudad
+- Căn hộ
+- Apartment (flat)
+- Vivo en un piso pequeño en el centro.
+- Edificio (building), apartamento (apartment)	Latín: *pensum*

@@ -1,0 +1,6 @@
+- Tostada (femenino)	[tosˈtaða]	Sustantivo
+- Pan caliente y crujiente
+- Bánh mì nướng
+- Toast
+- Come una tostada con café.
+- Tostar (to toast), tostador (toaster)	Latín: *tostare*

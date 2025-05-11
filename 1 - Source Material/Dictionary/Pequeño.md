@@ -1,0 +1,6 @@
+- Pequeño	[peˈkeɲo]	Adjetivo
+- De tamaño reducido; lo contrario de "grande"
+- Nhỏ
+- Small / little
+- Vivo en un piso pequeño.
+- Pequeñez (smallness), pequeñito (very small)	Latín: *piccīnus*

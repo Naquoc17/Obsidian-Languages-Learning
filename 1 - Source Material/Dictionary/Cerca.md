@@ -1,0 +1,6 @@
+- Cerca	[ˈθeɾka] o [ˈseɾka]	Adverbio
+- A poca distancia
+- Gần
+- Near
+- Vivo cerca del supermercado.
+- Cercano (nearby), acercar (to bring closer)	Latín: *circa*

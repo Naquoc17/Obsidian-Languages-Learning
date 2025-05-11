@@ -1,0 +1,6 @@
+- Comenzar	[komenˈθaɾ] o [komenˈsaɾ]	Verbo
+- Empezar, iniciar
+- Bắt đầu
+- To begin / to start
+- Su clase comienza a las 10:30.
+- Comienzo (beginning), inicio (start)	Latín: *cominitiare*

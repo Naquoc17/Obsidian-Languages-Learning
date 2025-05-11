@@ -1,0 +1,6 @@
+- Bonito	[boˈnito]	Adjetivo
+- Que es agradable de ver; bello
+- Đẹp
+- Pretty / nice
+- Es un piso muy bonito.
+- Hermoso (beautiful), bello (lovely)	Latín: *bonus*

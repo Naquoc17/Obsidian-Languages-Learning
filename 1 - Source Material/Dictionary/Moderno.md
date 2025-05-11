@@ -1,0 +1,6 @@
+- Moderno	[moˈðeɾno]	Adjetivo
+- Actual, de diseño nuevo
+- Hiện đại
+- Modern
+- Es un piso moderno.
+- Modernidad (modernity), modernizar (modernize)	Latín: *modernus*

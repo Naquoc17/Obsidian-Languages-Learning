@@ -1,0 +1,6 @@
+- Trastero (masculino)	[tɾasˈteɾo]	Sustantivo
+- Cuarto para guardar cosas que no se usan a diario
+- Kho chứa đồ
+- Storage room
+- El piso tiene trastero.
+- Guardar (to store), almacenar (to store)	Latín: *trāns* + *terra*

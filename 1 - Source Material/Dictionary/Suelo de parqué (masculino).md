@@ -1,0 +1,6 @@
+- Suelo de parqué (masculino)	[ˈswelo ðe paɾˈke]	Frase nominal
+- Tipo de piso de madera decorativa
+- Sàn gỗ
+- Wooden floor / parquet
+- Tiene suelo de parqué.
+- Suelo (floor), madera (wood)	Francés: *parquet*

@@ -1,0 +1,6 @@
+- Nuevo	[ˈnweβo]	Adjetivo
+- No antiguo; hecho recientemente
+- Mới
+- New
+- Tengo un coche nuevo.
+- Novedad (novelty), renovar (to renew)	Latín: *novus*

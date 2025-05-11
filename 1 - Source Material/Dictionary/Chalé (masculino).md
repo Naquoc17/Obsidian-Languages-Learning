@@ -1,0 +1,6 @@
+- Chalé (masculino)	[tʃaˈle]	Sustantivo
+- Casa grande, normalmente fuera del centro urbano
+- Biệt thự nhỏ
+- Detached house / chalet
+- Vivo en un chalé con jardín.
+- Casa (house), vivienda (dwelling)	Francés: *chalet*

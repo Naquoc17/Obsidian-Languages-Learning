@@ -1,0 +1,6 @@
+- Ducharse	[duˈtʃaɾse]	Verbo reflexivo
+- Lavarse el cuerpo con agua en la ducha
+- Tắm vòi sen
+- To take a shower
+- Se ducha por la mañana.
+- Ducha (shower), jabón (soap)	Latín: *ductiare*

@@ -1,0 +1,6 @@
+- Minuto (masculino)	[miˈnuto]	Sustantivo
+- Unidad de tiempo (60 segundos)
+- Phút
+- Minute
+- Faltan cinco minutos.
+- Segundo (second), hora (hour)	Latín: *minutus*

@@ -1,0 +1,6 @@
+- Frío	[ˈfɾio]	Adjetivo / Sustantivo
+- Baja temperatura
+- Lạnh
+- Cold
+- Hace mucho frío en enero.
+- Enfriar (to cool), frigorífico (fridge)	Latín: *frigidus*

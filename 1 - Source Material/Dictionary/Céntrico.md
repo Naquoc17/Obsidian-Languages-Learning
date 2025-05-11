@@ -1,0 +1,6 @@
+- Céntrico	[ˈθentɾiko] o [ˈsentɾiko]	Adjetivo
+- Situado en el centro de la ciudad
+- Ở trung tâm
+- Central
+- El piso es muy céntrico.
+- Centro (center), centralizar (to centralize)	Latín: *centrum*

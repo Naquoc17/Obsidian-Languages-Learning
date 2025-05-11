@@ -1,0 +1,6 @@
+- Luz (femenino)	[luθ] o [lus]	Sustantivo
+- Iluminación natural o artificial
+- Ánh sáng
+- Light
+- Tiene mucha luz.
+- Iluminar (to illuminate), luminoso (bright)	Latín: *lux*

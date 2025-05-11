@@ -1,0 +1,6 @@
+- Garaje (masculino)	[ɡaˈɾaxe]	Sustantivo
+- Lugar para guardar el coche
+- Nhà để xe
+- Garage
+- Tiene garaje.
+- Aparcamiento (parking lot)	Francés: *garage*
