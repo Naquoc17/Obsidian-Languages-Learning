@@ -79,7 +79,19 @@ Voilà, c’étaient des moments inoubliables.
 
 
 
+## Vocabulaire: le souvenir
 
+### **Ký ức khó quên – Un souvenir inoubliable**
+
+Tối qua, tôi cảm thấy **nostalgique** (hoài niệm). Khi đang xem lại một cuốn album **de famille** (gia đình), tôi bắt đầu **me rappeler un souvenir** (nhớ lại một kỷ niệm) **d’enfance** (thời thơ ấu) thật **joyeux** (vui vẻ).
+
+Tôi **me souvenais de** (nhớ về) những **vacances** (kỳ nghỉ) **d’école** (ở trường) tại miền quê. Tôi có thể **voir** (nhìn thấy) những cánh đồng xanh, **entendre** (nghe thấy) **le bruit** (tiếng động) của chim hót, và **sentir bon** (ngửi thấy mùi thơm) từ những bông hoa. Mùi hương ấy – **l’odeur** – vẫn còn trong **la mémoire olfactive** (trí nhớ khứu giác) của tôi.
+
+Tôi **touchais** (chạm vào) thân cây — một **matière** (chất liệu) sần sùi nhưng quen thuộc. Cảm giác đó lưu lại trong **la mémoire tactile** (trí nhớ xúc giác). Tôi còn **goûtais** (nếm) món mứt do bà làm — hương vị ấy **agréable** (dễ chịu) và thật **inoubliable** (khó quên).
+
+Tuy nhiên, cũng có một **souvenir difficile** (kỷ niệm khó khăn): một lần tôi bị ngã và bị thương. Ký ức **triste** (buồn) đó vẫn còn, nhất là âm thanh lớn khi tôi té — tôi vẫn có thể **écouter** (nghe) nó trong **la mémoire auditive** (trí nhớ thính giác). Thuốc hôm đó **avait un mauvais goût** (có vị dở tệ).
+
+Bây giờ, mỗi khi tôi **regarder** (xem) ảnh cũ hay **écouter** (nghe) một bài hát, tất cả những giác quan — **la vue** (thị giác), **l’ouïe** (thính giác), **le goût** (vị giác), **l’odorat** (khứu giác), **le toucher** (xúc giác) — đều giúp tôi **évoquer un souvenir** (gợi lại ký ức). Dù là kỷ niệm **drôle** (vui nhộn), **heureux** (hạnh phúc), hay **horrible** (kinh khủng), chúng đều là một phần của **la mémoire** (trí nhớ) của tôi.
 
 
 
