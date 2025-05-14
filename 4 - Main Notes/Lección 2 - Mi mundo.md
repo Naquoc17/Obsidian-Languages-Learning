@@ -79,6 +79,27 @@ A las **8:45** (8 giờ 45), **sale de casa** (ra khỏi nhà), y **coge el auto
 
 **Estudia** (học) toda la tarde y **cena** (ăn tối) a las **23:30** (11 giờ 30 tối).
 
+### 9. Hỏi giờ
+
+- Qué hora es?
+	- Es la una ...
+	- Son las dos/ tres/ ...
+
+- 4:30 = ... y media
+- 4:15 = ... y cuarto
+
+- 5:45 = ... menos cuarto
+
+### 10. Hỏi giờ cho các hoạt động
+
+
+| Spanish                                                        |                                                                                       |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| A qué hora te levantas?<br>Me levanto a las 8<br>Y en tu país? | - Bạn thức dậy lúc mấy giờ?<br>- Tôi thức dậy lúc 8 giờ.<br>- Còn ở nước bạn thì sao? |
+
+
+
+
 
 
 
