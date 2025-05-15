@@ -49,6 +49,10 @@ Tags:
 - [[USA Börsen-Beben! Äußerung von Trump sorgt für Absturz! Wie reagiert die Notenbank Fed]]
 - [[USA Chat-Affäre im Pentagon! Trump tobt! Hegseth weist Vorwürfe über Angriffe im Jemen zurück]]
 
+#### 2 Bored Guys
+- [[Bernd das Brot ist so ein Fiebertraum]]
+
+#### 
 - [[Boxing for Beginners. Ich bringe euch Boxen bei.. - Episode 1]]
 
 
