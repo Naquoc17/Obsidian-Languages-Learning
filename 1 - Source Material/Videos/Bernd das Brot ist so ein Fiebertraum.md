@@ -75,7 +75,7 @@ Bài viết mở đầu bằng hình ảnh một **Brandmauer (tường lửa)**
 
 Cô nhớ lần xem talkshow, nơi một **Programmdirektor (giám đốc chương trình)** nói về việc dùng **Weihnachtsbaumkanone (pháo bắn cây thông Noel – ngụ ý thứ gì đó kỳ quặc, lòe loẹt)** để gây sốc khán giả. Mọi thứ đều lặp đi lặp lại như một **Loop (vòng lặp)** vô tận.
 
-Linh từng **besoffen (say xỉn)** để quên Minh, ngồi giữa quán bar, hét lên "Tôi là **Strandhaubitze (ngụ ý cô gái mạnh mẽ như pháo cố định)** của chính tôi!"  
+Linh từng **besoffen (say xỉn)** để quên Minh, ngồi giữa quán bar, hét lên "Tôi là **Standhaubitze (ngụ ý cô gái mạnh mẽ như pháo cố định)** của chính tôi!"  
 Khi tỉnh dậy, thứ duy nhất còn sót lại là nỗi xấu hổ… và đống **Content (nội dung)** do bạn bè quay lén.
 
 Cô quyết định viết theo phong cách **nuanciert (tinh tế, sắc sảo)** – không hằn học, không đổ lỗi. Mục tiêu không phải để tấn công ai, mà là **verarbeiten (xử lý, vượt qua)** nỗi đau.
@@ -158,7 +158,9 @@ Chỉ cần dám đối diện – thế là đủ mạnh mẽ.
 
 Và Linh – cô gái từng sợ những dòng tin nhắn cũ – đã **abschalten (ngắt kết nối)** được rồi.
 
-## 
+## Các cụm từ trong video
+
+
 
 
 
