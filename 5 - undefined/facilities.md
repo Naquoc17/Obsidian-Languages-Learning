@@ -1,0 +1,6 @@
+- facilities [fəˈsɪlɪtiz] Noun (plural)
+- Meaning (English): buildings or services designed for a specific purpose
+- Meaning (Vietnamese): cơ sở vật chất
+- Properly translated word: Einrichtungen (German)
+- Example sentence: The recycling facilities are located near the port.
+- Family words: facility (cơ sở), facilitate (tạo điều

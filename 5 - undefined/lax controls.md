@@ -1,0 +1,6 @@
+- lax controls [læks kənˈtrəʊlz] Adjective + Noun
+- Meaning (English): weak or careless systems of supervision
+- Meaning (Vietnamese): kiểm soát lỏng lẻo
+- Properly translated word: lasche Kontrollen (German)
+- Example sentence: Lax controls led to illegal dumping of waste.
+- Family words: laxity (sự lỏng lẻo), control (kiểm soát)   Latin root: laxus (loose), contra rotulus (against a roll)

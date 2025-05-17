@@ -1,0 +1,6 @@
+- communities around factories [kəˈmjuːnɪtiz əˈraʊnd ˈfæktriz] Noun Phrase
+- Meaning (English): groups of people living near industrial buildings
+- Meaning (Vietnamese): cộng đồng xung quanh các nhà máy
+- Properly translated word: Gemeinden rund um Fabriken (German)
+- Example sentence: Communities around factories often face pollution problems.
+- Family words: community (cộng đồng), factory (nhà máy)   Latin root: communis (common), facere (to make)

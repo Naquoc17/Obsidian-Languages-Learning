@@ -1,0 +1,6 @@
+- environmental impacts [ɪnˌvaɪrənˈmentl ˈɪmpækts] Noun Phrase (plural)
+- Meaning (English): effects or changes on the natural world
+- Meaning (Vietnamese): tác động môi trường
+- Properly translated word: Umweltauswirkungen (German)
+- Example sentence: The factory's waste has severe environmental impacts.
+- Family words: environment (môi trường), impact (tác động)   Latin root: environ (surround), impactus (pressed in)

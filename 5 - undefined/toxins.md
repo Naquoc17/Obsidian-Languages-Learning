@@ -1,0 +1,6 @@
+- toxins [ˈtɒksɪnz] Noun (plural)
+- Meaning (English): poisonous substances produced by living organisms or chemicals
+- Meaning (Vietnamese): độc tố
+- Properly translated word: Gifte / Toxine (German)
+- Example sentence: The soil was contaminated with dangerous toxins.
+- Family words: toxic (độc hại), toxicity (độc tính)   Latin root: toxicum (poison)

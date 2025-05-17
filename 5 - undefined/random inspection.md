@@ -1,0 +1,6 @@
+- random inspection [ˈrændəm ɪnˈspekʃən] Noun Phrase
+- Meaning (English): a check done without a fixed pattern or warning
+- Meaning (Vietnamese): kiểm tra ngẫu nhiên
+- Properly translated word: Zufallskontrolle (German)
+- Example sentence: The airport security conducted a random inspection of bags.
+- Family words: inspect (kiểm tra), inspector (người kiểm tra), inspection (sự kiểm tra)   Latin root: specere (to look)

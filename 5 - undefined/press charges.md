@@ -1,0 +1,6 @@
+- press charges [pres ˈtʃɑːdʒɪz] Verb Phrase
+- Meaning (English): to officially accuse someone of a crime
+- Meaning (Vietnamese): khởi tố, truy tố
+- Properly translated word: Anklage erheben (German)
+- Example sentence: The company decided not to press charges against the smuggler.
+- Family words: charge (cáo buộc), prosecutor (công tố viên)   Latin root: carricare (to load)

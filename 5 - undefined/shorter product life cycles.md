@@ -1,0 +1,6 @@
+- shorter product life cycles [ˈʃɔːtə ˈprɒdʌkt laɪf ˈsaɪklz] Noun Phrase
+- Meaning (English): when products are used for a shorter time before being replaced
+- Meaning (Vietnamese): vòng đời sản phẩm ngắn hơn
+- Properly translated word: kürzere Produktlebenszyklen (German)
+- Example sentence: Shorter product life cycles increase electronic waste.
+- Family words: short (ngắn), product (sản phẩm), life cycle (vòng đời)   Latin root: productum (something produced), cyclus (circle)

@@ -1,0 +1,6 @@
+- inadequate systems [ɪnˈædɪkwət ˈsɪstəmz] Adjective + Noun
+- Meaning (English): systems that are not enough or not good enough
+- Meaning (Vietnamese): hệ thống không đầy đủ / không hiệu quả
+- Properly translated word: unzureichende Systeme (German)
+- Example sentence: Many countries have inadequate systems for e-waste recycling.
+- Family words: adequate (đầy đủ), system (hệ thống), inadequacy (sự thiếu)   Latin root: adaequare (make equal), systema (system)

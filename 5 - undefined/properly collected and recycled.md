@@ -1,0 +1,6 @@
+- properly collected and recycled [ˈprɒpəli kəˈlektɪd ənd ˌriːˈsaɪkld] Verb Phrase (passive)
+- Meaning (English): gathered and processed in the correct way
+- Meaning (Vietnamese): được thu gom và tái chế đúng cách
+- Properly translated word: ordnungsgemäß gesammelt und recycelt (German)
+- Example sentence: Only a small percentage of e-waste is properly collected and recycled.
+- Family words: proper (đúng, thích hợp), collect (thu gom), recycle (tái chế)   Latin root: proprius (own), colligere (gather)

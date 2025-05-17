@@ -1,0 +1,6 @@
+- higher consumption [ˈhaɪə kənˈsʌmpʃən] Noun Phrase
+- Meaning (English): increased use of goods and resources
+- Meaning (Vietnamese): mức tiêu thụ cao hơn
+- Properly translated word: höherer Verbrauch (German)
+- Example sentence: Higher consumption leads to more electronic waste.
+- Family words: consume (tiêu thụ), consumer (người tiêu dùng), consumption (sự tiêu thụ)   Latin root: consumere (to use up)

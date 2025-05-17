@@ -1,0 +1,6 @@
+- recycling [ˌriːˈsaɪklɪŋ] Noun
+- Meaning (English): the process of converting waste into reusable material
+- Meaning (Vietnamese): tái chế
+- Properly translated word: Recycling (German)
+- Example sentence: Recycling helps reduce environmental damage.
+- Family words: recycle (tái chế), recyclable (có thể tái chế)   Latin root: re- (again) + cyclus (circle)

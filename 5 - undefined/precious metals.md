@@ -1,0 +1,6 @@
+- precious metals [ˈpreʃəs ˈmetlz] Noun Phrase (plural)
+- Meaning (English): rare, valuable metals like gold, silver, and platinum
+- Meaning (Vietnamese): kim loại quý
+- Properly translated word: Edelmetalle (German)
+- Example sentence: Old electronics contain precious metals like gold and silver.
+- Family words: precious (quý giá), metal (kim loại)   Latin root: pretiosus (valuable), metallum (metal)

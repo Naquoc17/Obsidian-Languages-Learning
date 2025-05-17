@@ -1,0 +1,6 @@
+- United Nations report [juˈnaɪtɪd ˈneɪʃənz rɪˈpɔːt] Noun Phrase
+- Meaning (English): an official document published by the UN
+- Meaning (Vietnamese): báo cáo của Liên Hợp Quốc
+- Properly translated word: Bericht der Vereinten Nationen (German)
+- Example sentence: A recent United Nations report warned about e-waste growth.
+- Family words: report (báo cáo), reporter (phóng viên), nation (quốc gia)   Latin root: reportare (bring back), natio (nation)

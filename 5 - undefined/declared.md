@@ -1,0 +1,6 @@
+- declared [dɪˈkleəd] Verb (past)
+- Meaning (English): officially announced or made known
+- Meaning (Vietnamese): khai báo, tuyên bố
+- Properly translated word: deklariert (German)
+- Example sentence: She declared the goods at customs.
+- Family words: declaration (lời tuyên bố), declarative (mang tính tuyên bố)   Latin root: declarare (to make clear)

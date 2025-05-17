@@ -1,0 +1,6 @@
+- seized [siːzd] Verb
+- Meaning (English): taken by force or legal authority
+- Meaning (Vietnamese): bị tịch thu, bị chiếm giữ
+- Properly translated word: beschlagnahmt (German)
+- Example sentence: The customs officer seized the illegal goods.
+- Family words: seizure (sự tịch thu), seizing (sự chiếm lấy)   Latin root: capere (to take)

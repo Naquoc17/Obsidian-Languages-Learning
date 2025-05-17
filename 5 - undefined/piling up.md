@@ -1,0 +1,6 @@
+- piling up [ˈpaɪlɪŋ ʌp] Phrasal Verb
+- Meaning (English): accumulating in large amounts
+- Meaning (Vietnamese): chất đống, tích tụ
+- Properly translated word: sich anhäufen (German)
+- Example sentence: Electronic waste is piling up in many countries.
+- Family words: pile (chồng, đống), buildup (sự tích tụ)   Latin root: pila (pillar)

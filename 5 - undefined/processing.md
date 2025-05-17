@@ -1,0 +1,6 @@
+- processing [ˈprəʊsesɪŋ] Noun / Verb (gerund)
+- Meaning (English): the act of treating or handling materials
+- Meaning (Vietnamese): xử lý (nguyên liệu, dữ liệu, v.v.)
+- Properly translated word: Verarbeitung (German)
+- Example sentence: The plant specializes in processing electronic waste.
+- Family words: process (quá trình), processor (bộ xử lý)   Latin root: procedere (to go forward)

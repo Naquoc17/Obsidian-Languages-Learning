@@ -1,0 +1,6 @@
+- circuit boards [ˈsɜːkɪt bɔːdz] Noun (plural)
+- Meaning (English): flat boards in electronics that hold electrical circuits
+- Meaning (Vietnamese): bảng mạch điện tử
+- Properly translated word: Leiterplatten (German)
+- Example sentence: Old phones contain valuable circuit boards.
+- Family words: circuitry (hệ thống mạch điện), circuit (mạch điện)   Latin root: circus (circle)

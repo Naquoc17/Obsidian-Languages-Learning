@@ -1,0 +1,6 @@
+- illegally imported [ɪˈliːɡəli ˈɪmpɔːtɪd] Adjective Phrase
+- Meaning (English): brought into a country in a way that violates the law
+- Meaning (Vietnamese): nhập khẩu trái phép
+- Properly translated word: illegal eingeführt (German)
+- Example sentence: The authorities found illegally imported electronics.
+- Family words: illegal (bất hợp pháp), import (nhập khẩu)   Latin root: portare (to carry)

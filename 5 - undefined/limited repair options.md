@@ -1,0 +1,6 @@
+- limited repair options [ˈlɪmɪtɪd rɪˈpeə ˈɒpʃənz] Noun Phrase
+- Meaning (English): few or restricted ways to fix broken products
+- Meaning (Vietnamese): lựa chọn sửa chữa hạn chế
+- Properly translated word: begrenzte Reparaturmöglichkeiten (German)
+- Example sentence: Many modern devices have limited repair options.
+- Family words: limit (giới hạn), repair (sửa chữa), option (lựa chọn)   Latin root: limitare (to bound), reparare (to restore), optio (choice)

@@ -1,0 +1,6 @@
+- falsely declaring [ˈfɔːlsli dɪˈkleərɪŋ] Verb Phrase
+- Meaning (English): making untrue official statements
+- Meaning (Vietnamese): khai báo sai sự thật
+- Properly translated word: falsch deklarieren (German)
+- Example sentence: He was caught falsely declaring the value of the shipment.
+- Family words: false (sai), declare (tuyên bố, khai báo)   Latin root: falsus (false)
