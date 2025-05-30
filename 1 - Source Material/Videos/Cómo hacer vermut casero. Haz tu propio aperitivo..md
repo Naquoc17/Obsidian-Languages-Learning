@@ -35,7 +35,7 @@ Tôi gật đầu, thấy bản thân như đang trong một **[[Cursos (masculi
 
 Sau buổi trò chuyện, tôi quay lại quán vào hôm sau để học thêm về kỹ thuật **[[Destilado (masculino)]]**. Ông cụ bảo rằng một số loại vermouth được pha từ rượu nền **[[Neutro (adjetivo)]]**, nhưng một số phiên bản đặc biệt sử dụng rượu đã **[[Madurar (verbo)]]** lâu năm để tạo độ **[[Rancio (adjetivo)]]** – một đặc điểm khó **[[Caracterizar (verbo)]]** nhưng tạo nên **personalidad** riêng biệt cho từng loại rượu.
 
-> “Từng loại vermouth có một **tipo** riêng,” ông cụ giải thích. “Có loại **seco**, có loại ngọt hơn. Tùy cách **elaboración** và thảo mộc dùng để **enmascarar** vị nồng.”
+> “Từng loại vermouth có một **[[Tipo (masculino)]]** riêng,” ông cụ giải thích. “Có loại **seco**, có loại ngọt hơn. Tùy cách **elaboración** và thảo mộc dùng để **[[Enmascarar (verbo)]]** vị nồng.”
 
 Trong phòng phía sau, ông chỉ cho tôi hệ thống **instalaciones** thủ công để làm rượu. Một bình lớn đựng hỗn hợp **solución hidroalcohólica**, nơi các **aromáticos** đang được **macerado**. Một bảng nhỏ treo trên tường ghi chú tỷ lệ **grados Brix**, dùng để đo lượng đường trong dịch chiết.
 
