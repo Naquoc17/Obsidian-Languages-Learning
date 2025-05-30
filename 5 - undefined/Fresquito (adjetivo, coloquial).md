@@ -1,0 +1,7 @@
+- Fresquito (adjetivo, coloquial) [fɾesˈkito]
+- Un poco frío, agradable (forma informal)
+- Hơi lạnh, mát mẻ
+- Cool / Chilled (informal)
+- ¡Qué fresquito está este vermouth!
+- Fresco (adj.), frescor (sust.)
+- Latín: friscus

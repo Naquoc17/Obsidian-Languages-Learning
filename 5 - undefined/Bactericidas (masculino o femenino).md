@@ -1,0 +1,7 @@
+- Bactericidas (masculino o femenino) [bak̚teɾiˈθiðas] Sustantivo
+- Sustancia que mata bacterias
+- Thuốc diệt khuẩn
+- Bactericide
+- El alcohol es un bactericida natural.
+- Bacteria (sustantivo), -cida (que mata)
+- Latín: bacterium + caedere (matar)

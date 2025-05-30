@@ -1,0 +1,7 @@
+- Ocre (adjetivo o sustantivo) [ˈokɾe]
+- Color entre amarillo y marrón
+- Màu nâu vàng
+- Ochre (color)
+- El vermouth tiene un tono ocre.
+- No tiene familia común
+- Latín: ochra (del griego)

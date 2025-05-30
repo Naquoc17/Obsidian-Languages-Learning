@@ -1,0 +1,7 @@
+- Filósofo (masculino) [fiˈlosofo] Sustantivo
+- Persona que estudia el pensamiento y la vida
+- Nhà triết học
+- Philosopher
+- Hipócrates fue un filósofo famoso.
+- Filosofía (sust.)
+- Griego: philos (amor) + sophia (sabiduría)

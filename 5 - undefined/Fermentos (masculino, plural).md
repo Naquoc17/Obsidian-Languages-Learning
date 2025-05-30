@@ -1,0 +1,7 @@
+- Fermentos (masculino, plural) [feɾˈmen̪tos] Sustantivo
+- Sustancias que producen fermentación (proceso químico natural)
+- Các chất lên men
+- Ferments
+- Los fermentos se usan para hacer pan o vino.
+- Fermentar (verbo): producir fermentación   |   Fermentación (sustantivo)
+- Latín: fermentum

@@ -1,0 +1,7 @@
+- Aromática (femenino) [aɾoˈmatika] Adjetivo / Sustantivo
+- Que tiene aroma o buen olor
+- Có mùi thơm
+- Aromatic
+- Me gusta el té de hierbas aromáticas.
+- Aroma (sustantivo), aromatizar (verbo)
+- Griego: arōma

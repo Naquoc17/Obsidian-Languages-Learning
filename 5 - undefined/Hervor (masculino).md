@@ -1,0 +1,7 @@
+- Hervor (masculino) [eɾˈβoɾ]
+- El acto de hervir (hacer burbujas por calor)
+- Sự sôi
+- Boil / Boiling
+- Apaga el fuego cuando empiece el hervor.
+- Hervir (verbo), hervido (adj.)
+- Latín: fervere

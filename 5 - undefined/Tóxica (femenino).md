@@ -1,0 +1,7 @@
+- Tóxica (femenino) [ˈtok̚sika] Adjetivo
+- Que puede hacer daño o enfermar
+- Độc hại
+- Toxic
+- Algunas plantas son tóxicas si las comes.
+- Tóxico (masculino), toxicidad (sustantivo)
+- Latín: toxicum

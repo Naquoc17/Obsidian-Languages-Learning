@@ -1,0 +1,7 @@
+- Blogs (masculino, plural) [bloɡs]
+- Páginas personales en internet
+- Blog cá nhân
+- Blogs
+- Escribimos recetas en nuestros blogs.
+- Blogger (persona), bloguero (adj.)
+- Inglés: blog

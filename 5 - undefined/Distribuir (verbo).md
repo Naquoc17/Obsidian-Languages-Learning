@@ -1,0 +1,7 @@
+- Distribuir (verbo) [distɾiˈβiɾ]
+- Repartir algo entre varios lugares
+- Phân phối
+- To distribute
+- La empresa distribuye bebidas en toda España.
+- Distribución (sust.)
+- Latín: distribuere

@@ -1,0 +1,7 @@
+- Distribución (femenino) [distɾiβuˈθjon]
+- Reparto o entrega de productos
+- Sự phân phối
+- Distribution
+- La distribución del vermouth es global.
+- Distribuir (verbo), distribuidor (persona)
+- Latín: distribuere

@@ -1,0 +1,7 @@
+- Instalaciones (femenino, plural) [instalaˈθjones]
+- Lugares preparados para una actividad
+- Cơ sở vật chất
+- Facilities / Installations
+- Las instalaciones del curso son modernas.
+- Instalar (verbo), instalación (sing.)
+- Latín: installatio

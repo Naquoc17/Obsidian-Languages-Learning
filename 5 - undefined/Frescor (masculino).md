@@ -1,0 +1,7 @@
+- Frescor (masculino) [fɾesˈkoɾ]
+- Sensación de frescura
+- Sự tươi mát
+- Freshness
+- El vermouth tiene un frescor agradable.
+- Fresco (adj.), refrescar (verbo)
+- Latín: friscus

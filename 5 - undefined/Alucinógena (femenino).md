@@ -1,0 +1,7 @@
+- Alucinógena (femenino) [aluθiˈnoχena] Adjetivo
+- Que causa alucinaciones
+- Gây ảo giác
+- Hallucinogenic
+- Esa planta puede ser alucinógena.
+- Alucinación (sustantivo): ver cosas irreales
+- Latín: alucinari

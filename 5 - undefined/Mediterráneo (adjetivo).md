@@ -1,0 +1,7 @@
+- Mediterráneo (adjetivo) [meðiteˈraneo]
+- Relacionado con el mar Mediterráneo
+- (thuộc) Địa Trung Hải
+- Mediterranean
+- Uso hierbas mediterráneas en la receta.
+- Mediterráneo (sustantivo también)
+- Latín: mediterraneus

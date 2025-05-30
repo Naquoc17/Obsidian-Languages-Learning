@@ -1,0 +1,7 @@
+- Digestivas (femenino, plural) [dixesˈtiβas] Adjetivo
+- Que ayudan a la digestión
+- Hỗ trợ tiêu hóa
+- Digestive
+- Las hierbas digestivas son buenas después de comer.
+- Digerir (verbo): hacer la digestión
+- Latín: digerere

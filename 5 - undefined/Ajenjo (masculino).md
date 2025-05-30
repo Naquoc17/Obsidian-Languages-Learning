@@ -1,0 +1,7 @@
+- Ajenjo (masculino) [aˈxenxo] Sustantivo
+- Planta amarga usada en bebidas como el vermouth
+- Cây ngải cứu đắng (ajenjo)
+- Wormwood
+- El ajenjo da sabor al vermouth.
+- No hay familia directa común
+- Latín: absinthium

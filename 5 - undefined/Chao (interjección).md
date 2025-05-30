@@ -1,0 +1,7 @@
+- Chao (interjección) [ˈtʃao]
+- Forma informal de decir adiós
+- Tạm biệt (thân mật)
+- Bye / See you
+- ¡Chao! Hasta la próxima.
+- Despedida (forma informal)
+- Italiano: ciao

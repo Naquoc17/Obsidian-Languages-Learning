@@ -1,0 +1,7 @@
+- Agradeceros (verbo reflexivo, vosotros) [aɣɾaðeˈθeɾos]
+- Dar gracias a vosotros (informal, plural)
+- Cảm ơn các bạn
+- To thank you all
+- Queremos agradeceros por ver el vídeo.
+- Agradecer (verbo), agradecimiento (sust.)
+- Latín: gratus + facere

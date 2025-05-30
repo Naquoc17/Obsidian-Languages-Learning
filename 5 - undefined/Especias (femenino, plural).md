@@ -1,0 +1,7 @@
+- Especias (femenino, plural) [esˈpeθjas]
+- Sustancias vegetales que dan sabor
+- Gia vị
+- Spices
+- Me gusta cocinar con muchas especias.
+- Especiado (con muchas especias)
+- Latín: species (clase)

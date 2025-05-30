@@ -1,0 +1,7 @@
+- Lemon grass (masculino) [ˈlemon ˈgɾas]
+- Planta aromática con sabor cítrico
+- Cỏ chanh / sả
+- Lemongrass
+- Añadimos lemon grass a la bebida.
+- No tiene familia española directa
+- Inglés: lemon (limón) + grass (pasto)

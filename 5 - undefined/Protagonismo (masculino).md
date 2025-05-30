@@ -1,0 +1,7 @@
+- Protagonismo (masculino) [pɾotaɣoˈnismo]
+- Importancia o rol principal
+- Vai trò chính
+- Leading role
+- El vermouth tiene protagonismo en esta receta.
+- Protagonista (persona principal)
+- Griego: protos (primero) + agon (lucha)

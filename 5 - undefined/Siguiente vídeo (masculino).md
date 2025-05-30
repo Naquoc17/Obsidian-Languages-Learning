@@ -1,0 +1,7 @@
+- Siguiente vídeo (masculino) [siˈɣjente ˈβiðeo]
+- El próximo video
+- Video tiếp theo
+- Next video
+- Nos vemos en el siguiente vídeo.
+- Siguiente (adj.), seguir (verbo)
+- Latín: sequentem

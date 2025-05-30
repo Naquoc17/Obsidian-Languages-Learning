@@ -1,0 +1,7 @@
+- Ornamental (adjetivo) [oɾnamenˈtal]
+- Que sirve para decorar
+- Trang trí
+- Ornamental
+- Esta planta es solo ornamental.
+- Ornamento (sust.), ornamentar (verbo)
+- Latín: ornamentum

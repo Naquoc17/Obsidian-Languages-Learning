@@ -1,0 +1,7 @@
+- Presencial (adjetivo) [pɾesenˈθjal]
+- Que ocurre en persona (no en línea)
+- Trực tiếp
+- In-person
+- El curso será presencial, no online.
+- Presencia (sust.)
+- Latín: praesentia

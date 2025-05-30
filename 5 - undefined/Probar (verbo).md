@@ -1,0 +1,7 @@
+- Probar (verbo) [pɾoˈβaɾ]
+- Comer o beber un poco para ver el sabor
+- Nếm thử
+- To taste / try
+- ¿Quieres probar este vermouth?
+- Prueba (sust.)
+- Latín: probare

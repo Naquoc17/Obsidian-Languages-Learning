@@ -1,0 +1,7 @@
+- Caña (femenino) [ˈkaɲa]
+- Planta alta de la que se saca azúcar
+- Mía (cây mía)
+- Sugar cane
+- El ron se hace con caña de azúcar.
+- Cañaveral (lugar con muchas cañas)
+- Latín: canna

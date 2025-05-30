@@ -1,0 +1,7 @@
+- Reposar (verbo) [repoˈsaɾ]
+- Descansar o dejar en calma
+- Nghỉ / để yên
+- To rest
+- Hay que dejar reposar la mezcla.
+- Reposo (sust.)
+- Latín: repausare

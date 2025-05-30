@@ -1,0 +1,7 @@
+- Extraer (verbo) [ekstɾaˈeɾ]
+- Sacar algo de otra cosa
+- Chiết xuất / lấy ra
+- To extract
+- Vamos a extraer los aromas de las hierbas.
+- Extracción (sust.)
+- Latín: extrahere

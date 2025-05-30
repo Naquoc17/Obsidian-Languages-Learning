@@ -1,0 +1,7 @@
+- Disolver (verbo) [disolˈβeɾ]
+- Mezclar un sólido en líquido hasta desaparecer
+- Hòa tan
+- To dissolve
+- Hay que disolver el azúcar en agua.
+- Disolución (sust.)
+- Latín: dissolvere

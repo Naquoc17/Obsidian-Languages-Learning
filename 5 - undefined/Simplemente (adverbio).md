@@ -1,0 +1,7 @@
+- Simplemente (adverbio) [sim.pleˈmen̪te]
+- De forma simple o directa
+- Đơn giản là
+- Simply
+- Simplemente, me encanta el vermouth.
+- Simple (adj.), simplicidad (sust.)
+- Latín: simplex + mente

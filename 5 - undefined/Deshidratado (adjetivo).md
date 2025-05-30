@@ -1,0 +1,7 @@
+- Deshidratado (adjetivo) [desiðɾaˈtaðo]
+- Que ha perdido el agua
+- Bị khử nước, làm khô
+- Dehydrated
+- El limón deshidratado se usa para decorar.
+- Deshidratar (verbo): quitar el agua
+- Latín: de- (quitar) + hidratare (dar agua)

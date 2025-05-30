@@ -1,0 +1,7 @@
+- Grados Brix (masculino, plural) [ˈɡɾaðos ˈbɾiks]
+- Unidad para medir azúcar en líquidos
+- Độ Brix (lượng đường)
+- Brix degrees
+- El vino tiene 18 grados Brix.
+- Grado (nivel), Brix (apellido del creador)
+- Latín: gradus

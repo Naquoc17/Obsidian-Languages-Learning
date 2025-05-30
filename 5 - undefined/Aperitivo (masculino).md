@@ -1,0 +1,7 @@
+- Aperitivo (masculino) [apeɾiˈtiβo] Sustantivo
+- Bebida o comida pequeña antes de la comida principal
+- Món khai vị
+- Appetizer / Aperitif
+- Tomamos un aperitivo antes de almorzar.
+- Apertura (acción de abrir), abrir (verbo)
+- Latín: aperire (abrir)

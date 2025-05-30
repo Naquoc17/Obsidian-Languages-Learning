@@ -1,0 +1,7 @@
+- Recomendación (femenino) [rekomen̪daˈθjon]
+- Consejo o sugerencia
+- Sự đề xuất
+- Recommendation
+- Tengo una recomendación para ti: prueba vermouth seco.
+- Recomendar (verbo)
+- Latín: recommendatio

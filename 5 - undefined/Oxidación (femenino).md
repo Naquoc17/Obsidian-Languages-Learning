@@ -1,0 +1,7 @@
+- Oxidación (femenino) [oksiðaˈθjon] Sustantivo
+- Reacción con oxígeno que cambia la sustancia
+- Quá trình oxy hóa
+- Oxidation
+- El vino cambia con la oxidación.
+- Oxidar (verbo): combinar con oxígeno
+- Griego: oxys (ácido)

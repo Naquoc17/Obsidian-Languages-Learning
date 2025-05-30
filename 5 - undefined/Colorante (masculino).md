@@ -1,0 +1,7 @@
+- Colorante (masculino) [koloˈɾante]
+- Sustancia que da color
+- Chất tạo màu
+- Coloring agent
+- El caramelo es un colorante natural.
+- Colorear (verbo), color (sust.)
+- Latín: colorare

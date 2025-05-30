@@ -1,0 +1,7 @@
+- Encabezado (masculino) [eŋkaβeˈθaðo] Sustantivo
+- Título de un texto o sección
+- Tiêu đề
+- Heading / Title
+- El encabezado dice "Receta de vermouth".
+- Encabezar (verbo): poner al frente
+- Latín: in + caput (cabeza)

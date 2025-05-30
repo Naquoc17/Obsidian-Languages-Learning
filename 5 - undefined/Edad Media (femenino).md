@@ -1,0 +1,7 @@
+- Edad Media (femenino) [eˈðaδ ˈmeðja] Sustantivo
+- Época histórica entre los siglos V y XV
+- Thời Trung cổ
+- Middle Ages
+- En la Edad Media se usaban vinos con hierbas.
+- Edad (age), media (middle)
+- Latín: aetas media

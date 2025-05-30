@@ -1,0 +1,7 @@
+- Rancio (adjetivo) [ˈranθjo]
+- Con mal olor o sabor por estar viejo
+- Ôi, hôi
+- Rancid
+- El vino rancio no es bueno para beber.
+- Rancidez (sust.)
+- Latín: rancidus

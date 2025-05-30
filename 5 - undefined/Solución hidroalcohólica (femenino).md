@@ -1,0 +1,7 @@
+- Solución hidroalcohólica (femenino) [soluˈθjon iðɾoalˈko.lica]
+- Líquido con agua y alcohol
+- Dung dịch nước – cồn
+- Hydroalcoholic solution
+- Se prepara una solución hidroalcohólica con hierbas.
+- Solución (sust.), hidro (agua), alcohólica (con alcohol)
+- Latín: solutio + hydro + alcohol

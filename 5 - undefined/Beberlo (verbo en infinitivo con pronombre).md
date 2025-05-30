@@ -1,0 +1,7 @@
+- Beberlo (verbo en infinitivo con pronombre) [beˈβeɾlo]
+- Tomarlo (acción de beber algo específico)
+- Uống nó
+- Drink it
+- Puedes beberlo frío o con hielo.
+- Beber (verbo), bebida (sust.)
+- Latín: bibere

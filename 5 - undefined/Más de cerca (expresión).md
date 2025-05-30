@@ -1,0 +1,7 @@
+- Más de cerca (expresión) [mas ðe ˈθeɾka]
+- Ver o experimentar con más detalle
+- Gần gũi hơn
+- More closely
+- Puedes ver el proceso más de cerca en el curso.
+- Cerca (adv.), cercanía (sust.)
+- Latín: circa

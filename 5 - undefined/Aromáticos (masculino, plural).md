@@ -1,0 +1,7 @@
+- Aromáticos (masculino, plural) [aɾoˈmatikos]
+- Que tienen mucho aroma
+- Có mùi thơm
+- Aromatic (plural)
+- Los ingredientes aromáticos dan sabor.
+- Aroma, aromática, aromatizar
+- Griego: arōma

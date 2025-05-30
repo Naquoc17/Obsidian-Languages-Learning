@@ -1,0 +1,7 @@
+- Acelerar (verbo) [aθeleˈɾaɾ]
+- Hacer más rápido
+- Tăng tốc / đẩy nhanh
+- To accelerate
+- Queremos acelerar el proceso de maceración.
+- Aceleración (sust.), acelerado (adj.)
+- Latín: accelerare
