@@ -9,7 +9,7 @@ Tags: [[]]
 
 - [[Blood and Cuts - Germany's Finger Wrestling Competition]]
 - [[US Sends Thailand 238 Tons of Illegal Electronic Waste]]
-
+- [[Women Thriving in Computer Science at California College]]
 
 
 

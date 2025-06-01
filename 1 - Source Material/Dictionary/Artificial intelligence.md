@@ -1,0 +1,7 @@
+- Artificial intelligence	[ˌɑːtɪˈfɪʃəl ɪnˈtelɪdʒəns]	Noun  
+- Computer systems that can simulate human thinking  
+- Trí tuệ nhân tạo  
+- Künstliche Intelligenz  
+- Artificial intelligence is changing many industries.  
+- Artificial (adj): nhân tạo; Intelligence (n): trí tuệ  
+- Latin “intellegere” – to understand

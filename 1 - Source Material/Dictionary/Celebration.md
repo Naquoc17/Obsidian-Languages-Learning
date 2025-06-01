@@ -1,0 +1,7 @@
+- Celebration	[ˌselɪˈbreɪʃən]	Noun  
+- A joyful event or activity to mark something special  
+- Lễ kỷ niệm  
+- Feier  
+- The celebration lasted all night.  
+- Celebrate (v): tổ chức lễ, ăn mừng  
+- Latin “celebrare” – to honor

@@ -1,0 +1,7 @@
+- Instruction codes	[ɪnˈstrʌkʃən koʊdz]	Noun phrase  
+- Commands or directions for computers or machines  
+- Mã lệnh (máy tính)  
+- Anweisungs-Codes  
+- The program runs based on specific instruction codes.  
+- Instruct (v): hướng dẫn; Code (n): mã  
+- Latin “instruere” – to build in

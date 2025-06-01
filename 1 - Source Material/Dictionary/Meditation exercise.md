@@ -1,0 +1,7 @@
+- Meditation exercise	[ˌmɛdɪˈteɪʃən ˈɛksəsaɪz]	Noun phrase  
+- A practice for calming the mind, often through breathing and focus  
+- Bài tập thiền  
+- Meditationsübung  
+- He does a short meditation exercise every morning.  
+- Meditate (v): thiền; Exercise (n): bài tập  
+- Latin “meditari” – to think over

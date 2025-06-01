@@ -1,0 +1,7 @@
+- Regardless of	[rɪˈɡɑːrdləs əv]	Preposition phrase  
+- Without being affected by  
+- Bất kể, không kể đến  
+- ungeachtet  
+- Everyone can join, regardless of experience.  
+- Regard (v): để ý, quan tâm  
+- Old French “regarder” – to look at

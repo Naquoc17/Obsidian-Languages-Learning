@@ -1,0 +1,7 @@
+- Original coder	[əˈrɪdʒɪnəl ˈkəʊdər]	Noun phrase  
+- The person who first wrote the code  
+- Lập trình viên đầu tiên  
+- ursprünglicher Programmierer  
+- The original coder left detailed notes.  
+- Original (adj): ban đầu; Coder (n): lập trình viên  
+- Latin “origo” – beginning

@@ -1,0 +1,7 @@
+- Thriving	[ˈθraɪvɪŋ]	Adjective  
+- Growing or developing successfully  
+- Phát triển mạnh, thịnh vượng  
+- florierend  
+- The startup is thriving in a competitive market.  
+- Thrive (v): phát triển mạnh  
+- Old Norse “þrífask” – to grasp

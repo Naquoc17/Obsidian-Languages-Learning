@@ -1,0 +1,7 @@
+- Educational cluster	[ˌɛdjuˈkeɪʃənl ˈklʌstər]	Noun phrase  
+- A group of institutions or organizations focused on education  
+- Cụm giáo dục  
+- Bildungscluster  
+- The educational cluster includes several schools and training centers.  
+- Educate (v): giáo dục; Cluster (n): cụm, nhóm  
+- Latin “educare” – to bring up

@@ -1,0 +1,7 @@
+- Balanced class	[ˈbælənst klɑːs]	Noun phrase  
+- A class with a good mix (e.g., of skill levels or gender)  
+- Lớp học cân bằng  
+- ausgewogene Klasse  
+- The teacher worked to create a balanced class.  
+- Balance (v/n): cân bằng  
+- Latin “bilanx” – having two scales

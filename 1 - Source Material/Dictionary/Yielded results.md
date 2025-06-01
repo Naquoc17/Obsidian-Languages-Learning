@@ -1,0 +1,7 @@
+- Yielded results	[ˈjiːldɪd rɪˈzʌlts]	Verb phrase  
+- Produced or gave a result  
+- Đem lại kết quả  
+- brachte Ergebnisse  
+- His efforts finally yielded results.  
+- Yield (v): tạo ra, sinh ra; Result (n): kết quả  
+- Old English “ġieldan” – to pay, give

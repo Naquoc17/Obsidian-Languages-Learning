@@ -1,0 +1,7 @@
+- Sparked the interest	[spɑːrkt ði ˈɪntrəst]	Verb phrase  
+- Caused someone to become interested  
+- Khơi dậy sự quan tâm  
+- weckte das Interesse  
+- The book sparked the interest of young scientists.  
+- Spark (v): khơi dậy; Interest (n): sự quan tâm  
+- Old English “spearca” – spark

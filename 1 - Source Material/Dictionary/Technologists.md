@@ -1,0 +1,7 @@
+- Technologists	[tɛkˈnɒlədʒɪsts]	Noun (plural)  
+- Experts in technology  
+- Chuyên gia công nghệ  
+- Technologen  
+- Technologists are working on next-gen AI systems.  
+- Technologist (singular); Technology (n): công nghệ  
+- Greek “techne” – skill

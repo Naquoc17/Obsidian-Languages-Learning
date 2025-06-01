@@ -1,0 +1,7 @@
+- Intimidating	[ɪnˈtɪmɪdeɪtɪŋ]	Adjective  
+- Making someone feel scared or nervous  
+- Đáng sợ, gây sợ hãi  
+- einschüchternd  
+- Speaking in front of a big audience can be intimidating.  
+- Intimidate (v): đe dọa  
+- Latin “timidus” – fearful

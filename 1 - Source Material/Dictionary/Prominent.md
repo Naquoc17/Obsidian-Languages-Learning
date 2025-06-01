@@ -1,0 +1,7 @@
+- Prominent	[ˈprɒmɪnənt]	Adjective  
+- Important, well-known, or easily noticeable  
+- Nổi bật, quan trọng  
+- prominent  
+- She is a prominent figure in the tech world.  
+- Prominence (n): sự nổi bật  
+- Latin “prominere” – to jut out

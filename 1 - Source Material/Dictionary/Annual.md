@@ -1,0 +1,7 @@
+- Annual	[ˈænjuəl]	Adjective  
+- Happening once every year  
+- Hàng năm  
+- jährlich  
+- The company holds an annual conference in June.  
+- Annually (adv): hàng năm  
+- Latin “annus” – year
