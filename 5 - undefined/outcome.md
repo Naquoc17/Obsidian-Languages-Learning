@@ -1,0 +1,6 @@
+- outcome	[ˈaʊt.kʌm]	noun	
+- The result of something.
+- kết quả
+- Ergebnis
+- The outcome of the test was positive.
+- phrase: favorable outcome (kết quả thuận lợi)

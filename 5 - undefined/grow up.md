@@ -1,0 +1,6 @@
+- grow up	[ɡrəʊ ʌp]	phrasal verb	
+- To become an adult.
+- lớn lên
+- aufwachsen
+- I grew up in a small town.
+- noun: growth (sự lớn lên), grown-up (người lớn)

@@ -1,0 +1,6 @@
+- short of	[ʃɔːt əv]	preposition phrase	
+- Not having enough of something.
+- thiếu
+- knapp an
+- We are short of time today.
+- phrase: fall short (không đạt được)
