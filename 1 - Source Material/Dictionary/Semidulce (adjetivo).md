@@ -1,0 +1,7 @@
+- Semidulce (adjetivo) [semiˈðulse]
+- Un poco dulce
+- Hơi ngọt
+- Semi-sweet
+- Me gusta el vermouth semidulce.
+- Dulce (adjetivo/sust.), semiseco
+- Latín: semi (mitad) + dulcis (dulce)

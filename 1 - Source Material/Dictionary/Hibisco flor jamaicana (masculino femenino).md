@@ -1,0 +1,7 @@
+- Hibisco / flor jamaicana (masculino/femenino) [iˈβisko / floɾ xamaˈikana]
+- Planta con flor roja usada en infusión
+- Hoa dâm bụt / hoa hibiscus
+- Hibiscus / Jamaican flower
+- El té de hibisco es muy refrescante.
+- No hay familia común
+- Griego / indígena caribeño

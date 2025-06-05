@@ -1,0 +1,7 @@
+- Overhauled	[ˌəʊvərˈhɔːld]	Verb (past tense)  
+- Completely changed or improved  
+- Đại tu, chỉnh sửa lớn  
+- überholt  
+- The website was overhauled to improve user experience.  
+- Overhaul (v, n): cải tiến lớn  
+- English origin – “haul over”

@@ -1,0 +1,7 @@
+- Amargor (masculino) [amaɾˈɣoɾ] Sustantivo
+- Sabor amargo
+- Vị đắng
+- Bitterness
+- El café tiene un poco de amargor.
+- Amargo (adjetivo): que tiene sabor fuerte
+- Latín: amarus

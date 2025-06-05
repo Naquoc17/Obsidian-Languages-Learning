@@ -1,0 +1,7 @@
+- Attracting	[əˈtræktɪŋ]	Verb (present participle)  
+- Drawing attention or interest  
+- Thu hút  
+- anziehend  
+- The colorful ad is attracting many new customers.  
+- Attract (v), Attraction (n): sự thu hút  
+- Latin “attrahere” – to draw toward

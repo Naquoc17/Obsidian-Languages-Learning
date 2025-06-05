@@ -1,0 +1,7 @@
+- Productivity	[ˌprɒdʌkˈtɪvəti]	Noun  
+- The rate at which work is done or products are made  
+- Năng suất  
+- Produktivität  
+- Training improved team productivity.  
+- Productive (adj): năng suất  
+- Latin “producere” – to bring forth

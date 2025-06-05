@@ -1,0 +1,6 @@
+- way of life	[weɪ əv laɪf]	noun phrase	
+- A lifestyle or manner of living.
+- cách sống
+- Lebensweise
+- The rural way of life is peaceful.
+- related phrase: way of thinking (cách suy nghĩ)

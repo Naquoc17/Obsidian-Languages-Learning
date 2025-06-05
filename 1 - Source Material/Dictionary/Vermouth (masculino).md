@@ -1,0 +1,7 @@
+- Vermouth (masculino) [beɾˈmuθ] Sustantivo
+- Bebida alcohólica aromatizada, con hierbas
+- Rượu vermouth
+- Vermouth
+- Me gusta tomar vermouth antes de la cena.
+- No hay familia directa común
+- Alemán: Wermut (ajenjo)

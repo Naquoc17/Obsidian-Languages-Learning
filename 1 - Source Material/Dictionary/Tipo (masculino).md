@@ -1,0 +1,7 @@
+- Tipo (masculino) [ˈtipo]
+- Clase o categoría
+- Loại
+- Type
+- ¿Qué tipo de vermouth prefieres?
+- Típico (adj.), tipificar (verbo)
+- Latín: typus

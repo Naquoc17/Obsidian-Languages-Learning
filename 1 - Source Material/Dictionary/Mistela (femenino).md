@@ -1,0 +1,7 @@
+- Mistela (femenino) [misˈtela] Sustantivo
+- Bebida dulce hecha con mosto y alcohol
+- Rượu nho ngọt
+- Mistelle (sweet wine)
+- La mistela es típica en fiestas españolas.
+- No tiene familia común
+- Latín: mixtus (mezclado)

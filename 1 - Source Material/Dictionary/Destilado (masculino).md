@@ -1,0 +1,7 @@
+- Destilado (masculino) [destiˈlaðo] Sustantivo
+- Bebida obtenida por destilación
+- Rượu chưng cất
+- Distilled drink
+- El ron es un destilado fuerte.
+- Destilar (verbo): separar por calor
+- Latín: destillare

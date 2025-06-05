@@ -1,0 +1,7 @@
+- Introductory	[ˌɪntrəˈdʌktəri]	Adjective  
+- Serving as an introduction or beginning  
+- Mở đầu, giới thiệu  
+- einführend  
+- This is an introductory course for new students.  
+- Introduce (v): giới thiệu; Introduction (n): sự giới thiệu  
+- Latin “introducere” – to lead in

@@ -1,0 +1,7 @@
+- Suscribiros (verbo reflexivo, informal - vosotros) [susˈkɾiβiɾos]
+- Registrarse / apuntarse (modo informal de "vosotros")
+- Đăng ký (các bạn)
+- Subscribe (you all - informal)
+- No olvidéis suscribiros al canal.
+- Suscribir (verbo), suscripción (sust.)
+- Latín: subscribere

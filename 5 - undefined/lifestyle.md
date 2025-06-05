@@ -1,0 +1,6 @@
+- lifestyle	[ˈlaɪf.staɪl]	noun	
+- The way a person lives.
+- lối sống
+- Lebensstil
+- He has a healthy lifestyle.
+- adjective: lifestyle-related (liên quan đến lối sống)

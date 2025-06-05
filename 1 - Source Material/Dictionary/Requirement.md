@@ -1,0 +1,7 @@
+- Requirement	[rɪˈkwaɪərmənt]	Noun  
+- Something that is necessary or demanded  
+- Yêu cầu, điều kiện  
+- Anforderung  
+- A passport is a requirement for international travel.  
+- Require (v): yêu cầu  
+- Latin “requirere” – to seek again

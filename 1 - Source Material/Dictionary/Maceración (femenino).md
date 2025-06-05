@@ -1,0 +1,7 @@
+- Maceración (femenino) [maθeɾaˈθjon] Sustantivo
+- Remojar algo para que suelte sabor
+- Ngâm (trong nước hay rượu)
+- Maceration
+- La maceración mejora el sabor del vermouth.
+- Macerar (verbo): dejar reposar en líquido
+- Latín: macerare

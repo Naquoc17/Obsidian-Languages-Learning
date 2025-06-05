@@ -1,0 +1,7 @@
+- Necesario (adjetivo) [neθeˈsaɾjo]
+- Que se necesita / importante
+- Cần thiết
+- Necessary
+- Es necesario dejar reposar el vermouth.
+- Necesidad (sust.), necesitar (verbo)
+- Latín: necessarius

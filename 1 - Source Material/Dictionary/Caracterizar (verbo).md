@@ -1,0 +1,7 @@
+- Caracterizar (verbo) [kaɾakteɾiˈθaɾ]
+- Dar características o definir algo
+- Đặc trưng / mô tả
+- To characterize
+- El vermouth se caracteriza por su sabor amargo.
+- Característica (sust.)
+- Griego: kharaktēr

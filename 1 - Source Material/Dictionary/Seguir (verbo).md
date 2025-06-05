@@ -1,0 +1,7 @@
+- Seguir (verbo) [seˈɣiɾ]
+- Continuar / también: suscribirse en redes sociales
+- Theo dõi
+- To follow
+- Puedes seguirnos en Instagram.
+- Seguimiento (sust.), seguidor (persona)
+- Latín: sequi

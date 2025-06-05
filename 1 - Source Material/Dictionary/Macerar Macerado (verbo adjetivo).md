@@ -1,0 +1,7 @@
+- Macerar / Macerado (verbo / adjetivo) [maseˈɾaɾ / maseˈɾaðo]
+- Dejar algo en líquido para que tome sabor
+- Ngâm (trong rượu hoặc nước) / Đã ngâm
+- To macerate / Macerated
+- Vamos a macerar las hierbas por 24 horas.
+- Maceración (sust.)
+- Latín: macerare

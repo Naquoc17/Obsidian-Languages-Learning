@@ -1,0 +1,7 @@
+- Pieles de limón deshidratadas [ˈpjeles de liˈmon desiðɾaˈtadas] Expresión
+- Cáscara seca del limón
+- Vỏ chanh sấy khô
+- Dehydrated lemon peels
+- Añade pieles de limón deshidratadas al vermouth.
+- Piel (sust.): skin, deshidratar (verbo): quitar agua
+- Latín: pellis + de- + hidratare

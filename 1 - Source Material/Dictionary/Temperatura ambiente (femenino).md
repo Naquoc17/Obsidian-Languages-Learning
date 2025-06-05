@@ -1,0 +1,7 @@
+- Temperatura ambiente (femenino) [tempeɾaˈtuɾa amˈbjente]
+- Temperatura natural del lugar (sin frío ni calor)
+- Nhiệt độ phòng
+- Room temperature
+- Guárdalo a temperatura ambiente.
+- Ambiente (sust.), templado (adj.)
+- Latín: temperatura + ambiens

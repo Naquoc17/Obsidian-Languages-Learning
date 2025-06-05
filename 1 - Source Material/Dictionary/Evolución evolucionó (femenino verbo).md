@@ -1,0 +1,7 @@
+- Evolución / evolucionó (femenino / verbo) [eβoluˈθjon / eβoluθjoˈno]
+- Cambio con el tiempo / cambió
+- Sự tiến hoá / đã tiến hoá
+- Evolution / evolved
+- El vermouth tuvo una evolución interesante.
+- Evolucionar (verbo), evolutivo (adj.)
+- Latín: evolutio

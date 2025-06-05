@@ -1,0 +1,7 @@
+- Personalidad (femenino) [peɾsonaˈliðað]
+- Forma de ser de alguien o algo
+- Tính cách / cá tính
+- Personality
+- El vino tiene mucha personalidad.
+- Persona (sust.), personal (adj.)
+- Latín: personalitas

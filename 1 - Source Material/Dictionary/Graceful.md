@@ -1,0 +1,7 @@
+- Graceful	[ˈɡreɪs.fəl]	Adjective  
+- Moving in a smooth, attractive, or controlled way  
+- Duyên dáng, thanh nhã  
+- anmutig  
+- She danced in a graceful and elegant style.  
+- Grace (n): vẻ duyên dáng  
+- Latin “gratia” – favor, charm

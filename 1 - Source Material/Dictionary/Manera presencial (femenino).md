@@ -1,0 +1,7 @@
+- Manera presencial (femenino) [maˈneɾa pɾesenˈθjal]
+- Forma de asistir en persona
+- Cách trực tiếp
+- In-person way
+- Prefiero estudiar de manera presencial.
+- Manera (forma), presencia
+- Latín: manus + forma

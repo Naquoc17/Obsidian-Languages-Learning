@@ -1,0 +1,7 @@
+- Madurar (verbo) [maðuˈɾaɾ]
+- Hacerse adulto o listo para usar
+- Chín / phát triển
+- To mature / ripen
+- La fruta necesita madurar.
+- Maduro (adj.), maduración (sust.)
+- Latín: maturare

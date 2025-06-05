@@ -1,0 +1,7 @@
+- Marketed toward	[ˈmɑːrkɪtɪd təˈwɔːrd]	Verb phrase  
+- Advertised or promoted to a specific group  
+- Tiếp thị nhắm đến  
+- vermarktet für  
+- The game was marketed toward teenagers.  
+- Market (v): tiếp thị; Toward: hướng đến  
+- Latin “mercatus” – trade

@@ -1,0 +1,7 @@
+- Ecológico (adjetivo) [ekoˈloxiko]
+- Bueno para el medio ambiente
+- Hữu cơ / sinh thái
+- Organic / Ecological
+- Prefiero vino ecológico.
+- Ecología (sust.), ecologista
+- Griego: oikos (casa) + logos (estudio)

@@ -1,0 +1,7 @@
+- Cucharada sopera (femenino) [kut͡ʃaˈɾaða soˈpeɾa]
+- Cantidad grande que cabe en una cuchara de sopa
+- Muỗng canh
+- Tablespoon
+- Añade una cucharada sopera de azúcar.
+- Cuchara (spoon), sopera (de sopa)
+- Latín: cochlear

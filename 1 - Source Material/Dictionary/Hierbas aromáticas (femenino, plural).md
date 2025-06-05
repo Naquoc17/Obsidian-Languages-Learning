@@ -1,0 +1,7 @@
+- Hierbas aromáticas (femenino, plural) [ˈjeɾβas aɾoˈmatikas]
+- Plantas con olor fuerte o agradable
+- Các loại thảo mộc thơm
+- Aromatic herbs
+- Las hierbas aromáticas mejoran el sabor.
+- Hierba (planta), aromáticas (que huelen bien)
+- Latín: herba + aroma

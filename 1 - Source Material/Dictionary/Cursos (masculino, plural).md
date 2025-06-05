@@ -1,0 +1,7 @@
+- Cursos (masculino, plural) [ˈkuɾsos]
+- Lecciones organizadas para aprender algo
+- Khóa học
+- Courses
+- Hay cursos presenciales de vermouth.
+- Cursar (verbo), curso escolar
+- Latín: cursus

@@ -1,0 +1,7 @@
+- Oversees	[ˌəʊvərˈsiːz]	Verb (present tense of oversee)  
+- Manages or supervises something  
+- Giám sát, trông coi  
+- beaufsichtigt  
+- He oversees operations in three countries.  
+- Oversee (v); Oversaw (past), Oversight (n)  
+- Old English “oferseon”

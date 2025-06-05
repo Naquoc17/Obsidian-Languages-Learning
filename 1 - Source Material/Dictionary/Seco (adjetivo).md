@@ -1,0 +1,7 @@
+- Seco (adjetivo) [ˈseko]
+- Sin azúcar o sin humedad
+- Khô / không ngọt
+- Dry (as in dry wine)
+- Prefiero un vermouth seco.
+- Secar (verbo), sequedad (sust.)
+- Latín: siccus

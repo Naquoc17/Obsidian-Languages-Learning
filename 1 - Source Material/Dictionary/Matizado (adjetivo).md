@@ -1,0 +1,7 @@
+- Matizado (adjetivo) [mat̪iˈθaðo]
+- Con detalles suaves de color o sabor
+- Có sắc thái nhẹ
+- Nuanced / Toned
+- El color del vino es matizado, no fuerte.
+- Matiz (sust.)
+- Español: matiz

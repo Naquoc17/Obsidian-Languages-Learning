@@ -1,0 +1,7 @@
+- Hipocrático (adjetivo) [ipoˈkɾatiko]
+- Relacionado con Hipócrates, médico de la antigua Grecia
+- (thuộc về) Hippocrates
+- Hippocratic
+- El vino hipocrático tiene hierbas medicinales.
+- Hipócrates (nombre propio)
+- Griego: Hippokrates

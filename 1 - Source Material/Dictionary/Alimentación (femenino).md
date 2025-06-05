@@ -1,0 +1,7 @@
+- Alimentación (femenino) [alimentaˈθjon] Sustantivo
+- Acción de comer o nutrirse
+- Sự ăn uống / dinh dưỡng
+- Nutrition / Diet
+- La alimentación saludable es importante.
+- Alimentar (verbo), alimento (sust.)
+- Latín: alimentatio

@@ -1,0 +1,7 @@
+- Nevera (femenino) [neˈβeɾa]
+- Lugar frío donde se guarda la comida
+- Tủ lạnh
+- Fridge / Refrigerator
+- Guarda el vermouth en la nevera.
+- Frío (adj.)
+- Latín: nivarium (de nix = nieve)

@@ -1,0 +1,7 @@
+- Menta piperita (femenino) [ˈmenta pipeˈɾita] Sustantivo
+- Tipo de planta de sabor fresco
+- Bạc hà cay
+- Peppermint
+- La menta piperita da frescura a la bebida.
+- Menta (planta), piperita (variedad)
+- Latín: mentha piperita

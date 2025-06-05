@@ -1,0 +1,7 @@
+- Elaboración (femenino) [elaboɾaˈθjon]
+- Proceso de hacer algo, como una bebida o comida
+- Sự chế biến
+- Production / Making
+- La elaboración del vermouth es artesanal.
+- Elaborar (verbo)
+- Latín: elaboratio

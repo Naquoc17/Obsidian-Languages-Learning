@@ -1,0 +1,7 @@
+- Oversaw	[ˌəʊvərˈsɔː]	Verb (past tense of oversee)  
+- Supervised or managed  
+- Giám sát, trông coi  
+- überwachte  
+- She oversaw the whole project from start to finish.  
+- Oversee (v): giám sát; Oversees (present)  
+- Old English “oferseon” – to look over

@@ -1,0 +1,7 @@
+- Instagram (nombre propio) [ˈinstaɣɾam]
+- Red social para fotos y vídeos
+- Instagram
+- Instagram
+- Síguenos en Instagram para más recetas.
+- Cuenta de Instagram, publicación
+- Inglés: instant + telegram
