@@ -20,7 +20,7 @@ Văn hóa ở thành phố rất *[[diverse]]*, bạn có thể thấy người 
 
 Ban đầu, tôi *[[ignore]]* những khác biệt về *[[culture]]* vì nghĩ rằng mình sẽ sớm quen. Nhưng theo thời gian, tôi nhận ra điều đó đã *[[influence]]* mạnh đến suy nghĩ và hành vi của mình. 
 
-Thành phố có nhiều công viên, hồ nước và cây xanh – những *[[feature]]* quan trọng trong việc cải thiện *[[environment]]* sống. Tuy nhiên, không phải ai cũng có thể *[[5 - undefined/consume|consume]]* không khí trong lành nếu họ sống gần khu *industrial*.
+Thành phố có nhiều công viên, hồ nước và cây xanh – những *[[feature]]* quan trọng trong việc cải thiện *[[environment]]* sống. Tuy nhiên, không phải ai cũng có thể *[[consume 1|consume 1]]* không khí trong lành nếu họ sống gần khu *industrial*.
 
 Tôi bắt đầu ghi chép, sử dụng các phương pháp *[[measurement]]* để đánh giá mức độ hài lòng của người dân. Những người có *[[income]]* cao thường đánh giá chất lượng sống tốt hơn, trong khi người có thu nhập thấp lại cảm thấy thiếu thốn nhiều thứ.
 
