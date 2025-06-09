@@ -16,6 +16,7 @@ Tags: [[]]
 - [[Essential Words for The IETLS]]
 - [[The Official Cambridge Guide to IELTS for Academic & General Training]]
 - [[An Official Cambridge Ielts Course - Mindset for Ielts]]
+- [[Listening and notetaking - Skill 1]]
 
 ## Courses
 

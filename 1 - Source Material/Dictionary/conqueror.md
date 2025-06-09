@@ -1,0 +1,6 @@
+- conqueror	[ˈkɒŋ.kər.ər]	noun
+- A person who takes control of a place by force
+- Người chinh phục
+- Eroberer
+- He was known as a great conqueror of Europe.
+- conquer (chinh phục)	Latin: *conquirere*

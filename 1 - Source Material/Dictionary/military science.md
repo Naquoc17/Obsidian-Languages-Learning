@@ -1,0 +1,6 @@
+- military science	[ˈmɪl.ɪ.tər.i ˈsaɪəns]	noun phrase
+- The study of techniques and strategies used in warfare
+- Khoa học quân sự
+- Militärwissenschaft
+- He studied military science in school.
+- science (khoa học), military (quân sự)	Latin: *scientia*, *militarius*

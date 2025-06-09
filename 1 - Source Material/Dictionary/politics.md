@@ -1,0 +1,6 @@
+- politics	[ˈpɒl.ə.tɪks]	noun
+- The activities related to governing a country
+- Chính trị
+- Politik
+- He decided to leave the army and enter politics.
+- politician (chính trị gia)	Greek: *politikos*

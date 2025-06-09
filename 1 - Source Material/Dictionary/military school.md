@@ -1,0 +1,6 @@
+- military school	[ˈmɪl.ə.ter.i skuːl]	noun
+- A school where students are trained in military subjects and discipline
+- Trường quân sự
+- Militärschule (German)
+- He enrolled in a military school at the age of 10.
+- military (quân sự), school (trường học)	Latin: *militarius*, *schola*

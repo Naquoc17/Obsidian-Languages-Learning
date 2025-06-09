@@ -1,0 +1,6 @@
+- campaign	[kæmˈpeɪn]	noun
+- A series of military actions with a goal
+- Chiến dịch
+- Feldzug
+- The military campaign lasted for months.
+- campaigner (người tham gia chiến dịch)	Latin: *campus* (field)

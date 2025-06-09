@@ -1,0 +1,6 @@
+- defeated	[dɪˈfiː.tɪd]	verb (past tense of "defeat")
+- To win against someone in a fight or competition
+- Đánh bại
+- besiegt
+- They defeated the enemy in the final battle.
+- defeat (sự thất bại)	Latin: *disfacere*

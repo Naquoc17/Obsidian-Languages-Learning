@@ -1,0 +1,6 @@
+- riches	[ˈrɪtʃ.ɪz]	noun (plural)
+- Wealth or valuable things
+- Sự giàu có
+- Reichtümer
+- He dreamed of power and riches.
+- rich (giàu có)	Old English: *rice*

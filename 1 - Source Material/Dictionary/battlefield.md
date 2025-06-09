@@ -1,0 +1,6 @@
+- battlefield	[ˈbæt.əl.fiːld]	noun
+- A place where a battle is fought
+- Chiến trường
+- Schlachtfeld
+- The soldiers marched onto the battlefield.
+- battle (trận chiến), field (cánh đồng)	Old English: *batail*

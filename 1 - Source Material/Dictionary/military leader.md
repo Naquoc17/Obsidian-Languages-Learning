@@ -1,0 +1,6 @@
+- military leader	[ˈmɪl.ɪ.tər.i ˈliː.dər]	noun phrase
+- A person who commands or directs soldiers or military operations
+- Lãnh đạo quân sự
+- Militärführer
+- Napoleon was a brilliant military leader.
+- military (quân sự), leader (người lãnh đạo)	Latin: *militarius*, *ducere*

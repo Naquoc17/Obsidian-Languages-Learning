@@ -1,0 +1,6 @@
+- joined the French army	[dʒɔɪnd ðə frentʃ ˈɑː.mi]	verb phrase
+- Became a member of France’s military
+- Gia nhập quân đội Pháp
+- trat der französischen Armee bei
+- He joined the French army at 16.
+- join (tham gia), army (quân đội)	Latin: *iungere*

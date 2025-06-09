@@ -1,0 +1,6 @@
+- defeat	[dɪˈfiːt]	noun
+- The act of losing a battle or contest
+- Sự thất bại
+- Niederlage
+- His final defeat came at Waterloo.
+- defeat (đánh bại)	Latin: *disfacere*

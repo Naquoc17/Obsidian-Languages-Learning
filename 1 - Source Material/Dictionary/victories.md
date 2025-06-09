@@ -1,0 +1,6 @@
+- victories	[ˈvɪk.tər.iz]	noun (plural of "victory")
+- Success in battles or competitions
+- Những chiến thắng
+- Siege
+- He had many victories in Europe.
+- victorious (chiến thắng)	Latin: *victoria*

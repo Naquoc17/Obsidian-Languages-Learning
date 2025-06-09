@@ -1,0 +1,6 @@
+- emperor	[ˈem.pər.ər]	noun
+- A male ruler of an empire
+- Hoàng đế
+- Kaiser
+- Napoleon was crowned emperor in 1804.
+- empire (đế chế)	Latin: *imperator*

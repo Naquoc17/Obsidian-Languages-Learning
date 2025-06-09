@@ -1,0 +1,6 @@
+- fiercely	[ˈfɪəs.li]	adverb
+- In a strong, aggressive, or violent way
+- Dữ dội, quyết liệt
+- heftig
+- They fought fiercely to protect their homeland.
+- fierce (dữ dội)	Latin: *ferus* (wild)

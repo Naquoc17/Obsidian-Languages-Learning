@@ -1,0 +1,6 @@
+- power	[ˈpaʊər]	noun
+- The ability to control or influence people or things
+- Quyền lực
+- Macht
+- He rose to power quickly.
+- powerful (mạnh mẽ)	Latin: *potere*

@@ -1,0 +1,6 @@
+- army	[ˈɑː.mi]	noun
+- A large organized group of soldiers
+- Quân đội
+- Armee
+- He joined the army when he was 18.
+- armed (vũ trang), arm (vũ khí)	Latin: *armata*

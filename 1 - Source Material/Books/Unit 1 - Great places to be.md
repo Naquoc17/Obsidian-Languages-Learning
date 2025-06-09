@@ -38,8 +38,7 @@ But what makes one city friendlier than another? The psychologists from Californ
 They carried out a study into the way [[local|locals]]  treated strangers in 23 cities around the world. The team conducted their research through a series of tests, where they dropped pens or pretended they were blind and needed help crossing the street.
 
 The study concludes that people are more helpful in cities with a more **relaxed way of life** such as Rio. While they were there, researchers received help in 93 percent of cases, and the percentage in Lilongwe was only a little lower. However, richer cities such as Amsterdam and New York are considered the least friendly. Inhabitants of Amsterdam helped the researchers in 53 percent of cases and in New York just **44 percent**. The psychologists found that, in these cities, people tend to be **short of time**, so they hurry and often **ignore** strangers.
-
-
+### The happiest country in the world
 
 
 

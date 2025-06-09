@@ -1,0 +1,6 @@
+- deserted	[dɪˈzɜː.tɪd]	verb (past tense of "desert")
+- Left alone or abandoned
+- Bị bỏ rơi, bị bỏ trốn
+- verlassen
+- He was deserted by his closest allies.
+- desertion (sự đào ngũ)	Latin: *deserere*
