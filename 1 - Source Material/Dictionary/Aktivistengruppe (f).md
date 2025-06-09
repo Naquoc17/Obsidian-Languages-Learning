@@ -1,0 +1,7 @@
+- Aktivistengruppe (f)	[aktiviˈstɛnɡʁʊpə]	Noun
+- Eine Gruppe von Menschen, die sich aktiv für eine politische oder soziale Sache einsetzen
+- nhóm nhà hoạt động
+- group of activists
+- Die Aktivistengruppe protestierte gegen die Entscheidung.
+- der Aktivist (m) – activist, die Gruppe (f) – group	
+- Latin root: activus (lateinisch: tätig)

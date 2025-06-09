@@ -1,0 +1,7 @@
+- entbrannt	[ɛntˈbʁant]	Verb (Partizip II von „entbrennen“)
+- heftig ausgebrochen (z. B. ein Streit oder Konflikt)
+- bùng phát
+- flared up / erupted
+- Nach dem Angriff entbrannte ein neuer Krieg.
+- entbrennen – to ignite, flare up	
+- Latin root: brennen – ursprünglich germanisch

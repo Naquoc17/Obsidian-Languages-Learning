@@ -1,0 +1,7 @@
+- Oberhand behalten	[ˈoːbɐˌhant bəˈhaltn̩]	Phrase
+- Die Kontrolle behalten oder gewinnen
+- giữ thế thượng phong
+- maintain the upper hand
+- Israel konnte die Oberhand behalten.
+- die Oberhand – upper hand, behalten – to keep	
+- Latin root: manus, tenere

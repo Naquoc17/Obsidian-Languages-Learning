@@ -1,0 +1,7 @@
+- jüdischer Staat (m)	[ˈjyːdɪʃɐ ʃtaːt]	Noun Phrase
+- Staat, in dem das Judentum zentrale Rolle spielt (meist Israel)
+- quốc gia Do Thái
+- Jewish state
+- Israel wird als jüdischer Staat bezeichnet.
+- jüdisch – Jewish, der Staat – state	
+- Latin root: iudaeus (lat.), status

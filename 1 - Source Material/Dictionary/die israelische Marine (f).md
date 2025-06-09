@@ -1,0 +1,7 @@
+- die israelische Marine (f)	[ˌɪzʁaˈeːlɪʃə maˈʁiːnə]	Noun Phrase
+- Marine Israels, also die Kriegsschiffe und Seeleute eines Staates
+- lực lượng hải quân Israel
+- Israeli navy
+- Die israelische Marine hat das Schiff abgefangen.
+- die Marine (f) – navy, israelisch (adj) – Israeli	
+- Latin root: marinus (lateinisch: das Meer betreffend)

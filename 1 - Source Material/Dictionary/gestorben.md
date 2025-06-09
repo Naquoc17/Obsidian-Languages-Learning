@@ -1,0 +1,7 @@
+- gestorben	[ɡəˈʃtɔʁbn̩]	Verb (Partizip II von „sterben“)
+- Das Leben verloren haben
+- đã chết
+- died
+- Viele Menschen sind bei dem Angriff gestorben.
+- sterben – to die	
+- Latin root: stirps (Wurzel, Ursprung – später metaphorisch für Tod)

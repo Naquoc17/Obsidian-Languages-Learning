@@ -1,0 +1,7 @@
+- komplexer Konflikt (m)	[kɔmˈplɛksɐ kɔnˈflɪkt]	Noun Phrase
+- Ein vielschichtiger Streit mit verschiedenen Ursachen
+- cuộc xung đột phức tạp
+- complex conflict
+- Der Nahostkonflikt ist ein komplexer Konflikt mit langer Geschichte.
+- komplex – complex, der Konflikt – conflict	
+- Latin root: complexus – verwoben

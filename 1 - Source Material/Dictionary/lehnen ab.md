@@ -1,0 +1,7 @@
+- lehnen ab	[ˈleːnən ap]	Verb (Präsens)
+- Etwas nicht akzeptieren
+- từ chối
+- reject
+- Die Palästinenser lehnen den Plan ab.
+- ablehnen – to reject	
+- Latin root: inclinare

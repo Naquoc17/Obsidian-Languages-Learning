@@ -55,10 +55,11 @@ Tags:
 #### Felix Sturm
 - [[Boxing for Beginners. Ich bringe euch Boxen bei.. - Episode 1]]
 
+#### WELT
+- [[KRIEG IN GAZA - Israel stoppt Schiff von Greta Thunberg! Hilfsgüter werden verteilt]]
 
-
-
-
+#### explainity ® Erklärvideos
+- [[Israel-Palästina-Konflikt einfach erklärt (explainity® Erklärvideo)]]
 
 
 

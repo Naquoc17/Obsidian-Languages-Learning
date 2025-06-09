@@ -1,0 +1,7 @@
+- Krieg erklärt	[kʁiːk ɛɐ̯ˈklɛːʁt]	Verb Phrase
+- Einen Krieg offiziell beginnen
+- tuyên chiến
+- to declare war
+- Das Land erklärte dem Nachbarn den Krieg.
+- der Krieg – war, erklären – to declare	
+- Latin root: declarare

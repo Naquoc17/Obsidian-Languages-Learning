@@ -1,0 +1,7 @@
+- etablierten Hilfswege (pl)	[etabliˈɐ̯tən ˈhɪlfsˌveːɡə]	Noun Phrase
+- bereits bestehende, organisierte Wege zur Lieferung von Hilfe
+- các tuyến hỗ trợ đã được thiết lập
+- established aid routes
+- Die Hilfsgüter sollen über etablierte Hilfswege geliefert werden.
+- etablieren – to establish, der Weg (m) – path/route	
+- Latin root: stabilire (lat. festigen)

@@ -1,0 +1,7 @@
+- Terrororganisation (f)	[ˈtɛʁoʁɔʁɡaniˌzaːt͡si̯oːn]	Noun
+- Eine Gruppe, die durch Gewalt politische Ziele durchsetzen will
+- tổ chức khủng bố
+- terrorist organization
+- Die Gruppe gilt international als Terrororganisation.
+- der Terror (m) – terror, die Organisation (f) – organization	
+- Latin root: terror (Schrecken), organizare

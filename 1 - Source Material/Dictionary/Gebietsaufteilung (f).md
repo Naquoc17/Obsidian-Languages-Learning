@@ -1,0 +1,7 @@
+- Gebietsaufteilung (f)	[ɡəˈbiːtsˌʔaʊ̯ftaɪ̯lʊŋ]	Noun
+- Aufteilung eines Landes oder Territoriums
+- phân chia lãnh thổ
+- territorial division
+- Die Gebietsaufteilung wurde nicht akzeptiert.
+- das Gebiet – territory, die Aufteilung – division	
+- Latin root: territorium, dividere

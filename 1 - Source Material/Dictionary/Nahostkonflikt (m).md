@@ -1,0 +1,7 @@
+- Nahostkonflikt (m)	[naːˈʔɔstkɔnflɪkt]	Noun
+- Der andauernde politische und militärische Konflikt im Nahen Osten
+- xung đột Trung Đông
+- Middle East conflict
+- Der Nahostkonflikt dauert bereits Jahrzehnte.
+- der Konflikt (m) – conflict, Nahost – Middle East	
+- Latin root: conflictus (Zusammenstoß)

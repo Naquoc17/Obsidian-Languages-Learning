@@ -1,0 +1,7 @@
+- versorgt worden	[fɛɐ̯ˈzɔʁkt ˈvɔʁdn̩]	Verb Phrase (Partizip Perfekt + worden)
+- wurde mit etwas Nötigem beliefert (z. B. Essen, Medizin)
+- đã được cung cấp, chăm sóc
+- was supplied / taken care of
+- Die Passagiere sind medizinisch versorgt worden.
+- versorgen – to supply / take care of	
+- Latin root: sors (lat. Versorgung)

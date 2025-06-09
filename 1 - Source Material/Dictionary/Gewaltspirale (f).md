@@ -1,0 +1,7 @@
+- Gewaltspirale (f)	[ɡəˈvaltʃpiˌʁaːlə]	Noun
+- Sich ständig steigernde Gewalt
+- vòng xoáy bạo lực
+- spiral of violence
+- Der Konflikt führte zu einer Gewaltspirale.
+- die Gewalt – violence, die Spirale – spiral	
+- Latin root: vis, spira

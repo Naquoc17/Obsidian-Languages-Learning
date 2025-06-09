@@ -1,0 +1,7 @@
+- religiöse Bedeutung (f)	[ʁeliˈɡiøːzə bəˈdɔɪ̯tʊŋ]	Noun Phrase
+- Spirituelle Wichtigkeit
+- ý nghĩa tôn giáo
+- religious significance
+- Jerusalem hat religiöse Bedeutung für mehrere Religionen.
+- religiös – religious, Bedeutung – meaning	
+- Latin root: religio

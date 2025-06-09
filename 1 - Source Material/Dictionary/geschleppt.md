@@ -1,0 +1,7 @@
+- geschleppt	[ɡəˈʃlɛpt]	Verb (Partizip II von „schleppen“)
+- gezogen oder transportiert, oft mit Mühe
+- bị kéo đi
+- towed / dragged
+- Das Boot wurde in den Hafen geschleppt.
+- schleppen – to drag, tow	
+- Latin root: schleppen (germanisch Ursprung)

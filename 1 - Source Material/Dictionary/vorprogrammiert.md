@@ -1,0 +1,7 @@
+- vorprogrammiert	[ˈfoːɐ̯pʁoˌɡʁaːmiːɐ̯t]	Adjective
+- vorhersehbar, fast unausweichlich
+- được định trước
+- preprogrammed / inevitable
+- Der Konflikt war fast vorprogrammiert.
+- programmieren – to program	
+- Latin root: programma

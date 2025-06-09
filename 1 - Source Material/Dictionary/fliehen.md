@@ -1,0 +1,7 @@
+- fliehen	[ˈfliːən]	Verb
+- Aus Angst oder Gefahr flüchten
+- chạy trốn
+- to flee
+- Tausende mussten vor dem Krieg fliehen.
+- die Flucht – escape	
+- Latin root: fugere

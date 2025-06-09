@@ -1,0 +1,7 @@
+- gestoppt	[ɡəˈʃtɔpt]	Verb (Partizip II von „stoppen“)
+- angehalten, zum Stillstand gebracht
+- bị dừng lại
+- stopped
+- Das Schiff wurde von der Marine gestoppt.
+- stoppen – to stop	
+- Latin root: stoppare (italienisch, ursprünglich)

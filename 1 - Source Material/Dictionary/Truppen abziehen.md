@@ -1,0 +1,7 @@
+- Truppen abziehen	[ˈtʁʊpn̩ ˈapˌt͡siːən]	Verb Phrase
+- Soldaten aus einem Gebiet zurücknehmen
+- rút quân
+- to withdraw troops
+- Die Armee musste ihre Truppen abziehen.
+- die Truppe – troop, abziehen – to withdraw	
+- Latin root: trahere (ziehen)

@@ -1,0 +1,7 @@
+- Hilfsgüter (pl)	[ˈhɪlfsˌɡyːtɐ]	Noun (Plural)
+- Waren wie Nahrung, Medizin etc. zur Unterstützung in Notlagen
+- hàng cứu trợ
+- aid supplies / relief goods
+- Die Hilfsgüter wurden an die Grenze gebracht.
+- die Hilfe (f) – help, das Gut (n) – good(s)	
+- Latin root: adiuvare (lat. helfen)

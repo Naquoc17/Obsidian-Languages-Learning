@@ -1,0 +1,7 @@
+- Einwanderungszahlen (pl)	[ˈaɪ̯nvandəʁʊŋsˌtsaːlən]	Noun
+- Anzahl der Personen, die in ein Land ziehen
+- số lượng người nhập cư
+- immigration numbers
+- Die Einwanderungszahlen sind stark gestiegen.
+- die Einwanderung – immigration, die Zahl – number	
+- Latin root: migratio, numerus

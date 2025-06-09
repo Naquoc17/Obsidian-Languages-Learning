@@ -1,0 +1,7 @@
+- Passagiere (pl)	[ˌpasaˈʒiːʁə]	Noun (Plural)
+- Personen, die mit einem Fahrzeug reisen
+- hành khách
+- passengers
+- Die Passagiere wurden sicher evakuiert.
+- der Passagier (m) – passenger	
+- Latin root: passus (lat. „Schritt“, „Reise“)
