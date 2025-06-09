@@ -1,0 +1,7 @@
+- Siedlungsbau (m)	[ˈziːdlʊŋsˌbaʊ̯]	Noun
+- Errichtung neuer Wohngebiete, besonders in umstrittenen Regionen
+- xây dựng khu định cư
+- settlement construction
+- Der Siedlungsbau wurde von der UN kritisiert.
+- die Siedlung – settlement, der Bau – construction	
+- Latin root: sedere

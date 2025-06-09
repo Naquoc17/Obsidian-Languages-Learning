@@ -1,0 +1,7 @@
+- so wörtlich	[zoː ˈvœʁtlɪç]	Phrase
+- exakt so gesagt, direkt zitiert
+- nguyên văn
+- literally (quoted)
+- Er sagte – so wörtlich – „Wir brauchen Frieden.“
+- wörtlich – literal(ly), so – like that	
+- Latin root: verbum (lateinisch: Wort)

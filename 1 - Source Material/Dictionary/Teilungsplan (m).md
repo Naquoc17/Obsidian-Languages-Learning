@@ -1,0 +1,7 @@
+- Teilungsplan (m)	[ˈtaɪ̯lʊŋsˌplaːn]	Noun
+- Plan zur Aufteilung eines Landes oder Gebiets
+- kế hoạch chia cắt
+- partition plan
+- Der UN-Teilungsplan wurde 1947 vorgeschlagen.
+- die Teilung – division, der Plan – plan	
+- Latin root: dividere, planus

@@ -1,0 +1,7 @@
+- Rückkehrrecht (n)	[ˈʁʏkˌkeːɐ̯ʁɛçt]	Noun
+- Recht, in das Heimatland zurückzukehren
+- quyền trở về
+- right of return
+- Viele fordern ein Rückkehrrecht für Flüchtlinge.
+- Rückkehr – return, das Recht – right	
+- Latin root: re + rectus

@@ -1,0 +1,7 @@
+- Streitpunkte (pl)	[ˈʃtʁaɪ̯tpʊŋktə]	Noun
+- Themen, über die gestritten wird
+- điểm tranh chấp
+- points of dispute
+- Jerusalem ist einer der wichtigsten Streitpunkte.
+- der Streit – argument, der Punkt – point	
+- Latin root: punctum

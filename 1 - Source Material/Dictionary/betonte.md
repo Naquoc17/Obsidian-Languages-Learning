@@ -1,0 +1,7 @@
+- betonte	[bəˈtoːntə]	Verb (Präteritum von „betonen“)
+- hob hervor, sagte ausdrücklich
+- nhấn mạnh
+- emphasized
+- Der Sprecher betonte die Wichtigkeit der Hilfe.
+- betonen – to emphasize	
+- Latin root: tonus (griech. tonos – Spannung, Klang)

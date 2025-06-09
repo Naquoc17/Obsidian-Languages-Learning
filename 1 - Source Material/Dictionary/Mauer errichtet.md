@@ -1,0 +1,7 @@
+- Mauer errichtet	[ˈmaʊ̯ɐ ɛʁˈʁɪçtət]	Verb Phrase
+- Eine Trennwand gebaut
+- xây tường
+- built a wall
+- Die Regierung hat eine Mauer errichtet.
+- die Mauer – wall, errichten – to build	
+- Latin root: murus, erigere

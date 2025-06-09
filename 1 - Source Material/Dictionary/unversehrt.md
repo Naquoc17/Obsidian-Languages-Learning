@@ -1,0 +1,7 @@
+- unversehrt	[ˈʊnfɛʁzeːɐ̯t]	Adjective
+- ohne Verletzungen oder Schäden
+- không bị thương
+- unharmed / intact
+- Die Crew blieb unversehrt.
+- versehrt – injured (gegenteil: unversehrt)	
+- Latin root: serus (lateinisch: ganz, heil)

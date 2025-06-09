@@ -1,0 +1,7 @@
+- unterstützen	[ʊntɐˈʃtʏt͡sn̩]	Verb
+- Helfen oder fördern
+- hỗ trợ
+- to support
+- Viele Staaten unterstützen die Friedensverhandlungen.
+- die Unterstützung – support	
+- Latin root: sustinere

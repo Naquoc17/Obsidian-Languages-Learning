@@ -1,0 +1,7 @@
+- verfolgt und vertrieben	[fɛɐ̯ˈfɔlkt ʊnt fɛɐ̯ˈtʁiːbn̩]	Verb Phrase
+- Aus politischen oder religiösen Gründen unterdrückt und gezwungen zu fliehen
+- bị truy đuổi và trục xuất
+- persecuted and displaced
+- Viele wurden während des Krieges verfolgt und vertrieben.
+- verfolgen – to persecute, vertreiben – to expel	
+- Latin root: persequi, tribuere

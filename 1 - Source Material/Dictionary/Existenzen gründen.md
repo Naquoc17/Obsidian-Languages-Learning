@@ -1,0 +1,7 @@
+- Existenzen gründen	[ɛɡˈzɪstɛnt͡sən ˈɡʁʏndn̩]	Verb Phrase
+- Sich ein wirtschaftliches Leben aufbauen
+- xây dựng cuộc sống
+- to establish livelihoods
+- Viele wollten dort neue Existenzen gründen.
+- die Existenz – existence/livelihood, gründen – to found	
+- Latin root: existere, fundare

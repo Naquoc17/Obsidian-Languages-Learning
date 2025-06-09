@@ -1,0 +1,7 @@
+- gesiedelt hatten	[ɡəˈziːdl̩t ˈhatn̩]	Verb Phrase
+- Früher in einem Gebiet gelebt haben
+- đã sinh sống
+- had settled
+- Viele Menschen hatten dort schon lange gesiedelt.
+- siedeln – to settle	
+- Latin root: sedere – sitzen

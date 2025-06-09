@@ -1,0 +1,7 @@
+- ursprünglich zugesprochen	[ˈʊʁʃpʁʊŋlɪç ˈt͡suːɡəʃpʁoːxən]	Phrase
+- Anfangs offiziell zugewiesen
+- được giao ban đầu
+- originally assigned
+- Das Gebiet wurde ursprünglich einem anderen Volk zugesprochen.
+- ursprünglich – originally, zusprechen – to assign	
+- Latin root: primus, attribuere

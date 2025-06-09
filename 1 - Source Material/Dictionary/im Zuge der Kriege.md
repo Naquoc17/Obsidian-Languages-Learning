@@ -1,0 +1,7 @@
+- im Zuge der Kriege	[ɪm ˈt͡suːɡə deːɐ̯ ˈkʁiːɡə]	Prepositional Phrase
+- Während der Kriege
+- trong quá trình chiến tranh
+- in the course of the wars
+- Viele Menschen flohen im Zuge der Kriege.
+- der Zug – course, der Krieg – war	
+- Latin root: cursum, bellum

@@ -1,0 +1,7 @@
+- Aufmerksamkeit zu erregen	[ˈaʊ̯fmeʁkzaːmkaɪ̯t tsuː ɛɐ̯ˈʁeːɡn̩]	Verb Phrase
+- dafür sorgen, dass jemand etwas bemerkt
+- thu hút sự chú ý
+- to attract attention
+- Die Gruppe wollte Aufmerksamkeit zu erregen.
+- die Aufmerksamkeit (f) – attention, erregen – to attract/stir	
+- Latin root: ad (zu) + mergere (tauchen)

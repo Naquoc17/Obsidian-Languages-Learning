@@ -1,0 +1,7 @@
+- Bevölkerung fühlt sich vertrieben	[bəˈfœlkəʁʊŋ fyːlt zɪç fɛɐ̯ˈtʁiːbn̩]	Phrase
+- Die Menschen glauben, sie wurden aus ihrer Heimat gedrängt
+- người dân cảm thấy bị trục xuất
+- population feels displaced
+- Die Bevölkerung fühlt sich vom eigenen Land vertrieben.
+- die Bevölkerung – population, vertreiben – to expel	
+- Latin root: populus, tribuere

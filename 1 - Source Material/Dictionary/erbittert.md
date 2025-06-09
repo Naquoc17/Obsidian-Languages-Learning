@@ -1,0 +1,7 @@
+- erbittert	[ɛɐ̯ˈbɪtɐt]	Adjective
+- Sehr hart, voller Wut oder Feindseligkeit
+- cay đắng, dữ dội
+- bitter / fierce
+- Es kam zu erbitterten Kämpfen.
+- bitter – bitter, erbittert – fiercely	
+- Latin root: amarus
