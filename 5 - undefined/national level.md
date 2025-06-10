@@ -1,0 +1,6 @@
+- national level	[ˈnæʃ.nəl ˈlev.əl]	noun phrase
+- The scale of an entire country
+- Cấp quốc gia
+- nationale Ebene
+- These policies work on a national level.
+- nation (quốc gia), level (mức độ)	Latin: *natio*, *libella*

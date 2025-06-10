@@ -1,0 +1,6 @@
+- three measurements	[θriː ˈmeʒ.ə.mənts]	noun phrase
+- Three ways to measure or evaluate something
+- Ba tiêu chí đo lường
+- drei Messgrößen
+- The index uses three measurements to rate countries.
+- measure (đo lường)	Latin: *mensurare*

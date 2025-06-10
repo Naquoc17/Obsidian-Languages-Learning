@@ -1,0 +1,6 @@
+- surrounded by	[səˈraʊn.dɪd baɪ]	verb phrase (past participle)
+- Enclosed or encircled on all sides
+- Bị bao quanh bởi
+- umgeben von
+- The city is surrounded by mountains.
+- surround (bao quanh), by (bởi)	Latin: *superundare*

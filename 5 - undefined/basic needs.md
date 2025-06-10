@@ -1,0 +1,6 @@
+- basic needs	[ˈbeɪ.sɪk niːdz]	noun phrase
+- Essential things people need to live: food, shelter, health, etc.
+- Nhu cầu cơ bản
+- Grundbedürfnisse
+- The government tries to meet basic needs for all.
+- basic (cơ bản), need (nhu cầu)	Latin: *basis*, *necare*

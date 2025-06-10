@@ -1,0 +1,6 @@
+- mid-income country	[mɪd ˈɪn.kʌm ˈkʌn.tri]	noun phrase
+- A country with an average level of income
+- Quốc gia có thu nhập trung bình
+- Land mit mittlerem Einkommen
+- Costa Rica is a mid-income country with high life satisfaction.
+- middle (trung bình), income (thu nhập)	Latin: *medius*, *redditus*

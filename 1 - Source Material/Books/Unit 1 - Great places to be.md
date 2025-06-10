@@ -39,6 +39,38 @@ They carried out a study into the way [[local|locals]]  treated strangers in 23 
 
 The study concludes that people are more helpful in cities with a more **relaxed way of life** such as Rio. While they were there, researchers received help in 93 percent of cases, and the percentage in Lilongwe was only a little lower. However, richer cities such as Amsterdam and New York are considered the least friendly. Inhabitants of Amsterdam helped the researchers in 53 percent of cases and in New York just **44 percent**. The psychologists found that, in these cities, people tend to be **short of time**, so they hurry and often **ignore** strangers.
 ### The happiest country in the world
+Children growing up in Costa Rica are [[surrounded by]] some of the most beautiful and [[diverse landscapes]] in the world.  
+Trẻ em lớn lên ở Costa Rica được bao quanh bởi một số phong cảnh đẹp và đa dạng nhất thế giới.
+
+[[preserving tropical rainforests]] isn’t Costa Rica’s only success, because the government also makes sure everyone has [[access to health-care and education]].  
+Việc bảo tồn rừng mưa nhiệt đới không phải là thành công duy nhất của Costa Rica, vì chính phủ cũng đảm bảo rằng mọi người đều được tiếp cận với y tế và giáo dục.
+
+So when the New Economics Foundation released its second Happy Planet Index, Costa Rica came out number one.  
+Vì vậy, khi Tổ chức Kinh tế Mới công bố Chỉ số Hành tinh Hạnh phúc lần thứ hai, Costa Rica đứng đầu bảng xếp hạng.
+
+The index is a [[ranking of countries]] based on their impact on the environment and the health and happiness of their citizens.  
+Chỉ số này là bảng xếp hạng các quốc gia dựa trên tác động đến môi trường cũng như sức khỏe và hạnh phúc của người dân.
+
+According to Mariano Rojas, a Costa Rican economics professor, Costa Rica is a [[mid-income country]] where citizens have plenty of time for themselves and for their relationships with others.  
+Theo Mariano Rojas, một giáo sư kinh tế người Costa Rica, Costa Rica là một quốc gia có thu nhập trung bình, nơi người dân có nhiều thời gian cho bản thân và cho các mối quan hệ với người khác.
+
+‘A mid-income level allows most citizens to satisfy their [[basic needs]].’  
+‘Mức thu nhập trung bình cho phép phần lớn người dân đáp ứng các nhu cầu cơ bản của họ.’
+
+The government makes sure that all Costa Ricans have [[access to health-care and education|access to education, health]]  and nutrition services.’  
+Chính phủ đảm bảo rằng tất cả người dân Costa Rica được tiếp cận với giáo dục, y tế và các dịch vụ dinh dưỡng.’
+
+Costa Ricans, he believes, are not interested in status or spending money to show how successful they are.  
+Ông tin rằng người dân Costa Rica không quan tâm đến địa vị hay việc tiêu tiền để thể hiện sự thành công của mình.
+
+Created in 2008, the Happy Planet Index examines happiness on a [[national level]] and ranks 143 countries according to [[three measurements]]:  
+Chỉ số Hành tinh Hạnh phúc, được tạo ra vào năm 2008, đo lường mức độ hạnh phúc trên quy mô quốc gia và xếp hạng 143 quốc gia dựa trên ba tiêu chí:
+
+their citizens’ happiness, how long they live (which reflects their health), and how much of the planet’s resources each country consumes.  
+mức độ hạnh phúc của người dân, tuổi thọ của họ (phản ánh sức khỏe), và mức độ tiêu thụ tài nguyên của hành tinh của mỗi quốc gia.
+
+According to researcher Saamah Abdallah, the Index also measures the outcomes that are most important, and those are happy, healthy lives for everyone.  
+Theo nhà nghiên cứu Saamah Abdallah, chỉ số này cũng đo lường những kết quả quan trọng nhất, đó là cuộc sống hạnh phúc và khỏe mạnh cho tất cả mọi người.
 
 
 

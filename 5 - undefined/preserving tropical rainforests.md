@@ -1,0 +1,6 @@
+- preserving tropical rainforests	[prɪˈzɜː.vɪŋ ˈtrɒp.ɪ.kəl ˈreɪn.fɔːr.ɪsts]	verb phrase
+- Protecting and maintaining rainforests in tropical regions
+- Bảo tồn rừng mưa nhiệt đới
+- tropische Regenwälder erhalten
+- The country focuses on preserving tropical rainforests.
+- preserve (bảo tồn), tropical (nhiệt đới)	Latin: *praeservare*

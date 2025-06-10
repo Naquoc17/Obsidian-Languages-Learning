@@ -1,0 +1,6 @@
+- access to health-care and education	[ˈæk.ses tu ˈhelθ.keər ænd ˌedʒ.uˈkeɪ.ʃən]	noun phrase
+- The ability to use health and education services
+- Tiếp cận y tế và giáo dục
+- Zugang zu Gesundheitsversorgung und Bildung
+- Everyone should have access to health-care and education.
+- access (truy cập), health-care (chăm sóc sức khỏe)	Latin: *accessus*, *educare*

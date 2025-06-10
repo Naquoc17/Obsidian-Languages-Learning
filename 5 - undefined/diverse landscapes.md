@@ -1,0 +1,6 @@
+- diverse landscapes	[daɪˈvɜːs ˈlænd.skeɪps]	noun phrase
+- Varied natural scenery (e.g., mountains, forests, deserts)
+- Cảnh quan đa dạng
+- vielfältige Landschaften
+- The country has diverse landscapes, from beaches to volcanoes.
+- diversity (sự đa dạng), landscape (cảnh quan)	Latin: *diversus*, *landschap*

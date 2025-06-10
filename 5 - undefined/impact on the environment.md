@@ -1,0 +1,6 @@
+- impact on the environment	[ˈɪm.pækt ɒn ði ɪnˈvaɪ.rən.mənt]	noun phrase
+- The effect something has on nature and surroundings
+- Tác động lên môi trường
+- Auswirkung auf die Umwelt
+- Cars have a strong impact on the environment.
+- impact (tác động), environment (môi trường)	Latin: *impactus*, *ambire*
