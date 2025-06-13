@@ -1,0 +1,6 @@
+- ejercicio (el)	[eχeɾˈθiθjo]	Noun
+- Acción de practicar algo para mejorar.
+- Bài tập
+- exercise
+- Hago ejercicios de piano todos los días.
+- ejercitar (to practice), ejercitación (training)	Latin: exercitium

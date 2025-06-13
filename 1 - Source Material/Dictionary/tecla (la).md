@@ -1,0 +1,6 @@
+- tecla (la)	[ˈtekla]	Noun
+- Parte de un piano que se presiona.
+- Phím (trên đàn piano)
+- key (piano)
+- Presiona la tecla blanca.
+- teclear (to type or press keys)	Greek: tékla

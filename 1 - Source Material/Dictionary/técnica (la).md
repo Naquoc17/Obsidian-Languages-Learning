@@ -1,0 +1,6 @@
+- técnica (la)	[ˈteknika]	Noun
+- Conjunto de métodos para hacer algo bien.
+- Kỹ thuật
+- technique
+- Su técnica de piano es excelente.
+- técnico (technical), técnicamente (technically)	Greek: téchnē

@@ -1,0 +1,6 @@
+- mano (la)	[ˈmano]	Noun
+- Parte del cuerpo para tocar.
+- Bàn tay
+- hand
+- Usa la mano derecha.
+- manual (manual), manejar (to handle)	Latin: manus

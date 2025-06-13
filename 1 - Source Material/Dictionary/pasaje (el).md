@@ -1,0 +1,6 @@
+- pasaje (el)	[paˈsaxe]	Noun
+- Parte corta de una obra musical.
+- Đoạn nhạc ngắn
+- passage (music)
+- Repite el pasaje difícil.
+- pasar (to pass)	Latin: passaticum

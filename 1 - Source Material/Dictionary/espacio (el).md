@@ -1,0 +1,6 @@
+- espacio (el)	[esˈpaθjo]	Noun
+- Distancia entre cosas.
+- Khoảng cách
+- space
+- Hay espacio entre las notas.
+- espaciar (to space), espacial (spatial)	Latin: spatium

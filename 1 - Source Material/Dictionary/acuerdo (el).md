@@ -1,0 +1,6 @@
+- acuerdo (el)	[aˈkweɾðo]	Noun
+- En música, conjunto de notas tocadas a la vez (acorde).
+- Hợp âm
+- chord (in music); agreement (in general)
+- Toca el acuerdo de do mayor.
+- acordar (to agree)	Latin: accordum

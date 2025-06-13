@@ -1,0 +1,6 @@
+- legato	[leˈɣato]	Adjective / Musical term
+- Tocar las notas unidas, sin separación.
+- Liền mạch (trong âm nhạc)
+- legato
+- Toca el pasaje en legato.
+- —	Italian: legato

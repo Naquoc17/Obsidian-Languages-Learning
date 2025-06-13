@@ -1,0 +1,6 @@
+- instrumento (el)	[instɾuˈmento]	Noun
+- Objeto para hacer música.
+- Nhạc cụ
+- instrument
+- El piano es un instrumento.
+- instrumental (instrumental)	Latin: instrumentum

@@ -1,0 +1,6 @@
+- ligaduras de unión (las)	[liɣaˈðuɾas ðe uˈnjon]	Noun (plural)
+- Línea que une notas iguales.
+- Dấu nối giữ nốt
+- tie (music)
+- Las ligaduras de unión prolongan el sonido.
+- unir (to unite)	Latin: ligatura, unio

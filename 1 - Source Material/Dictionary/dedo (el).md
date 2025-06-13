@@ -1,0 +1,6 @@
+- dedo (el)	[ˈðeðo]	Noun
+- Parte de la mano.
+- Ngón tay
+- finger
+- Usa el dedo índice.
+- digital (digital), dedal (thimble)	Latin: digitus

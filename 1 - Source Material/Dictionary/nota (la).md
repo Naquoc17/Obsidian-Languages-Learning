@@ -1,0 +1,6 @@
+- nota (la)	[ˈnota]	Noun
+- Sonido musical escrito.
+- Nốt nhạc
+- note
+- La nota es un do.
+- notar (to notice), anotación (annotation)	Latin: nota

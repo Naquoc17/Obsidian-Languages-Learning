@@ -1,0 +1,6 @@
+- ligadura de expresión (la)	[liɣaˈðuɾa ðe ekspɾeˈθjon]	Noun
+- Línea que une notas para tocarlas juntas.
+- Dấu nối diễn cảm
+- phrasing slur
+- Usa la ligadura de expresión.
+- ligadura (tie), expresión (expression)	Latin: ligatura, expressio

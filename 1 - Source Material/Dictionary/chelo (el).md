@@ -1,0 +1,6 @@
+- chelo (el)	[ˈtʃelo]	Noun
+- Instrumento de cuerda más grande que el violín.
+- Đàn xenlô
+- cello
+- Toco el chelo en la orquesta.
+- violonchelo (cello)	Italian: violoncello

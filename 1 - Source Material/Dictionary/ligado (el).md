@@ -1,0 +1,6 @@
+- ligado (el)	[liˈɣaðo]	Noun / Adjective
+- Notas tocadas juntas; unido.
+- Liên kết (trong âm nhạc)
+- slur (music) / tied
+- El ligado es muy importante en la melodía.
+- ligar (to bind), ligadura (tie)	Latin: ligare

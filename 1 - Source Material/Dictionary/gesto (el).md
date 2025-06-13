@@ -1,0 +1,6 @@
+- gesto (el)	[ˈxesto]	Noun
+- Movimiento del cuerpo.
+- Cử chỉ
+- gesture
+- El gesto de la mano es importante.
+- gesticular (to gesture)	Latin: gestus

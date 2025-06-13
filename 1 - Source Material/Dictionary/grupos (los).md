@@ -1,0 +1,6 @@
+- grupos (los)	[ˈɡɾupos]	Noun (plural)
+- Conjunto de personas o cosas.
+- Nhóm
+- groups
+- Hay grupos de notas.
+- agrupar (to group), agrupación (grouping)	Latin: gruppus

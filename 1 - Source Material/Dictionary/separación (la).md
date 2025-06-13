@@ -1,0 +1,6 @@
+- separación (la)	[sepaɾaˈθjon]	Noun
+- Acción de poner cosas aparte.
+- Sự tách biệt
+- separation
+- Hay separación entre los dedos.
+- separar (to separate)	Latin: separatio

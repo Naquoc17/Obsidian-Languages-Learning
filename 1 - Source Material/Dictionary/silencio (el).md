@@ -1,0 +1,6 @@
+- silencio (el)	[siˈlenθjo]	Noun
+- Ausencia de sonido.
+- Im lặng
+- silence
+- Hay un silencio en la música.
+- silenciar (to silence)	Latin: silentium

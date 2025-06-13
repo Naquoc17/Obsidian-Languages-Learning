@@ -1,0 +1,6 @@
+- particularidad (la)	[paɾtikulaɾiˈðað]	Noun
+- Característica especial.
+- Đặc điểm riêng
+- particularity
+- Esta pieza tiene una particularidad.
+- particular (particular)	Latin: particularitas

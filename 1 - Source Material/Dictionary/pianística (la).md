@@ -1,0 +1,6 @@
+- pianística (la)	[pjaˈnistika]	Adjective (used as noun)
+- Relativo al piano.
+- Liên quan đến đàn piano
+- pianistic
+- Estudia la técnica pianística.
+- pianista (pianist), piano (piano)	Italian: pianista

@@ -1,0 +1,6 @@
+- partitura (la)	[paɾtiˈtuɾa]	Noun
+- Hoja donde está escrita la música.
+- Bản nhạc
+- score (music sheet)
+- Leo la partitura para tocar.
+- partir (to divide), partición (division)	Latin: partitūra

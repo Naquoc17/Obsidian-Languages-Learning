@@ -1,0 +1,6 @@
+- camino (el)	[kaˈmino]	Noun
+- Ruta o dirección.
+- Đường đi
+- path / way
+- Sigue el camino correcto.
+- caminar (to walk), caminante (walker)	Latin: caminus

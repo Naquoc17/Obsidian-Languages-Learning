@@ -1,0 +1,6 @@
+- ligaduras de expresión (las)	[liɣaˈðuɾas ðe ekspɾeˈθjon]	Noun (plural)
+- Plural de ligadura de expresión.
+- Các dấu nối diễn cảm
+- phrasing slurs
+- Usa varias ligaduras de expresión.
+- (igual que arriba)	Latin: ligatura, expressio

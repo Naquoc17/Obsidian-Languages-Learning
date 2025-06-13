@@ -1,0 +1,6 @@
+- tiempo (el)	[ˈtjempo]	Noun
+- Medida del ritmo musical.
+- Thời gian (trong âm nhạc: nhịp)
+- time / beat
+- El tiempo es rápido.
+- temporal (temporal)	Latin: tempus

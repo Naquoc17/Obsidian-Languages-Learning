@@ -1,0 +1,6 @@
+- forma (la)	[ˈfoɾma]	Noun
+- Aspecto externo de algo.
+- Hình dạng
+- shape / form
+- La forma de la melodía es bonita.
+- formación (formation), formal (formal)	Latin: forma

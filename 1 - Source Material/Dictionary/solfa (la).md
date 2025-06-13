@@ -1,0 +1,6 @@
+- solfa (la)	[ˈsolfa]	Noun
+- Sistema para leer música (do, re, mi...).
+- Xướng âm
+- solfège
+- Estudio solfa cada día.
+- solfear (to sol-fa)	Italian: solfa
