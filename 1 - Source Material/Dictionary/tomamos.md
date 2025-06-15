@@ -1,0 +1,6 @@
+- tomamos	[toˈmamos]	Verbo (primera persona plural de "tomar")
+- Nosotros bebemos o agarramos algo.
+- Chúng tôi uống / lấy
+- we take / we drink
+- Tomamos café cada mañana.
+- tomar	Latin: tomare (derivado)

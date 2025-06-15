@@ -1,0 +1,6 @@
+- vestido (el)	[besˈtiðo]	Sustantivo
+- Prenda de ropa que cubre el cuerpo, normalmente usado por mujeres.
+- Trang phục (váy)
+- dress
+- Ella lleva un vestido rojo.
+- vestir (vestirse - ponerse ropa)	Latin: vestire

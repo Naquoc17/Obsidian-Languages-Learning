@@ -1,0 +1,6 @@
+- carne (la)	[ˈkaɾne]	Sustantivo
+- Parte comestible de los animales.
+- Thịt
+- meat
+- Como carne de pollo.
+- carnicero (persona que vende carne)	Latin: caro

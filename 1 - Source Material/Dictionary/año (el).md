@@ -1,0 +1,6 @@
+- año (el)	[ˈaɲo]	Sustantivo
+- Periodo de doce meses.
+- Năm
+- year
+- El año tiene 12 meses.
+- anual (anual - yearly)	Latin: annus

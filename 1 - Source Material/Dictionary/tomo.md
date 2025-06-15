@@ -1,0 +1,6 @@
+- tomo	[ˈtomo]	Verbo (primera persona singular de "tomar")
+- Yo bebo o agarro algo.
+- Tôi uống / tôi lấy
+- I take / I drink
+- Tomo agua.
+- tomar	Latin: tomare (derivado)

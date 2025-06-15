@@ -1,0 +1,6 @@
+- cena (la)	[ˈθena] / [ˈsena]	Sustantivo
+- Comida de la noche.
+- Bữa tối
+- dinner
+- La cena está lista.
+- cenar (to have dinner)	Latin: cena

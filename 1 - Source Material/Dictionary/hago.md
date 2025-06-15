@@ -1,0 +1,6 @@
+- hago	[ˈaɣo]	Verbo (primera persona singular de "hacer")
+- Realizo una acción.
+- Tôi làm
+- I do / I make
+- Yo hago la tarea.
+- hacer (hacer - to do / make)	Latin: facere

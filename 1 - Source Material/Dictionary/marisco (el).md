@@ -1,0 +1,6 @@
+- marisco (el)	[maˈɾisko]	Sustantivo
+- Animal marino comestible (como camarones, mejillones).
+- Hải sản
+- seafood
+- Me gusta el marisco.
+- marisquería (lugar donde venden mariscos)	Latin: maris (del mar)

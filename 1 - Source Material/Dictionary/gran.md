@@ -1,0 +1,6 @@
+- gran	[ɡɾan]	Adjetivo (forma corta de "grande" delante de sustantivos)
+- Muy grande o importante.
+- To lớn / vĩ đại
+- great / big
+- Es un gran día.
+- grande (big)	Latin: grandis

@@ -1,0 +1,6 @@
+- años	[ˈaɲos]	Sustantivo (plural de "año")
+- Más de un año.
+- Các năm
+- years
+- Tengo 25 años.
+- año	Latin: annus

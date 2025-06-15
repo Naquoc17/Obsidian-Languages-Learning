@@ -1,0 +1,6 @@
+- fiesta (la)	[ˈfjesta]	Sustantivo
+- Celebración, reunión de personas para divertirse.
+- Bữa tiệc
+- party
+- Hay una fiesta esta noche.
+- festivo (festive)	Latin: festa

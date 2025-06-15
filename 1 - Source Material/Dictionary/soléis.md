@@ -1,0 +1,6 @@
+- soléis	[soˈleis]	Verbo (segunda persona plural de "soler")
+- Vosotros tenéis costumbre de hacer algo.
+- Các bạn thường làm
+- you usually
+- ¿Soléis cenar temprano?
+- soler (to usually do)	Latin: solere

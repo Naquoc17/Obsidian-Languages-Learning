@@ -1,0 +1,6 @@
+- uvas (las)	[ˈuβas]	Sustantivo (plural de "uva")
+- Fruta pequeña y redonda que crece en racimos.
+- Nho
+- grapes
+- Comemos uvas en Nochevieja.
+- uva (singular)	Latin: uva

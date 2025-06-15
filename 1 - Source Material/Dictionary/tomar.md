@@ -1,0 +1,6 @@
+- tomar	[toˈmaɾ]	Verbo (infinitivo)
+- Beber o agarrar algo.
+- Uống / lấy
+- to take / to drink
+- Vamos a tomar un taxi.
+- tomar	Latin: tomare (derivado)

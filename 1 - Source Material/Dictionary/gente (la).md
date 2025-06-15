@@ -1,0 +1,6 @@
+- gente (la)	[ˈxente]	Sustantivo
+- Conjunto de personas.
+- Mọi người
+- people
+- Hay mucha gente aquí.
+- gentil (gentle, kind)	Latin: gens

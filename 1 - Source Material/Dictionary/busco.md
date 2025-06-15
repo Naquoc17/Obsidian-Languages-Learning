@@ -1,0 +1,6 @@
+- busco	[ˈbusko]	Verbo (primera persona singular de "buscar")
+- Yo trato de encontrar algo.
+- Tôi tìm kiếm
+- I look for / I search
+- Busco mis llaves.
+- buscar (buscar - to search)	Latin: buscare

@@ -1,0 +1,6 @@
+- ceno	[ˈθeno] / [ˈseno]	Verbo (primera persona singular de "cenar")
+- Yo como la comida de la noche.
+- Tôi ăn tối
+- I have dinner
+- Ceno a las ocho.
+- cenar	Latin: cena

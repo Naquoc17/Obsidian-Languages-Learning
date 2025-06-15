@@ -1,0 +1,6 @@
+- hasta	[ˈasta]	Preposición
+- Indica límite o final de algo.
+- Đến / cho đến
+- until
+- Trabajo hasta las cinco.
+- ---	Latin: ad ista

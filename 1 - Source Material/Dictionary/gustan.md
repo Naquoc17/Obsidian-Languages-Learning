@@ -1,0 +1,6 @@
+- gustan	[ˈɡustan]	Verbo (tercera persona plural de "gustar")
+- Producir agrado o placer.
+- Thích
+- they like
+- Les gustan los helados.
+- gustar (to like)	Latin: gustare

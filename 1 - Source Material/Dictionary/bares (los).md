@@ -1,0 +1,6 @@
+- bares (los)	[ˈbaɾes]	Sustantivo (plural de "bar")
+- Establecimientos donde se sirven bebidas y comida.
+- Quán bar
+- bars
+- Los bares están llenos.
+- bar (singular)	Latin: barra (influencia posterior del inglés)

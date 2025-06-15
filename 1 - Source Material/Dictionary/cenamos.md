@@ -1,0 +1,6 @@
+- cenamos	[θeˈnamos] / [seˈnamos]	Verbo (primera persona plural de "cenar")
+- Nosotros comemos la comida de la noche.
+- Chúng tôi ăn tối
+- we have dinner
+- Cenamos juntos.
+- cenar	Latin: cena

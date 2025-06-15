@@ -1,0 +1,6 @@
+- todos	[ˈtoðos]	Pronombre / Adjetivo
+- Cada persona o cosa sin excepción.
+- Mọi người / tất cả
+- everyone / all
+- Todos están aquí.
+- todo (everything), totalidad (totality)	Latin: totus

@@ -1,0 +1,6 @@
+- Puerta del Sol (la)	[ˈpweɾta ðel sol]	Nombre propio (lugar)
+- Plaza famosa en Madrid, España.
+- Cổng Mặt Trời (địa danh)
+- Puerta del Sol
+- Vamos a la Puerta del Sol para Nochevieja.
+- puerta (door), sol (sun)	Latin: porta, sol

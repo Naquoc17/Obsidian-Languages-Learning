@@ -1,0 +1,6 @@
+- mismo	[ˈmizmo]	Adjetivo
+- Igual, idéntico.
+- Giống nhau
+- same
+- Es el mismo coche que ayer.
+- mismamente (exactamente)	Latin: metipsimus (forma de ipse)

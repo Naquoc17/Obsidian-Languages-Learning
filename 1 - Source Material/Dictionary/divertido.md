@@ -1,0 +1,6 @@
+- divertido	[diβeɾˈtiðo]	Adjetivo
+- Que causa alegría o entretenimiento.
+- Vui vẻ
+- fun / entertaining
+- La fiesta fue divertida.
+- divertir (to entertain)	Latin: divertere

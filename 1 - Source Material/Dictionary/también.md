@@ -1,0 +1,6 @@
+- también	[tamˈbjen]	Adverbio
+- Además; igual que otro.
+- Cũng
+- also / too
+- Yo también quiero ir.
+- ---	Latin: tam + bene

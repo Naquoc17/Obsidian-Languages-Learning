@@ -1,0 +1,6 @@
+- depende	[deˈpende]	Verbo (tercera persona de "depender")
+- Estar condicionado por algo.
+- Phụ thuộc
+- it depends
+- Depende del clima.
+- depender (to depend)	Latin: dependere
