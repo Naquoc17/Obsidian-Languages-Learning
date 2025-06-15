@@ -18,7 +18,6 @@ Tags:
 - [[Edito A2]]
 ### Le DELF 100% réussite
 - [[Le DELF 100% réussite B1]]
-
 ## Course
 ### Davie
 
