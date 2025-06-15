@@ -1,0 +1,6 @@
+- Accès (m) [ak.sɛ] Nom
+- Possibilité d’entrer.
+- Lối vào, quyền vào
+- Access
+- L’accès est interdit.
+- Accessible (adj) : qu’on peut atteindre

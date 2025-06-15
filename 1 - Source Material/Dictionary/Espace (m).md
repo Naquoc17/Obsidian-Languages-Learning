@@ -1,0 +1,6 @@
+- Espace (m) [ɛs.pas] Nom
+- Zone, étendue.
+- Không gian
+- Space
+- Il y a beaucoup d’espace ici.
+- Spatial (adj) : lié à l’espace

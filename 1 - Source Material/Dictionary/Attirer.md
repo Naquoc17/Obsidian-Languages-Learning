@@ -1,0 +1,6 @@
+- Attirer [a.ti.ʁe] Verbe
+- Faire venir à soi, séduire.
+- Thu hút
+- To attract
+- Le parfum attire les abeilles.
+- Attraction (f) : fait d’attirer

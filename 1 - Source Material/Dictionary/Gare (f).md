@@ -1,0 +1,6 @@
+- Gare (f) [ɡaʁ] Nom
+- Lieu où s’arrêtent les trains.
+- Ga tàu
+- Train station
+- J’arrive à la gare.
+- Aucune

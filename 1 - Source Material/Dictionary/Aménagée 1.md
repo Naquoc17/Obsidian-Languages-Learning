@@ -1,0 +1,6 @@
+- Aménagée [a.me.na.ʒe] Adjectif (participe passé de "aménager")
+- Organisée, bien équipée.
+- Được trang bị
+- Fitted / Equipped
+- La cuisine est aménagée.
+- Aménagement (m) : organisation, adaptation

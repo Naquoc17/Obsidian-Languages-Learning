@@ -1,0 +1,7 @@
+- Joie (f) [ʒwa] Nom
+- Sentiment de grand bonheur.
+- Niềm vui
+- Joy
+- Elle danse de joie.
+- Joyeux (adj) : heureux, content
+- Latin "gaudium" (plaisir)

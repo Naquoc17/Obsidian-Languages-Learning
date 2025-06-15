@@ -15,12 +15,9 @@ Status: #baby
 Tags: [[French]]
 
 # Edito A2
-
-## [[Unite 1 - C'est la vie]]
-
-## [[Unite 2 -  Souvenirs, souvenirs]]
-
-## [[Unite 3 - À la recherche d'un toit]]
+-  [[Unite 1 - C'est la vie]]
+-  [[Unite 2 -  Souvenirs, souvenirs]]
+-  [[Unite 3 - À la recherche d'un toit]]
 
 
 

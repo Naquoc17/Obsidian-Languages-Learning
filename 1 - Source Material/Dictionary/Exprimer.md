@@ -1,0 +1,6 @@
+- Exprimer [ɛks.pʁi.me] Verbe
+- Dire ou montrer ses pensées ou sentiments.
+- Biểu đạt
+- To express
+- Il exprime sa colère.
+- Expression (f) : manière de dire

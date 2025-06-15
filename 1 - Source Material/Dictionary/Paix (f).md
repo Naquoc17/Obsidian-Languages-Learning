@@ -1,0 +1,7 @@
+- Paix (f) [pɛ] Nom
+- Absence de guerre, tranquillité.
+- Hòa bình
+- Peace
+- Nous vivons en paix.
+- Pacifique (adj) : calme, paisible
+- Latin "pax"

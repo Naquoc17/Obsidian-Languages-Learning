@@ -1,0 +1,7 @@
+- Lieu (m) [ljø] Nom
+- Endroit, espace précis.
+- Nơi chốn
+- Place / Location
+- Ce lieu est magnifique.
+- Localiser (v) : trouver un endroit
+- Latin "locus" (place)

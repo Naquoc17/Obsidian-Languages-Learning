@@ -1,0 +1,6 @@
+- Résidence principale (f) [ʁe.zi.dɑ̃s pʁɛ̃.si.pal] Expression
+- Logement où l’on vit la plupart du temps.
+- Nơi ở chính
+- Main residence
+- C’est ma résidence principale.
+- Résider (v) : habiter

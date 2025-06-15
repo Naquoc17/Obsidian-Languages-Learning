@@ -1,0 +1,6 @@
+- Logement (m) [lɔʒ.mɑ̃] Nom
+- Endroit où l'on habite.
+- Chỗ ở
+- Housing / Accommodation
+- Mon logement est près de l’université.
+- Loger (v) : héberger quelqu'un

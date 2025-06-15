@@ -1,0 +1,7 @@
+- Ancien (m) / Ancienne (f) [ɑ̃.sjɛ̃ / ɑ̃.sjɛn] Adjectif
+- Vieux, qui date d’avant.
+- Cũ, xưa
+- Old / former
+- C’est un bâtiment ancien.
+- Antiquité (f) : chose ancienne
+- Latin "antianus"

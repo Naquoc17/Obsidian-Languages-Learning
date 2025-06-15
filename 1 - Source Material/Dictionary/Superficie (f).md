@@ -1,0 +1,6 @@
+- Superficie (f) [sy.pɛʁ.fi.si] Nom
+- Dimension d’une surface.
+- Diện tích
+- Surface area
+- La superficie de l’appartement est de 50 m².
+- Superficiel (adj) : peu profond

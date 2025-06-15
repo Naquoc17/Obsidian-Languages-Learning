@@ -1,0 +1,6 @@
+- Recherche (f) [ʁə.ʃɛʁʃ] Nom
+- Action de chercher quelque chose.
+- Tìm kiếm
+- Search
+- Je fais une recherche sur Internet.
+- Rechercher (v) : chercher à trouver quelque chose

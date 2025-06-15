@@ -1,0 +1,6 @@
+- Décrire [de.kʁiʁ] Verbe
+- Expliquer comment est quelque chose.
+- Miêu tả
+- To describe
+- Peux-tu décrire ta maison ?
+- Description (f) : action de décrire

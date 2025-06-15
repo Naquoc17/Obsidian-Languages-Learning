@@ -1,0 +1,7 @@
+- Toit (m) [twa] Nom
+- Partie supérieure d'un bâtiment qui le couvre.
+- Mái nhà
+- Roof
+- Le chat est sur le toit.
+- Aucune
+- Latin "tectum" (couverture)

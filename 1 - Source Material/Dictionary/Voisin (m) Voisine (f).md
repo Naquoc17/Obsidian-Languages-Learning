@@ -1,0 +1,6 @@
+- Voisin (m) / Voisine (f) [vwa.zɛ̃ /vwa.zin] Nom
+- Personne qui habite à côté.
+- Hàng xóm
+- Neighbor
+- Mon voisin est très gentil.
+- Voisinage (m) : ensemble des voisins

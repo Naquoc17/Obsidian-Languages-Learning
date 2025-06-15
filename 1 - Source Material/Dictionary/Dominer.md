@@ -1,0 +1,6 @@
+- Dominer [dɔ.mi.ne] Verbe
+- Être plus haut, surplomber.
+- Bao quát, ở trên cao
+- To overlook / dominate
+- La tour domine la ville.
+- Domination (f) : pouvoir de contrôler

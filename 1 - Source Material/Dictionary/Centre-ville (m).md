@@ -1,0 +1,6 @@
+- Centre-ville (m) [sɑ̃tʁə vil] Nom
+- Partie centrale de la ville.
+- Trung tâm thành phố
+- City center / Downtown
+- Nous habitons au centre-ville.
+- Central (adj) : du centre

@@ -1,0 +1,6 @@
+- Entreprise (f) [ɑ̃.tʁə.pʁiz] Nom
+- Organisation qui fait du commerce.
+- Công ty
+- Company
+- Mon père travaille dans une entreprise.
+- Entrepreneur (m) : personne qui crée une entreprise

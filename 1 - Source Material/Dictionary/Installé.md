@@ -1,0 +1,6 @@
+- Installé [ɛ̃s.ta.le] Adjectif (participe passé de "installer")
+- Mis en place, établi quelque part.
+- Ổn định, định cư
+- Settled
+- Je suis bien installé dans mon appartement.
+- Installation (f) : action de s’installer

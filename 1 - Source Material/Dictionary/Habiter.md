@@ -1,0 +1,6 @@
+- Habiter [a.bi.te] Verbe
+- Vivre dans un endroit.
+- Sinh sống
+- To live / To reside
+- J’habite à Paris.
+- Habitation (f) : lieu où l’on vit

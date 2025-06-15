@@ -1,0 +1,6 @@
+- Reprendre (la parole) [ʁə.pʁɑ̃dʁ] Verbe
+- Commencer à parler de nouveau.
+- Nói lại
+- To resume (speaking)
+- Elle reprend la parole après la pause.
+- Reprise (f) : action de recommencer

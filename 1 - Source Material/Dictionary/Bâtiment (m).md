@@ -1,0 +1,7 @@
+- Bâtiment (m) [ba.ti.mɑ̃] Nom
+- Construction, immeuble.
+- Tòa nhà
+- Building
+- Ce bâtiment est moderne.
+- Bâtir (v) : construire
+- Latin "bâtir"

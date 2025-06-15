@@ -1,0 +1,6 @@
+- Situer [si.ty.e] Verbe
+- Placer quelque chose à un endroit précis.
+- Đặt, định vị
+- To locate
+- Où est situé le musée ?
+- Situation (f) : position, emplacement

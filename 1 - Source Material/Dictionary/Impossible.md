@@ -1,0 +1,6 @@
+- Impossible [ɛ̃.pɔ.sibl] Adjectif
+- Qui ne peut pas être fait.
+- Không thể
+- Impossible
+- Il est impossible de sortir.
+- Possibilité (f) : capacité à faire quelque chose

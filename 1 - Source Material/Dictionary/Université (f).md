@@ -1,0 +1,6 @@
+- Université (f) [y.ni.vɛʁ.si.te] Nom
+- Établissement d’études supérieures.
+- Trường đại học
+- University
+- Mon frère étudie à l’université.
+- Universitaire (adj) : relatif à l’université

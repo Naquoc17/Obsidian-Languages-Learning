@@ -87,7 +87,7 @@ Le passé composé = être/ avoir + **le participe passé** du verbe
 **Manu :** Mais non, j’ai acheté des tasses il y a un mois. T’as [[oublier|oublié]] , ou quoi ?  ****
 **Manu :** Oh regarde, il y a le Salon des Sports et de l’Extrême. Toi qui veux [[essayer]] le judo, c’est l’[[une occasion|occasion]]  ! Il y a des cours d’[[un essai|essais]]  gratuits. Oh et il y a aussi de la boxe, de la gym... .Il y a le choix.  
 **Mariette :** Allez, d’accord pour le Salon du Sport!
-**Manu :** Bon, très bien. On y va [[plutôt]] samedi ou dimanche ? Tu choisis!
+**Manu :** Bon, très bien. On y va [[Plutôt 1]] samedi ou dimanche ? Tu choisis!
 **Mariette :** Eh bien, plutôt dimanche. On [[se reposer|se repose]]  le samedi matin.
 
 ## E - Envie de sortir

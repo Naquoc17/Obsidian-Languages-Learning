@@ -1,0 +1,6 @@
+- Résidence secondaire (f) [ʁe.zi.dɑ̃s sə.ɡɔ̃.dɛʁ] Expression
+- Logement utilisé pendant les vacances.
+- Nhà nghỉ dưỡng
+- Second home
+- Ils ont une résidence secondaire à la montagne.
+- Aucune

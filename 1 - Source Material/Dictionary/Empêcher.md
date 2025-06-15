@@ -1,0 +1,6 @@
+- Empêcher [ɑ̃.pɛ.ʃe] Verbe
+- Faire en sorte que quelque chose ne se produise pas.
+- Ngăn cản
+- To prevent
+- La pluie empêche le match.
+- Empêchement (m) : obstacle, difficulté

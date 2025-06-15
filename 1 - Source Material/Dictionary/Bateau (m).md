@@ -1,0 +1,6 @@
+- Bateau (m) [ba.to] Nom
+- Véhicule pour aller sur l’eau.
+- Thuyền
+- Boat
+- Le bateau part à 10 heures.
+- Bateaux (pluriel)

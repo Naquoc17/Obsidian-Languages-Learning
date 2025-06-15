@@ -1,0 +1,6 @@
+- Investissement (m) [ɛ̃.vɛs.tis.mɑ̃] Nom
+- Action de placer de l’argent pour un profit futur.
+- Đầu tư
+- Investment
+- L’achat de la maison est un bon investissement.
+- Investir (v) : placer de l’argent

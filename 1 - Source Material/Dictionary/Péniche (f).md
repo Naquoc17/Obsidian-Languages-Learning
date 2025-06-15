@@ -1,0 +1,7 @@
+- Péniche (f) [pe.niʃ] Nom
+- Bateau à fond plat, souvent utilisé comme habitation ou transport sur les rivières.
+- Thuyền xà lan
+- Barge / Houseboat
+- Ils vivent sur une péniche.
+- Aucune
+- Latin "penix" (grec ancien)

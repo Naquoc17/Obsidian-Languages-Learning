@@ -1,0 +1,6 @@
+- Stationnement (m) [stas.jɔ.nə.mɑ̃] Nom
+- Action de garer une voiture.
+- Đỗ xe
+- Parking / Parking space
+- Le stationnement est gratuit.
+- Stationner (v) : garer

@@ -1,0 +1,6 @@
+- À pied [a pje] Expression
+- En marchant.
+- Đi bộ
+- On foot
+- Je vais à pied à l’école.
+- Aucune
