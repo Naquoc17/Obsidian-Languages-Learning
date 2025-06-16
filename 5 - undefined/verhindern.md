@@ -1,0 +1,6 @@
+- verhindern	[fɛɐ̯ˈhɪndɐn]	Verb
+- etwas unmöglich machen
+- Ngăn chặn
+- To prevent
+- Die Polizei konnte den Unfall verhindern.
+- Hindernis (Nomen), behindern (stören)

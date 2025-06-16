@@ -1,0 +1,6 @@
+- verhaften	[fɛɐ̯ˈhaftən]	Verb
+- jemanden festnehmen
+- Bắt giữ
+- To arrest
+- Die Polizei verhaftete den Täter.
+- Haft (Gefängnis), Gefangennahme	ahd. haften

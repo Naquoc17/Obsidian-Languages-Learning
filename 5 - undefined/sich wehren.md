@@ -1,0 +1,6 @@
+- sich wehren	[ˈveːʁən]	Verb (reflexiv)
+- Widerstand leisten
+- Tự vệ, chống lại
+- To defend oneself, resist
+- Die Bürger wehren sich gegen die hohen Steuern.
+- Wehr (Schutz), Abwehr (Verteidigung)	ahd. werian

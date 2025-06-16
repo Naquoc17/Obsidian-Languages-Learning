@@ -1,0 +1,6 @@
+- klagen	[ˈklaːɡn̩]	Verb
+- sich vor Gericht beschweren
+- Kiện tụng
+- To sue, complain
+- Er klagt gegen die Firma.
+- Klage (Nomen), Kläger (Person)	ahd. klagan

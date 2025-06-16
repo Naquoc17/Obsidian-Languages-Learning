@@ -28,9 +28,15 @@ Tags:
 
 - [[Der große Deal mit Solaranlagen, die nie gebaut werden]]
 
+### Nachrichtenleicht
+- [[Proteste in Los Angeles – Trump schickt Soldaten]]
+
+
 ### DW Deutsch Lernen
 
-## Top-Thema mit Vokabeln
+
+
+### Top-Thema mit Vokabeln
 
 - [[Die Frau, die Monopoly erfand]]
 - [[Zwischen Ebbe und Flut - das Leben auf einer Hallig]]

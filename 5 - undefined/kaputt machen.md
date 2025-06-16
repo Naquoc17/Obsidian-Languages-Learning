@@ -1,0 +1,6 @@
+- kaputt machen	[kaˈpʊt ˈmaxn̩]	Verb
+- etwas zerstören
+- Làm hỏng
+- To break, destroy
+- Er hat das Handy kaputt gemacht.
+- kaputt (beschädigt)	italienisch: capotto

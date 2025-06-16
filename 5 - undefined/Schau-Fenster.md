@@ -1,0 +1,6 @@
+- Schau-Fenster	[ˈʃaʊ̯ˌfɛnstɐ]	Nomen
+- Fenster in einem Geschäft zur Präsentation von Waren
+- Cửa sổ trưng bày
+- Shop window
+- Die neuen Kleider hängen im Schaufenster.
+- schauen (sehen), Fenster (window)

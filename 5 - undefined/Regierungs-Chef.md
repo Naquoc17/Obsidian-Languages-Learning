@@ -1,0 +1,6 @@
+- Regierungs-Chef	[ʁeˈɡiːʁʊŋsˌʃɛf]	Nomen
+- Leiter der Regierung
+- Thủ tướng, người đứng đầu chính phủ
+- Head of government
+- Der Regierungs-Chef gab eine Rede.
+- Regierung (Staatsleitung), Chef (Leiter)

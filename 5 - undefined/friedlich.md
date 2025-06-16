@@ -1,0 +1,6 @@
+- friedlich	[ˈfʁiːtlɪç]	Adjektiv
+- ohne Gewalt, ruhig
+- Hòa bình, yên ổn
+- Peaceful
+- Die Demonstration verlief friedlich.
+- Frieden (Friede), friedfertig (friedliebend)

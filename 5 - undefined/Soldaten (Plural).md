@@ -1,0 +1,6 @@
+- Soldaten (Plural)	[zɔlˈdaːtn̩]	Nomen
+- Mitglieder der Armee
+- Những người lính
+- Soldiers
+- Die Soldaten marschieren durch die Stadt.
+- Soldat (Einzahl), militärisch (Adjektiv)	lateinisch: solidus

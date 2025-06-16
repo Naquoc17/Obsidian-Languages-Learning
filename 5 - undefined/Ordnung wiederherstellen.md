@@ -1,0 +1,6 @@
+- Ordnung wiederherstellen	[ˈɔʁdnʊŋ ˈviːdɐˌheːɐ̯ʃtɛlən]	Verbphrase
+- wieder für Regeln und Ruhe sorgen
+- Khôi phục trật tự
+- To restore order
+- Die Polizei stellte die Ordnung wieder her.
+- Ordnung (Regelmäßigkeit), herstellen (produzieren, wiederherstellen)

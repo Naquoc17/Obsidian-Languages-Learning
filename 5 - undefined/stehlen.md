@@ -1,0 +1,6 @@
+- stehlen	[ˈʃteːlən]	Verb
+- etwas ohne Erlaubnis nehmen
+- Ăn cắp
+- To steal
+- Er hat das Fahrrad gestohlen.
+- Diebstahl (Nomen), Dieb (Person)	ahd. stelan

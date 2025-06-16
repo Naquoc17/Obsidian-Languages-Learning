@@ -1,0 +1,6 @@
+- entscheiden	[ɛntˈʃaɪ̯dn̩]	Verb
+- eine Wahl treffen
+- Quyết định
+- To decide
+- Er entscheidet über den Urlaub.
+- Entscheidung (Nomen), Entscheider (Person)	ahd. ant-sceidan

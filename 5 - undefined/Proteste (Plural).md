@@ -1,0 +1,6 @@
+- Proteste (Plural)	[proˈtɛstə]	Nomen
+- öffentliche Äußerung des Widerstands
+- Các cuộc biểu tình
+- Protests
+- Die Proteste gegen die Regierung dauern an.
+- Protest (Einzahl), protestieren (Verb)	lateinisch: protestari

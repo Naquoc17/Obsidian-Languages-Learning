@@ -1,0 +1,6 @@
+- bestimmen	[bəˈʃtɪmən]	Verb
+- festlegen, entscheiden
+- Quy định, xác định
+- To determine
+- Die Regeln bestimmen den Ablauf.
+- Bestimmung (Nomen), bestimmt (Adjektiv)

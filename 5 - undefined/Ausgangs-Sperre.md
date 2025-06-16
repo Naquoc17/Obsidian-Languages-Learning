@@ -1,0 +1,6 @@
+- Ausgangs-Sperre	[ˈaʊ̯sɡaŋsˌʃpɛʁə]	Nomen
+- Verbot, das Haus zu verlassen
+- Lệnh giới nghiêm
+- Curfew
+- Während der Krise galt eine Ausgangs-Sperre.
+- Ausgang (Hinausgehen), Sperre (Blockade)

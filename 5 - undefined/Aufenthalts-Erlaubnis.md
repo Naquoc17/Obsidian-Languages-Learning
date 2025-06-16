@@ -1,0 +1,6 @@
+- Aufenthalts-Erlaubnis	[ˈaʊ̯fənthalts ɛɐ̯ˈlaʊ̯pnɪs]	Nomen
+- Genehmigung, in einem Land bleiben zu dürfen
+- Giấy phép cư trú
+- Residence permit
+- Er hat eine Aufenthalts-Erlaubnis für drei Jahre erhalten.
+- Aufenthalt (Bleiben), Erlaubnis (Genehmigung)

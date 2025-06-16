@@ -1,0 +1,6 @@
+- Migranten (Plural)	[miˈɡʁantn̩]	Nomen
+- Personen, die in ein anderes Land auswandern
+- Những người di cư
+- Migrants
+- Viele Migranten suchen ein besseres Leben in einem neuen Land.
+- Migration (Wanderung), Migrant (Einzahl)	lateinisch: migrare (wandern)
