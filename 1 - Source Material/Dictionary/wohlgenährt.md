@@ -1,0 +1,6 @@
+- wohlgenährt	[ˈvoːlɡənɛːɐ̯t]	Adjektiv
+- Gut genährt, dicklich, gesund aussehend.
+- Được nuôi dưỡng tốt, mập mạp
+- well-nourished
+- Das Baby war wohlgenährt.
+- nähren (ernähren), Nahrung	lateinisch: *nutrire*

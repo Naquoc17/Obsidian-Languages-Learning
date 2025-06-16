@@ -1,0 +1,6 @@
+- freigelegt	[ˈfʁaɪɡəˌleːkt]	Adjektiv (Partizip II von *freilegen*)
+- Etwas sichtbar machen, das vorher bedeckt war.
+- Được để lộ ra
+- exposed, uncovered
+- Das Fundament wurde freigelegt.
+- freilegen, Legung	lateinisch: *legare* (indirekt)

@@ -1,0 +1,6 @@
+- schnupperte	[ˈʃnʊpɐtɛ]	Verb (Präteritum von *schnuppern*)
+- Kurz riechen, schnüffeln.
+- Ngửi thử, hít
+- sniffed
+- Der Hund schnupperte an der Blume.
+- schnuppern (Grundform), schnüffeln	kein lateinischer Ursprung

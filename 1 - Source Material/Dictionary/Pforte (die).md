@@ -1,0 +1,6 @@
+- Pforte (die)	[ˈpfɔʁtə]	Nomen
+- Kleines Tor oder Eingang, oft bei Gebäuden.
+- Cổng nhỏ, lối vào
+- gate, portal
+- Die Pforte war verschlossen.
+- Tor (großes Tor)	lateinisch: *porta*

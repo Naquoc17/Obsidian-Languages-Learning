@@ -1,0 +1,6 @@
+- gemütlicher Mann	[ɡəˈmyːtlɪçɐ man]	Nomenphrase
+- Ein freundlicher, entspannter Mann.
+- Người đàn ông dễ chịu
+- comfortable man
+- Der gemütliche Mann lud uns zum Tee ein.
+- Gemütlichkeit (sự ấm cúng)	kein lateinischer Ursprung

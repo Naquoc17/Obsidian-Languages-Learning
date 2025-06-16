@@ -1,0 +1,6 @@
+- leergepumpt	[ˈleːɐ̯ɡəˌpʊmpt]	Adjektiv (Partizip II von *leerpumpen*)
+- Etwas vollständig entleert (z.B. Flüssigkeit abgesaugt).
+- Bơm cạn
+- pumped empty
+- Der Tank wurde leergepumpt.
+- leerpumpen, Pumpe	kein lateinischer Ursprung

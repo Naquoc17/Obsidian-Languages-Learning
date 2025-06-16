@@ -1,0 +1,6 @@
+- Bedürftige (der/die)	[bəˈdʏʁftɪɡə]	Nomen (Adjektivdeklination)
+- Person, die Hilfe braucht.
+- Người thiếu thốn
+- person in need
+- Die Bedürftigen erhielten Essen.
+- Bedürfnis (Nhu cầu), bedürfen	altdeutsch

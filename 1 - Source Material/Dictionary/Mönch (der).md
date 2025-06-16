@@ -1,0 +1,6 @@
+- Mönch (der)	[mœnç]	Nomen
+- Ein Mann, der in einem Kloster lebt und betet.
+- Thầy tu, tu sĩ
+- monk
+- Der Mönch betet jeden Tag.
+- klösterlich, Nonne (weibliche Form)	altgriechisch: *monachos*

@@ -1,0 +1,6 @@
+- Henkelkorb (der)	[ˈhɛŋkl̩ˌkɔʁp]	Nomen
+- Ein Korb mit einem Griff (Henkel)
+- Giỏ có tay cầm
+- basket with handle
+- Sie trug den Henkelkorb voller Äpfel nach Hause.
+- Henkel (Griff), Korb (basket)	kein klarer lateinischer Ursprung

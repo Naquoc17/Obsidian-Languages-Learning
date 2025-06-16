@@ -1,0 +1,6 @@
+- Zuständigkeit (die)	[ˈtsuːʃtɛndɪçkaɪt]	Nomen
+- Verantwortungsbereich, Aufgabe.
+- Thẩm quyền, trách nhiệm
+- responsibility, competence
+- Das liegt in meiner Zuständigkeit.
+- zuständig, Zuständiger	kein lateinischer Ursprung

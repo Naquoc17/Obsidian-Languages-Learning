@@ -1,0 +1,6 @@
+- Kindermörderin (die)	[ˈkɪndɐˌmœʁdəʁɪn]	Nomen
+- Frau, die ein Kind tötet.
+- Người giết trẻ em (nữ)
+- child murderess
+- Die Polizei suchte die Kindermörderin.
+- Mörder (männlich), Mord (Tötung)	lateinisch: *mortem*

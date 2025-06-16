@@ -1,0 +1,6 @@
+- kahlköpfig	[ˈkaːlˌkœpfɪç]	Adjektiv
+- Ohne Haare auf dem Kopf.
+- Hói đầu
+- bald
+- Der kahlköpfige Mann trug einen Hut.
+- Glatze (Nomen)	kein lateinischer Ursprung

@@ -1,0 +1,6 @@
+- Gemütruhe (die)	[ɡəˈmyːtʁuːə]	Nomen
+- Innerer Frieden, seelische Ruhe.
+- Bình yên trong tâm hồn
+- peace of mind
+- Yoga fördert die Gemütruhe.
+- Gemüt (tâm hồn), Ruhe (sự yên tĩnh)	kein lateinischer Ursprung

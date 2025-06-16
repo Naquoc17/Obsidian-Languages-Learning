@@ -1,0 +1,6 @@
+- Rübensaft (der)	[ˈʁyːbn̩ˌzaft]	Nomen
+- Saft, der aus Rüben (z.B. Zuckerrüben) gewonnen wird.
+- Nước củ cải
+- beet juice
+- Sie trank täglich Rübensaft.
+- Rübe (củ cải), Saft (juice)	kein lateinischer Ursprung

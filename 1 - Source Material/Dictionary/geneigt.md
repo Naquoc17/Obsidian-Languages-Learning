@@ -1,0 +1,6 @@
+- geneigt	[ɡəˈnaɪ̯kt]	Adjektiv
+- bereit oder gewillt zu etwas; schräg stehend.
+- Sẵn lòng; nghiêng
+- inclined, willing
+- Er war geneigt zu helfen.
+- Neigung (sự nghiêng), neigen	kein lateinischer Ursprung

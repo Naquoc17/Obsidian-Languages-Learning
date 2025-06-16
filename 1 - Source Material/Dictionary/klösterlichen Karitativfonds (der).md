@@ -1,0 +1,6 @@
+- klösterlichen Karitativfonds (der)	[ˈkløːstɐlɪçən kaʁitaˈtiːfˌfɔns]	Nomenphrase
+- Wohltätigkeitsfonds eines Klosters.
+- Quỹ từ thiện tu viện
+- monastic charity fund
+- Der klösterliche Karitativfonds half den Armen.
+- karitativ (wohltätig), Fonds (quỹ)	lateinisch: *caritas*, *fundus*

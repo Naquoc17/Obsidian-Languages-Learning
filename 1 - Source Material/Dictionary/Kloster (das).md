@@ -1,0 +1,6 @@
+- Kloster (das)	[ˈkloːstɐ]	Nomen
+- Ein Gebäude, in dem Mönche oder Nonnen leben und arbeiten.
+- Tu viện
+- monastery
+- Das Kloster liegt auf dem Berg.
+- klösterlich (monastisch), Mönch, Nonne	lateinisch: *claustrum*

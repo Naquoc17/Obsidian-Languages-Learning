@@ -1,0 +1,6 @@
+- Bastard (der)	[ˈbastaʁt]	Nomen
+- Abfällige Bezeichnung für ein uneheliches Kind oder beleidigend für eine Person.
+- Đứa con hoang, kẻ đáng ghét
+- bastard
+- Er nannte ihn einen Bastard.
+- unehelich	lateinisch: *bastardus*

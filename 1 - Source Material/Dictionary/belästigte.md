@@ -1,0 +1,6 @@
+- belästigte	[bəˈlɛstɪɡtə]	Verb (Präteritum von *belästigen*)
+- Jemanden stören oder bedrängen.
+- Quấy rối
+- harassed, bothered
+- Er belästigte seine Nachbarn mit Lärm.
+- belästigen, Belästigung	kein lateinischer Ursprung
