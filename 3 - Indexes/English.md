@@ -18,6 +18,8 @@ Tags: [[]]
 - [[An Official Cambridge Ielts Course - Mindset for Ielts]]
 - [[Listening and notetaking - Skill 1]]
 
+- [[Russell - History of Western Philosophy]]
+
 ## Courses
 
 ### Preply
