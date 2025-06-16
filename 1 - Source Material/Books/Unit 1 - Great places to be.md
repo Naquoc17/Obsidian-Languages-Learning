@@ -73,13 +73,6 @@ According to researcher Saamah Abdallah, the Index also measures the outcomes th
 Theo nhà nghiên cứu Saamah Abdallah, chỉ số này cũng đo lường những kết quả quan trọng nhất, đó là cuộc sống hạnh phúc và khỏe mạnh cho tất cả mọi người.
 
 
-
-
-
-
-
-
-
 # Abbreviation
 
 | Abbreviation | Meaning |
