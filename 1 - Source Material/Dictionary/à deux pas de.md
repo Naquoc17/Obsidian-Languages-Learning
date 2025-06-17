@@ -1,0 +1,7 @@
+- à deux pas de	[a dø pa də]	Expression
+- Très proche de.
+- cách rất gần (Vietnamese)
+- very close to (English)
+- Exemple : L’appartement est à deux pas de la gare.
+- Famille de mots : pas (step), proximité (proximity)	
+- Latin root : *passus* (pas)

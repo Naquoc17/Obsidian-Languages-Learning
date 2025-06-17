@@ -1,0 +1,7 @@
+- location	[lɔ.ka.sjɔ̃]	Nom féminin
+- Action de louer un bien immobilier.
+- sự thuê (Vietnamese)
+- rental (English)
+- Exemple : La location de cet appartement est chère.
+- Famille de mots : louer (to rent), locataire (tenant)	
+- Latin root : *locatio* (placement)

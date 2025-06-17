@@ -1,0 +1,7 @@
+- colocation	[kɔ.lɔ.ka.sjɔ̃]	Nom féminin
+- Partage d'un logement entre plusieurs personnes.
+- ở chung nhà (Vietnamese)
+- flatsharing (English)
+- Exemple : La colocation permet de partager le loyer.
+- Famille de mots : colocataire (flatmate)	
+- Latin root : co- (ensemble) + locatio (location)

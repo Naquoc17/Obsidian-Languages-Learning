@@ -1,0 +1,7 @@
+- électrique	[e.lɛk.tʁik]	Adjectif
+- Relatif à l'électricité.
+- thuộc về điện (Vietnamese)
+- electric (English)
+- Exemple : Le chauffage est électrique.
+- Famille de mots : électricité (electricity), électrifier (to electrify)	
+- Latin root : *ēlectricus* (latin moderne)

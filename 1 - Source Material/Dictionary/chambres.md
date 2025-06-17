@@ -1,0 +1,7 @@
+- chambres	[ʃɑ̃bʁ]	Nom féminin pluriel
+- Pièces destinées à dormir.
+- phòng ngủ (Vietnamese)
+- bedrooms (English)
+- Exemple : L'appartement a trois chambres.
+- Famille de mots : chambre (singulier)	
+- Latin root : *camera* (pièce fermée)

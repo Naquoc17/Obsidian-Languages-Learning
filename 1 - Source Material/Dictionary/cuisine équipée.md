@@ -1,0 +1,7 @@
+- cuisine équipée	[kɥi.zin e.ki.pe]	Groupe nominal
+- Cuisine avec tous les appareils nécessaires.
+- bếp đầy đủ tiện nghi (Vietnamese)
+- equipped kitchen (English)
+- Exemple : La cuisine équipée comprend un four et un réfrigérateur.
+- Famille de mots : cuisiner (to cook), équipement (equipment)	
+- Latin root : *coquina* (cuisine)

@@ -1,0 +1,7 @@
+- possible	[pɔ.sibl]	Adjectif
+- Qui peut se faire ou exister.
+- có thể (Vietnamese)
+- possible (English)
+- Exemple : C’est possible de visiter demain.
+- Famille de mots : possibilité (possibility), impossible (impossible)	
+- Latin root : *possibilis* (pouvoir)

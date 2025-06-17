@@ -1,0 +1,7 @@
+- véranda	[ve.ʁɑ̃.da]	Nom féminin
+- Pièce vitrée, souvent attenante à une maison.
+- hiên kính (Vietnamese)
+- veranda (English)
+- Exemple : La véranda est lumineuse en été.
+- Famille de mots : aucun dérivé direct	
+- Latin root : du portugais *veranda*

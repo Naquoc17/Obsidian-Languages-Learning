@@ -1,0 +1,7 @@
+- séjour	[se.ʒuʁ]	Nom masculin
+- Grande pièce pour vivre.
+- phòng khách (Vietnamese)
+- living room (English)
+- Exemple : Le séjour est lumineux.
+- Famille de mots : séjourner (to stay)	
+- Latin root : *sejor* (vieil français)

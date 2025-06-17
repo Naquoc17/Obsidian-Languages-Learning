@@ -1,0 +1,7 @@
+- lumineux	[ly.mi.nø]	Adjectif
+- Très éclairé.
+- sáng sủa (Vietnamese)
+- bright (English)
+- Exemple : Cet appartement est lumineux.
+- Famille de mots : lumière (light), illuminer (to illuminate)	
+- Latin root : *lumen* (lumière)

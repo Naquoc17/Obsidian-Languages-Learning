@@ -1,0 +1,7 @@
+- charges	[ʃaʁʒ]	Nom féminin pluriel
+- Dépenses liées à un logement (eau, électricité, etc.).
+- chi phí phụ (Vietnamese)
+- utilities (English)
+- Exemple : Les charges sont incluses dans le loyer.
+- Famille de mots : charger (to load), surcharge (overload)	
+- Latin root : *carricare* (charger)

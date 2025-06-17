@@ -1,0 +1,7 @@
+- commerces	[kɔ.mɛʁs]	Nom masculin pluriel
+- Magasins, boutiques.
+- cửa hàng (Vietnamese)
+- shops (English)
+- Exemple : Les commerces sont à proximité.
+- Famille de mots : commerçant (shopkeeper), commercial (commercial)	
+- Latin root : *commercium* (commerce)

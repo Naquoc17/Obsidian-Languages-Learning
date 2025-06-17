@@ -1,0 +1,7 @@
+- maison	[mɛ.zɔ̃]	Nom féminin
+- Bâtiment pour habiter.
+- ngôi nhà (Vietnamese)
+- house (English)
+- Exemple : Cette maison est jolie.
+- Famille de mots : maisonnée (household), maisonnette (small house)	
+- Latin root : *mansio* (séjour)

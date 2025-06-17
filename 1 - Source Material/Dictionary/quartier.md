@@ -1,0 +1,7 @@
+- quartier	[kaʁ.tje]	Nom masculin
+- Partie d'une ville.
+- khu phố (Vietnamese)
+- neighborhood (English)
+- Exemple : C’est un quartier calme.
+- Famille de mots : aucun dérivé direct	
+- Latin root : *quartarius* (quatrième partie)

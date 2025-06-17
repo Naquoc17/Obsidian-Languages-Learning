@@ -1,0 +1,7 @@
+- étage	[e.taʒ]	Nom masculin
+- Niveau d’un bâtiment.
+- tầng (Vietnamese)
+- floor (English)
+- Exemple : L’appartement est au troisième étage.
+- Famille de mots : étager (to arrange in tiers), étagère (shelf)	
+- Latin root : *stare* (se tenir)

@@ -1,0 +1,7 @@
+- tramway	[tʁam.wɛ]	Nom masculin
+- Transport urbain sur rails.
+- tàu điện (Vietnamese)
+- tram (English)
+- Exemple : Le tramway passe toutes les 10 minutes.
+- Famille de mots : tramway (anglicisme)	
+- Latin root : de l’anglais *tramway*

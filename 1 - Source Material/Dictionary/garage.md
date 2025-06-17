@@ -1,0 +1,7 @@
+- garage	[ɡa.ʁaʒ]	Nom masculin
+- Abri pour voiture.
+- nhà để xe (Vietnamese)
+- garage (English)
+- Exemple : La maison a un grand garage.
+- Famille de mots : garer (to park)	
+- Latin root : du français *garer*

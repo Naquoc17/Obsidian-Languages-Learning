@@ -1,0 +1,7 @@
+- grand salon	[ɡʁɑ̃ sa.lɔ̃]	Groupe nominal
+- Grande pièce pour recevoir.
+- phòng khách rộng (Vietnamese)
+- large living room (English)
+- Exemple : Le grand salon est très confortable.
+- Famille de mots : salon (living room), grand (big)	
+- Latin root : *salon* (pièce), *grandis* (grand)

@@ -1,0 +1,7 @@
+- cave	[kav]	Nom féminin
+- Pièce souterraine pour stocker.
+- hầm chứa (Vietnamese)
+- cellar (English)
+- Exemple : Le vin est conservé dans la cave.
+- Famille de mots : caviste (wine merchant)	
+- Latin root : *cava* (creux)
