@@ -1,0 +1,7 @@
+- der Lernstoff	[ˈlɛʁnˌʃtɔf]	Substantiv (mask.)
+- Bedeutet: der zu lernende Inhalt
+- Nghĩa: tài liệu học tập
+- Proper translation: learning material
+- Beispiel: Der Lernstoff für die Prüfung ist sehr umfangreich.
+- Familienwörter: lernen (to learn), Stoff (material)	
+- Latin root: keine

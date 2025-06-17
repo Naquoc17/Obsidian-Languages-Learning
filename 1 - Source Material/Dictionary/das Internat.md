@@ -1,0 +1,7 @@
+- das Internat	[ɪntɛʁˈnaːt]	Substantiv (neut.)
+- Bedeutet: Schule mit Wohnmöglichkeit für Schüler
+- Nghĩa: trường nội trú
+- Proper translation: boarding school
+- Beispiel: Er besucht ein Internat in der Schweiz.
+- Familienwörter: Internatsschüler (boarding student)	
+- Latin root: *internare* (lateinisch: unterbringen)

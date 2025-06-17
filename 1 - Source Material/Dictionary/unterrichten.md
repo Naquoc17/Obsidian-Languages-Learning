@@ -1,0 +1,7 @@
+- unterrichten	[ʊntɐˈʁɪçtən]	Verb
+- Bedeutet: Wissen vermitteln
+- Nghĩa: dạy học
+- Proper translation: to teach
+- Beispiel: Der Lehrer unterrichtet Englisch.
+- Familienwörter: Unterricht (teaching), Unterrichtender (teacher)	
+- Latin root: *instruere* (unterweisen)

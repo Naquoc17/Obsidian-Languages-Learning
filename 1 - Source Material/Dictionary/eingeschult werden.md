@@ -1,0 +1,7 @@
+- eingeschult werden	[ˈaɪ̯nʃuːlt vɛʁdn̩]	Verb (Passiv)
+- Bedeutet: in die Schule aufgenommen werden
+- Nghĩa: được nhập học (vào trường tiểu học)
+- Proper translation: to be enrolled (in school)
+- Beispiel: Kinder werden in Deutschland im Alter von 6 Jahren eingeschult.
+- Familienwörter: die Einschulung (noun: school enrollment), einschulen (verb: to enroll in school)	
+- Latin root: keine

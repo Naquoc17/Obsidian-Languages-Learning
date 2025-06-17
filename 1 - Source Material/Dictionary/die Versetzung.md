@@ -1,0 +1,7 @@
+- die Versetzung	[fɛɐ̯ˈzɛʦʊŋ]	Substantiv (fem.)
+- Bedeutet: Übertritt in die nächste Klassenstufe
+- Nghĩa: lên lớp
+- Proper translation: promotion (to next grade)
+- Beispiel: Seine Versetzung ist gefährdet.
+- Familienwörter: versetzen (to transfer, to promote)	
+- Latin root: *ver-* (hinüber), *sedere* (sitzen)

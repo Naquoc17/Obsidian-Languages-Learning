@@ -1,0 +1,7 @@
+- didaktisch	[diˈdaktɪʃ]	Adjektiv
+- Bedeutet: lehrend, methodisch
+- Nghĩa: thuộc về giảng dạy
+- Proper translation: didactic, instructional
+- Beispiel: Der Unterricht ist sehr didaktisch aufgebaut.
+- Familienwörter: Didaktik	
+- Latin root: *didaktikos*

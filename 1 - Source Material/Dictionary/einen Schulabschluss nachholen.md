@@ -1,0 +1,7 @@
+- einen Schulabschluss nachholen	[ˈʔaɪ̯nən ˈʃuːlˌʔapʃlʊs ˈnaːxhoːlən]	Redewendung
+- Bedeutet: einen Abschluss später machen
+- Nghĩa: lấy bằng sau khi bỏ học
+- Proper translation: to catch up on a school diploma
+- Beispiel: Er möchte den Schulabschluss nachholen.
+- Familienwörter: nachholen (to catch up)	
+- Latin root: keine

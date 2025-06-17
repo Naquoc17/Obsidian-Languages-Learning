@@ -1,0 +1,7 @@
+- die Benotung	[bəˈnoːtʊŋ]	Substantiv (fem.)
+- Bedeutet: das Bewerten mit Noten
+- Nghĩa: sự chấm điểm
+- Proper translation: grading
+- Beispiel: Die Benotung erfolgt nach festen Kriterien.
+- Familienwörter: Note, benoten	
+- Latin root: *nota* (Zeichen)

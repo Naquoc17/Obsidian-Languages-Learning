@@ -1,0 +1,7 @@
+- die Vermittlung von Wissen	[diː fɛʁˈmɪtlʊŋ fɔn ˈvɪsn̩]	Redewendung
+- Bedeutet: das Weitergeben von Kenntnissen
+- Nghĩa: truyền đạt kiến thức
+- Proper translation: transmission of knowledge
+- Beispiel: Die Vermittlung von Wissen ist Aufgabe der Lehrer.
+- Familienwörter: vermitteln (to convey), Wissen (knowledge)	
+- Latin root: *mittere* (senden)

@@ -1,0 +1,7 @@
+- den Schülern Noten geben	[deːn ˈʃyːlɐn ˈnoːtən ˈɡeːbn̩]	Redewendung
+- Bedeutet: Leistungen bewerten
+- Nghĩa: chấm điểm cho học sinh
+- Proper translation: to give grades to students
+- Beispiel: Der Lehrer gibt den Schülern Noten nach der Klassenarbeit.
+- Familienwörter: Note, geben (to give)	
+- Latin root: *dare* (geben)

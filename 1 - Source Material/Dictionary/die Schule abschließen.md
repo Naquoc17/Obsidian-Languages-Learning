@@ -1,0 +1,7 @@
+- die Schule abschließen	[diː ˈʃuːlə ˈapʃliːsən]	Redewendung
+- Bedeutet: die Schullaufbahn beenden
+- Nghĩa: hoàn thành chương trình học
+- Proper translation: to graduate (from school)
+- Beispiel: Er hat die Schule erfolgreich abgeschlossen.
+- Familienwörter: Abschluss (graduation, completion)	
+- Latin root: *claudere* (schließen)

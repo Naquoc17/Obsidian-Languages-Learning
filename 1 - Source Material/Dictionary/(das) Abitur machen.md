@@ -1,0 +1,7 @@
+- (das) Abitur machen	[ˈabiˌtuːɐ̯ ˈmaxən]	Redewendung
+- Bedeutet: das höchste Schulabschlusszeugnis erwerben
+- Nghĩa: làm kỳ thi Abitur
+- Proper translation: to do the Abitur (final secondary school exams)
+- Beispiel: Sie möchte nächstes Jahr ihr Abitur machen.
+- Familienwörter: Abiturient (high school graduate), machen (to do)	
+- Latin root: *abire* (weggehen)

@@ -1,0 +1,7 @@
+- das Zeugnis	[ˈʦɔʏ̯ɡnɪs]	Substantiv (neut.)
+- Bedeutet: offizielles Dokument mit Noten
+- Nghĩa: bảng điểm
+- Proper translation: report card, certificate
+- Beispiel: Am Ende des Schuljahres bekommt man ein Zeugnis.
+- Familienwörter: bezeugen (to testify), Zeuge (witness)	
+- Latin root: *testimonium* (Zeugnis)

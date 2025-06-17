@@ -1,0 +1,7 @@
+- einen Schulabschluss haben	[ˈʔaɪ̯nən ˈʃuːlˌʔapʃlʊs ˈhaːbən]	Redewendung
+- Bedeutet: im Besitz eines Schulabschlusses sein
+- Nghĩa: có bằng tốt nghiệp
+- Proper translation: to have a school diploma
+- Beispiel: Er hat bereits einen Schulabschluss.
+- Familienwörter: Schulabschluss, haben (to have)	
+- Latin root: keine

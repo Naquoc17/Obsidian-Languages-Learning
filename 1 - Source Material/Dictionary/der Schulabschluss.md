@@ -1,0 +1,7 @@
+- der Schulabschluss	[ˈʃuːlˌʔapʃlʊs]	Substantiv (mask.)
+- Bedeutet: offizieller Abschluss der Schulzeit
+- Nghĩa: bằng tốt nghiệp
+- Proper translation: school graduation, school leaving certificate
+- Beispiel: Mit dem Schulabschluss kann man studieren.
+- Familienwörter: abschließen, Abschluss	
+- Latin root: *claudere*

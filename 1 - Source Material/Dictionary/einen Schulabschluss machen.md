@@ -1,0 +1,7 @@
+- einen Schulabschluss machen	[ˈʔaɪ̯nən ˈʃuːlˌʔapʃlʊs ˈmaxən]	Redewendung
+- Bedeutet: einen Schulabschluss erwerben
+- Nghĩa: lấy bằng tốt nghiệp
+- Proper translation: to graduate, to earn a school diploma
+- Beispiel: Er möchte dieses Jahr seinen Schulabschluss machen.
+- Familienwörter: Schulabschluss, machen (to make, to do)	
+- Latin root: *facere* (machen)

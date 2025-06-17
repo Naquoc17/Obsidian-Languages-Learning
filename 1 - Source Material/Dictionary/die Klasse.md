@@ -1,0 +1,7 @@
+- die Klasse	[ˈklasə]	Substantiv (fem.)
+- Bedeutet: eine Gruppe von Schülern derselben Stufe
+- Nghĩa: lớp học
+- Proper translation: class
+- Beispiel: In meiner Klasse sind 25 Schüler.
+- Familienwörter: Klassenkamerad (classmate), Klassenarbeit (class test)	
+- Latin root: *classis* (lateinisch: Gruppe)

@@ -1,0 +1,7 @@
+- die Vermittlung von Kenntnissen	[diː fɛʁˈmɪtlʊŋ fɔn ˈkɛntnɪsn̩]	Redewendung
+- Bedeutet: das Weitergeben von Fähigkeiten und Wissen
+- Nghĩa: truyền đạt kỹ năng, kiến thức
+- Proper translation: transmission of skills and knowledge
+- Beispiel: Die Vermittlung von Kenntnissen ist sehr wichtig.
+- Familienwörter: vermitteln, Kenntnisse (skills, knowledge)	
+- Latin root: *mittere*

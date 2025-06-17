@@ -1,0 +1,7 @@
+- Nachhilfeunterricht nehmen	[ˈnaːxˌhɪlfəʔʊntɐˌʁɪçt ˈneːmən]	Redewendung
+- Bedeutet: zusätzlichen Unterricht bekommen
+- Nghĩa: đi học thêm
+- Proper translation: to take private lessons
+- Beispiel: Sie nimmt Nachhilfeunterricht, um sich zu verbessern.
+- Familienwörter: Nachhilfe, Unterricht, nehmen (to take)	
+- Latin root: keine

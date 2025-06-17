@@ -1,0 +1,7 @@
+- die Schulpflicht	[ˈʃuːlpflɪçt]	Substantiv (fem.)
+- Bedeutet: gesetzliche Verpflichtung, zur Schule zu gehen
+- Nghĩa: nghĩa vụ đi học
+- Proper translation: compulsory education
+- Beispiel: In Deutschland besteht Schulpflicht bis zum 18. Lebensjahr.
+- Familienwörter: schulpflichtig	
+- Latin root: keine

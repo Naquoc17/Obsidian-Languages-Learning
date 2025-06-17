@@ -1,0 +1,7 @@
+- schulpflichtig	[ˈʃuːlpflɪçtɪç]	Adjektiv
+- Bedeutet: verpflichtet, zur Schule zu gehen
+- Nghĩa: có nghĩa vụ đi học
+- Proper translation: subject to compulsory education
+- Beispiel: Kinder sind ab sechs Jahren schulpflichtig.
+- Familienwörter: Schulpflicht	
+- Latin root: keine

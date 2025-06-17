@@ -1,0 +1,7 @@
+- das Gymnasium	[ɡʏmˈnaːzi̯ʊm]	Substantiv (neut.)
+- Bedeutet: weiterführende Schule mit Abiturabschluss
+- Nghĩa: trường trung học phổ thông
+- Proper translation: high school (academic track), grammar school
+- Beispiel: Er besucht das Gymnasium und macht später Abitur.
+- Familienwörter: Gymnasiast (grammar school student)	
+- Latin root: *gymnasium* (lateinisch: Übungsraum)

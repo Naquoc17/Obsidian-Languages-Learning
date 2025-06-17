@@ -1,0 +1,7 @@
+- das Fach	[faχ]	Substantiv (neut.)
+- Bedeutet: Unterrichtsgebiet
+- Nghĩa: môn học
+- Proper translation: subject
+- Beispiel: Biologie ist mein Lieblingsfach.
+- Familienwörter: Fachrichtung (specialization)	
+- Latin root: keine

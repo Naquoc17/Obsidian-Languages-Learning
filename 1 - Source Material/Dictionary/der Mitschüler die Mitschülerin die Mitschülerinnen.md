@@ -1,0 +1,7 @@
+- der Mitschüler / die Mitschülerin / die Mitschülerinnen	[ˈmɪtˌʃyːlɐ / ˈmɪtˌʃyːləʁɪn / ˈmɪtˌʃyːləʁɪnən]	Substantiv (mask. / fem. / fem. Plural)
+- Bedeutet: Person, die mit jemandem zusammen zur Schule geht
+- Nghĩa: bạn cùng lớp
+- Proper translation: classmate
+- Beispiel: Meine Mitschülerin hilft mir oft bei den Hausaufgaben.
+- Familienwörter: Schüler (pupil), mit- (together)	
+- Latin root: *schola* (Schule)

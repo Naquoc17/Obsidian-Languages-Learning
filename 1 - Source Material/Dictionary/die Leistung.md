@@ -1,0 +1,7 @@
+- die Leistung	[ˈlaɪ̯stʊŋ]	Substantiv (fem.)
+- Bedeutet: erbrachtes Arbeitsergebnis
+- Nghĩa: thành tích, kết quả
+- Proper translation: performance, achievement
+- Beispiel: Seine Leistungen sind sehr gut.
+- Familienwörter: leisten (to achieve)	
+- Latin root: keine

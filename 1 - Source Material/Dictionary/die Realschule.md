@@ -1,0 +1,7 @@
+- die Realschule	[ʁeˈaːlˌʃuːlə]	Substantiv (fem.)
+- Bedeutet: Schulform zwischen Hauptschule und Gymnasium
+- Nghĩa: trường trung học (Realschule)
+- Proper translation: Realschule (intermediate secondary school)
+- Beispiel: Sie geht auf eine Realschule.
+- Familienwörter: real (real, practical), Schule	
+- Latin root: *realis* (lateinisch: wirklich)

@@ -1,0 +1,7 @@
+- die Unterrichtsstunde	[ˈʊntɐˌʁɪçtˌʃtʊndə]	Substantiv (fem.)
+- Bedeutet: eine Unterrichtseinheit (meist 45 Minuten)
+- Nghĩa: tiết học
+- Proper translation: lesson period
+- Beispiel: Eine Unterrichtsstunde dauert 45 Minuten.
+- Familienwörter: Unterricht, Stunde	
+- Latin root: keine

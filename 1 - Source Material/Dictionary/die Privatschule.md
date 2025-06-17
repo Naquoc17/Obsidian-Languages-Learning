@@ -1,0 +1,7 @@
+- die Privatschule	[priˈvaːtʃuːlə]	Substantiv (fem.)
+- Bedeutet: von privaten Trägern finanzierte Schule
+- Nghĩa: trường tư
+- Proper translation: private school
+- Beispiel: Viele Eltern schicken ihre Kinder auf eine Privatschule.
+- Familienwörter: privat	
+- Latin root: *privatus* (lateinisch: privat)

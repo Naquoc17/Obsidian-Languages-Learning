@@ -1,0 +1,7 @@
+- die staatliche Schule	[ˈʃtaːtlɪçə ˈʃuːlə]	Substantiv (fem.)
+- Bedeutet: Schule, die vom Staat organisiert wird
+- Nghĩa: trường nhà nước
+- Proper translation: state school
+- Beispiel: Die staatliche Schule verlangt kein Schulgeld.
+- Familienwörter: Staat, staatlich	
+- Latin root: keine

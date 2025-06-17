@@ -1,0 +1,7 @@
+- der Unterricht	[ˈʊntɐˌʁɪçt]	Substantiv (mask.)
+- Bedeutet: Lehrveranstaltung, Wissensvermittlung
+- Nghĩa: bài giảng
+- Proper translation: lesson, teaching
+- Beispiel: Der Unterricht beginnt um 8 Uhr.
+- Familienwörter: unterrichten	
+- Latin root: *instruere*

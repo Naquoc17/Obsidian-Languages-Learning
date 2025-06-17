@@ -1,0 +1,7 @@
+- benoten	[bəˈnoːtn̩]	Verb
+- Bedeutet: mit einer Note bewerten
+- Nghĩa: chấm điểm
+- Proper translation: to grade
+- Beispiel: Die Lehrerin benotet die Prüfungen.
+- Familienwörter: Note, Benotung (grading)	
+- Latin root: *nota*

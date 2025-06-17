@@ -1,0 +1,7 @@
+- das Nebenfach	[ˈneːbn̩ˌfaχ]	Substantiv (neut.)
+- Bedeutet: zusätzliches, weniger wichtiges Fach
+- Nghĩa: môn phụ
+- Proper translation: minor subject
+- Beispiel: Musik ist sein Nebenfach.
+- Familienwörter: Neben- (beside), Fach	
+- Latin root: *ad-nebula* (im Deutschen nicht direkt lateinisch)

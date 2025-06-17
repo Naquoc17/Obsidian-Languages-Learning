@@ -1,0 +1,7 @@
+- in die ... Klasse gehen	[ɪn diː ... ˈklasə ˈɡeːən]	Redewendung
+- Bedeutet: einer bestimmten Klasse angehören
+- Nghĩa: học lớp ...
+- Proper translation: to be in the ... grade
+- Beispiel: Sie geht in die 5. Klasse.
+- Familienwörter: Klasse, gehen (to go)	
+- Latin root: *classis*

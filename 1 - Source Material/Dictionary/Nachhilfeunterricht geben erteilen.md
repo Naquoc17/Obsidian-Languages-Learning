@@ -1,0 +1,7 @@
+- Nachhilfeunterricht geben / erteilen	[ˈnaːxˌhɪlfəʔʊntɐˌʁɪçt ˈɡeːbən / ɛɐ̯ˈtaɪ̯lən]	Redewendung
+- Bedeutet: zusätzlichen Unterricht anbieten
+- Nghĩa: dạy thêm
+- Proper translation: to give private lessons
+- Beispiel: Er gibt Nachhilfeunterricht in Physik.
+- Familienwörter: Nachhilfe, Unterricht, geben (to give), erteilen (to grant)	
+- Latin root: *dare* (geben)

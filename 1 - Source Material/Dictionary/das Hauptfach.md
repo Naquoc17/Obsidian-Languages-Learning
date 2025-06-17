@@ -1,0 +1,7 @@
+- das Hauptfach	[ˈhaʊ̯ptˌfaχ]	Substantiv (neut.)
+- Bedeutet: wichtigstes Unterrichtsfach
+- Nghĩa: môn học chính
+- Proper translation: major subject
+- Beispiel: Mathematik ist ihr Hauptfach.
+- Familienwörter: Haupt- (main), Fach	
+- Latin root: *caput* (Haupt)

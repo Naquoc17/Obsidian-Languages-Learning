@@ -1,0 +1,7 @@
+- die Schule abbrechen	[diː ˈʃuːlə ˈapˌbʁɛçən]	Redewendung
+- Bedeutet: die Schule vor dem Abschluss verlassen
+- Nghĩa: bỏ học
+- Proper translation: to drop out of school
+- Beispiel: Er hat die Schule im dritten Jahr abgebrochen.
+- Familienwörter: Abbruch (dropout), abbrechen (to break off)	
+- Latin root: *ab-* (weg), *brecare* (brechen)

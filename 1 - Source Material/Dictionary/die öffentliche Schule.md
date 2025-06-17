@@ -1,0 +1,7 @@
+- die öffentliche Schule	[ˈœfn̩tliçə ˈʃuːlə]	Substantiv (fem.)
+- Bedeutet: Schule, die vom Staat finanziert wird
+- Nghĩa: trường công lập
+- Proper translation: public school
+- Beispiel: In Deutschland sind die meisten Schulen öffentliche Schulen.
+- Familienwörter: Staat, öffentlich	
+- Latin root: keine

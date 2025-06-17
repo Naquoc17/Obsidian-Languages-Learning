@@ -1,0 +1,7 @@
+- die Nachhilfe	[ˈnaːxˌhɪlfə]	Substantiv (fem.)
+- Bedeutet: zusätzlicher Unterricht zur Unterstützung
+- Nghĩa: học phụ đạo
+- Proper translation: tutoring
+- Beispiel: Er nimmt Nachhilfe in Mathematik.
+- Familienwörter: helfen (to help), Hilfe (help)	
+- Latin root: keine

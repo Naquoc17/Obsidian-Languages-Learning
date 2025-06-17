@@ -1,0 +1,7 @@
+- die Klassenarbeit schreiben	[ˈklasənˌʔaʁbaɪ̯t ˈʃʁaɪ̯bn̩]	Redewendung
+- Bedeutet: eine schriftliche Prüfung schreiben
+- Nghĩa: làm bài kiểm tra trên lớp
+- Proper translation: to take a class test
+- Beispiel: Morgen schreiben wir eine Klassenarbeit in Mathe.
+- Familienwörter: Klassenarbeit (class test), schreiben (to write)	
+- Latin root: *scribere* (schreiben)

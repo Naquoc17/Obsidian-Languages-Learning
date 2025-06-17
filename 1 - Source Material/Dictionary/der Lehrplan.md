@@ -1,0 +1,7 @@
+- der Lehrplan	[ˈleːɐ̯ˌplaːn]	Substantiv (mask.)
+- Bedeutet: offizieller Plan der Unterrichtsinhalte
+- Nghĩa: chương trình học
+- Proper translation: curriculum
+- Beispiel: Der Lehrplan wird jedes Jahr aktualisiert.
+- Familienwörter: lehren (to teach), Plan (plan)	
+- Latin root: *planus* (flach, klar)

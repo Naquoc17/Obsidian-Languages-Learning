@@ -1,0 +1,7 @@
+- die Note	[ˈnoːtə]	Substantiv (fem.)
+- Bedeutet: Bewertung der Leistung
+- Nghĩa: điểm số
+- Proper translation: grade, mark
+- Beispiel: Ich habe eine gute Note in Deutsch bekommen.
+- Familienwörter: benoten (to grade), Notenvergabe (grading)	
+- Latin root: *nota* (Zeichen)

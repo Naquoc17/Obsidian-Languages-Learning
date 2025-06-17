@@ -1,0 +1,7 @@
+- die Einschulung	[ˈaɪ̯nʃuːlʊŋ]	Substantiv (fem.)
+- Bedeutet: offizieller Beginn der Schulzeit
+- Nghĩa: sự nhập học
+- Proper translation: school enrollment
+- Beispiel: Die Einschulung ist für die Kinder ein besonderer Tag.
+- Familienwörter: eingeschult werden, einschulen	
+- Latin root: keine

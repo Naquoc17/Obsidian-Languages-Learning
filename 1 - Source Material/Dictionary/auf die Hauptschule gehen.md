@@ -1,0 +1,7 @@
+- auf die Hauptschule gehen	[aʊ̯f diː ˈhaʊ̯ptˌʃuːlə ˈɡeːən]	Redewendung
+- Bedeutet: eine bestimmte Schulform besuchen (in Deutschland)
+- Nghĩa: học trường Hauptschule
+- Proper translation: to attend the Hauptschule
+- Beispiel: Nach der Grundschule geht er auf die Hauptschule.
+- Familienwörter: Hauptschule (secondary school type)	
+- Latin root: keine

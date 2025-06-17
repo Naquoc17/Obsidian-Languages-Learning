@@ -1,0 +1,7 @@
+- die ... Klasse besuchen	[diː ... ˈklasə bəˈzuːxən]	Redewendung
+- Bedeutet: in eine bestimmte Klassenstufe gehen
+- Nghĩa: học lớp ...
+- Proper translation: to attend the ... grade
+- Beispiel: Er besucht die 10. Klasse.
+- Familienwörter: Klasse, besuchen (to attend, to visit)	
+- Latin root: *classis*

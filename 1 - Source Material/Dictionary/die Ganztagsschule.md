@@ -1,0 +1,7 @@
+- die Ganztagsschule	[ˈɡanʦˌtaːksʃuːlə]	Substantiv (fem.)
+- Bedeutet: Schule mit Unterricht am Vor- und Nachmittag
+- Nghĩa: trường học cả ngày
+- Proper translation: all-day school
+- Beispiel: In einer Ganztagsschule bleiben die Schüler bis zum Nachmittag.
+- Familienwörter: Tag (day), Schule	
+- Latin root: keine
