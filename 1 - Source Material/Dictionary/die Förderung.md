@@ -1,0 +1,7 @@
+- die Förderung	[ˈfœʁdɐʊ̯ŋ]	Substantiv (fem.)
+- Bedeutet: Unterstützung zur Entwicklung
+- Nghĩa: sự hỗ trợ
+- Proper translation: support, promotion
+- Beispiel: Die Förderung der Talente beginnt früh.
+- Familienwörter: fördern	
+- Latin root: keine

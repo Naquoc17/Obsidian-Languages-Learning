@@ -1,0 +1,7 @@
+- Kenntnisse erweitern	[ˈkɛntnɪsə ɛɐ̯ˈvaɪ̯tɐn]	Redewendung
+- Bedeutet: sein Wissen vergrößern
+- Nghĩa: mở rộng kiến thức
+- Proper translation: to expand knowledge
+- Beispiel: Durch den Kurs konnte er seine Kenntnisse erweitern.
+- Familienwörter: Kenntnisse, erweitern (to expand)	
+- Latin root: *e-* (heraus), *vitare* (nicht direkt lateinisch)

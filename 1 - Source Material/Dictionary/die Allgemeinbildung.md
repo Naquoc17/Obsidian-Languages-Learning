@@ -1,0 +1,7 @@
+- die Allgemeinbildung	[ˈalɡəˌmaɪ̯nbɪldʊŋ]	Substantiv (fem.)
+- Bedeutet: allgemeines Wissen
+- Nghĩa: kiến thức phổ thông
+- Proper translation: general education
+- Beispiel: Allgemeinbildung ist wichtig für jeden.
+- Familienwörter: allgemein (general), Bildung (education)	
+- Latin root: keine

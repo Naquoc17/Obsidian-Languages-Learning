@@ -1,0 +1,7 @@
+- sich fortbilden / sich weiterbilden	[zɪç ˈfɔʁtbɪldn̩ / ˈvaɪ̯tɐbɪldn̩]	Redewendung
+- Bedeutet: zusätzliches Wissen erwerben
+- Nghĩa: học thêm, bồi dưỡng kiến thức
+- Proper translation: to continue one's education
+- Beispiel: Er bildet sich beruflich fort.
+- Familienwörter: Fortbildung, Weiterbildung	
+- Latin root: *fort-* (weiter), *bildung* (formation)

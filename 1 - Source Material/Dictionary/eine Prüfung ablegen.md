@@ -1,0 +1,7 @@
+- eine Prüfung ablegen	[ˈaɪ̯nə ˈpʁyːfʊŋ ˈʔapˌleːɡn̩]	Redewendung
+- Bedeutet: eine Prüfung machen
+- Nghĩa: tham gia kỳ thi
+- Proper translation: to take an exam
+- Beispiel: Er muss nächste Woche eine Prüfung ablegen.
+- Familienwörter: Prüfung (exam), ablegen (to take)	
+- Latin root: keine

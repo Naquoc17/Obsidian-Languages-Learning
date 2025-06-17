@@ -1,0 +1,7 @@
+- der Analphabet / die Analphabetin / die Analphabeten	[ˈanaɫfaˌbeːt]	Substantiv (mask./fem./Plural)
+- Bedeutet: Person, die nicht lesen und schreiben kann
+- Nghĩa: người mù chữ
+- Proper translation: illiterate person
+- Beispiel: In manchen Ländern gibt es viele Analphabeten.
+- Familienwörter: Analphabetismus	
+- Latin root: *an-* (ohne), *alphabetos*

@@ -1,0 +1,7 @@
+- die Fortbildung / die Weiterbildung	[ˈfɔʁtbɪldʊŋ / ˈvaɪ̯tɐbɪldʊŋ]	Substantiv (fem.)
+- Bedeutet: zusätzliche berufliche Qualifikation
+- Nghĩa: khóa học nâng cao
+- Proper translation: advanced training, further education
+- Beispiel: Die Fortbildung dauert drei Monate.
+- Familienwörter: fortbilden, weiterbilden	
+- Latin root: keine

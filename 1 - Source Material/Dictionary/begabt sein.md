@@ -1,0 +1,7 @@
+- begabt sein	[bəˈɡaːpt zaɪ̯n]	Redewendung
+- Bedeutet: Talent oder besondere Fähigkeiten haben
+- Nghĩa: có năng khiếu
+- Proper translation: to be gifted, talented
+- Beispiel: Er ist musikalisch sehr begabt.
+- Familienwörter: Begabung (talent)	
+- Latin root: keine

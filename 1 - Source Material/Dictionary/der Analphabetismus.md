@@ -1,0 +1,7 @@
+- der Analphabetismus	[ˌanaɫfaˈbeːtɪsmʊs]	Substantiv (mask.)
+- Bedeutet: Unfähigkeit zu lesen und zu schreiben
+- Nghĩa: nạn mù chữ
+- Proper translation: illiteracy
+- Beispiel: Analphabetismus ist ein weltweites Problem.
+- Familienwörter: Analphabet	
+- Latin root: *an-* (ohne), *alphabetos* (griechisch: Buchstaben)

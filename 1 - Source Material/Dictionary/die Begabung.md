@@ -1,0 +1,7 @@
+- die Begabung	[bəˈɡaːbʊŋ]	Substantiv (fem.)
+- Bedeutet: besonderes Talent
+- Nghĩa: năng khiếu
+- Proper translation: talent, aptitude
+- Beispiel: Sie hat eine große Begabung für Sprachen.
+- Familienwörter: begabt sein	
+- Latin root: keine

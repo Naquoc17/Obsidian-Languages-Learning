@@ -1,0 +1,7 @@
+- jdn. fördern	[ˈfœʁdɐn]	Verb
+- Bedeutet: jemanden unterstützen und entwickeln helfen
+- Nghĩa: hỗ trợ ai đó
+- Proper translation: to support, to promote
+- Beispiel: Die Schule fördert begabte Schüler.
+- Familienwörter: Förderung (support)	
+- Latin root: keine

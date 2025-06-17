@@ -1,0 +1,7 @@
+- sich Kenntnisse aneignen	[zɪç ˈkɛntnɪsə ˈanaɪ̯ɡnən]	Redewendung
+- Bedeutet: sich Wissen selbstständig beibringen
+- Nghĩa: tự học kiến thức
+- Proper translation: to acquire knowledge (self-study)
+- Beispiel: Er hat sich die Kenntnisse selbst angeeignet.
+- Familienwörter: Kenntnisse, aneignen (to appropriate)	
+- Latin root: *ad* (zu), *aequare* (angleichen)

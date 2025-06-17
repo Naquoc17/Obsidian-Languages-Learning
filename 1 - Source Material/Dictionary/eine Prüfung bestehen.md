@@ -1,0 +1,7 @@
+- eine Prüfung bestehen	[ˈaɪ̯nə ˈpʁyːfʊŋ bəˈʃteːən]	Redewendung
+- Bedeutet: eine Prüfung erfolgreich absolvieren
+- Nghĩa: vượt qua kỳ thi
+- Proper translation: to pass an exam
+- Beispiel: Sie hat die Prüfung bestanden.
+- Familienwörter: bestehen (to pass, to exist)	
+- Latin root: *stare* (stehen)

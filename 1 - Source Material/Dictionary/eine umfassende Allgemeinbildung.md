@@ -1,0 +1,7 @@
+- eine umfassende Allgemeinbildung	[ˈʊmfasəndə ˈalɡəˌmaɪ̯nbɪldʊŋ]	Redewendung
+- Bedeutet: sehr breites Wissen in vielen Bereichen
+- Nghĩa: kiến thức tổng hợp toàn diện
+- Proper translation: a comprehensive general education
+- Beispiel: Er hat eine umfassende Allgemeinbildung.
+- Familienwörter: umfassend (comprehensive), Allgemeinbildung	
+- Latin root: keine

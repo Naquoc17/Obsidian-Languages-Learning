@@ -1,0 +1,7 @@
+- das Anmeldeformular	[ˈʔanˌmɛldəfɔʁmuˌlaːɐ̯]	Substantiv (neut.)
+- Bedeutet: Formular zur Anmeldung
+- Nghĩa: đơn đăng ký
+- Proper translation: registration form
+- Beispiel: Bitte füllen Sie das Anmeldeformular aus.
+- Familienwörter: Anmeldung (registration), Formular (form)	
+- Latin root: *formulare* (formen)

@@ -1,0 +1,7 @@
+- bei einer Prüfung durchfallen	[baɪ̯ ˈaɪ̯nɐ ˈpʁyːfʊŋ ˈdʊʁçˌfalən]	Redewendung
+- Bedeutet: eine Prüfung nicht bestehen
+- Nghĩa: trượt kỳ thi
+- Proper translation: to fail an exam
+- Beispiel: Er ist bei der Prüfung durchgefallen.
+- Familienwörter: durchfallen (to fail)	
+- Latin root: keine

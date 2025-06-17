@@ -1,0 +1,7 @@
+- einen Kurs belegen	[ˈaɪ̯nən kʊʁs bəˈleːɡən]	Redewendung
+- Bedeutet: sich für einen Kurs anmelden
+- Nghĩa: đăng ký khóa học
+- Proper translation: to enroll in a course
+- Beispiel: Er belegt einen Sprachkurs.
+- Familienwörter: Kurs, belegen (to enroll)	
+- Latin root: *legere* (lesen, auswählen)

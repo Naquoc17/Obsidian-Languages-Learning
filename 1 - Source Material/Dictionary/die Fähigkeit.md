@@ -1,0 +1,7 @@
+- die Fähigkeit	[ˈfɛːɪçkaɪ̯t]	Substantiv (fem.)
+- Bedeutet: Können, Kompetenz
+- Nghĩa: khả năng
+- Proper translation: ability, skill
+- Beispiel: Er hat die Fähigkeit, schnell zu lernen.
+- Familienwörter: fähig (capable)	
+- Latin root: *facere* (machen)

@@ -1,0 +1,7 @@
+- Kenntnisse praktisch anwenden	[ˈkɛntnɪsə ˈpʁaktɪʃ ˈanvɛndən]	Redewendung
+- Bedeutet: das Gelernte in der Praxis nutzen
+- Nghĩa: áp dụng kiến thức vào thực tế
+- Proper translation: to apply knowledge in practice
+- Beispiel: Im Praktikum kann man Kenntnisse praktisch anwenden.
+- Familienwörter: Kenntnisse, anwenden (to apply)	
+- Latin root: *applicare* (anwenden)

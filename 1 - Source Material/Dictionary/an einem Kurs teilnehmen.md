@@ -1,0 +1,7 @@
+- an einem Kurs teilnehmen	[an ˈaɪ̯nəm kʊʁs ˈtaɪ̯lneːmən]	Redewendung
+- Bedeutet: bei einem Kurs mitmachen
+- Nghĩa: tham gia khóa học
+- Proper translation: to attend a course
+- Beispiel: Viele Studenten nehmen an dem Kurs teil.
+- Familienwörter: Kurs, teilnehmen (to participate)	
+- Latin root: *tenere* (halten), *partem* (Teil)
