@@ -1,0 +1,7 @@
+- der Duft	[dʊft]	Substantiv (mask.)
+- Bedeutet: angenehmer Geruch
+- Nghĩa: mùi thơm
+- Proper translation: scent, fragrance
+- Beispiel: Der Duft der Blumen liegt in der Luft.
+- Familienwörter: duften (to smell nice)	
+- Latin root: keine

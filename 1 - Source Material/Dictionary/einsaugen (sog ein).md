@@ -1,0 +1,7 @@
+- einsaugen (sog ein)	[ˈaɪ̯nˌzaʊ̯ɡn̩]	Verb (stark)
+- Bedeutet: etwas durch Saugen aufnehmen
+- Nghĩa: hút vào, hấp thụ
+- Proper translation: to suck in, to absorb
+- Beispiel: Der Staubsauger saugt den Staub ein.
+- Familienwörter: saugen (to suck), Einsaugung (intake)	
+- Latin root: keine

@@ -1,0 +1,7 @@
+- der Henkelkorb	[ˈhɛŋkl̩ˌkɔʁp]	Substantiv (mask.)
+- Bedeutet: Korb mit Griff zum Tragen
+- Nghĩa: giỏ xách có quai
+- Proper translation: basket with handle
+- Beispiel: Sie trug das Obst im Henkelkorb nach Hause.
+- Familienwörter: Henkel (handle), Korb (basket)	
+- Latin root: *corbis* (Korb)

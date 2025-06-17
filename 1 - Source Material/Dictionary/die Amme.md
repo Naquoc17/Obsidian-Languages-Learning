@@ -1,0 +1,7 @@
+- die Amme	[ˈamə]	Substantiv (fem.)
+- Bedeutet: Frau, die ein fremdes Kind stillt und betreut
+- Nghĩa: vú nuôi (người cho trẻ bú và chăm sóc)
+- Proper translation: wet nurse, nursemaid
+- Beispiel: Früher wurden Prinzen oft von einer Amme aufgezogen.
+- Familienwörter: Ammenmärchen (old wives' tale = chuyện hoang đường), Ammenzeit (Zeit der Stillpflege)	
+- Latin root: keine (germanischer Ursprung)

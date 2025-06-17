@@ -1,0 +1,7 @@
+- sich ärgern	[ˈɛʁɡɐn]	Reflexives Verb
+- Bedeutet: wütend oder unzufrieden werden
+- Nghĩa: tức giận, bực mình
+- Proper translation: to get annoyed, to be angry
+- Beispiel: Ich ärgere mich über den Lärm.
+- Familienwörter: Ärger (anger), ärgerlich (annoyed)	
+- Latin root: keine

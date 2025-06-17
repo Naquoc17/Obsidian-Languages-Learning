@@ -1,0 +1,7 @@
+- jemandem zuwider sein	[ʦuˈviːdɐ zaɪ̯n]	Redewendung
+- Bedeutet: unangenehm oder widerwärtig für jemanden sein
+- Nghĩa: gây khó chịu, làm ai đó phản cảm
+- Proper translation: to be repugnant to someone, to be distasteful
+- Beispiel: Gewalt ist mir zuwider.
+- Familienwörter: zuwider (repugnant), Widerwille (aversion)	
+- Latin root: keine (altes Deutsch: *wider* = gegen)

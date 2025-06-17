@@ -1,0 +1,7 @@
+- belästigen	[bəˈlɛstɪɡn̩]	Verb (transitiv)
+- Bedeutet: jemandem unangenehm nahe kommen, stören, bedrängen
+- Nghĩa: quấy rối, làm phiền
+- Proper translation: to bother, to harass
+- Beispiel: Bitte belästigen Sie mich nicht mit Werbung!
+- Familienwörter: Belästigung (harassment, annoyance)	
+- Latin root: keine (aus mittelhochdeutsch „belæstigen“)

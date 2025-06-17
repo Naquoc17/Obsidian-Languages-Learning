@@ -1,0 +1,7 @@
+- verströmen	[fɛɐ̯ˈʃtʁøːmən]	Verb
+- Bedeutet: ausströmen lassen, verbreiten
+- Nghĩa: tỏa ra, lan tỏa
+- Proper translation: to exude, to emit
+- Beispiel: Die Blumen verströmen einen angenehmen Duft.
+- Familienwörter: strömen (to flow), Strom (stream)	
+- Latin root: *struere* (bauen, schichten — entfernte Wurzel)

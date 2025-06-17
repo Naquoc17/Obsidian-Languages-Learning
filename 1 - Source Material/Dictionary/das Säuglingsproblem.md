@@ -1,0 +1,7 @@
+- das Säuglingsproblem	[ˈzɔɪ̯ɡlɪŋsˌpʁoːbleːm]	Substantiv (neut.)
+- Bedeutet: Problem im Zusammenhang mit einem Säugling (Baby)
+- Nghĩa: vấn đề liên quan đến trẻ sơ sinh
+- Proper translation: infant problem
+- Beispiel: Das Krankenhaus kümmert sich um Säuglingsprobleme.
+- Familienwörter: Säugling (infant), Problem (problem)	
+- Latin root: *problema* (griechisch-lateinisch: Aufgabe)

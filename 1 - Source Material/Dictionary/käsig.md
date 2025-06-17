@@ -1,0 +1,7 @@
+- käsig	[ˈkɛːzɪç]	Adjektiv
+- Bedeutet: nach Käse riechend oder an Käse erinnernd (Geruch, Konsistenz)
+- Nghĩa: có mùi hoặc kết cấu như pho mát
+- Proper translation: cheesy (smelling or textured like cheese)
+- Beispiel: Der käsige Geruch war unangenehm.
+- Familienwörter: Käse (cheese)	
+- Latin root: *caseus* (lat.: cheese)

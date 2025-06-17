@@ -1,0 +1,7 @@
+- der Atemzug	[ˈaːtəmˌʦuːk]	Substantiv (mask.)
+- Bedeutet: einmal ein- und ausatmen
+- Nghĩa: hơi thở
+- Proper translation: breath
+- Beispiel: Mit einem tiefen Atemzug beruhigte er sich.
+- Familienwörter: Atem (breath), ziehen (to pull, draw)	
+- Latin root: keine

@@ -1,0 +1,7 @@
+- in Ruhe lassen	[ɪn ˈʁuːə ˈlasn̩]	Redewendung
+- Bedeutet: nicht stören
+- Nghĩa: để yên
+- Proper translation: to leave in peace
+- Beispiel: Lass mich bitte in Ruhe!
+- Familienwörter: Ruhe (peace), lassen (to let)	
+- Latin root: keine

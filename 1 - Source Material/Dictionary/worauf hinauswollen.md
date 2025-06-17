@@ -1,0 +1,7 @@
+- worauf hinauswollen	[voˈʁaʊ̯f hɪˈnaʊ̯sˌvɔlən]	Redewendung
+- Bedeutet: auf ein bestimmtes Ziel, eine Aussage abzielen
+- Nghĩa: muốn nói đến điều gì
+- Proper translation: to be getting at something
+- Beispiel: Worauf willst du eigentlich hinaus?
+- Familienwörter: hinauswollen (to aim at), wollen (to want), hinaus (outwards)	
+- Latin root: keine

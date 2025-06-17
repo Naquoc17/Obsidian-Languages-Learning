@@ -1,0 +1,7 @@
+- die Pforte	[ˈpfɔʁtə]	Substantiv (fem.)
+- Bedeutet: kleines Tor, Eingang
+- Nghĩa: cổng nhỏ, cửa vào
+- Proper translation: gate, portal
+- Beispiel: Die Pforte zum Schloss war geschlossen.
+- Familienwörter: Tor (gate), Pförtner (gatekeeper)	
+- Latin root: *porta* (lat.: gate)

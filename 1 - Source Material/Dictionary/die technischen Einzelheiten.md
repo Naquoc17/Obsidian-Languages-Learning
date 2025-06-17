@@ -1,0 +1,7 @@
+- die technischen Einzelheiten	[ˈtɛçnɪʃən ˈaɪ̯nʦəlˌhaɪ̯tn̩]	Substantiv (Plural, fem.)
+- Bedeutet: kleine, konkrete Details eines technischen Vorgangs
+- Nghĩa: chi tiết kỹ thuật
+- Proper translation: technical details
+- Beispiel: Die Ingenieure besprechen die technischen Einzelheiten.
+- Familienwörter: Technik (technology), Einzelheit (detail), technisch (technical)	
+- Latin root: *technē* (griechisch: Kunst, Handwerk)

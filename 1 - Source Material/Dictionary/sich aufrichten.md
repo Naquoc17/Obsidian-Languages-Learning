@@ -1,0 +1,7 @@
+- sich aufrichten	[ˈaʊ̯fˌʁɪçtn̩]	Reflexives Verb
+- Bedeutet: sich aufrecht hinstellen, hochkommen
+- Nghĩa: ngồi dậy, đứng thẳng dậy
+- Proper translation: to sit up, to straighten up
+- Beispiel: Er richtete sich langsam auf.
+- Familienwörter: richten (to straighten), auf (up)	
+- Latin root: keine

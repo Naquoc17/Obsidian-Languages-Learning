@@ -1,0 +1,7 @@
+- wünschen	[ˈvʏnʃn̩]	Verb
+- Bedeutet: etwas erhoffen, erbitten
+- Nghĩa: mong muốn, ước
+- Proper translation: to wish
+- Beispiel: Ich wünsche dir viel Glück!
+- Familienwörter: Wunsch (wish), wünschenswert (desirable)	
+- Latin root: keine
