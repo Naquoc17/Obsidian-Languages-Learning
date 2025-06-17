@@ -1,0 +1,5 @@
+- expandieren	[ɛkspanˈdiːʁən]	Verb
+- Mở rộng
+- Nghĩa: phát triển, mở rộng thị trường
+- Proper translation: to expand
+- Beispiel: Die Firma expandiert weltweit.

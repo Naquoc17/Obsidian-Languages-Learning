@@ -1,0 +1,5 @@
+- die Umfrage	[ˈʊmˌfʁaːɡə]	Substantiv (fem.)
+- Khảo sát
+- Nghĩa: điều tra ý kiến
+- Proper translation: survey
+- Beispiel: Die Umfrage zeigt interessante Ergebnisse.

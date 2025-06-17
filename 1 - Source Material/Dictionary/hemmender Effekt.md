@@ -1,0 +1,5 @@
+- hemmender Effekt	[ˈhɛməndɐ ɛˈfɛkt]	Substantiv (mask.)
+- Tác động kìm hãm
+- Nghĩa: tác động tiêu cực, gây cản trở
+- Proper translation: inhibiting effect
+- Beispiel: Sprachbarrieren haben einen hemmenden Effekt.

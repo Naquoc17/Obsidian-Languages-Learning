@@ -1,0 +1,5 @@
+- mühevolle Kleinarbeit	[ˈmyːəˌfɔlə ˈklaɪ̯nˌʔaʁbaɪ̯t]	Substantiv (fem.)
+- Công việc tỉ mỉ, vất vả
+- Nghĩa: công việc nhỏ nhặt nhưng tốn công
+- Proper translation: painstaking detail work
+- Beispiel: Die Datenaufbereitung ist mühevolle Kleinarbeit.

@@ -1,0 +1,6 @@
+- gelten als	[ˈɡɛltn̩ als]	Redewendung
+- Được coi là
+- Nghĩa: được xem là
+- Proper translation: to be regarded as
+- Beispiel: Er gilt als Experte.
+- Familienwörter: gelten

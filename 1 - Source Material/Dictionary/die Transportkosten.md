@@ -1,0 +1,6 @@
+- die Transportkosten	[tʁansˈpɔʁtkɔstn̩]	Substantiv (Plural, fem.)
+- Chi phí vận chuyển
+- Nghĩa: tiền vận chuyển hàng hóa
+- Proper translation: transport costs
+- Beispiel: Die Transportkosten steigen.
+- Familienwörter: Transport, Kosten

@@ -1,0 +1,5 @@
+- die koloniale Vergangenheit	[kɔlɔˈni̯aːlə faʁˈɡaŋənhaɪ̯t]	Substantiv (fem.)
+- Quá khứ thuộc địa
+- Nghĩa: lịch sử thực dân
+- Proper translation: colonial past
+- Beispiel: Die koloniale Vergangenheit prägt viele Handelsbeziehungen.

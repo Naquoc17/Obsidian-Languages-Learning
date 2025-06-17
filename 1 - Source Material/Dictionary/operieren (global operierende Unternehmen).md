@@ -1,0 +1,5 @@
+- operieren (global operierende Unternehmen)	[ɔpeˈʁiːʁən]	Verb
+- Hoạt động (trên phạm vi toàn cầu)
+- Nghĩa: hoạt động kinh doanh
+- Proper translation: to operate (globally operating companies)
+- Beispiel: Global operierende Unternehmen wachsen schnell.

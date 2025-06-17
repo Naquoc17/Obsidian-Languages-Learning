@@ -1,0 +1,5 @@
+- konkurrenzfähig	[kɔŋkuˈʁɛnt͡sˌfɛɪ̯ɡ]	Adjektiv
+- Có tính cạnh tranh
+- Nghĩa: đủ sức cạnh tranh
+- Proper translation: competitive
+- Beispiel: Das Unternehmen ist konkurrenzfähig.

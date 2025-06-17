@@ -1,0 +1,6 @@
+- die Barriere	[baˈʁiːʁə]	Substantiv (fem.)
+- Rào cản
+- Nghĩa: vật cản
+- Proper translation: barrier
+- Beispiel: Sprachbarrieren abbauen.
+- Familienwörter: Barrierefreiheit

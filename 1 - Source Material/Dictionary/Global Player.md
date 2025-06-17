@@ -1,0 +1,5 @@
+- Global Player	[ɡloˈbaːl ˈpleɪ̯ɐ]	Substantiv (mask.)
+- Tập đoàn toàn cầu
+- Nghĩa: công ty hoạt động toàn cầu
+- Proper translation: global player
+- Beispiel: Siemens ist ein Global Player.

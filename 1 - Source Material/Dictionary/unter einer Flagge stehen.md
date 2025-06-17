@@ -1,0 +1,5 @@
+- unter einer Flagge stehen	[ˈʊntɐ ˈaɪ̯nɐ ˈflaɡə ˈʃteːən]	Redewendung
+- Dưới cùng một quốc gia
+- Nghĩa: thuộc cùng hệ thống quản lý
+- Proper translation: to be under one flag
+- Beispiel: Die Länder standen früher unter einer Flagge.

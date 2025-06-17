@@ -1,0 +1,5 @@
+- ehemalige Kolonialbeziehungen	[ˈeːmaˌliːɡə kɔlɔˈni̯aːl bəˈʦiːʊŋən]	Substantiv (Plural, fem.)
+- Quan hệ thuộc địa cũ
+- Nghĩa: mối quan hệ thuộc địa trong quá khứ
+- Proper translation: former colonial ties
+- Beispiel: Ehemalige Kolonialbeziehungen beeinflussen den Handel.

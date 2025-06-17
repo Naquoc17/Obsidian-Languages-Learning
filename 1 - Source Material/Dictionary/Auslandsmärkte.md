@@ -1,0 +1,5 @@
+- Auslandsmärkte	[ˈaʊ̯slantsˌmɛʁktə]	Substantiv (Plural, mask.)
+- Thị trường nước ngoài
+- Nghĩa: thị trường quốc tế
+- Proper translation: foreign markets
+- Beispiel: Die Firma expandiert in Auslandsmärkte.

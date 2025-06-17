@@ -1,0 +1,5 @@
+- Geld verlieren	[ɡɛlt fɛɐ̯ˈliːʁən]	Redewendung
+- Mất tiền
+- Nghĩa: thua lỗ tài chính
+- Proper translation: to lose money
+- Beispiel: Das Unternehmen hat Geld verloren.

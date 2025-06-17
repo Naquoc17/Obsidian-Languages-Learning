@@ -1,0 +1,5 @@
+- exotischere Sprachräume	[ɛkˈzoːtɪʃəʁə ˈʃpʁaːxʁɔɪ̯mə]	Substantiv (Plural, mask.)
+- Khu vực ngôn ngữ lạ
+- Nghĩa: khu vực dùng ngôn ngữ hiếm gặp
+- Proper translation: more exotic language areas
+- Beispiel: Firmen erschließen exotischere Sprachräume.

@@ -1,0 +1,5 @@
+- untersuchen	[ˌʊntɐˈzuːxn̩]	Verb
+- Nghiên cứu, kiểm tra
+- Nghĩa: khảo sát, phân tích
+- Proper translation: to investigate
+- Beispiel: Die Wissenschaftler untersuchen das Phänomen.

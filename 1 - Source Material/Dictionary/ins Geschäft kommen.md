@@ -1,0 +1,5 @@
+- ins Geschäft kommen	[ɪns ɡəˈʃɛft ˈkɔmən]	Redewendung
+- Ký kết làm ăn
+- Nghĩa: bắt đầu hợp tác kinh doanh
+- Proper translation: to start doing business
+- Beispiel: Wir sind ins Geschäft gekommen.

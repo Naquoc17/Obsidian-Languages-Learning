@@ -1,0 +1,5 @@
+- die Expansion in die Fremde	[ɛkspanˈʦi̯oːn ɪn diː ˈfʁɛmdə]	Substantiv (fem.)
+- Mở rộng ra nước ngoài
+- Nghĩa: phát triển thị trường quốc tế
+- Proper translation: expansion abroad
+- Beispiel: Die Expansion in die Fremde birgt Risiken.

@@ -1,0 +1,5 @@
+- standardisiert	[ʃtandaʁˈdiːʁt]	Adjektiv
+- Chuẩn hóa
+- Nghĩa: đã được chuẩn hóa
+- Proper translation: standardized
+- Beispiel: Standardisierte Verträge vereinfachen Verhandlungen.

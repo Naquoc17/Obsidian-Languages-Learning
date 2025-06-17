@@ -1,0 +1,6 @@
+- die Laute	[ˈlaʊ̯tə]	Substantiv (Plural, mask.)
+- Âm thanh
+- Nghĩa: âm trong ngôn ngữ
+- Proper translation: sounds
+- Beispiel: Die deutschen Laute sind schwierig.
+- Familienwörter: Lautschrift

@@ -1,0 +1,6 @@
+- die Fähigkeit	[ˈfɛːɪçkaɪ̯t]	Substantiv (fem.)
+- Khả năng
+- Nghĩa: kỹ năng, năng lực
+- Proper translation: ability, skill
+- Beispiel: Sprachliche Fähigkeiten sind entscheidend.
+- Familienwörter: fähig

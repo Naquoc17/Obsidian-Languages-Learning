@@ -1,0 +1,5 @@
+- der Geschäftsabschluss	[ɡəˈʃɛftsˌʔapʃlʊs]	Substantiv (mask.)
+- Thỏa thuận kinh doanh
+- Nghĩa: hoàn tất giao dịch
+- Proper translation: business deal
+- Beispiel: Der Geschäftsabschluss ist gelungen.

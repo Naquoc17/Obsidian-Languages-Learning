@@ -1,0 +1,5 @@
+- das Ergebnis	[ɛɐ̯ˈɡeːbnɪs]	Substantiv (neut.)
+- Kết quả
+- Nghĩa: thành quả, kết luận
+- Proper translation: result
+- Beispiel: Das Ergebnis war überraschend.

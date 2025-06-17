@@ -1,0 +1,5 @@
+- verhandeln	[fɛɐ̯ˈhandl̩n]	Verb
+- Đàm phán
+- Nghĩa: thương lượng
+- Proper translation: to negotiate
+- Beispiel: Die Firmen verhandeln den Preis.

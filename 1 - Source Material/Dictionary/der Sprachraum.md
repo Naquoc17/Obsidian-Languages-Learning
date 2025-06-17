@@ -1,0 +1,5 @@
+- der Sprachraum	[ˈʃpʁaːxˌʁaʊ̯m]	Substantiv (mask.)
+- Khu vực ngôn ngữ
+- Nghĩa: vùng sử dụng ngôn ngữ
+- Proper translation: language area
+- Beispiel: Der deutsche Sprachraum umfasst mehrere Länder.

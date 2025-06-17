@@ -1,0 +1,5 @@
+- exportieren / der Export	[ˌɛkspɔʁˈtiːʁən / ɛksˈpɔʁt]	Verb/Substantiv
+- Xuất khẩu
+- Nghĩa: bán ra nước ngoài
+- Proper translation: to export / export
+- Beispiel: Deutschland exportiert Maschinen.

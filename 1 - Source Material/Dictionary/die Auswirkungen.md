@@ -1,0 +1,5 @@
+- die Auswirkungen	[ˈaʊ̯svɪʁkʊŋən]	Substantiv (Plural, fem.)
+- Tác động
+- Nghĩa: ảnh hưởng, hậu quả
+- Proper translation: effects, impacts
+- Beispiel: Die Auswirkungen sind enorm.

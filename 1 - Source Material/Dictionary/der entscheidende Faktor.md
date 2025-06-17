@@ -1,0 +1,5 @@
+- der entscheidende Faktor	[ɛnˈʃaɪ̯dn̩də ˈfaktɔʁ]	Substantiv (mask.)
+- Yếu tố quyết định
+- Nghĩa: nhân tố then chốt
+- Proper translation: decisive factor
+- Beispiel: Sprache ist der entscheidende Faktor.

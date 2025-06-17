@@ -1,0 +1,6 @@
+- das Handelshemmnis	[ˈhandl̩sˌhɛmˌnɪs]	Substantiv (neut.)
+- Rào cản thương mại
+- Nghĩa: cản trở trong thương mại quốc tế
+- Proper translation: trade barrier
+- Beispiel: Handelshemmnisse werden reduziert.
+- Familienwörter: Handel, Hemmnis

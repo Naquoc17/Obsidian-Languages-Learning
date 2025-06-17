@@ -1,0 +1,5 @@
+- die Studie	[ˈʃtuːdi̯ə]	Substantiv (fem.)
+- Nghiên cứu
+- Nghĩa: công trình nghiên cứu
+- Proper translation: study, research
+- Beispiel: Die Studie zeigt neue Ergebnisse.

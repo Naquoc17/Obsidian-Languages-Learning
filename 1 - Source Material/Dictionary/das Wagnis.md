@@ -1,0 +1,5 @@
+- das Wagnis	[ˈvaːɡnɪs]	Substantiv (neut.)
+- Sự mạo hiểm
+- Nghĩa: hành động liều lĩnh
+- Proper translation: risk, venture
+- Beispiel: Das Wagnis lohnt sich.

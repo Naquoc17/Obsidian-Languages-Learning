@@ -1,0 +1,5 @@
+- die Übersetzer	[ˈyːbɐˌzɛʦɐ]	Substantiv (Plural, mask./fem.)
+- Biên dịch viên
+- Nghĩa: người dịch viết
+- Proper translation: translators
+- Beispiel: Die Übersetzer arbeiten schriftlich.

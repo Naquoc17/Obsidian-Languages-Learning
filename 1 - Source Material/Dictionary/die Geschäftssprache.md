@@ -1,0 +1,5 @@
+- die Geschäftssprache	[ɡəˈʃɛftsˌʃpʁaːxə]	Substantiv (fem.)
+- Ngôn ngữ kinh doanh
+- Nghĩa: ngôn ngữ sử dụng trong thương mại
+- Proper translation: business language
+- Beispiel: Englisch ist die wichtigste Geschäftssprache.

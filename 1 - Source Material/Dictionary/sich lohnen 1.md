@@ -1,0 +1,6 @@
+- sich lohnen	[ˈloːnən]	Verb (reflexiv)
+- Xứng đáng
+- Nghĩa: đáng để làm
+- Proper translation: to be worth it
+- Beispiel: Es lohnt sich zu lernen.
+- Familienwörter: Lohn

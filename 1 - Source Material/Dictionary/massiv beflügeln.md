@@ -1,0 +1,5 @@
+- massiv beflügeln	[maˈsɪf bəˈflyːɡl̩n]	Redewendung
+- Thúc đẩy mạnh mẽ
+- Nghĩa: tăng trưởng nhanh chóng
+- Proper translation: to massively boost
+- Beispiel: Sprachkenntnisse beflügeln den Handel.

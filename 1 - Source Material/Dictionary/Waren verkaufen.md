@@ -1,0 +1,5 @@
+- Waren verkaufen	[ˈvaːʁən fɛʁˈkaʊ̯fn̩]	Redewendung
+- Bán hàng hóa
+- Nghĩa: bán sản phẩm
+- Proper translation: to sell goods
+- Beispiel: Die Firma verkauft Waren weltweit.

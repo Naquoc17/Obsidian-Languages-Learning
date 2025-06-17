@@ -1,0 +1,5 @@
+- Sprachgrenzen überwinden	[ˈʃpʁaːxˌɡʁɛnʦən yːbɐˈvɪndən]	Redewendung
+- Vượt qua rào cản ngôn ngữ
+- Nghĩa: vượt qua khó khăn ngôn ngữ
+- Proper translation: to overcome language barriers
+- Beispiel: Unternehmen überwinden Sprachgrenzen.

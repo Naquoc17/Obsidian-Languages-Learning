@@ -1,0 +1,5 @@
+- das Auslandsgeschäft	[ˈaʊ̯slantsɡəˌʃɛft]	Substantiv (neut.)
+- Hoạt động kinh doanh nước ngoài
+- Nghĩa: làm ăn với nước ngoài
+- Proper translation: foreign business
+- Beispiel: Das Auslandsgeschäft wächst.

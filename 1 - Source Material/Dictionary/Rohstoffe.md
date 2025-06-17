@@ -1,0 +1,5 @@
+- Rohstoffe	[ˈʁoːˌʃtɔfə]	Substantiv (Plural, mask.)
+- Nguyên liệu thô
+- Nghĩa: tài nguyên, nguyên liệu chưa chế biến
+- Proper translation: raw materials
+- Beispiel: Deutschland importiert Rohstoffe.

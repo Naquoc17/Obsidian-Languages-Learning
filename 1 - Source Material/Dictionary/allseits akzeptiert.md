@@ -1,0 +1,5 @@
+- allseits akzeptiert	[ˈalzaɪ̯ts ˌakʦɛpˈtiːɐ̯t]	Adjektiv
+- Được công nhận rộng rãi
+- Nghĩa: chấp nhận bởi mọi người
+- Proper translation: widely accepted
+- Beispiel: Englisch ist allseits akzeptiert.

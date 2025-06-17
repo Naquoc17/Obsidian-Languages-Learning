@@ -1,0 +1,5 @@
+- Auswirkungen untersuchen	[ˈaʊ̯svɪʁkʊŋən ˌʊntɐˈzuːxn̩]	Redewendung
+- Nghiên cứu tác động
+- Nghĩa: phân tích ảnh hưởng
+- Proper translation: to study effects
+- Beispiel: Wissenschaftler untersuchen die Auswirkungen.

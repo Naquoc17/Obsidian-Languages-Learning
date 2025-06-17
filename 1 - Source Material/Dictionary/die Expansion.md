@@ -1,0 +1,5 @@
+- die Expansion	[ɛkspanˈʦi̯oːn]	Substantiv (fem.)
+- Sự mở rộng
+- Nghĩa: phát triển quy mô
+- Proper translation: expansion
+- Beispiel: Die Expansion verläuft erfolgreich.

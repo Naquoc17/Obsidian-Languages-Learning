@@ -1,0 +1,5 @@
+- ineffizient	[ˈɪnɛfɪˌʦi̯ɛnt]	Adjektiv
+- Không hiệu quả
+- Nghĩa: lãng phí, thiếu hiệu quả
+- Proper translation: inefficient
+- Beispiel: Sprachprobleme machen Verhandlungen ineffizient.

@@ -1,0 +1,6 @@
+- die Grammatik	[ɡʁaˈmatɪk]	Substantiv (fem.)
+- Ngữ pháp
+- Nghĩa: quy tắc cấu trúc câu
+- Proper translation: grammar
+- Beispiel: Die Grammatik ist kompliziert.
+- Familienwörter: grammatikalisch

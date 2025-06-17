@@ -1,0 +1,6 @@
+- messbar	[ˈmɛsbaːɐ̯]	Adjektiv
+- Đo lường được
+- Nghĩa: có thể đo được
+- Proper translation: measurable
+- Beispiel: Der Erfolg ist messbar.
+- Familienwörter: messen

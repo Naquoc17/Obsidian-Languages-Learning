@@ -1,0 +1,5 @@
+- sich trauen	[ˈtʁaʊ̯ən]	Verb (reflexiv)
+- Dám làm
+- Nghĩa: có can đảm
+- Proper translation: to dare
+- Beispiel: Er traut sich, neue Märkte zu betreten.

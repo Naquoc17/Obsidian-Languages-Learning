@@ -1,0 +1,5 @@
+- der Handel steigt	[ˈhandl̩ ʃtaɪ̯ɡt]	Redewendung
+- Thương mại tăng trưởng
+- Nghĩa: giao dịch gia tăng
+- Proper translation: trade increases
+- Beispiel: Der Handel steigt weltweit.

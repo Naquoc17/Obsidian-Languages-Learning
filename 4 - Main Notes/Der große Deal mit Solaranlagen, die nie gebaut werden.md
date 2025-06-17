@@ -16,7 +16,7 @@ Tags: [[German#Articles]]
 
 ## Part 1
 
-Der Obertshausener Julius Muthig ist [[offenbar]] Opfer bundesweit tätiger Betrüger geworden. Die Staatsanwaltschaft Hannover [[ermitteln|ermittelt]]  [[im großen Stil]]. Trotzdem hat Muthig keine Hoffnung, sein Geld wiederzubekommen.
+Der Obertshausener Julius Muthig ist [[offenbar]] Opfer bundesweit tätiger Betrüger geworden. Die Staatsanwaltschaft Hannover [[ermitteln 1|ermittelt]]  [[im großen Stil]]. Trotzdem hat Muthig keine Hoffnung, sein Geld wiederzubekommen.
 
 Seit 2. April hat Julius Muthig eine Solaranlage auf dem Dach und [[beziehen|bezieht]]  aus der Kraft der Sonne Energie. [[Umweltschonend]] und kostenlos. Gesorgt hat dafür Stefan Vehlhaber, Geschäftsführer der Firma Enerix in Hanau, einem Fachbetrieb für alles rund um Solarenergie. Er hatte in dieser Zeitung gelesen, wie Muthig von einer [[mutmaßlich|mutmaßlichen]]  Betrugsfirma um letztlich rund 24 000 Euro [[prellen|geprellt]]  worden ist. Mit dem damaligen Unternehmen Hass Solartechnik (Hannover) hatte Muthig im Oktober 2023 einen Vertrag über den Bau einer Solaranlage geschlossen, alles vorab bezahlt – doch bis auf 15 gelieferte [[Paneele]] war nichts passiert.
 

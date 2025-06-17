@@ -1,0 +1,5 @@
+- die Kommunikationsprobleme	[kɔmuniˈkaʦi̯oːnsˌpʁoˌbleːmə]	Substantiv (Plural, neut.)
+- Vấn đề giao tiếp
+- Nghĩa: khó khăn trong giao tiếp
+- Proper translation: communication problems
+- Beispiel: Kommunikationsprobleme erschweren den Handel.

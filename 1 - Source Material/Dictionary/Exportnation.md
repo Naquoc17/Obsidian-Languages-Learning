@@ -1,0 +1,5 @@
+- Exportnation	[ˈɛksˌpɔʁtnaˌtsi̯oːn]	Substantiv (fem.)
+- Quốc gia xuất khẩu
+- Nghĩa: nước chuyên xuất khẩu
+- Proper translation: exporting nation
+- Beispiel: Deutschland ist eine Exportnation.

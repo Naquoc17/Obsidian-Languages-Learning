@@ -1,0 +1,5 @@
+- veröffentlichen	[fɛɐ̯ˈʔœfn̩tlɪçn̩]	Verb
+- Công bố
+- Nghĩa: xuất bản, công bố thông tin
+- Proper translation: to publish
+- Beispiel: Die Studie wurde veröffentlicht.

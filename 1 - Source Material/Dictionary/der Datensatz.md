@@ -1,0 +1,5 @@
+- der Datensatz	[ˈdaːtn̩ˌʃaʦ]	Substantiv (mask.)
+- Bộ dữ liệu
+- Nghĩa: tập hợp thông tin
+- Proper translation: data set
+- Beispiel: Der Datensatz ist vollständig.

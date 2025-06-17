@@ -1,0 +1,5 @@
+- miteinander kommunizieren	[mɪtaɪ̯ˈnandɐ kɔmuniˈtsiːʁən]	Redewendung
+- Giao tiếp với nhau
+- Nghĩa: trao đổi thông tin với người khác
+- Proper translation: to communicate with each other
+- Beispiel: Unternehmen müssen miteinander kommunizieren.

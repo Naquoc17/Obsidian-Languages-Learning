@@ -1,0 +1,5 @@
+- die Amtssprache	[ˈamtsˌʃpʁaːxə]	Substantiv (fem.)
+- Ngôn ngữ chính thức
+- Nghĩa: ngôn ngữ hành chính
+- Proper translation: official language
+- Beispiel: Deutsch ist Amtssprache in mehreren Ländern.

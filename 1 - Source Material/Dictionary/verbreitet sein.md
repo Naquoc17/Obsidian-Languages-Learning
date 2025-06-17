@@ -1,0 +1,5 @@
+- verbreitet sein	[fɛɐ̯ˈbʁaɪ̯tət zaɪ̯n]	Redewendung
+- Được phổ biến
+- Nghĩa: thông dụng, phổ biến
+- Proper translation: to be widespread
+- Beispiel: Englisch ist weltweit verbreitet.

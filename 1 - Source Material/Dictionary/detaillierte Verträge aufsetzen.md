@@ -1,0 +1,5 @@
+- detaillierte Verträge aufsetzen	[ˈdetaɪ̯ˌliːɐ̯tə fɛɐ̯ˈtʁɛːɡə ˈaʊ̯fˌzɛʦən]	Redewendung
+- Soạn thảo hợp đồng chi tiết
+- Nghĩa: soạn hợp đồng kỹ lưỡng
+- Proper translation: to draft detailed contracts
+- Beispiel: Die Unternehmen setzen detaillierte Verträge auf.

@@ -1,0 +1,5 @@
+- fremde Märkte	[ˈfʁɛmdə ˈmɛʁktə]	Substantiv (Plural, mask.)
+- Thị trường nước ngoài
+- Nghĩa: thị trường khác lạ
+- Proper translation: foreign markets
+- Beispiel: Fremde Märkte bergen Chancen.

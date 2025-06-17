@@ -1,0 +1,5 @@
+- standardisierte Güter	[ʃtandaʁˈdiːʁtə ˈɡyːtɐ]	Substantiv (Plural, neut.)
+- Hàng hóa chuẩn hóa
+- Nghĩa: hàng hóa đồng nhất
+- Proper translation: standardized goods
+- Beispiel: Standardisierte Güter sind leichter zu handeln.

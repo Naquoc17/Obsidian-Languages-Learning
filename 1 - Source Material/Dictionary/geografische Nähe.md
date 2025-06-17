@@ -1,0 +1,5 @@
+- geografische Nähe	[ɡeoˈɡʁaːfɪʃə ˈnɛːə]	Substantiv (fem.)
+- Gần về mặt địa lý
+- Nghĩa: khoảng cách địa lý gần
+- Proper translation: geographical proximity
+- Beispiel: Geografische Nähe erleichtert den Handel.

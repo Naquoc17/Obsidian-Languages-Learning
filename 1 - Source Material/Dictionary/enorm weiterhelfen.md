@@ -1,0 +1,5 @@
+- enorm weiterhelfen	[eˈnɔʁm ˈvaɪ̯tɐˌhɛlfən]	Redewendung
+- Giúp ích rất lớn
+- Nghĩa: hỗ trợ mạnh mẽ
+- Proper translation: to help tremendously
+- Beispiel: Sprachkenntnisse können enorm weiterhelfen.

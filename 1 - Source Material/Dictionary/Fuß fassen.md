@@ -1,0 +1,5 @@
+- Fuß fassen	[ˈfuːs ˈfasn̩]	Redewendung
+- Đứng vững
+- Nghĩa: ổn định chỗ đứng
+- Proper translation: to gain a foothold
+- Beispiel: Das Unternehmen fasst im Ausland Fuß.

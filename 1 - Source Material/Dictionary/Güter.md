@@ -1,0 +1,5 @@
+- Güter	[ˈɡyːtɐ]	Substantiv (Plural, neut.)
+- Hàng hóa
+- Nghĩa: sản phẩm trao đổi
+- Proper translation: goods
+- Beispiel: Die Güter wurden exportiert.

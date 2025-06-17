@@ -1,0 +1,6 @@
+- kryptisch	[ˈkʁʏptɪʃ]	Adjektiv
+- Bí ẩn, khó hiểu
+- Nghĩa: mơ hồ, khó hiểu
+- Proper translation: cryptic
+- Beispiel: Seine Antwort war kryptisch.
+- Familienwörter: Kryptik

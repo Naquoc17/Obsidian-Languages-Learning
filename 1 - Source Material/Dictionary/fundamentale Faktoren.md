@@ -1,0 +1,5 @@
+- fundamentale Faktoren	[fʊndamɛnˈtaːlə fakˈtoːʁən]	Substantiv (Plural)
+- Yếu tố nền tảng
+- Nghĩa: yếu tố cơ bản
+- Proper translation: fundamental factors
+- Beispiel: Sprache ist ein fundamentaler Faktor.

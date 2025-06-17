@@ -1,0 +1,5 @@
+- der Geschäftspartner	[ɡəˈʃɛftsˌpaʁtnɐ]	Substantiv (mask.)
+- Đối tác kinh doanh
+- Nghĩa: người hợp tác làm ăn
+- Proper translation: business partner
+- Beispiel: Er traf sich mit seinem Geschäftspartner.

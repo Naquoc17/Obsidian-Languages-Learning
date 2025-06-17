@@ -1,0 +1,5 @@
+- der Sprachlernanbieter	[ˈʃpʁaːxˌlɛʁnʔanˌbiːtɐ]	Substantiv (mask.)
+- Nhà cung cấp dịch vụ học ngôn ngữ
+- Nghĩa: đơn vị đào tạo ngoại ngữ
+- Proper translation: language learning provider
+- Beispiel: Viele Sprachlernanbieter bieten Onlinekurse an.

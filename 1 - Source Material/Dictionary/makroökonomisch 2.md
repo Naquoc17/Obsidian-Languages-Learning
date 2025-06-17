@@ -1,0 +1,6 @@
+- makroökonomisch	[ˌmakʁoˈʔøːkoˌnoːmɪʃ]	Adjektiv
+- Vĩ mô kinh tế
+- Nghĩa: liên quan kinh tế vĩ mô
+- Proper translation: macroeconomic
+- Beispiel: makroökonomische Analysen
+- Familienwörter: Makroökonomie

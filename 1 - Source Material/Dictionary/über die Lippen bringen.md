@@ -1,0 +1,5 @@
+- über die Lippen bringen	[ˈyːbɐ diː ˈlɪpn̩ ˈbʁɪŋən]	Redewendung
+- Nói ra được
+- Nghĩa: phát âm, nói lên được
+- Proper translation: to pronounce
+- Beispiel: Ich kann das Wort kaum über die Lippen bringen.

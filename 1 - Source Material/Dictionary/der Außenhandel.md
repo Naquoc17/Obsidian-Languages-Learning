@@ -1,0 +1,6 @@
+- der Außenhandel	[ˈaʊ̯sn̩ˌhandl̩]	Substantiv (mask.)
+- Thương mại quốc tế
+- Nghĩa: giao thương với nước ngoài
+- Proper translation: foreign trade
+- Beispiel: Der Außenhandel boomt.
+- Familienwörter: Handel

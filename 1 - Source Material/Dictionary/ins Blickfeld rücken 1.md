@@ -1,0 +1,5 @@
+- ins Blickfeld rücken	[ɪns ˈblɪkfɛlt ˈʁʏkn̩]	Redewendung
+- Trở thành tâm điểm
+- Nghĩa: lọt vào sự chú ý
+- Proper translation: to come into focus
+- Beispiel: Die Probleme rücken ins Blickfeld.

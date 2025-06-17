@@ -1,0 +1,5 @@
+- die Handelsdaten	[ˈhandl̩sˌdaːtn̩]	Substantiv (Plural, neut.)
+- Dữ liệu thương mại
+- Nghĩa: số liệu kinh doanh
+- Proper translation: trade data
+- Beispiel: Die Handelsdaten werden analysiert.

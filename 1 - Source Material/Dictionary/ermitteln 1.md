@@ -1,0 +1,5 @@
+- ermitteln	[ɛʁˈmɪtl̩n]	Verb
+- Điều tra, xác định
+- Nghĩa: tìm ra
+- Proper translation: to determine
+- Beispiel: Forscher ermitteln die Zahlen.

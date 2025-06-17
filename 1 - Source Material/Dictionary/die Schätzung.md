@@ -1,0 +1,5 @@
+- die Schätzung	[ˈʃɛʦʊŋ]	Substantiv (fem.)
+- Ước tính
+- Nghĩa: sự phỏng đoán
+- Proper translation: estimation
+- Beispiel: Die Schätzung liegt bei 10 Millionen.

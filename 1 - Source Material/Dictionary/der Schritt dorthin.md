@@ -1,0 +1,5 @@
+- der Schritt dorthin	[ʃʁɪt ˈdɔʁthɪn]	Substantiv (mask.)
+- Bước tiến tới đó
+- Nghĩa: bước đi tiếp cận
+- Proper translation: step toward it
+- Beispiel: Sprachkurse sind der erste Schritt dorthin.

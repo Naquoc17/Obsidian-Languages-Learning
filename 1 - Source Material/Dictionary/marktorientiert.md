@@ -1,0 +1,5 @@
+- marktorientiert	[ˈmaʁktoˌʁi̯ɛntiˈɐ̯t]	Adjektiv
+- Theo định hướng thị trường
+- Nghĩa: tập trung vào thị trường
+- Proper translation: market-oriented
+- Beispiel: Die Firma ist marktorientiert.

@@ -1,0 +1,5 @@
+- die Sprachkenntnisse	[ˈʃpʁaːxˌkɛntnɪsə]	Substantiv (Plural, fem.)
+- Kiến thức ngôn ngữ
+- Nghĩa: trình độ ngôn ngữ
+- Proper translation: language skills
+- Beispiel: Sprachkenntnisse verbessern die Chancen.

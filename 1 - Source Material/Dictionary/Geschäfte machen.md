@@ -1,0 +1,5 @@
+- Geschäfte machen	[ɡəˈʃɛftə ˈmaχən]	Redewendung
+- Làm ăn, buôn bán
+- Nghĩa: tiến hành kinh doanh
+- Proper translation: to do business
+- Beispiel: Firmen machen weltweit Geschäfte.

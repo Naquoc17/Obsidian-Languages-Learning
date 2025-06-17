@@ -1,0 +1,5 @@
+- Sprachbarrieren	[ˈʃpʁaːxˌbaʁiˈeːʁən]	Substantiv (Plural, fem.)
+- Rào cản ngôn ngữ
+- Nghĩa: khó khăn do bất đồng ngôn ngữ
+- Proper translation: language barriers
+- Beispiel: Sprachbarrieren behindern Verhandlungen.

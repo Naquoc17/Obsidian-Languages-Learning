@@ -1,0 +1,6 @@
+- die Zölle	[ˈʦœlə]	Substantiv (Plural, mask.)
+- Thuế quan
+- Nghĩa: thuế đánh vào hàng nhập/xuất khẩu
+- Proper translation: customs duties
+- Beispiel: Die Zölle wurden abgeschafft.
+- Familienwörter: verzollen, Zollbeamter

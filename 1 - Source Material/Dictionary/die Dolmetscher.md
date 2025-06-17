@@ -1,0 +1,5 @@
+- die Dolmetscher	[ˈdɔlˌmɛtʃɐ]	Substantiv (Plural, mask./fem.)
+- Thông dịch viên
+- Nghĩa: người phiên dịch miệng
+- Proper translation: interpreters
+- Beispiel: Die Dolmetscher übersetzen die Gespräche.
