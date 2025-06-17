@@ -1,0 +1,7 @@
+- earlier / later Stoics	[ˈɜː.liər / ˈleɪ.tər ˈstəʊ.ɪks]	Noun phrase
+- First or later members of Stoic philosophy
+- Những người theo chủ nghĩa khắc kỷ thời đầu / sau
+- frühere / spätere Stoiker
+- The later Stoics focused more on ethics.
+- Stoicism
+- Greek root: stoa (porch, where they met)

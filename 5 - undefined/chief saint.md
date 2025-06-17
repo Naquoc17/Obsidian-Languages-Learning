@@ -1,0 +1,7 @@
+- chief saint	[tʃiːf seɪnt]	Noun phrase
+- Most important religious person in a group or area
+- Vị thánh chính
+- Hauptheiliger
+- St. Peter is considered the chief saint of the Catholic Church.
+- saint, sainthood
+- Latin root: sanctus

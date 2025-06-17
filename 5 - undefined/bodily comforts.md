@@ -1,0 +1,7 @@
+- bodily comforts	[ˈbɒ.dɪ.li ˈkʌmfəts]	Noun phrase
+- Physical pleasures and ease
+- Sự thoải mái vật chất
+- Körperlicher Komfort
+- He gave up bodily comforts for spiritual growth.
+- comfort, comfortable
+- Latin root: confortare

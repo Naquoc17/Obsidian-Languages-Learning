@@ -1,0 +1,7 @@
+- contention	[kənˈten.ʃən]	Noun
+- Argument or disagreement
+- Sự tranh cãi
+- Streit, Meinungsverschiedenheit
+- There is much contention over the law.
+- contend, contentious
+- Latin root: contendere

@@ -1,0 +1,7 @@
+- literal / literally	[ˈlɪt.ər.əl] / [ˈlɪt.ər.əli]	Adjective / Adverb
+- Exact meaning of words / In an exact way
+- Nghĩa đen / Theo nghĩa đen
+- wörtlich
+- He meant it literally, not metaphorically.
+- literalness, literalism
+- Latin root: littera

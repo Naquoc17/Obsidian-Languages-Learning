@@ -1,0 +1,7 @@
+- regarding	[rɪˈɡɑː.dɪŋ]	Preposition
+- About, concerning
+- Về việc
+- bezüglich
+- Regarding your request, here’s more info.
+- —
+- —

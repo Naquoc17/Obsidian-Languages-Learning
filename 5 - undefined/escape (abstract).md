@@ -1,0 +1,7 @@
+- escape (abstract)	[ɪˈskeɪp]	Noun/Verb
+- Avoiding danger, harm, or death
+- Trốn thoát (nghĩa trừu tượng)
+- Entkommen, Flucht (im übertragenen Sinn)
+- He found escape from death through wisdom.
+- escapism
+- Latin root: ex + cappa

@@ -1,0 +1,7 @@
+- tendencies	[ˈten.dən.siz]	Noun (plural)
+- Habits or natural ways of behaving
+- Xu hướng, khuynh hướng
+- Tendenzen
+- She has artistic tendencies.
+- tendency
+- Latin root: tendere

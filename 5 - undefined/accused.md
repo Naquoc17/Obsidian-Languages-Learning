@@ -1,0 +1,7 @@
+- accused	[əˈkjuːzd]	Verb (past participle)
+- Said someone did something wrong or illegal
+- Bị buộc tội
+- beschuldigt
+- He was accused of stealing documents.
+- accuse, accusation
+- Latin root: accusare

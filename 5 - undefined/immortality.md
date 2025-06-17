@@ -1,0 +1,7 @@
+- immortality	[ˌɪm.ɔːˈtæl.ə.ti]	Noun
+- The state of never dying
+- Sự bất tử
+- Unsterblichkeit
+- The soul's immortality is a central idea in many religions.
+- immortal
+- Latin root: in + mortalis

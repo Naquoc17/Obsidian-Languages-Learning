@@ -1,0 +1,7 @@
+- trustworthiness	[ˈtrʌstˌwɜː.ði.nəs]	Noun
+- Quality of being reliable and honest
+- Sự đáng tin cậy
+- Vertrauenswürdigkeit
+- Trustworthiness is important in leadership.
+- trustworthy
+- Old English root: trust

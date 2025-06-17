@@ -1,0 +1,7 @@
+- anti-metaphysical zeal	[ˌæn.taɪ ˌmet.əˈfɪz.ɪ.kəl ziːl]	Noun phrase
+- Passion against abstract philosophical ideas
+- Nhiệt huyết chống lại siêu hình học
+- Eifer gegen Metaphysik
+- The philosopher had anti-metaphysical zeal.
+- zeal, metaphysics
+- Greek root: meta + physis

@@ -1,0 +1,7 @@
+- Phoenician	[fəˈnɪʃ.ən]	Noun (proper)
+- An ancient people from the eastern Mediterranean known for trade and writing
+- Người Phoenicia (dân tộc cổ đại vùng Địa Trung Hải)
+- Phönizier
+- The Phoenicians developed one of the first writing systems.
+- Phoenicia (region), Phoenician (language)
+- Latin root: Phoenīcēs

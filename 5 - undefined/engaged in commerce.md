@@ -1,0 +1,7 @@
+- engaged in commerce	[ɪnˈɡeɪdʒd ɪn ˈkɒmɜːs]	Verb phrase
+- Involved in buying and selling goods or services
+- Tham gia vào hoạt động thương mại
+- sich im Handel engagieren
+- Ancient cities often engaged in commerce with distant lands.
+- commerce, commercial
+- Latin root: commercium

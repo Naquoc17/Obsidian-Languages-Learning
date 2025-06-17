@@ -1,0 +1,7 @@
+- common sense	[ˌkɒm.ən ˈsens]	Noun
+- Basic good judgment
+- Lẽ thường
+- gesunder Menschenverstand
+- Use your common sense!
+- —
+- Latin root: sensus communis

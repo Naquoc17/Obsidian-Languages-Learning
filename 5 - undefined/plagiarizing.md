@@ -1,0 +1,7 @@
+- plagiarizing	[ˈpleɪ.dʒə.raɪ.zɪŋ]	Verb (gerund)
+- Copying someone else’s work and pretending it’s yours
+- Đạo văn
+- plagiieren
+- The student was caught plagiarizing an article.
+- plagiarism, plagiarist
+- Latin root: plagiarius

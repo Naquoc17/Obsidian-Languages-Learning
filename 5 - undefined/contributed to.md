@@ -1,0 +1,7 @@
+- contributed to	[kənˈtrɪb.juː.tɪd tuː]	Verb phrase
+- Helped to cause something
+- Góp phần vào
+- beigetragen zu
+- His ideas contributed to the final decision.
+- contribution
+- Latin root: contribuere

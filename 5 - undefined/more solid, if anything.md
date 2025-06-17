@@ -1,0 +1,7 @@
+- more solid, if anything	[phr.]	Expression
+- Actually more firm or certain than expected
+- Thậm chí còn chắc chắn hơn
+- sogar fester, wenn überhaupt
+- His opinion is more solid, if anything.
+- —
+- —

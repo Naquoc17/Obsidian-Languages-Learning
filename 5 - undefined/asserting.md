@@ -1,0 +1,7 @@
+- asserting	[əˈsɜː.tɪŋ]	Verb (gerund)
+- Stating something strongly or confidently
+- Khẳng định
+- behaupten
+- She is asserting her rights.
+- assert, assertion
+- Latin root: ad + serere

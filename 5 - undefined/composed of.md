@@ -1,0 +1,7 @@
+- composed of	[kəmˈpəʊzd ɒv]	Verb phrase
+- Made up of
+- Bao gồm
+- bestehen aus
+- The team is composed of five experts.
+- compose, composition
+- Latin root: componere

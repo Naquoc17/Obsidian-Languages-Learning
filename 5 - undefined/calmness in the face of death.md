@@ -1,0 +1,7 @@
+- calmness in the face of death	[ˈkɑːmnəs] Phrase
+- Staying peaceful when facing death
+- Bình thản khi đối mặt với cái chết
+- Ruhe angesichts des Todes
+- Socrates showed calmness in the face of death.
+- calm, calmly
+- Latin root: cauma

@@ -1,0 +1,7 @@
+- annoyed	[əˈnɔɪd]	Adjective
+- Slightly angry
+- Khó chịu, bực mình
+- verärgert
+- He felt annoyed by the delay.
+- annoy, annoyance
+- Old French root: enui

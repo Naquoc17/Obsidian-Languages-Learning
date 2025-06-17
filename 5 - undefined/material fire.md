@@ -1,0 +1,7 @@
+- material fire	[məˈtɪə.ri.əl ˈfaɪər]	Noun phrase
+- Fire as a physical element
+- Lửa vật chất
+- Materielles Feuer
+- Stoics believed the world was made of material fire.
+- material, fire
+- Latin root: materia + ignis

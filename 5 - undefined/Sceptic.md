@@ -1,0 +1,7 @@
+- Sceptic	[ˈskep.tɪk]	Noun
+- A person who doubts or questions
+- Người hoài nghi
+- Skeptiker
+- He’s a sceptic of supernatural claims.
+- scepticism
+- Greek root: skeptikos

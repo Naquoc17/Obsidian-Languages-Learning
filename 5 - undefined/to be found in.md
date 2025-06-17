@@ -1,0 +1,7 @@
+- to be found in	[tuː biː faʊnd ɪn]	Verb phrase
+- To exist inside something
+- Được tìm thấy trong
+- zu finden in
+- Truth can be found in nature.
+- find, found
+- Old English root: findan

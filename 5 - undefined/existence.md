@@ -1,0 +1,7 @@
+- existence	[ɪɡˈzɪs.təns]	Noun
+- The state of being alive or real
+- Sự tồn tại
+- Existenz
+- Philosophers debate human existence.
+- exist, existential
+- Latin root: existere

@@ -1,0 +1,7 @@
+- age (as in “era”)	[eɪdʒ]	Noun
+- A period of history
+- Thời đại
+- Zeitalter
+- The modern age brings new problems.
+- era, epoch
+- Latin root: aetas

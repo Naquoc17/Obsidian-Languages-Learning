@@ -1,0 +1,7 @@
+- perpetrator	[ˈpɜː.pə.treɪ.tər]	Noun
+- A person who commits a harmful act
+- Người phạm tội
+- Täter
+- The perpetrator was arrested.
+- perpetrate
+- Latin root: perpetrare

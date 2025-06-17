@@ -1,0 +1,7 @@
+- injures	[ˈɪn.dʒərz]	Verb (present simple)
+- Causes physical or emotional harm
+- Làm tổn thương
+- verletzt
+- He injures people with his words.
+- injury, injured
+- Latin root: in + iuria

@@ -1,0 +1,7 @@
+- plainness	[ˈpleɪn.nəs]	Noun
+- Simplicity; not decorative
+- Sự đơn giản, mộc mạc
+- Schlichtheit
+- He appreciated the plainness of the room.
+- plain, plainly
+- Latin root: planus

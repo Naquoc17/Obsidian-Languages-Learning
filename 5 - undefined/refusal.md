@@ -1,0 +1,7 @@
+- refusal	[rɪˈfjuː.zəl]	Noun
+- The act of not accepting or agreeing
+- Sự từ chối
+- die Ablehnung
+- His refusal surprised everyone.
+- refuse (verb)
+- Latin root: refutare

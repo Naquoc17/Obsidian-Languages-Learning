@@ -1,0 +1,7 @@
+- metaphysical subtleties	[ˌmet.əˈfɪz.ɪ.kəl ˈsʌt.l.tiz]	Noun phrase
+- Abstract and complex ideas about existence
+- Những sự tinh tế trong triết học siêu hình
+- metaphysische Feinheiten
+- He was confused by the metaphysical subtleties in the argument.
+- metaphysics, subtle
+- Greek root: meta + physika

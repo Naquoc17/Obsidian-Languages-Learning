@@ -1,0 +1,7 @@
+- congenial	[kənˈdʒiː.ni.əl]	Adjective
+- Pleasant and friendly; easy to get along with
+- Hòa hợp, dễ chịu
+- angenehm, sympathisch
+- They had a very congenial relationship.
+- congeniality
+- Latin root: con + genus

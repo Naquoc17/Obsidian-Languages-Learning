@@ -1,0 +1,7 @@
+- immaterial	[ˌɪməˈtɪə.ri.əl]	Adjective
+- Not physical or not important
+- Không thuộc vật chất / không quan trọng
+- immateriell
+- The idea of the soul is immaterial.
+- material, materially
+- Latin root: in + materia

@@ -1,0 +1,7 @@
+- anxious to	[ˈæŋk.ʃəs tuː]	Adjective phrase
+- Eager or wanting to do something
+- Mong muốn, háo hức làm gì
+- bestrebt, etwas zu tun
+- She was anxious to meet the famous professor.
+- anxiousness, anxiety
+- Latin root: anxius

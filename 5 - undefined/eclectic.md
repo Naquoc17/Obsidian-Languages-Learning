@@ -1,0 +1,7 @@
+- eclectic	[ɪˈklek.tɪk]	Adjective
+- Selecting from many sources or styles
+- Pha trộn từ nhiều nguồn
+- eklektisch
+- Her bookshelf was full of eclectic topics.
+- eclecticism
+- Greek root: eklektikos

@@ -1,0 +1,7 @@
+- attempted to	[əˈtemp.tɪd tuː]	Verb phrase
+- Tried to
+- Cố gắng
+- versucht zu
+- He attempted to explain the idea.
+- attempt
+- Latin root: ad + temptare

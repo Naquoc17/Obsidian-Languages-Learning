@@ -1,0 +1,7 @@
+- materialism	[məˈtɪə.ri.ə.lɪ.zəm]	Noun
+- Belief that physical things are most important
+- Chủ nghĩa duy vật
+- Materialismus
+- He rejected materialism for spiritual values.
+- materialist
+- Latin root: materia

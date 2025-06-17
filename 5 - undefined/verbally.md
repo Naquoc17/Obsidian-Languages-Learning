@@ -1,0 +1,7 @@
+- verbally	[ˈvɜː.bəli]	Adverb
+- Using spoken words
+- Bằng lời nói
+- mündlich
+- He verbally agreed to the terms.
+- verbal, verb
+- Latin root: verbum

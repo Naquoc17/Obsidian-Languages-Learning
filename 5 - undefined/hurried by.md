@@ -1,0 +1,7 @@
+- hurried by	[ˈhʌr.id baɪ]	Verb phrase
+- Pushed or rushed by
+- Bị thúc đẩy bởi
+- gedrängt von
+- He was hurried by emotions.
+- hurry, hurried
+- Old English root: hurren

@@ -1,0 +1,7 @@
+- rejected	[rɪˈdʒek.tɪd]	Verb (past)
+- Said no to or didn’t accept
+- Bác bỏ, từ chối
+- abgelehnt
+- He rejected their beliefs.
+- reject, rejection
+- Latin root: re + iacere

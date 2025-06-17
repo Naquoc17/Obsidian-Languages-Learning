@@ -1,0 +1,7 @@
+- virtue or justice or the Rule of Three	[phr.]	Noun phrases
+- Philosophical or moral principles
+- Đức hạnh, công lý hoặc Quy tắc số ba
+- Tugend, Gerechtigkeit oder Dreierregel
+- They lived by virtue and justice.
+- virtue, justice
+- Latin roots: virtus, justitia
