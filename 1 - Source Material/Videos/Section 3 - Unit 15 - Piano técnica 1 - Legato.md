@@ -6,8 +6,19 @@ Status: #baby
 Tags: [[]]
 
 # Section 3 - Unit 15 - Piano técnica 1 - Legato
-## Transcript
+## Truyện chêm
+Minh là một cậu học sinh trung học, đam mê âm nhạc cổ điển. Một ngày nọ, khi đang luyện đàn piano, cậu bắt gặp một đoạn **partitura** (bản nhạc) có nhiều **pasaje** (đoạn nhạc) khó. Để chơi đúng **técnica pianística** (kỹ thuật chơi piano), Minh phải sử dụng **mano derecha** (tay phải) linh hoạt và áp dụng kỹ thuật **legato** (liền tiếng) một cách chính xác.
 
+Cậu giáo giải thích rằng việc chơi **ligado** (liền mạch) đòi hỏi phải hiểu rõ **ligadura de expresión** (liên kết biểu cảm) và **ligaduras de unión** (liên kết nốt giống nhau), giúp các **nota** (nốt nhạc) trở nên mềm mại, không bị **separación** (tách biệt) quá mức. Tuy nhiên, cũng có đoạn yêu cầu **non legato** (không liền tiếng), tạo nên sự tương phản rõ ràng.
+
+Đôi lúc, bản nhạc yêu cầu những **silencio** (khoảng lặng) ngắn giữa các **grupo** (nhóm) nốt, và Minh phải học cách **agrupar** (gom lại) chúng theo các mạch giai điệu **sucesiva** (liên tiếp). Đó là một **particularidad** (đặc điểm riêng) trong phong cách chơi mà thầy giáo bảo phải thực hiện **rigurosamente** (một cách nghiêm ngặt).
+
+“Phần này cần chơi theo cách **lineal** (tuần tự, tuyến tính), nhưng đừng quên kiểm soát lực khi **presionando** (nhấn) phím đàn,” thầy nói. “**Evidentemente** (hiển nhiên), con đang tiến bộ rất nhanh.”
+
+Ngoài giờ học piano, Minh còn học thử hai loại nhạc cụ khác: **instrumento de cuerda frotada** (nhạc cụ dây kéo, như violin) và **instrumento de cuerda percutir** (nhạc cụ dây gõ, như đàn piano). Cậu nhận ra rằng mỗi loại nhạc cụ đều giúp phát triển cảm nhận **expresión** (biểu cảm) âm nhạc theo cách khác nhau.
+
+Từ đó, Minh càng thêm yêu âm nhạc và quyết tâm theo đuổi con đường nghệ thuật.
+## Transcript
 Vamos con este primer [[ejercicio (el)]] de [[técnica (la)]] [[pianística (la)]], vamos a hablar del [[legato]] o [[ligado (el)]], consiste en tocar [[notas (las)]] de manera sucesiva, sin separarlas por un [[silencio (el)]].  
 Chúng ta bắt đầu với bài tập kỹ thuật piano đầu tiên này, chúng ta sẽ nói về legato hay còn gọi là chơi nối, tức là chơi các nốt nhạc liên tiếp nhau mà không ngắt quãng bằng sự im lặng.
 
