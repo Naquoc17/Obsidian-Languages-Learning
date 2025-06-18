@@ -1,0 +1,7 @@
+- Seek out [siːk aʊt] Phrasal verb  
+- Tìm kiếm cái gì một cách tích cực  
+- Chủ động tìm kiếm  
+- Aufsuchen  
+- You should seek out opportunities to speak English.  
+- Seeker (người tìm kiếm), seeking (sự tìm kiếm)  
+- Old English: *sēcan*

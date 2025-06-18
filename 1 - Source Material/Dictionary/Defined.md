@@ -1,0 +1,7 @@
+- Defined [dɪˈfaɪnd] Verb (past of "define")  
+- Giải thích nghĩa rõ ràng của một điều gì đó  
+- Đã định nghĩa  
+- Definiert  
+- The term is defined differently in each culture.  
+- Definition (định nghĩa), definite (rõ ràng)  
+- Latin: *definire*

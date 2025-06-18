@@ -1,0 +1,7 @@
+- Educational setting [ˌed.jʊˈkeɪ.ʃən.əl ˈset.ɪŋ] Noun phrase  
+- Môi trường hoặc hoàn cảnh giáo dục  
+- Môi trường giáo dục  
+- Bildungsumfeld  
+- Every child should feel safe in an educational setting.  
+- Education (giáo dục), educate (giáo dục)  
+- Latin: *educare*

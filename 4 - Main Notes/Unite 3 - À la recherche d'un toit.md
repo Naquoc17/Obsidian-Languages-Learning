@@ -69,10 +69,19 @@ Loyer : 1 500 €/mois.
 
 
 ## Vocabulaire: le logement
+### **Chuyện chêm: Căn hộ trong mơ**
 
+Sau nhiều tháng tìm **le logement** (*chỗ ở*), tôi cuối cùng đã thuê được một **studio meublé** (*căn hộ nhỏ có đồ đạc*) nằm ở tầng 3 (**étage** – *tầng*) của một **immeuble ancien** (*tòa nhà cũ*). Căn hộ có **la surface** (*diện tích*) chỉ 25 **mètres carrés** (*mét vuông*), nhưng rất **clair** (*sáng sủa*), **lumineux** (*nhiều ánh sáng*) và **équipé** (*trang bị đầy đủ*).
 
+Tôi là **le locataire** (*người thuê nhà*), còn **le/la propriétaire** (*chủ nhà*) là một ông cụ dễ tính sống ở **le rez-de-chaussée** (*tầng trệt*). Mỗi ngày, tôi đi làm bằng **l’ascenseur** (*thang máy*), và chào **le/la voisin(e)** (*hàng xóm*) – người hơi **bruyant** (*ồn ào*), nhưng khá thân thiện.
 
+Căn hộ có một **le bureau** (*bàn làm việc*) nhỏ để học, **la salle de bains** (*phòng tắm*) sạch sẽ, **la salle à manger** (*phòng ăn*) thoáng mát, và một **terrasse** (*sân thượng*) nhỏ với **vue** (*quang cảnh*) đẹp nhìn ra công viên. Phía sau là **la cave** (*hầm để đồ*), đủ để cất đồ cũ.
 
+Tôi đặc biệt thích **la véranda** (*hiên kính*) nhỏ phía sau nhà – nơi tôi thường uống trà sáng. Dù có lúc trời u ám khiến căn phòng hơi **sombre** (*tối*), nhưng nhìn chung không khí rất dễ chịu.
+
+Dù sống một mình, tôi đang tìm **un(e) colocataire** (*bạn ở chung*) để chia **le loyer** (*tiền thuê nhà*), vì giá khá cao.
+
+Tòa nhà tuy **ancien** (*cũ*), nhưng hành lang (**le couloir** – *hành lang*) luôn sạch và không khí rất **calme** (*yên tĩnh*). Tôi thấy mình thật may mắn khi tìm được chỗ ở lý tưởng thế này.
 
 ## D. Trouver un logement à Montréal
 

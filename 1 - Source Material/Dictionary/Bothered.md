@@ -1,0 +1,7 @@
+- Bothered [ˈbɒð.əd] Adjective  
+- Cảm thấy khó chịu hoặc bận tâm  
+- Khó chịu / bị làm phiền  
+- Genervt  
+- He looked bothered by the noise.  
+- Bother (làm phiền), bothersome (phiền phức)  
+- Possibly from Scottish dialect

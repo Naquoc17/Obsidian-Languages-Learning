@@ -1,0 +1,7 @@
+- Perceive [pəˈsiːv] Verb  
+- Nhận thức hoặc hiểu điều gì đó qua cảm nhận  
+- Nhận thấy / cảm nhận  
+- Wahrnehmen  
+- How we perceive reality affects our actions.  
+- Perception (sự nhận thức), perceptive (nhạy bén)  
+- Latin: *percipere*

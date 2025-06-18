@@ -1,0 +1,7 @@
+- Idealise [ˈaɪ.di.ə.laɪz] Verb  
+- Xem ai đó hoặc điều gì đó hoàn hảo hơn thực tế  
+- Lý tưởng hóa  
+- Idealisieren  
+- She tends to idealise her childhood.  
+- Ideal (lý tưởng), idealist (người theo chủ nghĩa lý tưởng)  
+- Greek: *idein* ("to see")

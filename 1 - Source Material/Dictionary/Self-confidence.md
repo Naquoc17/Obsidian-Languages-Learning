@@ -1,0 +1,7 @@
+- Self-confidence [ˌselfˈkɒn.fɪ.dəns] Noun  
+- Niềm tin vào bản thân  
+- Sự tự tin  
+- Selbstvertrauen  
+- Speaking in public requires self-confidence.  
+- Confident (tự tin), confidence (sự tin tưởng)  
+- Latin: *fidere* ("to trust")

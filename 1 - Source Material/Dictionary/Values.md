@@ -1,0 +1,7 @@
+- Values [ˈvæl.juːz] Noun (plural)  
+- Những niềm tin hay nguyên tắc mà một người/xã hội coi trọng  
+- Giá trị  
+- Werte  
+- Family values differ from culture to culture.  
+- Value (giá trị), valuable (có giá trị)  
+- Latin: *valere* ("to be strong")

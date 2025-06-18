@@ -1,0 +1,7 @@
+- Personal choice [ˈpɜː.sən.əl ʧɔɪs] Noun phrase  
+- Quyết định mang tính cá nhân  
+- Sự lựa chọn cá nhân  
+- Persönliche Entscheidung  
+- Living abroad was a personal choice.  
+- Person (người), choose (chọn)  
+- Latin: *persona*, Old English: *ceosan*

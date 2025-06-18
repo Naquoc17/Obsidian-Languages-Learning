@@ -1,0 +1,7 @@
+- Emotional discomfort [ɪˈməʊ.ʃən.əl dɪsˈkʌmfət] Noun phrase  
+- Cảm giác không thoải mái về mặt cảm xúc  
+- Sự khó chịu về cảm xúc  
+- Emotionales Unbehagen  
+- Emotional discomfort is common during culture shock.  
+- Emotion (cảm xúc), discomfort (khó chịu)  
+- Latin: *emovere*, *discomfortus*

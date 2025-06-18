@@ -1,0 +1,7 @@
+- Cultural clues [ˈkʌl.tʃər.əl kluːz] Noun phrase  
+- Dấu hiệu giúp hiểu được văn hóa  
+- Gợi ý văn hóa  
+- Kulturelle Hinweise  
+- Learning cultural clues helps avoid misunderstandings.  
+- Culture (văn hóa), clue (manh mối, gợi ý)  
+- Latin: *cultura*, Old English: *cleowen*

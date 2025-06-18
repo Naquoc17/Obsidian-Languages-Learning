@@ -1,0 +1,7 @@
+- Adjusting [əˈdʒʌst.ɪŋ] Verb (present participle of "adjust")  
+- Thay đổi để phù hợp với tình huống mới  
+- Đang thích nghi  
+- Sich anpassen  
+- He’s still adjusting to life in a new country.  
+- Adjustment (sự điều chỉnh), adjustable (có thể điều chỉnh)  
+- Latin: *ad* + *iustus* ("fit, right")

@@ -1,0 +1,7 @@
+- Customs [ˈkʌs.təmz] Noun (plural)  
+- (1) Phong tục; (2) Hải quan  
+- Phong tục / hải quan  
+- Bräuche / Zoll  
+- Each country has its own customs.  
+- Customary (thuộc phong tục), customer (khách hàng – khác nghĩa!)  
+- Latin: *consuetudo*

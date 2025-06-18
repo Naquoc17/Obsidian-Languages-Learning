@@ -1,0 +1,7 @@
+- Enthusiasm [ɪnˈθjuː.zi.æ.zəm] Noun  
+- Sự hào hứng, nhiệt tình  
+- Sự nhiệt tình  
+- Begeisterung  
+- She shows great enthusiasm for learning languages.  
+- Enthusiastic (nhiệt huyết), enthusiast (người đam mê)  
+- Greek: *entheos* ("possessed by God")

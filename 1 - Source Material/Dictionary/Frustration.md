@@ -1,0 +1,7 @@
+- Frustration [frʌsˈtreɪ.ʃən] Noun  
+- Cảm giác thất vọng khi không đạt được điều gì  
+- Sự thất vọng / bực bội  
+- Frustration  
+- He felt frustration when he couldn’t express himself.  
+- Frustrated (thất vọng), frustrate (làm nản lòng)  
+- Latin: *frustra* ("in vain")

@@ -3,7 +3,7 @@ modification date: `$= dv.current().file.mtime`
 
 Status: #baby 
 
-Tags: [[]]
+Tags: [[Cambridge English - Complete IELTS Bands 5-6.5]]
 
 # Unit 1 - Starting somewhere new
 ## **TRUYỆN CHÊM: NHẬT KÝ DU HỌC CỦA LINH**
@@ -23,11 +23,11 @@ Sometimes work, study or an sense of adventure take us out of our familiar surro
 
 Almost everyone who studies, lives or works abroad has problems adjusting to a new culture. This response is commonly referred to as **'culture shock'**. Culture shock can be defined as 'the physical and emotional discomfort a person experiences when entering a culture different from their own' (Weaver, 1993).
 
-For people moving to Australia, Price (2001) has identified certain values which may give rise to culture shock. Firstly, he argues that Australians place a high value on independence and personal choice. This means that a teacher or course tutor will not tell students what to do, but will give them a number of options and suggest they work out which one is the best in their circumstances. It also means that they are expected to take action if something goes wrong and seek out resources and support for themselves.
+For people moving to Australia, Price (2001) has identified certain values which may give rise to culture shock. Firstly, he argues that Australians place a high value on independence and personal choice. This means that a teacher or course tutor will not tell students what to do, but will give them a number of options and suggest they work out which one is the best in their [[Circumstances]]. It also means that they are expected to take action if something goes wrong and seek out resources and support for themselves.
 
-Australians are also prepared to accept a range of opinions rather than believing there is one truth. This means that in an educational setting, students will be expected to form their own opinions and defend the reasons for that point of view and the evidence for it.
+Australians are also prepared to accept a range of opinions rather than believing there is one truth. This means that in an [[Educational setting]], students will be expected to form their own opinions and defend the reasons for that point of view and the evidence for it.
 
-Price also comments that Australians are uncomfortable with differences in status and hence idealise the idea of treating everyone equally. An illustration of this is that most adult Australians call each other by their first names. This concern with equality means that Australians are uncomfortable taking anything too seriously and are even ready to joke about themselves.
+Price also comments that Australians are uncomfortable with differences in [[Status 1|Status 1]] and hence [[Idealise]] the idea of treating everyone equally. An illustration of this is that most adult Australians call each other by their first names. This concern with equality means that Australians are uncomfortable taking anything too seriously and are even ready to joke about themselves.
 
 Australians believe that life should have a balance between work and leisure time. As a consequence, some students may be critical of others who they perceive as doing nothing but study.
 

@@ -1,0 +1,7 @@
+- Leisure time [ˈleʒ.ə ˌtaɪm] Noun phrase  
+- Thời gian rảnh rỗi không phải làm việc hoặc học  
+- Thời gian rảnh  
+- Freizeit  
+- I spend my leisure time reading.  
+- Leisurely (nhàn rỗi), pastime (trò tiêu khiển)  
+- Latin: *licere* ("to be permitted")

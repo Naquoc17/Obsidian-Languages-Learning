@@ -1,0 +1,7 @@
+- Interpret [ɪnˈtɜː.prɪt] Verb  
+- Giải thích ý nghĩa điều gì đó; phiên dịch  
+- Diễn giải / thông dịch  
+- Interpretieren  
+- It’s hard to interpret cultural clues correctly.  
+- Interpretation (sự diễn giải), interpreter (phiên dịch viên)  
+- Latin: *interpretari*

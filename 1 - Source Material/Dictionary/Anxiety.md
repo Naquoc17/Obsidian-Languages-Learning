@@ -1,0 +1,7 @@
+- Anxiety [æŋˈzaɪ.ə.ti] Noun  
+- Cảm giác lo lắng, bất an  
+- Sự lo lắng  
+- Angst  
+- She had anxiety before the interview.  
+- Anxious (lo lắng), anxiously (một cách lo lắng)  
+- Latin: *anxietas*

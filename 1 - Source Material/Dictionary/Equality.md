@@ -1,0 +1,7 @@
+- Equality [iˈkwɒl.ə.ti] Noun  
+- Trạng thái bình đẳng về quyền lợi hoặc cơ hội  
+- Sự bình đẳng  
+- Gleichheit  
+- They fight for gender equality.  
+- Equal (bình đẳng), equitable (công bằng)  
+- Latin: *aequalitas*

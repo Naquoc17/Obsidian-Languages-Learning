@@ -1,0 +1,7 @@
+- Point of view [pɔɪnt əv vjuː] Noun phrase  
+- Quan điểm cá nhân  
+- Quan điểm  
+- Standpunkt / Perspektive  
+- Everyone has a different point of view.  
+- Viewpoint (quan điểm), perspective (góc nhìn)  
+- Latin: *videre* ("to see")

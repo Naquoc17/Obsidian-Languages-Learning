@@ -1,0 +1,7 @@
+- Defend [dɪˈfend] Verb  
+- Bảo vệ ai đó hoặc ý kiến của mình  
+- Bảo vệ / bênh vực  
+- Verteidigen  
+- He defended his point of view strongly.  
+- Defense (sự phòng thủ), defender (người bảo vệ)  
+- Latin: *defendere*

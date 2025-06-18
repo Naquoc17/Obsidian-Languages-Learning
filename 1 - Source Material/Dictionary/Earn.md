@@ -1,0 +1,7 @@
+- Earn [ɜːn] Verb  
+- Nhận được (tiền, sự kính trọng...) vì đã làm việc  
+- Kiếm được / nhận được  
+- Verdienen  
+- She earns enough money to support her family.  
+- Earning (thu nhập), earner (người kiếm tiền)  
+- Old English: *earnian*

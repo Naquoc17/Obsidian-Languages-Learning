@@ -1,0 +1,7 @@
+- Euphoria [juːˈfɔː.ri.ə] Noun  
+- Cảm giác rất vui sướng, phấn khích  
+- Sự hưng phấn  
+- Euphorie  
+- She felt euphoria after receiving the scholarship.  
+- Euphoric (hưng phấn), euphorically (một cách hưng phấn)  
+- Greek: *euphoros* ("healthy")

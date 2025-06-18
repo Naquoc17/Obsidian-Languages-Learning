@@ -1,0 +1,7 @@
+- Firmly established [ˈfɜːm.li ɪˈstæb.lɪʃt] Adjective phrase  
+- Được hình thành và tồn tại vững chắc  
+- Được thiết lập vững chắc  
+- Fest verankert  
+- That tradition is firmly established in our culture.  
+- Establish (thiết lập), establishment (sự thành lập)  
+- Latin: *firmus* + *stabilire*

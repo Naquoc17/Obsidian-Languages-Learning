@@ -1,0 +1,7 @@
+- Subtle [ˈsʌt.əl] Adjective  
+- Khó thấy hoặc khó nhận biết; tinh tế  
+- Tinh tế / khó nhận biết  
+- Subtil  
+- There was a subtle change in his tone.  
+- Subtlety (sự tinh tế), subtly (một cách tinh tế)  
+- Latin: *subtilis*

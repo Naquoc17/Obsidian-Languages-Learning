@@ -1,0 +1,7 @@
+- Impolite [ˌɪm.pəlˈaɪt] Adjective  
+- Không lịch sự, thiếu lễ độ  
+- Bất lịch sự  
+- Unhöflich  
+- It’s impolite to interrupt someone while speaking.  
+- Polite (lịch sự), politeness (sự lịch sự)  
+- Latin: *im-* (không) + *politus* ("lịch sự")

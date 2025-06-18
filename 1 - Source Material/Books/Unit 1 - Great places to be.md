@@ -26,7 +26,7 @@ Tôi bắt đầu ghi chép, sử dụng các phương pháp *[[measurement]]* �
 
 Tôi chia sẻ kết quả nghiên cứu với chính quyền *local*, và họ rất bất ngờ với *outcome*. Thành phố của tôi được *[[rank]]* cao về chỉ số phát triển, nhưng lại thấp về hạnh phúc người dân – điều này ảnh hưởng không nhỏ đến *[[reputation]]* của thành phố trong mắt quốc tế.
 
-Cuối cùng, tôi *[[conclude]]* rằng không gian sống và chất lượng dịch vụ xã hội đóng vai trò quan trọng trong việc định hình *[[status]]* và sự hài lòng của mỗi cá nhân với *way of life* hiện tại.
+Cuối cùng, tôi *[[conclude]]* rằng không gian sống và chất lượng dịch vụ xã hội đóng vai trò quan trọng trong việc định hình *[[Status 1]]* và sự hài lòng của mỗi cá nhân với *way of life* hiện tại.
 
 ## Reading
 ### The world's friendliest city

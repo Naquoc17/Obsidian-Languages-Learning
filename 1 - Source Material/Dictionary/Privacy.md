@@ -1,0 +1,7 @@
+- Privacy [ˈprɪv.ə.si] Noun  
+- Quyền riêng tư  
+- Sự riêng tư  
+- Privatsphäre  
+- Teenagers value their privacy.  
+- Private (riêng tư), privately (một cách riêng tư)  
+- Latin: *privatus*

@@ -1,0 +1,7 @@
+- Range (of opinions) [reɪndʒ] Noun  
+- Tập hợp nhiều lựa chọn hoặc ý kiến khác nhau  
+- Nhiều loại / phạm vi (ý kiến)  
+- Bandbreite (von Meinungen)  
+- The speaker expressed a wide range of opinions.  
+- Ranging (đang trải dài), ranged (đã phân loại)  
+- Old French: *range*

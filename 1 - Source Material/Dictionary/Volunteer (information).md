@@ -1,0 +1,7 @@
+- Volunteer (information) [ˌvɒl.ənˈtɪər] Verb  
+- Tự nguyện chia sẻ thông tin mà không bị yêu cầu  
+- Tình nguyện cung cấp (thông tin)  
+- Freiwillig etwas sagen  
+- She volunteered some helpful advice.  
+- Volunteer (người tình nguyện), voluntary (tự nguyện)  
+- Latin: *voluntas* ("will")

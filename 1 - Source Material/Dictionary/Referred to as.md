@@ -1,0 +1,7 @@
+- Referred to as [rɪˈfɜː(r)d tuː æz] Phrase  
+- Được gọi là  
+- Được gọi là  
+- Bezeichnet als  
+- This process is referred to as “culture shock.”  
+- Refer (ám chỉ), reference (sự tham khảo)  
+- Latin: *referre*

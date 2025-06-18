@@ -1,0 +1,7 @@
+- Circumstances [ˈsɜː.kəm.stɑːnsɪz] Noun (plural)  
+- Tình huống, điều kiện xung quanh một sự việc  
+- Hoàn cảnh  
+- Umstände  
+- He left due to personal circumstances.  
+- Circumstantial (thuộc hoàn cảnh)  
+- Latin: *circumstare* ("stand around")

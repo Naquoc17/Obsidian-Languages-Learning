@@ -1,0 +1,7 @@
+- Novelty [ˈnɒv.əl.ti] Noun  
+- Điều mới lạ, khác thường  
+- Sự mới lạ  
+- Neuheit  
+- The novelty of living abroad soon wore off.  
+- Novel (mới lạ), novel idea (ý tưởng mới)  
+- Latin: *novus* ("new")

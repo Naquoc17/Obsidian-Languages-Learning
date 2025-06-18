@@ -1,0 +1,7 @@
+- Critical (of someone) [ˈkrɪt.ɪ.kəl] Adjective  
+- Thường xuyên chỉ trích hoặc đánh giá tiêu cực  
+- Phê phán / hay chỉ trích  
+- Kritisch (gegenüber jemandem)  
+- She’s very critical of her coworkers.  
+- Critic (nhà phê bình), criticism (sự phê bình)  
+- Greek: *kritikos*

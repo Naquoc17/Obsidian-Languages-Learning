@@ -1,0 +1,7 @@
+- Surroundings [səˈraʊn.dɪŋz] Noun (plural)  
+- Môi trường hoặc không gian xung quanh bạn  
+- Môi trường xung quanh  
+- Umgebung  
+- He quickly adapted to his new surroundings.  
+- Surround (bao quanh), surrounding (xung quanh)  
+- Old French: *soronder*

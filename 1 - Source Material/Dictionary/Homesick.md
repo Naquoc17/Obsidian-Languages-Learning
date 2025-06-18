@@ -1,0 +1,7 @@
+- Homesick [ˈhəʊm.sɪk] Adjective  
+- Nhớ nhà  
+- Nhớ nhà  
+- Heimweh haben  
+- She became homesick during her first week abroad.  
+- Homesickness (sự nhớ nhà)  
+- English compound: *home* + *sick*

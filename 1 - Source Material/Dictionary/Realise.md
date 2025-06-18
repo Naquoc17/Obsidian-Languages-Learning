@@ -1,0 +1,7 @@
+- Realise [ˈrɪə.laɪz] Verb  
+- Nhận ra, hiểu ra điều gì  
+- Nhận ra  
+- Erkennen / realisieren  
+- She didn’t realise how different life abroad would be.  
+- Realisation (sự nhận ra), realistic (thực tế)  
+- Latin: *realis*

@@ -1,0 +1,7 @@
+- Irritable [ˈɪr.ɪ.tə.bəl] Adjective  
+- Dễ nổi cáu, khó chịu  
+- Cáu kỉnh  
+- Reizbar  
+- Lack of sleep can make you irritable.  
+- Irritation (sự khó chịu), irritate (gây khó chịu)  
+- Latin: *irritabilis*

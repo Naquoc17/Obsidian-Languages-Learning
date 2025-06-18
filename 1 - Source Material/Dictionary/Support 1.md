@@ -1,0 +1,7 @@
+- Support [səˈpɔːt] Verb / Noun  
+- Giúp đỡ, hỗ trợ  
+- Hỗ trợ  
+- Unterstützen  
+- Friends can offer emotional support during hard times.  
+- Supportive (mang tính hỗ trợ), supporter (người ủng hộ)  
+- Latin: *supportare*

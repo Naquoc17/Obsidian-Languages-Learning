@@ -1,0 +1,7 @@
+- Disorientation [dɪsˌɔː.ri.enˈteɪ.ʃən] Noun  
+- Cảm giác mất phương hướng  
+- Sự mất phương hướng  
+- Orientierungslosigkeit  
+- He experienced disorientation after moving abroad.  
+- Orient (định hướng), orientation (sự định hướng)  
+- Latin: *dis* + *oriri* ("to rise")

@@ -1,0 +1,7 @@
+- Problem-solving [ˈprɒb.ləm ˌsɒlv.ɪŋ] Noun  
+- Kỹ năng giải quyết vấn đề  
+- Giải quyết vấn đề  
+- Problemlösung  
+- Problem-solving is essential in group work.  
+- Solve (giải quyết), solution (giải pháp)  
+- Latin: *solvere*

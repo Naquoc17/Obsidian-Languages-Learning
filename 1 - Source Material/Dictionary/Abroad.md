@@ -1,0 +1,7 @@
+- Abroad [əˈbrɔːd] Adverb  
+- Ở nước ngoài  
+- Ở nước ngoài  
+- Im Ausland  
+- She studied abroad for two years.  
+- Go abroad (đi nước ngoài), overseas (nước ngoài)  
+- Old French: *abroad* ("spread wide")

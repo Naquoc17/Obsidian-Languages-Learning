@@ -1,0 +1,7 @@
+- Status [ˈsteɪ.təs / ˈstæt.əs] Noun  
+- Vị trí xã hội hoặc tình trạng của một người/vật  
+- Địa vị / tình trạng  
+- Status  
+- He has high social status in the community.  
+- Social status (địa vị xã hội), marital status (tình trạng hôn nhân)  
+- Latin: *status*

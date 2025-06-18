@@ -1,0 +1,7 @@
+- Take action [teɪk ˈæk.ʃən] Phrase  
+- Hành động để giải quyết vấn đề  
+- Hành động  
+- Handeln / Maßnahmen ergreifen  
+- We need to take action to solve the problem.  
+- Action (hành động), active (chủ động)  
+- Latin: *actio*

@@ -1,0 +1,7 @@
+- Inevitable [ɪˈnev.ɪ.tə.bəl] Adjective  
+- Không thể tránh được  
+- Không thể tránh khỏi  
+- Unvermeidlich  
+- Culture shock is almost inevitable when moving abroad.  
+- Inevitability (tính tất yếu)  
+- Latin: *inevitabilis*

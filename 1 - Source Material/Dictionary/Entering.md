@@ -1,0 +1,7 @@
+- Entering [ˈen.tər.ɪŋ] Verb (present participle of "enter")  
+- Bước vào, gia nhập  
+- Đang bước vào  
+- Betreten / Eintreten  
+- She is entering a new phase of life.  
+- Entrance (lối vào), entry (sự gia nhập)  
+- Latin: *intrare*

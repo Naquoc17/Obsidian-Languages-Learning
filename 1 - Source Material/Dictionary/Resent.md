@@ -1,0 +1,7 @@
+- Resent [rɪˈzent] Verb  
+- Cảm thấy tức giận vì điều gì không công bằng  
+- Bực bội / tức giận  
+- Sich ärgern über  
+- He resents being told what to do.  
+- Resentment (sự oán giận), resentful (căm ghét)  
+- Latin: *resentire* ("to feel again")

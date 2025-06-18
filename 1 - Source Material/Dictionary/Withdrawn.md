@@ -1,0 +1,7 @@
+- Withdrawn [wɪðˈdrɔːn] Adjective  
+- Không muốn tiếp xúc với người khác  
+- Rút lui, thu mình  
+- Zurückgezogen  
+- He became withdrawn after moving to a new country.  
+- Withdraw (rút khỏi), withdrawal (sự rút lui)  
+- Old English: *withdrawan*

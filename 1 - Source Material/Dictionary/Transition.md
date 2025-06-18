@@ -1,0 +1,7 @@
+- Transition [trænˈzɪʃ.ən] Noun  
+- Quá trình chuyển đổi từ trạng thái này sang trạng thái khác  
+- Sự chuyển đổi  
+- Übergang  
+- The transition to university life can be challenging.  
+- Transitional (thuộc về chuyển tiếp), transit (chuyển giao)  
+- Latin: *transire* ("to go across")
