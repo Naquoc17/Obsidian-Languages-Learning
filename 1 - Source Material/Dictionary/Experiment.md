@@ -1,0 +1,7 @@
+- Experiment [ɪkˈsper.ɪ.mənt] Noun  
+- Một thử nghiệm khoa học để kiểm tra giả thuyết  
+- Thí nghiệm  
+- Experiment  
+- The experiment proved the theory was correct.  
+- Experimental (thuộc thí nghiệm), experimenter (người làm thí nghiệm)  
+- Latin: *experiri* ("to try")

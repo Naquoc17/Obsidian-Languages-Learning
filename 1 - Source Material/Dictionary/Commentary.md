@@ -1,0 +1,7 @@
+- Commentary [ˈkɒm.ən.tər.i] Noun  
+- A spoken or written explanation or discussion  
+- Bài bình luận  
+- Kommentar  
+- The sports commentary was exciting to follow.  
+- Commentator (người bình luận), comment (nhận xét)  
+- Latin: *commentarius*

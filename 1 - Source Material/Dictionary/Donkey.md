@@ -1,0 +1,7 @@
+- Donkey [ˈdɒŋ.ki] Noun  
+- Một loài vật giống ngựa, nhưng nhỏ hơn và dùng để chở đồ  
+- Con lừa  
+- Esel  
+- The farmer used a donkey to carry goods.  
+- --  
+- Unknown origin (có thể từ tiếng Anh cổ "donekie")

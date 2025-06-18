@@ -1,0 +1,7 @@
+- Eventually [ɪˈven.tʃu.ə.li] Adverb  
+- In the end, after a period of time  
+- Cuối cùng thì  
+- Schließlich  
+- He studied hard and eventually passed the test.  
+- Event (sự kiện), eventual (cuối cùng)  
+- Latin: *eventus*

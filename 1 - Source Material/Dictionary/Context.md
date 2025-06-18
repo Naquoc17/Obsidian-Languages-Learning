@@ -1,0 +1,7 @@
+- Context [ˈkɒn.tekst] Noun  
+- The situation in which something happens  
+- Bối cảnh  
+- Kontext  
+- Try to understand the word in its context.  
+- Contextual (thuộc bối cảnh)  
+- Latin: *con* ("with") + *texere* ("to weave")

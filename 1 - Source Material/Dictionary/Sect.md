@@ -1,0 +1,7 @@
+- Sect [sekt] Noun  
+- Nhóm tôn giáo nhỏ tách ra từ nhóm lớn hơn vì khác niềm tin  
+- Giáo phái  
+- Sekte  
+- The sect broke away from the main religion.  
+- Sectarian (giáo phái), sectarianism (tính bè phái)  
+- Latin: *secta* ("way, following")

@@ -16,7 +16,7 @@ Tags: [[English]]
 
 ## Part 1
 
-In a US [[customs]] messaging note quietly [[to slip out|slipped out]]  in the early hours of Saturday, a series of numbers were listed as exempt from the 125% tariff on goods entering the country from China.
+In a US [[Customs 1]] messaging note quietly [[to slip out|slipped out]]  in the early hours of Saturday, a series of numbers were listed as exempt from the 125% tariff on goods entering the country from China.
 
 The code "8517.13.00.00" means very little to most of the world, but in the US customs list it represents smartphones.
 

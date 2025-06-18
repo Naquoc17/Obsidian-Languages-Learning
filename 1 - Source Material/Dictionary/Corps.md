@@ -1,0 +1,7 @@
+- Corps [kɔː(r)] Noun  
+- Một nhóm người hoạt động có tổ chức, đặc biệt trong quân đội  
+- Đơn vị (quân đội), tổ chức (chuyên môn)  
+- Korps  
+- He joined the medical corps during the war.  
+- Peace Corps (tổ chức hỗ trợ quốc tế), Marine Corps (thuỷ quân lục chiến)  
+- Latin: *corpus* ("body")

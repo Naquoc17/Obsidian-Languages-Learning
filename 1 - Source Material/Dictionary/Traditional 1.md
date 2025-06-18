@@ -1,0 +1,7 @@
+- Traditional [trəˈdɪʃ.ən.əl] Adjective  
+- Theo phong tục hay tập quán từ lâu đời  
+- Truyền thống  
+- Traditionell  
+- They wore traditional costumes at the festival.  
+- Tradition (truyền thống), traditionally (một cách truyền thống)  
+- Latin: *traditio*

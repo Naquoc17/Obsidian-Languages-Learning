@@ -24,7 +24,7 @@ Around 180 competitors took part in the 64th German championship in Pang, about 
 
 It's thought that finger wrestling, popular in Germany's Alpine region and neighboring Austria, [[originate|originated]]  as a way to settle arguments. The earliest [[depiction|depictions]]  of the sport go back to the 19th century.
 
-Participants in the 2025 edition wore the [[traditional]] Bavarian dress known as _tracht_ — that's the distinctive combination of the leather pants and suspenders.
+Participants in the 2025 edition wore the [[Traditional 1]] Bavarian dress known as _tracht_ — that's the distinctive combination of the leather pants and suspenders.
 
 Two competitors sit on opposite sides of a table and each hooks one finger — usually the middle finger — through a small leather loop.
 
@@ -38,7 +38,7 @@ There are nine clubs in Germany and another four in neighboring Austria, says Ge
 
 "It's not dangerous at all," Hailer says. "Of course, there will be open [[wound|wounds]]  and small injuries on the fingers from time to time. It looks worse than it really is, because there's blood."
 
-It's a sport that requires skill, not just strength, says one wrestler. "There are different [[technique|techniques]]  — how do I sit at the table?" he says. "How do I [[transfer]] my power as quickly as possible to the loop? And of course you need a [[well-trained]] finger."
+It's a sport that requires skill, not just strength, says one wrestler. "There are different [[Technique 1|techniques]]  — how do I sit at the table?" he says. "How do I [[transfer]] my power as quickly as possible to the loop? And of course you need a [[well-trained]] finger."
 
 Competitors warm up by lifting heavy blocks or pulling on cables with their competition finger!
 

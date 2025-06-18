@@ -1,0 +1,7 @@
+- Expedition [ˌek.spəˈdɪʃ.ən] Noun  
+- A journey made for a special purpose  
+- Cuộc thám hiểm  
+- Expedition  
+- The team went on an expedition to the Arctic.  
+- Explorer (người thám hiểm), explore (khám phá)  
+- Latin: *expeditio*

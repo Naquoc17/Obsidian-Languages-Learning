@@ -1,0 +1,7 @@
+- Regard [rɪˈɡɑːd] Verb  
+- To consider or think about something  
+- Xem như / đánh giá  
+- Betrachten  
+- She is highly regarded by her students.  
+- Regarding (liên quan đến), regardless (bất kể)  
+- French: *regarder*

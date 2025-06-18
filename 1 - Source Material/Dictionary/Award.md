@@ -1,0 +1,7 @@
+- Award [əˈwɔːd] Noun  
+- A prize or recognition given for achievement  
+- Giải thưởng  
+- Auszeichnung  
+- She won an award for best actress.  
+- Reward (phần thưởng), awarding (trao giải)  
+- Latin: *ad* + *ward* ("toward")

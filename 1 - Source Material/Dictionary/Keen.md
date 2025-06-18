@@ -1,0 +1,7 @@
+- Keen [kiːn] Adjective  
+- (1) Rất hào hứng hoặc quan tâm mạnh mẽ; (2) Sắc bén (về trí óc, cảm giác)  
+- Hăng hái / sắc sảo  
+- Eifrig / scharf  
+- She’s very keen to learn new languages.  
+- Keenness (sự nhiệt tình), keenly (một cách say mê)  
+- Old English: *cēne* ("brave, wise")

@@ -1,0 +1,7 @@
+- Prove [pruːv] Verb  
+- To show something is true  
+- Chứng minh  
+- Beweisen  
+- Can you prove your theory?  
+- Proof (bằng chứng), proven (được chứng minh)  
+- Latin: *probare*

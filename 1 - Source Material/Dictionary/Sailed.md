@@ -1,0 +1,7 @@
+- Sailed [seɪld] Verb (quá khứ của “sail”)  
+- Di chuyển trên mặt nước bằng thuyền buồm  
+- Đã chèo / đã đi thuyền  
+- Gesegelt  
+- They sailed across the Atlantic Ocean.  
+- Sail (chèo thuyền), sailing (môn đi thuyền), sailor (thuỷ thủ)  
+- Latin: *salire* ("to jump") → metaphorically "to move quickly"

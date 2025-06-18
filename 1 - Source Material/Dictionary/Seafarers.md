@@ -1,0 +1,7 @@
+- Seafarers [ˈsiːˌfeə.rəz] Noun (plural)  
+- Người đi biển, thủy thủ  
+- Thủy thủ / người đi biển  
+- Seeleute  
+- Ancient seafarers used the stars to navigate.  
+- Seafaring (việc đi biển), seaman (thủy thủ), sailor (người lái thuyền)  
+- Old English: *sǣ* ("sea") + *farer* ("traveler")

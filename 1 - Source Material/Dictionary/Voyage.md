@@ -1,0 +1,7 @@
+- Voyage [ˈvɔɪ.ɪdʒ] Noun  
+- A long journey by sea or in space  
+- Chuyến đi (bằng tàu hoặc không gian)  
+- Reise (besonders mit Schiff)  
+- The voyage across the Atlantic took weeks.  
+- Voyager (người du hành)  
+- Latin: *viaticum*

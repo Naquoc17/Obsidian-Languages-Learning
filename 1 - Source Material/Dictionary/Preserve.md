@@ -1,0 +1,7 @@
+- Preserve [prɪˈzɜːv] Verb  
+- To protect and keep in good condition  
+- Bảo tồn  
+- Bewahren  
+- We must preserve ancient traditions.  
+- Preservation (sự bảo tồn), preservative (chất bảo quản)  
+- Latin: *prae* ("before") + *servare* ("to keep")

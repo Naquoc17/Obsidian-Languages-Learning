@@ -1,0 +1,7 @@
+- Crew [kruː] Noun  
+- Nhóm người làm việc trên tàu, máy bay, hoặc phim  
+- Thủy thủ đoàn / ê-kíp  
+- Besatzung / Mannschaft  
+- The ship’s crew worked hard during the storm.  
+- Crewman (thành viên đoàn), crewmate (bạn cùng nhóm)  
+- Dutch: *kru* ("a group")

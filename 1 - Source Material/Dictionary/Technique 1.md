@@ -1,0 +1,7 @@
+- Technique [tekˈniːk] Noun  
+- A method or skill used to do something  
+- Kỹ thuật  
+- Technik  
+- She used a new painting technique.  
+- Technical (kỹ thuật), technician (kỹ thuật viên)  
+- Greek: *technē* ("art, skill")

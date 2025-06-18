@@ -1,0 +1,7 @@
+- Interrupt [ˌɪn.təˈrʌpt] Verb  
+- To stop something for a short time  
+- Làm gián đoạn  
+- Unterbrechen  
+- Please don’t interrupt me while I’m talking.  
+- Interruption (sự gián đoạn)  
+- Latin: *interrumpere*

@@ -1,0 +1,7 @@
+- Compass [ˈkʌm.pəs] Noun  
+- A device showing direction (N, S, E, W)  
+- La bàn  
+- Kompass  
+- The explorer used a compass to find his way.  
+- --  
+- Latin: *com* ("together") + *passus* ("step")

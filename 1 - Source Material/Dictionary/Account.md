@@ -1,0 +1,7 @@
+- Account [əˈkaʊnt] Noun  
+- A report or description of an event or experience  
+- Tài khoản / báo cáo  
+- Bericht / Konto  
+- She gave a detailed account of the accident.  
+- Accountant (người kế toán), accounting (kế toán)  
+- Latin: *computare* ("to calculate")

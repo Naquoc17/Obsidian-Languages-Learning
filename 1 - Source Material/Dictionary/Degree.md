@@ -1,0 +1,7 @@
+- Degree [dɪˈɡriː] Noun  
+- A unit of measurement or a level (e.g., education)  
+- Bằng cấp / mức độ / độ (nhiệt, góc)  
+- Grad / Abschluss  
+- She earned a degree in engineering.  
+- Degrade (giảm sút), gradual (dần dần)  
+- Latin: *de* ("down") + *gradus* ("step")

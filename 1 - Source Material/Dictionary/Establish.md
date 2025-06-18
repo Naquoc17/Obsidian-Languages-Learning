@@ -1,0 +1,7 @@
+- Establish [ɪˈstæb.lɪʃ] Verb  
+- Bắt đầu hoặc xây dựng cái gì đó bền vững/lâu dài  
+- Thành lập  
+- Gründen / einrichten  
+- The school was established in 1995.  
+- Establishment (sự thành lập), established (đã thành lập)  
+- Latin: *stabilire* ("to make stable")

@@ -1,0 +1,7 @@
+- Passing on [ˈpɑː.sɪŋ ɒn] Phrasal verb  
+- Truyền lại kiến thức, kỹ năng, tài sản, v.v.  
+- Truyền lại  
+- Weitergeben  
+- Elders are responsible for passing on traditions.  
+- Pass (truyền), passed down (được truyền từ đời này sang đời khác)  
+- Latin: *passare* ("to step/pass")

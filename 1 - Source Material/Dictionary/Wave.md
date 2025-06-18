@@ -1,0 +1,7 @@
+- Wave [weɪv] Noun  
+- A moving ridge on the surface of water OR motion with the hand  
+- Sóng / vẫy tay  
+- Welle  
+- She gave a wave as the boat left.  
+- Wavy (gợn sóng), waveform (dạng sóng)  
+- Old English: *wǣg*

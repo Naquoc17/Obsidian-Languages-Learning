@@ -1,0 +1,7 @@
+- Navigational instruments [ˌnæv.ɪˈɡeɪ.ʃən.əl ˈɪn.strə.mənts] Noun phrase  
+- Dụng cụ dùng để định hướng khi đi biển hoặc bay  
+- Dụng cụ điều hướng  
+- Navigationsinstrumente  
+- Navigational instruments like the compass were essential at sea.  
+- Navigation (sự điều hướng), navigator (người điều hướng), navigate (định hướng)  
+- Latin: *navigare* ("to sail")

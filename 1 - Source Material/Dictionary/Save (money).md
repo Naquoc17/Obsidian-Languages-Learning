@@ -1,0 +1,7 @@
+- Save (money) [seɪv] Verb  
+- Giữ lại tiền để dùng sau  
+- Tiết kiệm (tiền)  
+- Sparen  
+- She saves $100 each month.  
+- Saving (sự tiết kiệm), savings account (tài khoản tiết kiệm)  
+- Latin: *salvare* ("to save")

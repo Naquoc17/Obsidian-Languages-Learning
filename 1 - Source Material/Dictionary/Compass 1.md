@@ -1,0 +1,7 @@
+- Compass [ˈkʌm.pəs] Noun  
+- Thiết bị định hướng chỉ hướng Bắc, Nam, Đông, Tây  
+- La bàn  
+- Kompass  
+- The compass helps sailors find their direction.  
+- Magnetic compass (la bàn từ tính), compass rose (hình hoa thị la bàn)  
+- Latin: *com* ("together") + *passus* ("step")

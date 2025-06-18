@@ -1,0 +1,7 @@
+- Ancient [ˈeɪn.ʃənt] Adjective  
+- Very old, from a long time ago  
+- Cổ đại  
+- Antik  
+- The pyramids are ancient structures.  
+- Antiquity (cổ xưa), ancestry (tổ tiên)  
+- Latin: *ante* ("before")

@@ -1,0 +1,7 @@
+- Individual [ˌɪn.dɪˈvɪdʒ.u.əl] Noun / Adjective  
+- Người riêng biệt / thuộc về cá nhân  
+- Cá nhân  
+- Individuum / individuell  
+- Each individual must bring their ID.  
+- Individuality (tính cá nhân), individually (một cách riêng biệt)  
+- Latin: *individuus* ("undivided")

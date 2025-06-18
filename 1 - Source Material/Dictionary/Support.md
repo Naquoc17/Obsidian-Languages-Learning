@@ -1,0 +1,7 @@
+- Support [səˈpɔːt] Verb / Noun  
+- Giúp đỡ, ủng hộ; sự ủng hộ  
+- Hỗ trợ  
+- Unterstützen / Unterstützung  
+- Her family supported her during hard times.  
+- Supportive (mang tính hỗ trợ), supporter (người ủng hộ)  
+- Latin: *supportare*

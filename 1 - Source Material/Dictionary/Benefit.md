@@ -1,0 +1,7 @@
+- Benefit [ˈben.ɪ.fɪt] Noun  
+- An advantage or positive result  
+- Lợi ích  
+- Vorteil  
+- Regular exercise has many health benefits.  
+- Beneficial (có lợi), beneficiary (người hưởng lợi)  
+- Latin: *bene* ("well") + *facere* ("to do")

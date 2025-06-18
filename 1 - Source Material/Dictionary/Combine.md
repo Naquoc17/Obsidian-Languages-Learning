@@ -1,0 +1,7 @@
+- Combine [kəmˈbaɪn] Verb  
+- Kết hợp hai hay nhiều thứ lại với nhau  
+- Kết hợp  
+- Kombinieren  
+- You can combine study and work effectively.  
+- Combination (sự kết hợp), combined (đã kết hợp)  
+- Latin: *com* ("together") + *bini* ("two by two")

@@ -1,0 +1,7 @@
+- Memorise [ˈmem.ə.raɪz] Verb  
+- To learn by heart  
+- Học thuộc lòng  
+- Auswendig lernen  
+- I memorised all the vocabulary for the test.  
+- Memory (trí nhớ), memorable (đáng nhớ)  
+- Latin: *memor*

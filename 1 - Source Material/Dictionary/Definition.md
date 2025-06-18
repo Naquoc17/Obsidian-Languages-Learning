@@ -1,0 +1,7 @@
+- Definition [ˌdef.ɪˈnɪʃ.ən] Noun  
+- Diễn giải rõ ràng ý nghĩa của một từ hay khái niệm  
+- Định nghĩa  
+- Definition  
+- Can you give me the definition of “democracy”?  
+- Define (định nghĩa), definite (rõ ràng)  
+- Latin: *definire*

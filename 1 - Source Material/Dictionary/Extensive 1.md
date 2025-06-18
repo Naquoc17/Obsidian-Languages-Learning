@@ -1,0 +1,7 @@
+- Extensive [ɪkˈsten.sɪv] Adjective  
+- Large in amount or size  
+- Rộng lớn / bao quát  
+- Umfangreich  
+- The flood caused extensive damage.  
+- Extend (mở rộng), extension (sự mở rộng)  
+- Latin: *extendere*
