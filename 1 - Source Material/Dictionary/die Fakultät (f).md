@@ -1,0 +1,6 @@
+- die Fakultät (f)	[fakʊlˈtɛːt]	Nomen
+- Fachbereich an einer Universität
+- khoa (đại học)
+- faculty / department
+- Die Fakultät für Biologie ist groß.
+- Latein: facultas	—

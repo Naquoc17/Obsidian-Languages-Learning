@@ -1,0 +1,6 @@
+- die Fachhochschule (f)	[ˈfaxˌhoːxʃuːlə]	Nomen
+- Praxisorientierte Hochschule, besonders in Technik/Wirtschaft
+- trường cao đẳng kỹ thuật
+- university of applied sciences
+- Die Fachhochschule legt viel Wert auf Praxis.
+- Hochschule, Technik	—

@@ -1,0 +1,6 @@
+- der Studiengang (m)	[ˈʃtuːdi̯ə(n)ˌɡaŋ]	Nomen
+- Konkrete Studienrichtung
+- ngành học
+- course of study / degree program
+- Der Studiengang Informatik ist beliebt.
+- Studium, Gang	—

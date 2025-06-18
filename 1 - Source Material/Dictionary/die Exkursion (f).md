@@ -1,0 +1,6 @@
+- die Exkursion (f)	[ɛkskʊʁˈzi̯oːn]	Nomen
+- Studienfahrt oder Ausflug mit Bildungszweck
+- chuyến đi thực tế
+- excursion / study trip
+- Die Exkursion führt ins Museum.
+- —	—

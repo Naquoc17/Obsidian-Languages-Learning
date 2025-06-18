@@ -1,0 +1,6 @@
+- die Aufnahmeprüfung (f)	[ˈaʊ̯fˌnaːməˌpʁyːfʊŋ]	Nomen
+- Prüfung zur Aufnahme in ein Studium
+- kỳ thi đầu vào
+- entrance exam
+- Für Kunst braucht man eine Aufnahmeprüfung.
+- Aufnahme, Prüfung	—

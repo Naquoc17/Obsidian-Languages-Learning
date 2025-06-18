@@ -1,0 +1,6 @@
+- die Leistungspunkte (Pl.)	[ˈlaɪ̯stʊŋsˌpʊŋktə]	Nomen
+- Punkte, die man für bestandene Studienleistungen bekommt
+- điểm tích lũy
+- credit points
+- Ich habe schon 90 Leistungspunkte gesammelt.
+- Leistung, Punkt	—

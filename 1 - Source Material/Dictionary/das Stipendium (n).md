@@ -1,0 +1,6 @@
+- das Stipendium (n)	[ʃtɪˈpɛndiʊm]	Nomen
+- Finanzielle Unterstützung für das Studium
+- học bổng
+- scholarship
+- Sie bekommt ein Stipendium der DAAD.
+- Latein: stipendium	—

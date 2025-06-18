@@ -1,0 +1,6 @@
+- einen akademischen Grad erwerben	[ɛɐ̯ˈvɛʁbən]	Verbphrase
+- Titel wie Master/Bachelor erhalten
+- nhận học vị
+- to obtain an academic title
+- Sie möchte promovieren und einen Grad erwerben.
+- erwerben, akademisch	—

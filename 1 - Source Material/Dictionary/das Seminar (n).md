@@ -1,0 +1,6 @@
+- das Seminar (n)	[zeˈmiːnaːɐ̯]	Nomen
+- Kleingruppenkurs mit Diskussionen
+- lớp thảo luận
+- seminar
+- Im Seminar diskutieren wir viel.
+- —	—

@@ -1,0 +1,6 @@
+- das Studierendensekretariat (n)	[ˈʃtuːdiʁɛndn̩zekʁetaˈʁi̯aːt]	Nomen
+- Verwaltung für Studierende (Immatrikulation usw.)
+- văn phòng sinh viên
+- student registration office
+- Das Studierendensekretariat ist montags offen.
+- Studierende, Sekretariat	—

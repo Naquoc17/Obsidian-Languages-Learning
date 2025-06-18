@@ -1,0 +1,6 @@
+- ein Studienprotokoll anfertigen	[ˈʃtuːdiənpʁoˌtoːkɔl]	Verbphrase
+- Schriftlich festhalten, was im Kurs besprochen wurde
+- ghi biên bản buổi học
+- to write a class protocol
+- Jede Woche muss ein Studienprotokoll angefertigt werden.
+- Protokoll, Studium, anfertigen	—

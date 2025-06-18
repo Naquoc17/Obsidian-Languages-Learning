@@ -1,0 +1,6 @@
+- die Abschlussprüfung (f)	[ˈapʃlʊsˌpʁyːfʊŋ]	Nomen
+- Letzte Prüfung am Ende des Studiums
+- kỳ thi tốt nghiệp
+- final exam
+- Die Abschlussprüfung findet im Juli statt.
+- Abschluss, Prüfung	—

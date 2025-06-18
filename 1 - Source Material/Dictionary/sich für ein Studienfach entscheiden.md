@@ -1,0 +1,6 @@
+- sich für ein Studienfach entscheiden	[ɛntˈʃaɪ̯dn̩]	Verbphrase
+- Ein Fach wählen
+- chọn ngành học
+- to choose a field of study
+- Ich habe mich für Medizin entschieden.
+- entscheiden, Studium	—

@@ -1,0 +1,6 @@
+- der Studienabschluss (m)	[ˈʃtuːdi̯ənˌʔapˌʃlʊs]	Nomen
+- Beendigung eines Studiums
+- tốt nghiệp đại học
+- university degree
+- Er hat seinen Studienabschluss gemacht.
+- Studium, Abschluss	—

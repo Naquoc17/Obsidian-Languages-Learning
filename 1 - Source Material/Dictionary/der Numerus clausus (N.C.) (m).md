@@ -1,0 +1,6 @@
+- der Numerus clausus (N.C.) (m)	[ˈnuːməʁʊs ˈklauzʊs]	Nomen
+- Notendurchschnitt als Zugangsbeschränkung
+- điểm giới hạn đầu vào
+- restricted admission by grade point average
+- Für Psychologie gilt ein Numerus clausus.
+- Latein: "geschlossene Zahl"	—

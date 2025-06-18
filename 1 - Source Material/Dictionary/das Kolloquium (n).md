@@ -1,0 +1,6 @@
+- das Kolloquium (n)	[kɔˈlɔkvi̯ʊm]	Nomen
+- Wissenschaftliches Gespräch oder Abschlussgespräch
+- buổi thảo luận khoa học
+- colloquium / oral exam
+- Das Kolloquium ist Teil der Prüfung.
+- Latein: *colloquium* = Gespräch	—

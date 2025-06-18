@@ -1,0 +1,6 @@
+- das Studiensystem (n)	[ˈʃtuːdiən.zysˌteːm]	Nomen
+- Struktur des Studiums (z. B. Bachelor/Master)
+- hệ thống giáo dục đại học
+- university system
+- Das Studiensystem in Deutschland ist modularisiert.
+- Studium, System	—

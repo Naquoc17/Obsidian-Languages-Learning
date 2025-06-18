@@ -1,0 +1,6 @@
+- das Staatsexamen (n)	[ˈʃtaːtsexaˌmiːn]	Nomen
+- Staatlich organisierte Abschlussprüfung für bestimmte Berufe
+- kỳ thi quốc gia
+- state examination
+- Juristen machen ein Staatsexamen.
+- Staat, Examen	—

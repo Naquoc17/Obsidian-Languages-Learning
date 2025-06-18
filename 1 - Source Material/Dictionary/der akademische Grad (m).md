@@ -1,0 +1,6 @@
+- der akademische Grad (m)	[akaˈdeːmɪʃə ɡʁaːt]	Nomen
+- Titel wie Bachelor, Master, Doktor
+- học vị
+- academic title / degree
+- Der akademische Grad ist wichtig für den Beruf.
+- Akademie, Grad	—

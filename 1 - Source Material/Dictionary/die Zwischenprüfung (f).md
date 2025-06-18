@@ -1,0 +1,6 @@
+- die Zwischenprüfung (f)	[ˈt͡svɪʃn̩ˌpʁyːfʊŋ]	Nomen
+- Prüfung in der Mitte des Studiums
+- kỳ thi giữa kỳ
+- midterm exam
+- Die Zwischenprüfung ist Voraussetzung für den nächsten Abschnitt.
+- zwischen, Prüfung	—

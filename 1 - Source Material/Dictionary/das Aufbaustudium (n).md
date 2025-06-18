@@ -1,0 +1,6 @@
+- das Aufbaustudium (n)	[ˈaʊ̯fbaʊ̯ˌʃtuːdiʊm]	Nomen
+- Weiterführendes Studium nach einem Abschluss
+- chương trình học nâng cao
+- postgraduate studies
+- Er macht ein Aufbaustudium.
+- Aufbau, Studium	—

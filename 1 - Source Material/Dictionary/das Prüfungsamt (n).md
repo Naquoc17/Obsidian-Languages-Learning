@@ -1,0 +1,6 @@
+- das Prüfungsamt (n)	[ˈpʁyːfʊŋsˌʔamt]	Nomen
+- Amt für Prüfungsangelegenheiten
+- văn phòng thi cử
+- examination office
+- Beim Prüfungsamt meldet man Prüfungen an.
+- Prüfung, Amt	—

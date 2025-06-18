@@ -1,0 +1,6 @@
+- einen Studienabschluss erwerben	[ɛɐ̯ˈvɛʁbən]	Verbphrase
+- Ein Studium erfolgreich abschließen
+- đạt được bằng đại học
+- to obtain a degree
+- Sie möchte einen Abschluss erwerben.
+- erwerben, Studium	—

@@ -1,0 +1,6 @@
+- der Betreuer / die Betreuerin einer Doktorarbeit	[bəˈtʁɔʏ̯ɐ]	Nomenphrase
+- Fachliche Aufsichtsperson während der Dissertation
+- người hướng dẫn luận án tiến sĩ
+- dissertation supervisor
+- Mein Betreuer hilft mir bei der Gliederung der Doktorarbeit.
+- betreuen, Betreuung	—

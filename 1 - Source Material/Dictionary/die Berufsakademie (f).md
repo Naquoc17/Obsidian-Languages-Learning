@@ -1,0 +1,6 @@
+- die Berufsakademie (f)	[bəˈʁuːfs.akademiː]	Nomen
+- Kombination aus Studium und Berufsausbildung
+- học viện nghề
+- cooperative education university
+- Er besucht eine Berufsakademie.
+- Beruf, Akademie	—

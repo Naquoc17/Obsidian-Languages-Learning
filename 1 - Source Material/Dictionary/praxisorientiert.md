@@ -1,0 +1,6 @@
+- praxisorientiert	[ˈpʁakzɪs.oʁi̯ɛnˌtiːɐ̯t]	Adjektiv
+- Mit Bezug zur praktischen Anwendung
+- thiên về thực hành
+- practice-oriented
+- Die Ausbildung ist praxisorientiert.
+- Praxis, Orientierung	—

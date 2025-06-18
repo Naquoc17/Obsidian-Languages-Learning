@@ -1,0 +1,6 @@
+- die Habilitation (f)	[habilitaˈt͡si̯oːn]	Nomen
+- Wissenschaftlicher Qualifikationsnachweis nach der Promotion
+- văn bằng sau tiến sĩ
+- postdoctoral qualification
+- Für die Professur braucht man eine Habilitation.
+- habilitieren	—

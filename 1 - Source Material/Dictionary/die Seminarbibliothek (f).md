@@ -1,0 +1,6 @@
+- die Seminarbibliothek (f)	[zeˈmiːnaːɐ̯bɪbli̯oˈteːk]	Nomen
+- Kleine Bibliothek für bestimmte Fächer
+- thư viện bộ môn
+- seminar library
+- Die Seminarbibliothek ist gut ausgestattet.
+- Seminar, Bibliothek	—

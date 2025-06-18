@@ -59,6 +59,51 @@ Loyer : 1 500 €/mois.
 
 ![[12 Piste 12.mp3]]
 
+**Adèle :** Rémi, mon chéri, tu as deux minutes ?  
+→ Rémi, anh yêu, anh có hai phút không?
+
+Je voudrais te parler d’une annonce que je viens de lire dans le journal : à louer, studio…  
+→ Em muốn nói với anh về một mẩu tin mà em vừa đọc trên báo: cho thuê, căn hộ studio…
+
+**Rémi :** Tu veux vraiment vivre dans un studio ?  
+→ Em thật sự muốn sống trong một căn studio sao?
+
+**Adèle :** Attends, je n’ai pas fini, c’est un grand studio de 45 m².  
+→ Chờ đã, em chưa nói hết, đó là một căn studio lớn 45 m².
+
+**Rémi :** Ah non Adèle, on a besoin d’avoir une chambre et…  
+→ Ồ không Adèle, chúng ta cần phải có một phòng ngủ và…
+
+**Adèle :** Tais-toi, écoute-moi !  
+→ Im lặng nào, nghe em nói!
+
+C’est un studio de 45 m² avec une terrasse de 15 m², 720 euros par mois, charges comprises, c’est une affaire tu ne crois pas ?  
+→ Đó là một studio 45 m² với sân thượng 15 m², 720 euro mỗi tháng, đã bao gồm chi phí, đó là một món hời, anh không nghĩ vậy sao?
+
+**Rémi :** Adèle, tu es sérieuse ?  
+→ Adèle, em nghiêm túc đấy à?
+
+Pour le même prix, nous pouvons trouver un deux-pièces. Je vais regarder sur internet.  
+→ Với cùng mức giá, chúng ta có thể tìm được một căn hai phòng. Anh sẽ tìm trên mạng.
+
+**Adèle :** Oui mais il y a une cave et un parking.  
+→ Đúng, nhưng mà nó có cả hầm chứa đồ và chỗ đậu xe.
+
+**Rémi :** Laisse-moi parler !  
+→ Để anh nói!
+
+Je viens de trouver ça sur le site *seloger.fr* :  
+→ Anh vừa tìm thấy cái này trên trang *seloger.fr*:
+
+appartement de 50 m², clair, situé dans une rue calme mais dans un quartier animé où il y a de nombreux commerces.  
+→ Căn hộ 50 m², sáng sủa, nằm trong một con phố yên tĩnh nhưng ở một khu vực sôi động với nhiều cửa hàng.
+
+Un séjour, une chambre, une salle de bains et une belle cuisine. 750 euros.  
+→ Có phòng khách, một phòng ngủ, một phòng tắm và một nhà bếp đẹp. 750 euro.
+
+Moi, ça me plaît ! Je vais appeler le propriétaire pour avoir plus d’informations.  
+→ Anh thích cái này! Anh sẽ gọi cho chủ nhà để biết thêm thông tin.
+
 
 
 

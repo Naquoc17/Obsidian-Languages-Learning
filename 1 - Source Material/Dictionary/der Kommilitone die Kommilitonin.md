@@ -1,0 +1,6 @@
+- der Kommilitone / die Kommilitonin	[kɔmiliˈtoːnə]	Nomen
+- Mitstudent/in an der Hochschule
+- bạn cùng học đại học
+- fellow student
+- Ich arbeite mit meinen Kommilitonen zusammen.
+- Latein: *com* + *milito* = gemeinsam dienend	—

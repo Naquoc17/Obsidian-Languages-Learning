@@ -1,0 +1,6 @@
+- das Tutorium (n)	[tuˈtoːʁi̯ʊm]	Nomen
+- Unterstützender Kurs von fortgeschrittenen Studierenden
+- lớp phụ đạo
+- tutorial / support class
+- Im Tutorium üben wir den Stoff.
+- Tutor, Studium	—

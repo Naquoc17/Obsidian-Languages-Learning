@@ -1,0 +1,6 @@
+- die Habilitationsschrift (f)	[ˌhabilitaˈt͡si̯oːnsˌʃʁɪft]	Nomen
+- Wissenschaftliche Arbeit zur Qualifikation als Professor/in
+- luận án sau tiến sĩ
+- postdoctoral thesis
+- Die Habilitationsschrift ist sehr anspruchsvoll.
+- Habilitation, Schrift	—

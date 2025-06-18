@@ -1,0 +1,6 @@
+- die Zulassung (f)	[ˈt͡suːˌlasʊŋ]	Nomen
+- Erlaubnis, zu studieren
+- giấy nhập học
+- admission
+- Die Zulassung kam per Post.
+- zulassen	—

@@ -1,0 +1,6 @@
+- das Modulhandbuch (n)	[moˈduːlˌhandbuːx]	Nomen
+- Dokument mit Beschreibung aller Module eines Studiengangs
+- sách hướng dẫn học phần
+- module guide / syllabus
+- Das Modulhandbuch enthält alle Kursinhalte.
+- Modul, Handbuch	—

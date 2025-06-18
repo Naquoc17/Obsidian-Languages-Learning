@@ -1,0 +1,6 @@
+- eine Hausarbeit schreiben / verfassen	[ˈhaʊ̯sʔaʁbaɪ̯t]	Verbphrase
+- Eine längere schriftliche Arbeit für ein Seminar anfertigen
+- viết tiểu luận
+- to write a term paper
+- Ich muss bis Montag eine Hausarbeit schreiben.
+- Hausarbeit, schreiben/verfassen	—

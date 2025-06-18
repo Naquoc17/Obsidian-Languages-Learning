@@ -1,0 +1,6 @@
+- ein Referat halten	[ʁefeˈʁaːt]	Verbphrase
+- Mündlich über ein Thema berichten
+- thuyết trình
+- to give a presentation
+- Ich halte morgen ein Referat über Klimawandel.
+- Referat, halten	—

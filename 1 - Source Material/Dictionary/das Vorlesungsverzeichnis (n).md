@@ -1,0 +1,6 @@
+- das Vorlesungsverzeichnis (n)	[ˈfoːɐ̯ˌleːzʊŋs.fɛɐ̯ˌt͡saɪ̯çnɪs]	Nomen
+- Übersicht über alle Kurse eines Semesters
+- danh sách môn học
+- course catalog
+- Im Vorlesungsverzeichnis stehen alle Seminare.
+- Vorlesung, Verzeichnis	—

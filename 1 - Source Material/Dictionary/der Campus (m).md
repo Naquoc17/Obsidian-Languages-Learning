@@ -1,0 +1,6 @@
+- der Campus (m)	[ˈkampʊs]	Nomen
+- Gelände einer Hochschule
+- khuôn viên trường đại học
+- campus
+- Wir treffen uns auf dem Campus.
+- — (aus dem Englischen)	—

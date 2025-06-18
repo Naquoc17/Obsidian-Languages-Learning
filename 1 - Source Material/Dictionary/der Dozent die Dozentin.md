@@ -1,0 +1,6 @@
+- der Dozent / die Dozentin	[doˈt͡sɛnt]	Nomen
+- Lehrkraft an einer Hochschule
+- giảng viên đại học
+- lecturer / university teacher
+- Der Dozent hält eine Vorlesung.
+- dozieren	—

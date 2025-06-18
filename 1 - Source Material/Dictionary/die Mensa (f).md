@@ -1,0 +1,6 @@
+- die Mensa (f)	[ˈmɛnza]	Nomen
+- Kantine für Studierende
+- nhà ăn sinh viên
+- student cafeteria
+- Die Mensa ist heute voll.
+- Latein: Mensa = Tisch	—

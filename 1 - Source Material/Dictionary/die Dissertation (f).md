@@ -1,0 +1,6 @@
+- die Dissertation (f)	[dɪsɛʁtaˈt͡sjoːn]	Nomen
+- Wissenschaftliche Arbeit für die Promotion
+- luận án tiến sĩ
+- dissertation / doctoral thesis
+- Die Dissertation behandelt ein medizinisches Thema.
+- Doktorarbeit	—

@@ -1,0 +1,6 @@
+- der Studienbewerber / die Studienbewerberin	[ˈʃtuːdi̯ənbəˌvɛʁbɐ]	Nomen
+- Person, die sich für ein Studium bewirbt
+- người nộp đơn học đại học
+- university applicant
+- Die Studienbewerberin hat gute Noten.
+- Studium, Bewerber	—

@@ -1,0 +1,6 @@
+- die Studiengebühren (Pl.)	[ˈʃtuːdi̯ənɡəˌbyːʁən]	Nomen
+- Geld, das man für ein Studium bezahlen muss
+- học phí
+- tuition fees
+- In Deutschland sind die Studiengebühren oft niedrig.
+- Studium, Gebühren	—

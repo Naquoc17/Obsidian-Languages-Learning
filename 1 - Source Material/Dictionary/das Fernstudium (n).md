@@ -1,0 +1,6 @@
+- das Fernstudium (n)	[ˈfɛʁnˌʃtuːdi̯ʊm]	Nomen
+- Studium ohne Anwesenheitspflicht, online/postalisch
+- học từ xa
+- distance learning
+- Das Fernstudium ist flexibel.
+- fern, Studium	—

@@ -1,0 +1,6 @@
+- die Studienwahl (f)	[ˈʃtuːdi̯ənˌvaːl]	Nomen
+- Auswahl des Studienfaches
+- sự chọn ngành học
+- study choice
+- Die Studienwahl ist eine wichtige Entscheidung.
+- Studium, Wahl	—

@@ -1,0 +1,6 @@
+- die Elite-Universität (f)	[eˈliːtə ʊnivɛʁziˈtɛːt]	Nomen
+- Hochschule mit besonders hohem Ansehen
+- đại học tinh hoa
+- elite university
+- Die Elite-Universität hat einen exzellenten Ruf.
+- Elite, Universität	—

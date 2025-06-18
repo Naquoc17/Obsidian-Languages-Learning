@@ -1,0 +1,6 @@
+- die Doktorarbeit (f)	[ˈdɔktoːɐ̯ˌʔaʁbaɪ̯t]	Nomen
+- Synonym für Dissertation
+- luận văn tiến sĩ
+- doctoral thesis
+- Er schreibt seine Doktorarbeit über Chemie.
+- Doktor, Arbeit	—

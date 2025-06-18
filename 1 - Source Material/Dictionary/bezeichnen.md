@@ -1,0 +1,6 @@
+- bezeichnen	[bəˈtsaɪ̯çnən]	Verb
+- Etwas mit einem bestimmten Begriff benennen
+- gọi tên, mô tả
+- to designate / label
+- Man kann ihn als Experten bezeichnen.
+- Bezeichnung (sự mô tả)	designare (lat.)

@@ -1,0 +1,6 @@
+- das Hochschulranking (n)	[ˈhoːxʃuːlˌʁæŋkɪŋ]	Nomen
+- Liste, die Hochschulen vergleicht
+- bảng xếp hạng đại học
+- university ranking
+- Das Hochschulranking zeigt die besten Unis.
+- Hochschule, Ranking	—

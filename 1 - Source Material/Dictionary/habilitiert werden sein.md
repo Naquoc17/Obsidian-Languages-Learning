@@ -1,0 +1,6 @@
+- habilitiert werden / sein	[habiliˈtiːʁt]	Verbphrase
+- Die Habilitation erfolgreich abgeschlossen haben
+- được công nhận giảng dạy đại học
+- to be habilitated
+- Sie ist seit 2020 habilitiert.
+- Habilitation	—

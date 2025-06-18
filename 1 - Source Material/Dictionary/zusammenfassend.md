@@ -1,0 +1,6 @@
+- zusammenfassend	[tsuˈzamənˌfasn̩t]	Adjektiv / Adverb
+- Eine Zusammenfassung bildend
+- tóm lại
+- in summary
+- Zusammenfassend kann man sagen, es war ein gutes Jahr.
+- zusammenfassen (tóm tắt), Zusammenfassung	—

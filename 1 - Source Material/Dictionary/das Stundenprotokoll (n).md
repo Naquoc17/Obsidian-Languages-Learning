@@ -1,0 +1,6 @@
+- das Stundenprotokoll (n)	[ˈʃtʊndn̩pʁoˌtoːkɔl]	Nomen
+- Zusammenfassung einer Unterrichtsstunde
+- biên bản buổi học
+- lesson minutes
+- Ich schreibe heute das Stundenprotokoll.
+- Stunde, Protokoll	—

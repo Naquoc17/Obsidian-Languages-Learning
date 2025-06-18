@@ -1,0 +1,6 @@
+- das Referat (n)	[ʁefeˈʁaːt]	Nomen
+- Mündlicher Vortrag
+- bài thuyết trình
+- presentation / report
+- Sie hält ein Referat über Goethe.
+- referieren (thuyết trình)	—

@@ -1,0 +1,6 @@
+- die Hausarbeit (f)	[ˈhaʊ̯sʔaʁbaɪ̯t]	Nomen
+- Längere schriftliche Arbeit im Studium
+- bài tiểu luận
+- term paper / written assignment
+- Ich schreibe eine Hausarbeit über Geschichte.
+- Haus, Arbeit	—

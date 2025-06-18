@@ -1,0 +1,6 @@
+- das Auswahlgespräch (n)	[ˈaʊ̯sˌvaːlɡəʃˌpʁɛːç]	Nomen
+- Gespräch zur Auswahl von Bewerber/innen
+- buổi phỏng vấn tuyển sinh
+- selection interview
+- Das Auswahlgespräch entscheidet über die Zulassung.
+- Auswahl, Gespräch	—

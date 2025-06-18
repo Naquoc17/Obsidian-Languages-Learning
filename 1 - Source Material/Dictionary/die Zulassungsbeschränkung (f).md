@@ -1,0 +1,6 @@
+- die Zulassungsbeschränkung (f)	[ˈt͡suːlasʊŋsbəˌʃʁɛŋkʊŋ]	Nomen
+- Begrenzte Studienplätze, Auswahlverfahren
+- giới hạn nhập học
+- admission restriction
+- Medizin hat eine Zulassungsbeschränkung.
+- Zulassung, Beschränkung	—

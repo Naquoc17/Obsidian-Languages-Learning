@@ -1,0 +1,6 @@
+- die Studienfinanzierung (f)	[ˈʃtuːdi̯ənfɪnanˌt͡siːʁʊŋ]	Nomen
+- Wie man das Studium bezahlt
+- tài chính cho việc học
+- student financing
+- Die Studienfinanzierung kann über BAföG erfolgen.
+- Studium, Finanzierung	—

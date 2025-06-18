@@ -1,0 +1,6 @@
+- das Modul (n)	[moˈduːl]	Nomen
+- Inhaltseinheit eines Studiengangs
+- học phần
+- module / unit
+- Jedes Modul bringt Punkte.
+- —	—

@@ -1,0 +1,6 @@
+- die Promotionsordnung (f)	[pʁomoˈt͡sjoːnsˌʔɔʁdnʊŋ]	Nomen
+- Regelwerk für das Erlangen eines Doktortitels
+- quy chế làm tiến sĩ
+- doctoral regulations
+- Laut Promotionsordnung sind drei Gutachten nötig.
+- Promotion, Ordnung	—

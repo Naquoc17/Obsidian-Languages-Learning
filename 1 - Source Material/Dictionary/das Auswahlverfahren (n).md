@@ -1,0 +1,6 @@
+- das Auswahlverfahren (n)	[ˈaʊ̯sˌvaːl.fɛɐ̯ˌfaːʁən]	Nomen
+- Prozess zur Auswahl von Bewerber/innen
+- quy trình tuyển chọn
+- selection procedure
+- Das Auswahlverfahren besteht aus mehreren Teilen.
+- Auswahl, Verfahren	—

@@ -1,0 +1,6 @@
+- die Promotion (f)	[pʁomoˈt͡sjoːn]	Nomen
+- Erwerb des Doktortitels
+- học vị tiến sĩ
+- doctorate / PhD
+- Seine Promotion dauert drei Jahre.
+- promovieren	—

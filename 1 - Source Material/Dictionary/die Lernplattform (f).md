@@ -1,0 +1,6 @@
+- die Lernplattform (f)	[ˈlɛʁnˌplatfɔʁm]	Nomen
+- Digitale Plattform zum Austausch von Lerninhalten
+- nền tảng học trực tuyến
+- learning platform
+- Auf der Lernplattform findet man alle Unterlagen.
+- Lernen, Plattform	—

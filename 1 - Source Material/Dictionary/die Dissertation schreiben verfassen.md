@@ -1,0 +1,6 @@
+- die Dissertation schreiben / verfassen	[dɪsɛʁtaˈt͡si̯oːn]	Verbphrase
+- Eine wissenschaftliche Doktorarbeit erstellen
+- viết luận án tiến sĩ
+- to write a dissertation
+- Er schreibt seine Dissertation in Physik.
+- Dissertation, schreiben/verfassen	—

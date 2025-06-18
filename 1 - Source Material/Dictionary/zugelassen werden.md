@@ -1,0 +1,6 @@
+- zugelassen werden	[ˈt͡suːɡəˌlasn̩]	Verbphrase
+- Aufnahme erhalten
+- được nhận
+- to be admitted
+- Sie wurde zur Universität zugelassen.
+- zulassen, Zulassung	—

@@ -1,0 +1,6 @@
+- das Studentenwohnheim (n)	[ʃtuˈdɛntn̩ˌvoːnhaɪ̯m]	Nomen
+- Wohnheim für Studierende
+- ký túc xá sinh viên
+- student dormitory
+- Ich wohne im Studentenwohnheim.
+- Student, Wohnheim	—

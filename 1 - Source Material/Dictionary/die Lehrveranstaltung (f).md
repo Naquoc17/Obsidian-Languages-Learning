@@ -1,0 +1,6 @@
+- die Lehrveranstaltung (f)	[ˈleːɐ̯fɛɐ̯ˌʔanʃtaltʊŋ]	Nomen
+- Unterrichtseinheit an der Uni (z. B. Vorlesung, Seminar)
+- buổi học đại học
+- course / class
+- Die Lehrveranstaltung beginnt um 8 Uhr.
+- Lehre, Veranstaltung	—

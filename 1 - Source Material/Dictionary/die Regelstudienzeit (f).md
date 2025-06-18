@@ -1,0 +1,6 @@
+- die Regelstudienzeit (f)	[ˈʁeːɡl̩ˌʃtuːdiənˌt͡saɪ̯t]	Nomen
+- Vorgesehene Studiendauer in Semestern
+- thời gian học tiêu chuẩn
+- standard period of study
+- Die Regelstudienzeit für das Bachelorstudium ist 6 Semester.
+- Regel, Studium, Zeit	—

@@ -1,0 +1,6 @@
+- der wissenschaftliche Mitarbeiter / die wissenschaftliche Mitarbeiterin	[ˈvɪsənʃaftlɪçə ˈmɪtaʁbaɪ̯tɐ]	Nomen
+- Akademischer Angestellter an der Uni
+- trợ giảng / nghiên cứu viên
+- research associate / academic assistant
+- Der wissenschaftliche Mitarbeiter betreut das Seminar.
+- Wissenschaft, Mitarbeiter	—

@@ -1,0 +1,6 @@
+- die wissenschaftliche Hilfskraft (f)	[ˈvɪsənʃaftlɪçə ˈhɪlfsˌkʁaft]	Nomen
+- Studentische oder akademische Unterstützung beim Forschen
+- trợ lý nghiên cứu
+- research assistant
+- Sie arbeitet als wissenschaftliche Hilfskraft.
+- Wissenschaft, Hilfe, Kraft	—

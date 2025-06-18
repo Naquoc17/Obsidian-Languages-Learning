@@ -1,0 +1,6 @@
+- die Sprechstunde (f)	[ˈʃpʁɛçˌʃtʊndə]	Nomen
+- Feste Zeit, in der Professoren/Dozenten für Fragen zur Verfügung stehen
+- giờ tiếp sinh viên
+- office hour / consultation
+- Der Professor bietet jeden Dienstag eine Sprechstunde an.
+- sprechen, Stunde	—

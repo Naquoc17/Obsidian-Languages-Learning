@@ -1,0 +1,6 @@
+- der Allgemeine Studierendenausschuss (AStA) (m)	[ˈʃtuːdiˌʁɛndn̩aʊ̯ʃʊs]	Nomen
+- Vertretung der Studierenden an der Hochschule
+- hội sinh viên
+- student council
+- Der AStA organisiert Veranstaltungen.
+- Studierende, Ausschuss	—

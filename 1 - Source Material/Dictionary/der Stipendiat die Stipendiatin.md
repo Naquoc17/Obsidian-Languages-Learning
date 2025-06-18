@@ -1,0 +1,6 @@
+- der Stipendiat / die Stipendiatin	[ʃtɪpɛndi̯aˈt]	Nomen
+- Person, die ein Stipendium erhält
+- người nhận học bổng
+- scholarship holder
+- Die Stipendiatin studiert Medizin.
+- Stipendium	—

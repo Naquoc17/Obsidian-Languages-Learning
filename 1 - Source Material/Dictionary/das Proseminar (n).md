@@ -1,0 +1,6 @@
+- das Proseminar (n)	[ˈpʁoːzemiˌnaːɐ̯]	Nomen
+- Einführungskurs für Studienanfänger
+- hội thảo nhập môn
+- introductory seminar
+- Im ersten Semester besucht man ein Proseminar.
+- Seminar	—

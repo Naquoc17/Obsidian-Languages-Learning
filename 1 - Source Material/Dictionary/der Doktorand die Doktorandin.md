@@ -1,0 +1,6 @@
+- der Doktorand / die Doktorandin	[ˌdɔktoˈʁant]	Nomen
+- Person, die an einer Dissertation arbeitet
+- nghiên cứu sinh tiến sĩ
+- doctoral candidate
+- Der Doktorand forscht an der Uni.
+- Doktor, Student	—

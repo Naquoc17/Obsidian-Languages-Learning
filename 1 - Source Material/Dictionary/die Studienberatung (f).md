@@ -1,0 +1,6 @@
+- die Studienberatung (f)	[ˈʃtuːdi̯ənbəˌʁaːtʊŋ]	Nomen
+- Hilfsangebot zur Wahl und Organisation des Studiums
+- tư vấn học tập
+- academic advising
+- Die Studienberatung unterstützt bei der Fächerwahl.
+- Studium, Beratung	—

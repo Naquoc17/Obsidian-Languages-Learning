@@ -1,0 +1,6 @@
+- die Vorlesung (f)	[ˈfoːɐ̯ˌleːzʊŋ]	Nomen
+- Vortrag eines Professors an der Uni
+- bài giảng
+- lecture
+- Die Vorlesung ist sehr interessant.
+- vorlesen (đọc cho nghe)	—

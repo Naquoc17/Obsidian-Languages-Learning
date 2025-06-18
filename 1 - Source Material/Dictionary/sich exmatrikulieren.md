@@ -1,0 +1,6 @@
+- sich exmatrikulieren	[ɛksmatʁiˈkuːliːʁən]	Verb
+- Sich offiziell abmelden
+- rút khỏi trường
+- to de-enroll / withdraw
+- Er ließ sich nach dem Abschluss exmatrikulieren.
+- Exmatrikulation	—

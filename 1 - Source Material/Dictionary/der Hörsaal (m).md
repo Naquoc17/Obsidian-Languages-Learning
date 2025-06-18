@@ -1,0 +1,6 @@
+- der Hörsaal (m)	[ˈhøːɐ̯zaːl]	Nomen
+- Großer Raum für Vorlesungen
+- giảng đường
+- lecture hall
+- Die Vorlesung ist im Hörsaal 3.
+- hören, Saal	—

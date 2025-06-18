@@ -1,0 +1,6 @@
+- die Habilitationsschrift verfassen	[ˌhabilitaˈt͡si̯oːnsˌʃʁɪft]	Verbphrase
+- Wissenschaftliche Arbeit zur Habilitation schreiben
+- viết luận án sau tiến sĩ
+- to write a postdoctoral thesis
+- Er verfasst derzeit seine Habilitationsschrift.
+- Habilitationsschrift, verfassen	—

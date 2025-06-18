@@ -1,0 +1,6 @@
+- die Exmatrikulation (f)	[ɛksmatʁikulaˈt͡sjoːn]	Nomen
+- Abmeldung vom Studium
+- thủ tục rút học
+- de-enrollment
+- Nach dem Studium erfolgt die Exmatrikulation.
+- exmatrikulieren	—

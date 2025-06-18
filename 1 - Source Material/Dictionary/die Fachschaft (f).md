@@ -1,0 +1,6 @@
+- die Fachschaft (f)	[ˈfaxʃaft]	Nomen
+- Vertretung der Studierenden eines Studienfachs
+- ban đại diện sinh viên khoa
+- student body of a department
+- Die Fachschaft organisiert Tutorien.
+- Fach, Mannschaft	—

@@ -1,0 +1,6 @@
+- eine Klausur schreiben	[klaʊ̯ˈzuːɐ̯]	Verbphrase
+- Eine schriftliche Prüfung machen
+- làm bài kiểm tra viết
+- to take a written exam
+- Wir schreiben nächste Woche eine Klausur in Mathe.
+- Klausur, schreiben	—

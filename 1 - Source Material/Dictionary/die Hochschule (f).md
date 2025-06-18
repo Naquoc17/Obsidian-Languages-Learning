@@ -1,0 +1,6 @@
+- die Hochschule (f)	[ˈhoːxʃuːlə]	Nomen
+- Bildungseinrichtung für höhere Bildung
+- trường đại học (nói chung)
+- university / higher education institution
+- Die Hochschule bietet verschiedene Studiengänge an.
+- Universität, Fachhochschule	—

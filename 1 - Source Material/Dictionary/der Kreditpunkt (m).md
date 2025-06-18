@@ -1,0 +1,6 @@
+- der Kreditpunkt (m)	[ˈkʁeːdɪtpʊŋkt]	Nomen
+- Leistungseinheit im Studium (z. B. ECTS-Punkte)
+- điểm học phần
+- credit point
+- Pro Seminar erhält man 5 Kreditpunkte.
+- Kredit, Punkt	—

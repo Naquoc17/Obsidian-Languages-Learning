@@ -1,0 +1,6 @@
+- sich immatrikulieren	[ɪmatʁiˈkuːliːʁən]	Verb
+- Sich offiziell an einer Hochschule einschreiben
+- nhập học chính thức
+- to enroll (in university)
+- Ich habe mich immatrikuliert.
+- Immatrikulation	—

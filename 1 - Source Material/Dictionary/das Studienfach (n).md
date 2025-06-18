@@ -1,0 +1,6 @@
+- das Studienfach (n)	[ˈʃtuːdi̯ənˌfax]	Nomen
+- Fachrichtung im Studium
+- môn học chuyên ngành
+- field of study / major
+- Mein Studienfach ist Biologie.
+- Studium, Fach	—

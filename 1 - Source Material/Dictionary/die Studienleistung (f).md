@@ -1,0 +1,6 @@
+- die Studienleistung (f)	[ˈʃtuːdiənˌlaɪ̯stʊŋ]	Nomen
+- Erbrachte Leistung im Studium (z. B. Prüfung, Hausarbeit)
+- kết quả học tập
+- academic achievement
+- Für das Modul sind zwei Studienleistungen nötig.
+- Studium, Leistung	—

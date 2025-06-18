@@ -1,0 +1,6 @@
+- das Hauptgebäude (n)	[ˈhaʊ̯ptɡəˌbɔʏ̯də]	Nomen
+- Zentrales Gebäude der Uni
+- tòa nhà chính
+- main building
+- Das Hauptgebäude ist sehr alt.
+- Haupt, Gebäude	—

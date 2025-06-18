@@ -1,0 +1,6 @@
+- das Referendariat (n)	[ʁefeʁɛndi̯aˈʁi̯aːt]	Nomen
+- Praktische Ausbildungszeit nach dem Studium, z. B. für Lehrer oder Juristen
+- thời gian thực tập nghề (giáo viên, luật sư...)
+- traineeship / practical training
+- Nach dem Lehramtsstudium folgt das Referendariat.
+- Referent, Referat	—

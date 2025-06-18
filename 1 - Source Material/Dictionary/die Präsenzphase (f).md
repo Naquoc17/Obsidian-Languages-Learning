@@ -1,0 +1,6 @@
+- die Präsenzphase (f)	[pʁɛˈzɛnt͡sˌfaːzə]	Nomen
+- Zeit, in der man anwesend sein muss
+- giai đoạn học trực tiếp
+- attendance phase
+- In der Präsenzphase finden Prüfungen statt.
+- Präsenz, Phase	—

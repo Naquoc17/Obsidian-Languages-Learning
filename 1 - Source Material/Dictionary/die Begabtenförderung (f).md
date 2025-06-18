@@ -1,0 +1,6 @@
+- die Begabtenförderung (f)	[bəˈɡaːptn̩ˌfœʁdɐʊŋ]	Nomen
+- Unterstützung für besonders talentierte Studierende
+- hỗ trợ sinh viên giỏi
+- gifted student funding
+- Die Stiftung bietet Begabtenförderung an.
+- begabt, Förderung	—

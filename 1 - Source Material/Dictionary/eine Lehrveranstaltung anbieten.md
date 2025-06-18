@@ -1,0 +1,6 @@
+- eine Lehrveranstaltung anbieten	[ˈanˌbiːtən]	Verbphrase
+- Eine Unterrichtseinheit im Vorlesungsverzeichnis planen
+- tổ chức môn học đại học
+- to offer a university course
+- Der Professor bietet eine neue Lehrveranstaltung an.
+- anbieten, Lehrveranstaltung	—

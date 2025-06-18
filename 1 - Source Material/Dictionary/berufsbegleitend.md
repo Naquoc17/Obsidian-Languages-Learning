@@ -1,0 +1,6 @@
+- berufsbegleitend	[bəˈʁuːfsbəˌɡlaɪ̯tnt]	Adjektiv
+- Neben dem Beruf stattfindend
+- vừa làm vừa học
+- part-time (alongside job)
+- Er studiert berufsbegleitend.
+- Beruf, begleiten	—
