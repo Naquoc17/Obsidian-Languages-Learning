@@ -15,7 +15,7 @@ Tags: [[English]]
 # Cambridge English - Complete IELTS Bands 5-6.5
 -  [[Unit 1 - Starting somewhere new]]
 
-## Unit 2: It's good for you!
+-  [[Unit 2 - It's good for you!]]
 
 ## Unit 3: Getting the message across
 
