@@ -1,0 +1,7 @@
+- beneficent Providence (n phr) [bɪˈnefɪsənt ˈprɒvɪdəns] Noun Phrase  
+- A kind, guiding force often believed to be divine  
+- Sự quan phòng nhân từ  
+- gütige Vorsehung  
+- He trusted in the beneficent Providence to protect them.  
+- beneficent (adj) = doing good; Providence (n) = divine guidance  
+- Latin: bene + facere; providere

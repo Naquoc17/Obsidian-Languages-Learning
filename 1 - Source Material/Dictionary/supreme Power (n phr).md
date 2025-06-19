@@ -1,0 +1,7 @@
+- supreme Power (n phr) [suːˈpriːm ˈpaʊə] Noun Phrase  
+- The highest authority or force  
+- Quyền lực tối thượng  
+- höchste Macht  
+- Many believe in a supreme Power guiding life.  
+- supreme (adj) = highest  
+- Latin: supremus

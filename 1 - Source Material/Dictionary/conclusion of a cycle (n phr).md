@@ -1,0 +1,7 @@
+- conclusion of a cycle (n phr) [kənˈkluːʒən əv ə ˈsaɪkl] Noun Phrase  
+- The end of a repeating process or period  
+- Kết thúc một chu kỳ  
+- Ende eines Zyklus  
+- The conclusion of a cycle leads to a new beginning.  
+- conclude (v) = to finish  
+- Latin: concludere

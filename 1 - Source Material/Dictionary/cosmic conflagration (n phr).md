@@ -1,0 +1,7 @@
+- cosmic conflagration (n phr) [ˈkɒzmɪk ˌkɒnfləˈɡreɪʃən] Noun Phrase  
+- A massive destruction or burning of the universe  
+- Sự thiêu hủy toàn vũ trụ  
+- kosmische Feuersbrunst  
+- Stoics believed in a recurring cosmic conflagration.  
+- conflagration (n) = big destructive fire  
+- Latin: con + flagrare (to burn)

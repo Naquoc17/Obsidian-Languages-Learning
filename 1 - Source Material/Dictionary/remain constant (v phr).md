@@ -1,0 +1,7 @@
+- remain constant (v phr) [rɪˈmeɪn ˈkɒnstənt] Verb Phrase  
+- To stay the same over time  
+- Giữ nguyên không thay đổi  
+- konstant bleiben  
+- His opinion has remained constant despite criticism.  
+- constant (adj) = not changing  
+- Latin: constare (stand firm)

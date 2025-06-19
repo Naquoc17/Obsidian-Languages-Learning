@@ -1,0 +1,7 @@
+- compelled (v) [kəmˈpɛld] Verb  
+- Forced to do something  
+- Bị ép buộc  
+- gezwungen  
+- He felt compelled to speak.  
+- compel (v), compulsion (n)  
+- Latin: compellere

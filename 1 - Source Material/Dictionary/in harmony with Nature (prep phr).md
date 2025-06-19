@@ -1,0 +1,7 @@
+- in harmony with Nature (prep phr) [ɪn ˈhɑːməni wɪð ˈneɪtʃə] Prepositional Phrase  
+- Living according to natural law or balance  
+- Hài hòa với Thiên nhiên  
+- im Einklang mit der Natur  
+- Stoics lived in harmony with Nature.  
+- harmony (n) = balance, agreement  
+- Latin: harmonia

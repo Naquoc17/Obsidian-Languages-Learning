@@ -1,0 +1,7 @@
+- doctrine (n) [ˈdɒktrɪn] Noun  
+- A belief or set of beliefs held and taught by a church, political party, or other group  
+- Học thuyết  
+- Lehre  
+- The Christian doctrine of salvation is central to the religion.  
+- doctrinal (adj) = related to doctrine, indoctrinate (v) = to teach a doctrine forcefully  
+- Latin: doctrina (teaching)

@@ -1,0 +1,7 @@
+- sole good (n phr) [səʊl ɡʊd] Noun Phrase  
+- The only thing considered truly valuable  
+- Điều tốt duy nhất  
+- das einzige Gute  
+- Virtue is the sole good in Stoicism.  
+- sole (adj) = only; good (n) = value  
+- Latin: solus, bonus

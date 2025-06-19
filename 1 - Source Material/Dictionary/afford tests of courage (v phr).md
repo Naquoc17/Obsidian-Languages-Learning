@@ -1,0 +1,7 @@
+- afford tests of courage (v phr) [əˈfɔːd tɛsts əv ˈkʌrɪdʒ] Verb Phrase  
+- To provide opportunities to show bravery  
+- Tạo điều kiện thử lòng can đảm  
+- Mutproben ermöglichen  
+- Difficult times afford tests of courage.  
+- afford (v) = provide; test (n) = challenge  
+- Latin: fortis (strong)

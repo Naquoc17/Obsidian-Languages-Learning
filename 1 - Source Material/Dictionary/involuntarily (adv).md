@@ -1,0 +1,7 @@
+- involuntarily (adv) [ɪnˈvɒlənt(ə)rɪli] Adverb  
+- Without control or intention  
+- Một cách không tự nguyện  
+- unfreiwillig  
+- He shivered involuntarily.  
+- voluntary (adj) = done by choice  
+- Latin: voluntarius

@@ -1,0 +1,7 @@
+- of no account (phr) [əv nəʊ əˈkaʊnt] Phrase  
+- Not important or valuable  
+- Không có giá trị  
+- ohne Bedeutung  
+- His wealth was of no account to them.  
+- account (n) = value, importance  
+- Latin: computare

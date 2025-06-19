@@ -1,0 +1,7 @@
+- simile (n) [ˈsɪməli] Noun  
+- A figure of speech comparing two things using “like” or “as”  
+- So sánh tu từ  
+- Vergleich  
+- “Brave as a lion” is a simile.  
+- metaphor (related term)  
+- Latin: similis (similar)

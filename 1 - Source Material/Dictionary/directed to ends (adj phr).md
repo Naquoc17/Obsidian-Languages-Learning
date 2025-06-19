@@ -1,0 +1,7 @@
+- directed to ends (adj phr) [dɪˈrɛktɪd tu ɛndz] Adjective Phrase  
+- Aimed toward goals  
+- Hướng đến mục tiêu  
+- auf Ziele ausgerichtet  
+- Actions are directed to ends, not random.  
+- direct (v) = guide; end (n) = purpose  
+- Latin: dirigere, finis

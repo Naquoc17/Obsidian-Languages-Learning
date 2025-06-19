@@ -1,0 +1,7 @@
+- Divine Fire (n phr) [dɪˈvaɪn ˈfaɪə] Noun Phrase  
+- A metaphor for godly energy or spirit  
+- Lửa thiêng  
+- göttliches Feuer  
+- The Divine Fire gives life to the universe.  
+- divine (adj) = godly; fire (n) = flame  
+- Latin: divinus

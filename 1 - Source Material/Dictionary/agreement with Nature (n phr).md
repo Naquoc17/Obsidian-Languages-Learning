@@ -1,0 +1,7 @@
+- agreement with Nature (n phr) [əˈɡriːmənt wɪð ˈneɪtʃə] Noun Phrase  
+- Being aligned with natural order or laws  
+- Sự hòa hợp với Thiên nhiên  
+- Einklang mit der Natur  
+- Stoic ethics emphasize agreement with Nature.  
+- agreement (n) = harmony  
+- Latin: agere

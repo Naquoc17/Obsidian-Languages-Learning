@@ -1,0 +1,7 @@
+- virtue (n) [ˈvɜːtʃuː] Noun  
+- Moral goodness or excellence  
+- Đức hạnh  
+- Tugend  
+- Patience is a virtue.  
+- virtuous (adj) = morally good  
+- Latin: virtus

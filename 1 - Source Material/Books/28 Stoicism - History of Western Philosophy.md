@@ -30,7 +30,43 @@ Và như thế, Dion sống mãi trong ký ức, không phải như một đốm
 
 Zeno was a Phoenician, born at Citium, in Cyprus, at some. time during the latter half of the fourth century B.C. It seems probable that his family were engaged in commerce, and that business interests were what first took him to Athens. When there, however, he became anxious to study philosophy. The views of the Cynics were more congenial to him than those of any other school, but he was something of an eclectic. The followers of Plato accused him of plagiarizing the Academy. Socrates was the chief saint of the Stoics throughout their history; his attitude at the time of his trial, his refusal to escape, his calmness in the face of death, and his contention that the perpetrator of injustice injures himself more than his victim, all fitted in perfectly with Stoic teaching. So did his indifference to heat and cold, his plainness in matters of food and dress, and his complete independence of all bodily comforts. But the Stoics never took over Plato's doctrine of ideas, and most of them rejected his arguments for immortality. Only the later Stoics followed him in regarding the soul as immaterial; the earlier Stoics agreed with Heraclitus in the view that the soul is composed of material fire. Verbally, this doctrine is also to be found in Epictetus and Marcus Aurelius, but it seems that in them the fire is not to be taken literally as one of the four elements of which physical things are composed. Zeno had no patience with metaphysical subtleties. Virtue was what he thought important, and he only valued physics and metaphysics in so far as they contributed to virtue. He attempted to combat the metaphysical tendencies of the age by means of common sense, which, in Greece, meant materialism. Doubts as to the trustworthiness of the senses annoyed him, and he pushed the opposite doctrine to extremes. " Zeno began by asserting the existence of the real world. 'What do you mean by real?' asked the Sceptic. 'I mean solid and material. I mean that this table is solid matter.''And God,' asked the Sceptic, 'and the Soul.' 'Perfectly solid,' said Zeno, 'more solid, if anything, than the table.''And virtue or justice or the Rule of Three; also solid matter?''Of course,' said Zeno, 'quite solid.'" * It is evident that, at this point, Zeno, like many others, was hurried by anti-metaphysical zeal into a metaphysic of his own.
 
+## Page 3
+### **Lửa Thiêng và Định Mệnh Vĩnh Cửu**
 
+Thầy Lâm, một triết gia già uyên bác, đứng trước lớp giảng bài triết học cổ đại. Ông mở đầu bằng cách giải thích rằng các **doctrines (giáo lý/niềm tin)** triết học của phái Stoic đã **remained constant (vẫn không thay đổi)** qua nhiều thế kỷ. “Họ tin vào **cosmic determinism (thuyết định mệnh vũ trụ)**, tức là mọi thứ trong vũ trụ đều được **rigidly determined (quyết định cứng nhắc)** bởi các **natural laws (quy luật tự nhiên)**,” ông nói, ánh mắt ánh lên vẻ hứng khởi.
+
+Ông giơ tay vẽ một vòng tròn lên bảng: “Vũ trụ này sẽ đi đến **cosmic conflagration (hỏa hoạn vũ trụ)**, một vụ cháy lớn thiêu rụi tất cả, rồi tái sinh. Mỗi **conclusion of a cycle (kết thúc của một chu kỳ)** như thế lại được **repeated endlessly (lặp lại vô tận)**, như một vòng lặp vĩnh hằng.”
+
+Một sinh viên hỏi: “Thưa thầy, vậy có giống như **Christian doctrine (giáo lý Thiên Chúa giáo)** nói về ngày tận thế và sự tái sinh không ạ?”
+
+Thầy gật đầu: “Có nét tương đồng, nhưng Stoic cho rằng mọi thứ được **ordained (được an bài)** bởi một **beneficent Providence (sự an bài nhân từ)**, không phải một vị thần cá nhân. Đó là cách vũ trụ tự vận hành để **secure certain ends (đạt được những mục đích nhất định)**, tất cả đều **by natural means (bằng các phương tiện tự nhiên)**.”
+
+Một cậu khác chen vào: “Vậy ý nghĩa cuộc sống là gì trong hệ thống đó, thưa thầy?”
+
+“Đó là sống để vượt qua những thử thách – chúng **afford tests of courage (tạo ra các thử thách về lòng can đảm)**, nhằm rèn luyện **virtue (đức hạnh)**. Bởi vì tất cả đều do một **supreme Power (quyền lực tối cao)** sắp đặt, ta chỉ là phần **subordinate (phụ thuộc/bên dưới)** trong một **single system (hệ thống duy nhất)** được điều khiển bởi **Divine Fire (lửa thiêng liêng)**, linh hồn vũ trụ – hay còn gọi là **soul of the world (linh hồn của thế giới)**.”
+
+Ông bước chậm rãi giữa các hàng ghế: “Mỗi **individual life (cuộc sống cá nhân)** phải sống **in harmony with Nature (hòa hợp với thiên nhiên)**, hành động phải **directed to ends (hướng đến mục đích)** cao quý, sao cho có **agreement with Nature (sự đồng thuận với thiên nhiên)**. Nếu trái ý tự nhiên, chúng ta **perforce (bắt buộc)** chịu hậu quả, dù có thể là **involuntarily (không tự nguyện)**.”
+
+Ông lấy ví dụ: “Giống như **simile (ẩn dụ)** về chiếc lá – nó **compelled (bị ép buộc)** phải rơi khi mùa thu đến, dù không muốn.”
+
+Ông nhìn khắp lớp, kết luận: “Trong hệ thống này, **virtue (đức hạnh)** là **sole good (điều tốt duy nhất)**. Mọi thứ khác – danh vọng, của cải – đều là **of no account (không đáng kể/không quan trọng)**.”
+
+Cả lớp im lặng, mỗi người như đang tự hỏi: liệu mình đã thực sự sống đúng với tự nhiên chưa?
+
+### Reading
+The main doctrines to which the school remained constant throughout are concerned with **[[cosmic determinism (n phr)]]** and **human freedom**. Zeno believed that **there is no such thing as chance**, and that the course of nature is **rigidly determined by natural laws**. Originally, there was only **fire**; then the other elements—**air, water, earth**, in that order—gradually emerged. But sooner or later there will be a **[[cosmic conflagration (n phr)]]**, and all will again become fire. This, according to most Stoics, is not a [[final consummation (n phr)]], like the end of the world in Christian doctrine, but only the **[[conclusion of a cycle (n phr)]]**; the whole process will be **repeated endlessly**. Everything that happens has **happened before**, and will **happen again**, not once, but countless times.
+
+So far, the doctrine might seem cheerless, and in no respect more comforting than ordinary materialism such as that of **[[Democritus (proper noun)]]**. But this was only one aspect of it. The course of nature, in Stoicism as in eighteenth-century theology, was **[[ordained (v, adj)]] by a Lawgiver** who was also a **[[beneficent Providence (n phr)]]**. Down to the smallest detail, the whole was designed to **secure certain ends by natural means**. These ends, except in so far as they concern gods and daemons, are to be found in the **life of man**. 
+
+Everything has a purpose connected with human beings. Some animals are good to eat, some afford tests of courage; even **bed bugs are useful**, since they help us to wake in the morning and not lie in bed too long. The [[supreme Power (n phr)]] is called sometimes **God**, sometimes **Zeus**. **Seneca** distinguished this Zeus from the object of popular belief, who was also real, but **[[subordinate (adj, n, v)]]**.
+
+God is **not separate from the world**; He is the **[[soul of the world (n phr)]]**, and **each of us contains a part of the [[Divine Fire (n phr)]]**. All things are parts of **one single system**, which is called **Nature**; the individual life is good when it is in **harmony with Nature**. 
+
+In one sense, every life is in harmony with Nature, since it is such as Nature's laws have caused it to be; but in another sense, a human life is only in harmony with Nature when the **individual will is directed to ends which are among those of Nature**. 
+
+**Virtue consists in a will which is in agreement with Nature.** The wicked, though perforce they obey God's law, do so **involuntarily**; in the simile of **Cleanthes**, they are like a **dog tied to a cart**, and [[compelled (v)]] to go wherever it goes.
+
+In the life of an individual man, **virtue is the sole good**; such things as health, happiness, possessions, are [[of no account (phr)]]. Since **virtue resides in the will**, everything really good or bad in a man's life depends only upon himself
 
 
 

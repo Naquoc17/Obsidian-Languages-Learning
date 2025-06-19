@@ -1,0 +1,7 @@
+- subordinate (adj, n, v) [səˈbɔːdɪnət / -neɪt] Adjective / Noun / Verb  
+- Lower in rank or less important  
+- Cấp dưới, phụ thuộc  
+- untergeordnet  
+- He was a subordinate officer in the army.  
+- subordinated (adj), subordinate (v) = to treat as less  
+- Latin: sub + ordinare

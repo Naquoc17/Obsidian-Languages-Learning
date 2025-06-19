@@ -1,0 +1,7 @@
+- ordained (v, adj) [ɔːˈdeɪnd] Verb / Adjective  
+- Officially ordered or decided, often by a higher power  
+- Được định đoạt  
+- bestimmt, geweiht  
+- He believed his path was divinely ordained.  
+- ordain (v) = to officially appoint or decree  
+- Latin: ordinare

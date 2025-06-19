@@ -1,0 +1,7 @@
+- cosmic determinism (n phr) [ˈkɒzmɪk dɪˈtɜːmɪnɪz(ə)m] Noun Phrase  
+- The idea that the universe operates according to fixed laws and destiny  
+- Thuyết định mệnh vũ trụ  
+- kosmischer Determinismus  
+- The Stoics believed in cosmic determinism.  
+- cosmic (adj) = related to universe; determinism (n) = the idea of pre-decided outcomes  
+- Latin: determinare (to limit, define)

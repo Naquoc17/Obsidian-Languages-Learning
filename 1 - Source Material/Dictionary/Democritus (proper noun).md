@@ -1,0 +1,7 @@
+- Democritus (proper noun) [dɪˈmɒkrɪtəs] Proper Noun  
+- An ancient Greek philosopher known for developing the atomic theory of the universe  
+- Democritus – nhà triết học Hy Lạp cổ đại, nổi tiếng với lý thuyết nguyên tử  
+- Demokrit – ein antiker griechischer Philosoph, bekannt für seine Atomentheorie  
+- Democritus believed that everything is made of tiny, indivisible particles called atoms.  
+- N/A (proper name; no family words)  
+- Greek: Δημόκριτος (Dēmókritos) – from *dēmos* (people) + *kritos* (chosen)

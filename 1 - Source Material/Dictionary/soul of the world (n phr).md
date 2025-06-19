@@ -1,0 +1,7 @@
+- soul of the world (n phr) [səʊl əv ðə wɜːld] Noun Phrase  
+- A concept of a universal spiritual essence  
+- Linh hồn của thế giới  
+- Weltseele  
+- The Stoics saw God as the soul of the world.  
+- soul (n) = spirit  
+- Latin: anima mundi

@@ -1,0 +1,7 @@
+- final consummation (n phr) [ˈfaɪnl ˌkɒnsəˈmeɪʃən] Noun Phrase  
+- The ultimate end or fulfillment of something  
+- Sự hoàn tất cuối cùng  
+- endgültige Vollendung  
+- The final consummation of their plan was success.  
+- consummate (v) = to complete or fulfill  
+- Latin: consummare

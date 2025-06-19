@@ -1,0 +1,7 @@
+- secure certain ends (v phr) [sɪˈkjʊər ˈsɜːtn ɛndz] Verb Phrase  
+- To achieve specific goals  
+- Đạt được mục tiêu nhất định  
+- bestimmte Ziele erreichen  
+- The plan was designed to secure certain ends.  
+- secure (v) = get; end (n) = goal  
+- Latin: securus, finis

@@ -1,0 +1,7 @@
+- natural law (n) [ˈnætʃrəl lɔː] Noun  
+- A law or rule based on nature or reason, not made by humans  
+- Luật tự nhiên  
+- Naturgesetz  
+- Gravity is a type of natural law.  
+- law (n) = a rule  
+- Latin: natura + lex

@@ -1,0 +1,7 @@
+- perforce (adv) [pəˈfɔːs] Adverb  
+- By necessity; inevitably  
+- Tất yếu, buộc phải  
+- notgedrungen  
+- He perforce accepted the reality.  
+- Rare in daily speech, formal tone  
+- Latin: per + force

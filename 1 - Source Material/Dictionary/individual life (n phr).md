@@ -1,0 +1,7 @@
+- individual life (n phr) [ˌɪndɪˈvɪdʒuəl laɪf] Noun Phrase  
+- A single person’s existence  
+- Cuộc sống cá nhân  
+- individuelles Leben  
+- Each individual life has meaning.  
+- individual (adj) = single person  
+- Latin: individuus
