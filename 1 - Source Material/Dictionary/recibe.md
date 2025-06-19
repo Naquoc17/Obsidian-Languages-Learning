@@ -1,0 +1,7 @@
+- recibe	[reˈθi.βe / reˈsi.βe]	Verbo (él/ella – presente de "recibir")  
+- Obtener algo que le dan  
+- Nhận  
+- He/she receives  
+- Todo el mundo recibe los regalos.  
+- recibir, recibo, recibes, recibe  
+- receptor, recepción	Latín: "recipere"

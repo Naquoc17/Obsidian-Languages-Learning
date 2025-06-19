@@ -1,0 +1,6 @@
+- Nochebuena (la)	[ˌnotʃeˈβwena]	Sustantivo femenino  
+- La noche del 24 de diciembre, víspera de Navidad  
+- Đêm Giáng Sinh (đêm 24 tháng 12)  
+- Christmas Eve  
+- En Nochebuena comemos en familia.  
+- Navidad, Nochevieja	Latín: "nox bona" (noche buena)

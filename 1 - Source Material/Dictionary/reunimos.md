@@ -1,0 +1,7 @@
+- reunimos	[reuˈni.mos]	Verbo (nosotros – presente de "reunirse")  
+- Forma de "reunirse": juntarse  
+- Tụ họp  
+- We get together  
+- Nos reunimos toda la familia.  
+- reunirse, me reúno, te reúnes, nos reunimos  
+- reunión (meeting)	Latín: "reunire"

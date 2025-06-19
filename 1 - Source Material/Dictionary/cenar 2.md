@@ -1,0 +1,7 @@
+- cenar	[θeˈnar / seˈnar]	Verbo (infinitivo)  
+- Comer por la noche  
+- Ăn tối  
+- To have dinner  
+- Para cenar, nos reunimos en familia.  
+- ceno, cenas, cena, cenamos  
+- cena	Latín: "cenare"

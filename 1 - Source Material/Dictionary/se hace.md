@@ -1,0 +1,7 @@
+- se hace	[se ˈa.se]	Verbo (él/ella – presente pasivo/reflexivo de "hacer")  
+- Forma pasiva/reflexiva de "hacer": se produce  
+- Được làm  
+- It is made  
+- Una comida que se hace con maíz...  
+- hacer, hago, haces, hace  
+- hecho, fabricar	Latín: "facere"

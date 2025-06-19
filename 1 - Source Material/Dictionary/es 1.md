@@ -1,0 +1,7 @@
+- es	[es]	Verbo (él/ella – presente de "ser")  
+- Indica identidad o descripción  
+- Là  
+- Is (he/she/it)  
+- Es un pan dulce.  
+- ser, soy, eres, es, somos  
+- ser humano, esencia	Latín: "esse"

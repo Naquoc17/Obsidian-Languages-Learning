@@ -1,0 +1,6 @@
+- El cinco de enero	[el ˈθiŋko / ˈsiŋko ðe eˈneɾo]	Frase temporal  
+- Día en que se celebra la llegada de los Reyes Magos (España)  
+- Ngày 5 tháng 1 (lễ Ba Vua)  
+- January 5th (Three Kings’ Eve in Spain)  
+- En España los niños reciben regalos el cinco de enero.  
+- Enero, cinco	Latín: "Ianuarius", "quinque"

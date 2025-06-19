@@ -1,0 +1,6 @@
+- Villancico (el)	[biʝanˈsiko] / [biʎanˈθiko]	Sustantivo masculino  
+- Canción navideña tradicional  
+- Bài hát Giáng Sinh  
+- Christmas carol  
+- Los niños cantan villancicos.  
+- Villancicos (plural)	Latín: "villanus" (del campo)

@@ -1,0 +1,7 @@
+- darnos	[ˈdaɾ.nos]	Verbo reflexivo (infinitivo de "dar")  
+- Entregarnos algo mutuamente  
+- Tặng cho nhau  
+- To give each other  
+- Antes de darnos los regalos.  
+- darse, doy, das, damos  
+- regalo, regalar	Latín: "dare"

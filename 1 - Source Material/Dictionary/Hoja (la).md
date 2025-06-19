@@ -1,0 +1,6 @@
+- Hoja (la)	[ˈoxa]	Sustantivo femenino  
+- Parte verde de una planta o árbol. En cocina, se usa para envolver comida.  
+- Lá cây (dùng để gói thức ăn)  
+- Leaf (culinary: leaf wrapper)  
+- Usamos hojas para envolver las hallacas.  
+- Hojita (little leaf)	Latín: "folia"

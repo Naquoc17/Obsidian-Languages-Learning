@@ -1,0 +1,7 @@
+- damos	[ˈda.mos]	Verbo (nosotros – presente de "dar")  
+- Entregamos algo  
+- Chúng tôi tặng  
+- We give  
+- Nosotros damos los regalos.  
+- dar, doy, das, damos  
+- dar un paseo	Latín: "dare"

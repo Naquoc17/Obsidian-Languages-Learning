@@ -1,0 +1,6 @@
+- Darse los regalos	[ˈdaɾse los reˈɣalos]	Verbo reflexivo + sustantivo  
+- Entregarse obsequios mutuamente  
+- Tặng quà cho nhau  
+- To exchange/give gifts  
+- Nos damos los regalos en Nochebuena.  
+- Dar, regalo	Latín: "dare", "regalare"

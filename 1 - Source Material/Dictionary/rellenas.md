@@ -1,0 +1,7 @@
+- rellenas	[reˈʝe.nas / reˈʎe.nas]	Verbo (tú – presente de "rellenar")  
+- Poner algo dentro de otra cosa  
+- Nhồi  
+- You fill / stuff  
+- Tortas rellenas de carne.  
+- rellenar, relleno, rellenas, rellena  
+- relleno (stuffing)	Latín: "replere"

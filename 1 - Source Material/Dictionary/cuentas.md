@@ -1,0 +1,7 @@
+- cuentas	[kwen.tas]	Verbo (tú – presente de "contar")  
+- Forma de "contar": decir o narrar algo  
+- Kể, nói  
+- You tell  
+- ¿Por qué no me cuentas qué haces en España?  
+- contar, cuento, cuentas, cuenta, contamos, cuentan  
+- cuento (story), contable (accountant)	Latín: "computare"

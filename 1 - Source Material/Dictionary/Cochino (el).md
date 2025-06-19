@@ -1,0 +1,6 @@
+- Cochino (el)	[koˈtʃino]	Sustantivo masculino  
+- Cerdo o puerco (palabra común en Venezuela o Argentina)  
+- Heo (từ địa phương)  
+- Pig / Pork  
+- Comimos cochino al horno en Navidad.  
+- Cerdo, puerco	Latín: "cochinus"

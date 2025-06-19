@@ -1,0 +1,6 @@
+- Comida típica	[koˈmiða ˈtipika]	Expresión  
+- Plato tradicional de un país o región  
+- Món ăn truyền thống  
+- Traditional/local food  
+- La hallaca es una comida típica venezolana.  
+- Comer, típico	Latín: "comedere", "typicus"

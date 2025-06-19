@@ -1,0 +1,7 @@
+- tenemos	[teˈne.mos]	Verbo (nosotros – presente de "tener")  
+- Poseemos  
+- Chúng tôi có  
+- We have  
+- No tenemos comida típica.  
+- tener, tengo, tienes, tenemos  
+- tener hambre, tener frío	Latín: "tenere"

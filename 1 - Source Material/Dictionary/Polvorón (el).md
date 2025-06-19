@@ -1,0 +1,6 @@
+- Polvorón (el)	[polβoˈɾon]	Sustantivo masculino  
+- Dulce seco típico de Navidad en España  
+- Bánh quy Giáng Sinh Tây Ban Nha  
+- Crumbly Christmas shortbread  
+- Me gusta comer polvorones en diciembre.  
+- Polvo, desmoronarse	Latín: "pulvis"

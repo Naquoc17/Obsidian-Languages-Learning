@@ -1,0 +1,6 @@
+- Jamón con melón	[xaˈmon kon meˈlon]	Expresión (nombre de plato)  
+- Combinación fría de jamón salado y melón  
+- Món dăm muối ăn kèm dưa lưới  
+- Ham with melon  
+- En verano comemos jamón con melón.  
+- Jamón, melón	Latín: "perna", "melo"

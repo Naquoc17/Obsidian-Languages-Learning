@@ -1,0 +1,6 @@
+- Turrón (el)	[tuˈron]	Sustantivo masculino  
+- Dulce navideño de miel y almendras  
+- Kẹo hạnh nhân ngọt  
+- Nougat  
+- El turrón es muy dulce.  
+- —	Latín: "torrere"

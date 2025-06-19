@@ -166,7 +166,7 @@ Tags: [[Libro del Alumno Suena 1]]
 
 ![[Track-9.mp3]]
 
-– ¡[[hola 1]], Paula! [[mira 1]], [[Este|este]]  [[Es|es]]  Giovanni, [[Un|un]]  [[Amigo|amigo]]  [[Italiano|italiano]] .  
+– ¡[[hola 1]], Paula! [[mira 1]], [[Este|este]]  [[es 1|es]]  Giovanni, [[Un|un]]  [[Amigo|amigo]]  [[Italiano|italiano]] .  
 – ¡Hola! ¿[[Qué]] [[Tal|tal]] ?  
 – [[Bien]], [[Gracias|gracias]] , ¿[[Y|y]]  [[Tú|tú]] ?
 

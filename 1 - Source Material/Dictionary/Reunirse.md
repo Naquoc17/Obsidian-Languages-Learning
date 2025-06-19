@@ -1,0 +1,6 @@
+- Reunirse	[re.uˈniɾ.se]	Verbo reflexivo  
+- Estar juntos con otras personas (por ejemplo: la familia)  
+- Tụ họp lại  
+- To get together  
+- Nos reunimos con toda la familia en Navidad.  
+- Reunión (sự họp mặt)	Latín: "reunire"

@@ -1,0 +1,7 @@
+- tienen	[ˈtje.nen]	Verbo (ellos/ustedes – presente de "tener")  
+- Poseen, disponen de algo  
+- Có  
+- They have  
+- ¿Tienen alguna comida típica?  
+- tener, tengo, tienes, tienen  
+- tenencia, mantenimiento	Latín: "tenere"

@@ -1,0 +1,6 @@
+- Pan dulce (el)	[pan ˈdulθe / ˈdulse]	Expresión / sustantivo compuesto  
+- Pan azucarado con frutas o chocolate  
+- Bánh ngọt  
+- Sweet bread  
+- El pan dulce es típico en las fiestas.  
+- Pan, dulce	Latín: "panis", "dulcis"

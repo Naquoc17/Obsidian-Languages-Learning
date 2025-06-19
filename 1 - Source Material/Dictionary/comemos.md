@@ -1,0 +1,7 @@
+- comemos	[koˈme.mos]	Verbo (nosotros – presente de "comer")  
+- Forma de "comer": tomar alimentos  
+- Ăn  
+- We eat  
+- Comemos polvorones y turrón.  
+- comer, como, comes, comemos  
+- comida, comedor	Latín: "comedere"

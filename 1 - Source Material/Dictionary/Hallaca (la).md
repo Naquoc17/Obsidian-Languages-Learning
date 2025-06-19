@@ -1,0 +1,6 @@
+- Hallaca (la)	[aˈʝaka]	Sustantivo femenino  
+- Plato típico venezolano hecho con masa de maíz y carne  
+- Bánh nhân thịt bọc lá chuối của Venezuela  
+- Venezuelan Christmas tamale  
+- Mi abuela hace hallacas cada diciembre.  
+- —	Palabra indígena venezolana

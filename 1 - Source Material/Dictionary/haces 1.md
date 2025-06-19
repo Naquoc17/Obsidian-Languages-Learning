@@ -1,0 +1,7 @@
+- haces	[ˈa.ses]	Verbo (tú – presente de "hacer")  
+- Forma de "hacer": realizar una acción  
+- Làm  
+- You do / You make  
+- ¿Qué haces en Nochebuena?  
+- hacer, hago, haces, hace, hacemos, hacen  
+- hecho, fabricación	Latín: "facere"

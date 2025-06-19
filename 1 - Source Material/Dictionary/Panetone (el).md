@@ -1,0 +1,6 @@
+- Panetone (el)	[paneˈtone]	Sustantivo masculino  
+- Pan dulce navideño con frutas secas  
+- Bánh mì ngọt có trái cây  
+- Christmas sweet bread (Panettone)  
+- En Argentina comemos panetone.  
+- Pan dulce	Italiano: "panettone"
