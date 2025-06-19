@@ -1,0 +1,7 @@
+- funding [ˈfʌndɪŋ] Noun (U)  
+- Money provided for a particular purpose  
+- Kinh phí  
+- Finanzierung  
+- The project received government funding.  
+- fund (n/v), fundraiser (n)  
+- Latin: fundus (bottom, base)

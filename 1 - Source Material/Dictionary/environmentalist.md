@@ -1,0 +1,7 @@
+- environmentalist [ɪnˌvaɪrənˈmentəlɪst] Noun (C1)  
+- A person who works to protect the natural environment  
+- Nhà bảo vệ môi trường  
+- Umweltschützer(in)  
+- The environmentalist gave a speech on climate change.  
+- environment (n), environmental (adj)  
+- Latin: environner (to surround)

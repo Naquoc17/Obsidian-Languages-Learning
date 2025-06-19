@@ -1,0 +1,7 @@
+- competition [ˌkɒmpəˈtɪʃn] Noun (C1)  
+- A situation where people or groups try to win or be more successful than others  
+- Sự cạnh tranh  
+- Wettbewerb  
+- There’s strong competition among airlines.  
+- compete (v) = to try to win; competitor (n) = someone in a competition  
+- Latin: competere (strive together)

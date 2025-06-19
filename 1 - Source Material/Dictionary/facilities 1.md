@@ -1,0 +1,7 @@
+- facilities [fəˈsɪlɪtiz] Noun, plural (C1)  
+- Buildings or services provided for a particular purpose  
+- Cơ sở vật chất  
+- Einrichtungen  
+- The sports facilities at the school are excellent.  
+- facility (singular), facilitate (v)  
+- Latin: facilis (easy)

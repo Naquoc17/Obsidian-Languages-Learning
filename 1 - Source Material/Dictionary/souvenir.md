@@ -1,0 +1,7 @@
+- souvenir [ˌsuːvəˈnɪə] Noun (C1)  
+- Something you keep to remember a place or event  
+- Quà lưu niệm  
+- Souvenir  
+- She bought a souvenir from her trip to Rome.  
+- memory (related idea)  
+- French: souvenir (to remember)

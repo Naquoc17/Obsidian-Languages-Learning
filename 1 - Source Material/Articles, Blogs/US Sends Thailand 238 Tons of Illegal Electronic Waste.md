@@ -51,7 +51,7 @@ Thailand passed a ban on the import of a range of electronic waste products in 2
 
 Electronic waste creates huge [[health hazards]]. Many components contain lead and mercury, cadmium and other [[toxins]].
 
-Recyclers are after gold, silver, palladium and copper, mainly from printed circuit boards. But [[lax controls]] mean that [[facilities]] often burn plastics to get to the copper inside and use unsafe methods to extract [[precious metals]].
+Recyclers are after gold, silver, palladium and copper, mainly from printed circuit boards. But [[lax controls]] mean that [[facilities 1]] often burn plastics to get to the copper inside and use unsafe methods to extract [[precious metals]].
 
 A 2024 [[United Nations report]] said electronic waste is piling up worldwide. Some 62 million metric tons of electronic waste was generated in 2022, and that figure is on track to reach 82 million metric tons by 2030, the report said.
 

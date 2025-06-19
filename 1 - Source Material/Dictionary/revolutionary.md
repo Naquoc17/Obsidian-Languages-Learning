@@ -1,0 +1,7 @@
+- revolutionary [ˌrɛvəˈluːʃənəri] Adjective  
+- Very new and completely changing something  
+- Cách mạng, đột phá  
+- revolutionär  
+- This is a revolutionary form of public transport.  
+- revolution (n), revolt (v)  
+- Latin: revolutio (a turn)

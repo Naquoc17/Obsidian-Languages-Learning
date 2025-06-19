@@ -1,0 +1,7 @@
+- range [reɪndʒ] Noun (C)  
+- A set of different things of the same type  
+- Phạm vi, loại  
+- Auswahl, Bereich  
+- The shop has a wide range of products.  
+- arrange (v), ranger (n)  
+- Latin: rangier (to rank)

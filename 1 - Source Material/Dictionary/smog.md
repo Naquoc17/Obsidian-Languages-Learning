@@ -1,0 +1,7 @@
+- smog [smɒɡ] Noun (U)  
+- Dirty air caused by smoke and pollution  
+- Sương khói ô nhiễm  
+- Smog  
+- The city suffers from heavy smog in winter.  
+- smoke + fog = smog (blended word)  
+- Modern English blend

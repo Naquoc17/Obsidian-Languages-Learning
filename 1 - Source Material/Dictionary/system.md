@@ -1,0 +1,7 @@
+- system [ˈsɪstəm] Noun (C)  
+- A set of connected parts working together  
+- Hệ thống  
+- System  
+- The subway system is efficient.  
+- systematic (adj)  
+- Greek: systema

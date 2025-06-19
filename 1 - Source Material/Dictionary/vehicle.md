@@ -1,0 +1,7 @@
+- vehicle [ˈvɪəkl] Noun (C)  
+- A machine for transporting people or goods  
+- Phương tiện giao thông  
+- Fahrzeug  
+- Electric vehicles are becoming more common.  
+- Related: transport, motor  
+- Latin: vehiculum

@@ -1,0 +1,7 @@
+- increase capacity [ɪnˈkriːs kəˈpæsəti] Verb Phrase  
+- To make something able to hold or handle more  
+- Tăng công suất  
+- Kapazität erhöhen  
+- They plan to increase capacity at the airport.  
+- increase (v), capacity (n)  
+- Latin: capacitas

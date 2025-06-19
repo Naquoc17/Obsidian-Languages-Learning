@@ -1,0 +1,7 @@
+- destination [ˌdɛstɪˈneɪʃn] Noun (C1)  
+- The place where someone is going or something is sent  
+- Điểm đến  
+- Reiseziel  
+- Paris is a popular holiday destination.  
+- destiny (related); destined (adj)  
+- Latin: destinatio

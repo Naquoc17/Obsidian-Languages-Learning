@@ -1,0 +1,7 @@
+- unique feature [juˈniːk ˈfiːtʃə] Noun Phrase (C1)  
+- A special quality found only in one thing  
+- Đặc điểm độc đáo  
+- einzigartiges Merkmal  
+- The city’s unique feature is its floating market.  
+- unique = one of a kind  
+- Latin: unicus + factura

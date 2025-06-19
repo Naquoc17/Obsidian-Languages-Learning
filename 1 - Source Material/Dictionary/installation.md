@@ -1,0 +1,7 @@
+- installation [ˌɪnstəˈleɪʃn] Noun (U/C)  
+- The act of putting something in place so it’s ready to use  
+- Sự lắp đặt  
+- Installation  
+- The installation of solar panels took two days.  
+- install (v), installer (n)  
+- Latin: installare

@@ -1,0 +1,7 @@
+- upgrade [ʌpˈɡreɪd] Verb (T)  
+- To improve something or make it better  
+- Nâng cấp  
+- aufrüsten, verbessern  
+- They upgraded the train stations.  
+- upgrade (n)  
+- English origin

@@ -1,0 +1,7 @@
+- forward-thinking [ˈfɔːwəd ˌθɪŋkɪŋ] Adjective  
+- Planning or thinking about the future positively  
+- Có tầm nhìn tương lai  
+- zukunftsorientiert  
+- The company has a forward-thinking strategy.  
+- think ahead (similar phrase)  
+- English root: think

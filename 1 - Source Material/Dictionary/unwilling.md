@@ -1,0 +1,7 @@
+- unwilling [ʌnˈwɪlɪŋ] Adjective  
+- Not wanting to do something  
+- Không sẵn lòng  
+- widerwillig  
+- She was unwilling to answer the question.  
+- will (n) = desire  
+- Old English origin

@@ -1,0 +1,7 @@
+- on average [ɒn ˈævərɪdʒ] Prepositional Phrase  
+- Usually or typically; when numbers are combined  
+- Trung bình  
+- im Durchschnitt  
+- On average, trains arrive every 10 minutes.  
+- average (n, adj)  
+- Latin: habere (to have)

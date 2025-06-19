@@ -1,0 +1,7 @@
+- innovative [ˈɪnəvətɪv] Adjective  
+- Using new ideas or methods  
+- Sáng tạo, đổi mới  
+- innovativ  
+- They launched an innovative transport system.  
+- innovate (v), innovation (n)  
+- Latin: innovare

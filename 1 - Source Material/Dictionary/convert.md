@@ -1,0 +1,7 @@
+- convert [kənˈvɜːt] Verb (T)  
+- To change something into a different form or purpose  
+- Chuyển đổi  
+- umwandeln  
+- They converted an old factory into apartments.  
+- conversion (n), convertible (adj)  
+- Latin: convertere (turn around)

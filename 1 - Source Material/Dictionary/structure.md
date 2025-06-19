@@ -1,0 +1,7 @@
+- structure [ˈstrʌktʃə] Noun (C/U)  
+- Something built or organized; the form of something  
+- Cấu trúc / công trình  
+- Struktur, Bauwerk  
+- The Eiffel Tower is a famous structure.  
+- structural (adj), restructure (v)  
+- Latin: structura

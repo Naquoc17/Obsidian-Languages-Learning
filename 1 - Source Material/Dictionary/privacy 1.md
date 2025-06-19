@@ -1,0 +1,7 @@
+- privacy [ˈprɪvəsi] Noun (U)  
+- The state of being free from being watched or disturbed  
+- Sự riêng tư  
+- Privatsphäre  
+- Many people value privacy in their homes.  
+- private (adj), privately (adv)  
+- Latin: privatus
