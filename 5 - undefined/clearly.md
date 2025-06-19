@@ -1,0 +1,7 @@
+- clearly [ˈklɪəli] Adverb  
+- In a way that is easy to see or understand  
+- Một cách rõ ràng  
+- deutlich  
+- She spoke clearly to help the learners.  
+- clear (adj), clarity (n)  
+- Latin: clarus

@@ -1,0 +1,7 @@
+- neuroscientists [ˈnjʊərəʊˌsaɪəntɪsts] Noun (plural)  
+- Scientists who study the brain and nervous system  
+- Các nhà khoa học thần kinh  
+- Neurowissenschaftler(innen)  
+- Neuroscientists explored how babies learn speech.  
+- neuroscience (n), neuron (n)  
+- Greek: neuron + Latin: scientia

@@ -1,0 +1,7 @@
+- perfect (a skill) [pəˈfɛkt] Verb (T)  
+- To make a skill very good or complete  
+- Rèn luyện để hoàn thiện kỹ năng  
+- eine Fähigkeit perfektionieren  
+- She perfected her pronunciation through practice.  
+- perfection (n), perfectionist (n)  
+- Latin: perfectus

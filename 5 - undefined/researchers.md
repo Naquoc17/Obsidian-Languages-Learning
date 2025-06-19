@@ -1,0 +1,7 @@
+- researchers [rɪˈsɜːʧəz] Noun (plural)  
+- People who study or investigate something deeply  
+- Các nhà nghiên cứu  
+- Forscher(innen)  
+- Researchers have studied bilingual children.  
+- research (v/n), researcher (n)  
+- Old French: recercher

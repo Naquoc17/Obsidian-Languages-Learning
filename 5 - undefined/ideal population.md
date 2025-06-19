@@ -1,0 +1,7 @@
+- ideal population [aɪˈdɪəl ˌpɒpjʊˈleɪʃən] Noun Phrase  
+- The best group to study or observe  
+- Dân số lý tưởng (đối tượng nghiên cứu tốt)  
+- ideale Stichprobe  
+- Internationally adopted toddlers are an ideal population for studies.  
+- ideal (adj), population (n)  
+- Latin: populus

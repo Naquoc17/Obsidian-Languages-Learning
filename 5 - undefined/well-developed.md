@@ -1,0 +1,7 @@
+- well-developed [wɛl dɪˈvɛləpt] Adjective  
+- Grown or built to a high level  
+- Phát triển tốt  
+- gut entwickelt  
+- They had a well-developed vocabulary.  
+- develop (v), development (n)  
+- Latin: de + volvere

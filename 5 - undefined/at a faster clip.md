@@ -1,0 +1,7 @@
+- at a faster clip [ət ə ˈfɑːstə klɪp] Idiom  
+- More quickly than normal  
+- Với tốc độ nhanh hơn  
+- in schnellerem Tempo  
+- Toddlers learn at a faster clip than adults.  
+- clip = pace, speed (informal use)  
+- English slang origin

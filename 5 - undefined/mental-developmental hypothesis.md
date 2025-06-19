@@ -1,0 +1,7 @@
+- mental-developmental hypothesis [ˈmɛntl dɪˌvɛləpməntl haɪˈpɒθəsɪs] Noun Phrase  
+- The idea that language depends on mental growth  
+- Giả thuyết phát triển tâm lý  
+- mentale Entwicklungs-Hypothese  
+- The mental-developmental hypothesis links thinking and speech.  
+- mental (adj), hypothesis (n)  
+- Greek: mentis (mind), hypo-thesis

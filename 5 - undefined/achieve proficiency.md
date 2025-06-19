@@ -1,0 +1,7 @@
+- achieve proficiency [əˈʧiːv prəˈfɪʃnsi] Verb Phrase  
+- To become good or skilled at something  
+- Đạt được sự thành thạo  
+- Sprachkenntnisse erreichen  
+- She achieved proficiency in English in two years.  
+- proficient (adj), achievement (n)  
+- Latin: proficere

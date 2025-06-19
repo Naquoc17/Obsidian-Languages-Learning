@@ -1,0 +1,7 @@
+- critical period [ˈkrɪtɪkəl ˈpɪəriəd] Noun Phrase  
+- A limited time in development when learning is easiest  
+- Giai đoạn quyết định  
+- kritische Phase  
+- The critical period for language is before age 7.  
+- critical (adj), period (n)  
+- Greek: kritikos

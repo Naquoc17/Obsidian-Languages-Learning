@@ -1,0 +1,7 @@
+- copycat theory [ˈkɒpikæt ˈθɪəri] Noun Phrase  
+- Idea that children learn by imitating others  
+- Thuyết bắt chước  
+- Nachahmungstheorie  
+- The copycat theory says kids learn language by watching adults.  
+- copycat (n, adj), theory (n)  
+- English root: copy + cat

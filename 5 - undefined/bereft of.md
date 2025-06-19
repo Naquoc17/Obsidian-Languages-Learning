@@ -1,0 +1,7 @@
+- bereft of [bɪˈrɛft əv] Adjective Phrase  
+- Lacking or missing something important  
+- Thiếu / mất  
+- ohne / beraubt von  
+- The child was bereft of language after adoption.  
+- bereave (v), bereft (adj)  
+- Old English: berēafian

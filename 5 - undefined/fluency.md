@@ -1,0 +1,7 @@
+- fluency [ˈfluːənsi] Noun  
+- The ability to speak easily and correctly  
+- Sự trôi chảy  
+- Sprachgewandtheit  
+- Fluency takes time and practice.  
+- fluent (adj), flow (related)  
+- Latin: fluere

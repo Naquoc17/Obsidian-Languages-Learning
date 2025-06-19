@@ -1,0 +1,7 @@
+- function words [ˈfʌŋkʃn wɜːdz] Noun Phrase  
+- Words with grammatical roles (e.g., and, the, is)  
+- Từ chức năng  
+- Funktionswörter  
+- Children learn function words after content words.  
+- function (n), word (n)  
+- Latin: functio

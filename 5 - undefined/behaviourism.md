@@ -1,0 +1,7 @@
+- behaviourism [bɪˈheɪvjərɪz(ə)m] Noun  
+- A theory that human behavior is shaped by responses to environment  
+- Thuyết hành vi  
+- Behaviorismus  
+- Behaviourism influenced early language teaching.  
+- behaviorist (n), behavioral (adj)  
+- Latin: habere (to have)

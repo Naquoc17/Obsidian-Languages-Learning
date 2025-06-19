@@ -1,0 +1,7 @@
+- advertisement [ədˈvɜːtɪsmənt] Noun  
+- A message that tries to sell or promote something  
+- Quảng cáo  
+- Werbung  
+- I saw an advertisement for language courses online.  
+- advertise (v), advertiser (n)  
+- Latin: advertere

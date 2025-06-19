@@ -1,0 +1,7 @@
+- cognitive science [ˈkɒɡnɪtɪv ˈsaɪəns] Noun  
+- The study of how the mind works (thinking, learning, memory)  
+- Khoa học nhận thức  
+- Kognitionswissenschaft  
+- Cognitive science explores how we understand language.  
+- cognition (n), cognitive (adj)  
+- Latin: cognoscere

@@ -1,0 +1,7 @@
+- adult immigrants [ˈædʌlt ˈɪmɪɡrənts] Noun Phrase  
+- Grown people who move to live in another country  
+- Người lớn nhập cư  
+- erwachsene Einwanderer  
+- Adult immigrants often struggle with pronunciation.  
+- immigrate (v), immigration (n)  
+- Latin: migrare

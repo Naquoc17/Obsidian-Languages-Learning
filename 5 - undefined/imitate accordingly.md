@@ -1,0 +1,7 @@
+- imitate accordingly [ˈɪmɪteɪt əˈkɔːdɪŋli] Verb Phrase  
+- Copy someone in a way that fits the situation  
+- Bắt chước cho phù hợp  
+- entsprechend nachahmen  
+- Toddlers imitate accordingly when adults speak.  
+- imitate (v), imitation (n)  
+- Latin: imitari

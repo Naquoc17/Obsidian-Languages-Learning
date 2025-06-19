@@ -1,0 +1,7 @@
+- depend on [dɪˈpɛnd ɒn] Verb Phrase  
+- To need or rely on something  
+- Phụ thuộc vào  
+- abhängen von  
+- Language learning depends on many factors.  
+- dependent (adj), dependence (n)  
+- Latin: dependere

@@ -1,0 +1,7 @@
+- express themselves [ɪkˈsprɛs ðəmˈsɛlvz] Verb Phrase  
+- Show what they think or feel using words or actions  
+- Tự thể hiện bản thân  
+- sich ausdrücken  
+- Children often express themselves through play.  
+- expression (n), expressive (adj)  
+- Latin: exprimere

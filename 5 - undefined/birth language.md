@@ -1,0 +1,7 @@
+- birth language [bɜːθ ˈlæŋɡwɪdʒ] Noun Phrase  
+- The first language a person hears from birth  
+- Ngôn ngữ lúc sinh ra  
+- Muttersprache  
+- Some children forget their birth language.  
+- birth (n), language (n)  
+- Old English origin

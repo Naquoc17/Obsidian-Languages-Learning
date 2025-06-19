@@ -1,0 +1,7 @@
+- literate adults [ˈlɪtərət əˈdʌlts] Noun Phrase  
+- Grown people who can read and write  
+- Người trưởng thành biết đọc viết  
+- alphabetisierte Erwachsene  
+- Literate adults can learn second languages more easily.  
+- literacy (n), adult (n/adj)  
+- Latin: littera

@@ -1,0 +1,7 @@
+- linguistic threshold [lɪŋˈɡwɪstɪk ˈθrɛʃhəʊld] Noun Phrase  
+- The minimum ability needed to use a language well  
+- Ngưỡng ngôn ngữ  
+- sprachliche Schwelle  
+- Learners must cross a linguistic threshold to communicate.  
+- linguistic (adj), threshold (n)  
+- Latin: lingua (tongue)

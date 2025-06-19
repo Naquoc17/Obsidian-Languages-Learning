@@ -1,0 +1,7 @@
+- native speaker [ˈneɪtɪv ˈspiːkə] Noun  
+- A person who speaks a language from birth  
+- Người bản ngữ  
+- Muttersprachler(in)  
+- Talking with native speakers helps fluency.  
+- native (adj), speak (v)  
+- Latin: nascere (to be born)

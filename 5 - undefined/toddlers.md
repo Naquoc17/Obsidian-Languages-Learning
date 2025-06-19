@@ -1,0 +1,7 @@
+- toddlers [ˈtɒdləz] Noun (plural)  
+- Very young children, usually 1–3 years old  
+- Trẻ nhỏ đang tập đi  
+- Kleinkinder  
+- Toddlers start forming short phrases.  
+- toddler (singular), toddle (v)  
+- English origin

@@ -1,0 +1,7 @@
+- potential answer [pəˈtɛnʃl ˈɑːnsə] Noun Phrase  
+- A possible solution to a question  
+- Câu trả lời tiềm năng  
+- mögliche Antwort  
+- This could be a potential answer to why children forget.  
+- potential (adj), answer (n)  
+- Latin: potentia

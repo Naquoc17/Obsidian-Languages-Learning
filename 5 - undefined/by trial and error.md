@@ -1,0 +1,7 @@
+- by trial and error [traɪəl ənd ˈɛrə] Idiom  
+- Learning by trying many ways until one works  
+- Thử và sai  
+- durch Versuch und Irrtum  
+- We learn grammar rules by trial and error.  
+- trial = testing, error = mistake  
+- Latin: error

@@ -1,0 +1,7 @@
+- vocabulary [vəʊˈkæbjʊləri] Noun  
+- All the words a person knows or uses  
+- Từ vựng  
+- Wortschatz  
+- His vocabulary grew quickly in school.  
+- lexical (adj), word bank (synonym)  
+- Latin: vocabulum

@@ -1,0 +1,7 @@
+- competing hypotheses [kəmˈpiːtɪŋ haɪˈpɒθəsiz] Noun Phrase  
+- Different ideas trying to explain the same thing  
+- Các giả thuyết đối lập  
+- konkurrierende Hypothesen  
+- Scientists tested two competing hypotheses.  
+- compete (v), hypothesis (n)  
+- Greek: hypo + thesis

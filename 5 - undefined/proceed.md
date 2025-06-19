@@ -1,0 +1,7 @@
+- proceed [prəˈsiːd] Verb  
+- To continue or move forward  
+- Tiếp tục  
+- fortfahren  
+- After the first stage, learners can proceed to harder tasks.  
+- process (n), procession (n)  
+- Latin: procedere

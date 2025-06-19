@@ -1,0 +1,7 @@
+- completion of previous stages [kəmˈpliːʃn əv ˈpriːviəs ˈsteɪdʒɪz] Noun Phrase  
+- Finishing earlier steps before moving forward  
+- Việc hoàn thành các giai đoạn trước  
+- Abschluss früherer Stufen  
+- Fluency depends on the completion of previous stages.  
+- complete (v), stage (n)  
+- Latin: complere

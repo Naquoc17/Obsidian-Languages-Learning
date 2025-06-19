@@ -1,0 +1,7 @@
+- immature brains [ˌɪməˈtjʊə breɪnz] Noun Phrase  
+- Brains that are not fully developed  
+- Não chưa trưởng thành  
+- unreife Gehirne  
+- Immature brains learn differently from adult ones.  
+- immature (adj), brain (n)  
+- Latin: immaturus

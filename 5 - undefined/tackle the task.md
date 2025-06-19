@@ -1,0 +1,7 @@
+- tackle the task [ˈtækl ðə tɑːsk] Verb Phrase  
+- To begin and try to complete a difficult job  
+- Giải quyết nhiệm vụ  
+- eine Aufgabe bewältigen  
+- She tackled the task of learning French grammar.  
+- tackle (v), task (n)  
+- Old English: task

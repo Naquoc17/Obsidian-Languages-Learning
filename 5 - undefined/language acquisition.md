@@ -1,0 +1,7 @@
+- language acquisition [ˈlæŋɡwɪdʒ ˌækwɪˈzɪʃn] Noun Phrase  
+- The process of learning a language naturally  
+- Sự tiếp thu ngôn ngữ  
+- Spracherwerb  
+- Language acquisition happens fastest in early childhood.  
+- acquire (v), acquisitive (adj)  
+- Latin: acquisitio

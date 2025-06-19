@@ -1,0 +1,7 @@
+- internationally adopted children [ˌɪntəˈnæʃnəli əˈdɒptɪd ˈʧɪldrən] Noun Phrase  
+- Children raised in a different country from their birth  
+- Trẻ em được nhận nuôi quốc tế  
+- international adoptierte Kinder  
+- Internationally adopted children often lose their first language.  
+- adopt (v), adoption (n)  
+- Latin: adoptare

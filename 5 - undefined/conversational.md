@@ -1,0 +1,7 @@
+- conversational [ˌkɒnvəˈseɪʃənl] Adjective  
+- Related to informal speaking or everyday talk  
+- Mang tính trò chuyện  
+- umgangssprachlich  
+- He used a conversational tone in class.  
+- conversation (n), converse (v)  
+- Latin: conversari

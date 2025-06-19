@@ -1,0 +1,7 @@
+- combination process [ˌkɒmbɪˈneɪʃn ˈprəʊsɛs] Noun Phrase  
+- The act of putting things together  
+- Quá trình kết hợp  
+- Kombinationsprozess  
+- Speaking fluently involves a mental combination process.  
+- combine (v), process (n)  
+- Latin: combinare

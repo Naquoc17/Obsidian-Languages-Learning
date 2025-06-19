@@ -1,0 +1,7 @@
+- first words [fɜːst wɜːdz] Noun Phrase  
+- The earliest words spoken by a child  
+- Những từ đầu tiên  
+- erste Wörter  
+- Babies usually say their first words around age one.  
+- word (n), early speech  
+- Old English: word

@@ -1,0 +1,7 @@
+- stages-of-language hypothesis [ˈsteɪdʒɪz əv ˈlæŋɡwɪdʒ haɪˈpɒθəsɪs] Noun Phrase  
+- Idea that language develops in clear stages  
+- Giả thuyết các giai đoạn phát triển ngôn ngữ  
+- Stufenhypothese des Spracherwerbs  
+- The stages-of-language hypothesis is widely accepted.  
+- stage (n), hypothesis (n)  
+- Greek: hypo-thesis

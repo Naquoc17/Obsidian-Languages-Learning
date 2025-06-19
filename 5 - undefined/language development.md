@@ -1,0 +1,7 @@
+- language development [ˈlæŋɡwɪdʒ dɪˈvɛləpmənt] Noun Phrase  
+- The process of learning to speak and understand language  
+- Sự phát triển ngôn ngữ  
+- Sprachentwicklung  
+- Language development is rapid in the early years.  
+- develop (v), language (n)  
+- Latin: developare

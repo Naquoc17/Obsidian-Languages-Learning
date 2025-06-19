@@ -1,0 +1,7 @@
+- multi-word sentences [ˈmʌltɪ wɜːd ˈsɛntənsɪz] Noun Phrase  
+- Sentences with more than one word  
+- Câu có nhiều từ  
+- Mehrwortsätze  
+- Toddlers begin to use multi-word sentences around age two.  
+- sentence (n), multi- (many)  
+- Latin: multus, sententia
