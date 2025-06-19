@@ -1,0 +1,7 @@
+- das Experiment [ɛkspɛʁiˈmɛnt] Substantiv, neutrum  
+- Wissenschaftlicher Versuch  
+- thí nghiệm  
+- experiment  
+- Das Experiment war erfolgreich.  
+- Pl: Experimente  
+- —

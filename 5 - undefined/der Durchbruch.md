@@ -1,0 +1,7 @@
+- der Durchbruch [ˈdʊʁçbʁʊx] Substantiv, maskulin  
+- Plötzlicher, großer Fortschritt  
+- bước đột phá  
+- breakthrough  
+- Das war der Durchbruch in der Medizin.  
+- Pl: Durchbrüche  
+- durch + brechen

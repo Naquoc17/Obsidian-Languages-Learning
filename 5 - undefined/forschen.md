@@ -1,0 +1,7 @@
+- forschen [ˈfɔʁʃn̩] Verb  
+- Wissenschaftlich nach neuen Erkenntnissen suchen  
+- nghiên cứu  
+- to do research  
+- Sie forscht im Bereich Klimawandel.  
+- Forschung (n)  
+- Latein: *quaerere*

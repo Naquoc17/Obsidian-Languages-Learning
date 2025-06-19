@@ -1,0 +1,7 @@
+- die Recherche [ʁeˈʃɛʁʃə] Substantiv, feminin  
+- Systematische Informationssuche  
+- cuộc nghiên cứu  
+- research, investigation  
+- Die Recherche dauerte drei Tage.  
+- Pl: Recherchen  
+- —

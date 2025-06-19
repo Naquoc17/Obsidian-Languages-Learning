@@ -1,0 +1,7 @@
+- umstritten [ʊmˈʃtʁɪtn̩] Adjektiv  
+- Nicht eindeutig; es gibt verschiedene Meinungen dazu  
+- gây tranh cãi  
+- controversial  
+- Seine These ist sehr umstritten.  
+- —
+- —

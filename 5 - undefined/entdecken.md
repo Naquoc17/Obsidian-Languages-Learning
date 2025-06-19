@@ -1,0 +1,7 @@
+- entdecken [ɛntˈdɛkən] Verb  
+- Etwas Neues finden  
+- khám phá  
+- to discover  
+- Forscher entdecken neue Bakterien.  
+- Entdeckung (f)  
+- —

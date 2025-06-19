@@ -1,0 +1,7 @@
+- etw. erforschen [ɛɐ̯ˈfɔʁʃn̩] Verb  
+- Etwas systematisch untersuchen  
+- nghiên cứu cái gì đó  
+- to explore / to investigate  
+- Man erforscht die Tiefsee.  
+- erforschen – regelmäßig  
+- —

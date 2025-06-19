@@ -1,0 +1,7 @@
+- die Datenbank [ˈdaːtn̩baŋk] Substantiv, feminin  
+- Strukturierte Sammlung von Daten  
+- cơ sở dữ liệu  
+- database  
+- Wir suchen in der Datenbank nach Studien.  
+- Pl: Datenbanken  
+- Daten + Bank

@@ -1,0 +1,7 @@
+- die Fachliteratur [ˈfaxlɪtəʁatuːɐ̯] Substantiv, feminin  
+- Wissenschaftliche Bücher / Texte  
+- tài liệu chuyên ngành  
+- academic literature  
+- Die Fachliteratur ist sehr hilfreich.  
+- —
+- Fach + Literatur

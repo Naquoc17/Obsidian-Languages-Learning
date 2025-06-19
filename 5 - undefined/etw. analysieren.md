@@ -1,0 +1,7 @@
+- etw. analysieren [analʏˈziːʁən] Verb  
+- Etwas untersuchen, zergliedern  
+- phân tích  
+- to analyze  
+- Man analysiert die Daten statistisch.  
+- Analyse (f)  
+- Griechisch: *analuein*

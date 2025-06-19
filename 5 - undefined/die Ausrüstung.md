@@ -1,0 +1,7 @@
+- die Ausrüstung [ˈaʊ̯sˌʁʏstʊŋ] Substantiv, feminin  
+- Werkzeuge, Kleidung oder Technik für einen Zweck  
+- trang thiết bị  
+- gear / equipment  
+- Die Ausrüstung war für die Expedition notwendig.  
+- Pl: Ausrüstungen  
+- aus + rüsten

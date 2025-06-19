@@ -1,0 +1,7 @@
+- die Ausstattung [ˈaʊ̯sʃtatʊŋ] Substantiv, feminin  
+- Technische Geräte oder Einrichtung  
+- thiết bị  
+- equipment  
+- Das Labor hat eine moderne Ausstattung.  
+- Pl: Ausstattungen  
+- aus + statten

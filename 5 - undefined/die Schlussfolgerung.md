@@ -1,0 +1,7 @@
+- die Schlussfolgerung [ˈʃlʊsˌfɔlɡəʁʊŋ] Substantiv, feminin  
+- Logisches Ergebnis aus einer Analyse  
+- kết luận  
+- conclusion  
+- Die Schlussfolgerung war eindeutig.  
+- Pl: Schlussfolgerungen  
+- schließen + Folge

@@ -1,0 +1,7 @@
+- die Erkenntnis [ɛɐ̯ˈkɛntnɪs] Substantiv, feminin  
+- Neues Wissen / Einsicht  
+- sự hiểu biết / kiến thức  
+- insight / knowledge  
+- Die Erkenntnis hilft beim Verständnis.  
+- Erkenntnisse (Pl.)  
+- erkennen

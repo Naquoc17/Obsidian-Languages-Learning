@@ -1,0 +1,7 @@
+- entwickeln [ɛntˈvɪkl̩n] Verb  
+- Etwas Neues erschaffen / verbessern  
+- phát triển  
+- to develop  
+- Sie entwickeln ein neues Medikament.  
+- Entwicklung (f)  
+- —

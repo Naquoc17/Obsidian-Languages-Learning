@@ -1,0 +1,7 @@
+- die Naturwissenschaft [naˈtuːɐ̯vɪsənʃaft] Substantiv, feminin  
+- Wissenschaften, die sich mit der Natur befassen  
+- khoa học tự nhiên  
+- natural science  
+- Chemie gehört zu den Naturwissenschaften.  
+- Biologie, Physik, Chemie  
+- Natur + Wissenschaft

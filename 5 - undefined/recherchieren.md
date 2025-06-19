@@ -1,0 +1,7 @@
+- recherchieren [ʁeʃɛʁˈʃiːʁən] Verb  
+- Informationen gezielt suchen  
+- tra cứu, nghiên cứu  
+- to research / to investigate  
+- Ich recherchiere für meine Arbeit.  
+- Recherche (f)  
+- Französisch: *rechercher*

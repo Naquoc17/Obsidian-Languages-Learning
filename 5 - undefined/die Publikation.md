@@ -1,0 +1,7 @@
+- die Publikation [ˌpuːblikaˈt͡si̯oːn] Substantiv, feminin  
+- Wissenschaftliche Veröffentlichung  
+- xuất bản phẩm  
+- scientific publication  
+- Seine Publikationen sind sehr bekannt.  
+- Pl: Publikationen  
+- Latein: *publicare*

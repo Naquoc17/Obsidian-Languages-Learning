@@ -1,0 +1,7 @@
+- die Disziplin [dɪs.tsiˈpliːn] Substantiv, feminin  
+- Wissenschaftlicher oder akademischer Teilbereich  
+- ngành học / bộ môn  
+- discipline / academic field  
+- Psychologie ist eine soziale Disziplin.  
+- Disziplinen – Unterbereiche  
+- Latein: *disciplina*

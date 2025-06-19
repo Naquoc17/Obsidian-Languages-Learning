@@ -1,0 +1,7 @@
+- das Plagiat [plaˈɡi̯aːt] Substantiv, neutrum  
+- Unrechtmäßige Übernahme fremder Texte  
+- đạo văn  
+- plagiarism  
+- Er wurde wegen Plagiats entlassen.  
+- Pl: Plagiate  
+- Latein: *plagium* (Diebstahl)

@@ -1,0 +1,7 @@
+- das Fachgebiet [ˈfaxɡəˌbiːt] Substantiv, neutrum  
+- Ein spezieller Bereich innerhalb eines größeren Wissensgebiets oder Berufsfelds  
+- lĩnh vực chuyên môn  
+- field of expertise / specialization  
+- Mein Fachgebiet ist die Molekularbiologie.  
+- Fachgebiete (Pl.) – verschiedene Spezialisierungen  
+- Fach + Gebiet

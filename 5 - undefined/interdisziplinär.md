@@ -1,0 +1,7 @@
+- interdisziplinär [ˌɪntɐdɪst͡siplɪˈnɛːɐ̯] Adjektiv  
+- Verschiedene Fachrichtungen übergreifend  
+- liên ngành  
+- interdisciplinary  
+- Die interdisziplinäre Forschung verbindet Biologie und Technik.  
+- interdisziplinäre Zusammenarbeit  
+- inter + disciplina

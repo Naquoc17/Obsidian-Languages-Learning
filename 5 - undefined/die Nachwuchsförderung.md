@@ -1,0 +1,7 @@
+- die Nachwuchsförderung [ˈnaːxvʊksˌfœʁdɐʊŋ] Substantiv, feminin  
+- Unterstützung junger Talente in Wissenschaft  
+- hỗ trợ nhà khoa học trẻ  
+- promotion of young academics  
+- Die Nachwuchsförderung ist staatlich geregelt.  
+- —
+- fördern + Nachwuchs

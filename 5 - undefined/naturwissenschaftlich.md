@@ -1,0 +1,7 @@
+- naturwissenschaftlich [naˈtuːɐ̯vɪsənʃaftlɪç] Adjektiv  
+- Bezieht sich auf Naturwissenschaften  
+- thuộc về khoa học tự nhiên  
+- scientific (natural sciences)  
+- naturwissenschaftliche Fächer sind wichtig.  
+- —
+- —

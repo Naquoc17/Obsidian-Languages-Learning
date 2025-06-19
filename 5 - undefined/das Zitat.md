@@ -1,0 +1,7 @@
+- das Zitat [t͡siˈtaːt] Substantiv, neutrum  
+- Wörtlich übernommene Aussage  
+- trích dẫn  
+- quote  
+- Das Zitat stammt aus einem Fachbuch.  
+- Pl: Zitate  
+- —

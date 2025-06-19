@@ -1,0 +1,7 @@
+- die Hypothese [hy.poˈteː.zə] Substantiv, feminin  
+- Wissenschaftliche Annahme, die überprüft werden muss  
+- giả thuyết  
+- hypothesis  
+- Die Hypothese wurde noch nicht bewiesen.  
+- Pl: Hypothesen  
+- Griechisch: *hypóthesis*

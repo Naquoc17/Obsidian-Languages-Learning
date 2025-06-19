@@ -1,0 +1,7 @@
+- der Beweis [bəˈvaɪ̯s] Substantiv, maskulin  
+- Etwas, das zeigt, dass etwas wahr ist  
+- bằng chứng  
+- proof / evidence  
+- Der Beweis wurde anerkannt.  
+- Pl: Beweise  
+- —

@@ -1,0 +1,7 @@
+- die Daten (Pl.) [ˈdaːtn̩] Substantiv, Plural  
+- Gesammelte Fakten oder Werte  
+- dữ liệu  
+- data  
+- Die Daten wurden sorgfältig analysiert.  
+- —
+- —

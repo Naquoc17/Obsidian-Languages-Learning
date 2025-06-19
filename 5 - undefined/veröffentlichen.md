@@ -1,0 +1,7 @@
+- veröffentlichen [fɛɐ̯ˈʔœfn̩tlɪçn̩] Verb  
+- Öffentlich zugänglich machen  
+- công bố  
+- to publish  
+- Die Ergebnisse wurden in einem Journal veröffentlicht.  
+- Veröffentlichung (f)  
+- öffentlich

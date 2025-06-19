@@ -1,0 +1,7 @@
+- die Theorie [te.oˈʁiː] Substantiv, feminin  
+- System von Regeln und Erklärungen  
+- lý thuyết  
+- theory  
+- Die Relativitätstheorie ist sehr bekannt.  
+- Pl: Theorien  
+- Griechisch: *theōría*

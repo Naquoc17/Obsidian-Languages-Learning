@@ -1,0 +1,7 @@
+- etw. dokumentieren [dokumɛnˈtiːʁən] Verb  
+- Etwas schriftlich festhalten  
+- ghi lại  
+- to document  
+- Die Ergebnisse werden genau dokumentiert.  
+- Dokumentation (f)  
+- Latein: *documentum*

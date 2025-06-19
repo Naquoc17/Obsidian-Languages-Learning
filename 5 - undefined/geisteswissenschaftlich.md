@@ -1,0 +1,7 @@
+- geisteswissenschaftlich [ˈɡaɪ̯stəsˌvɪsənʃaftlɪç] Adjektiv  
+- Zur Geisteswissenschaft gehörend  
+- thuộc về khoa học nhân văn  
+- relating to humanities  
+- Ich lese geisteswissenschaftliche Texte.  
+- —
+- —

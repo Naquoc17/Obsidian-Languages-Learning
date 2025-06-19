@@ -1,0 +1,7 @@
+- beobachten [bəˈʔoːbaχtn̩] Verb  
+- Etwas genau anschauen  
+- quan sát  
+- to observe  
+- Die Forscher beobachteten das Verhalten.  
+- Beobachtung (f)  
+- —

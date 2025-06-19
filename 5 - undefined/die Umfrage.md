@@ -1,0 +1,7 @@
+- die Umfrage [ˈʊmˌfʁaːɡə] Substantiv, feminin  
+- Befragung von Personen  
+- khảo sát  
+- survey  
+- Laut Umfrage ist das Thema sehr wichtig.  
+- Pl: Umfragen  
+- um + fragen

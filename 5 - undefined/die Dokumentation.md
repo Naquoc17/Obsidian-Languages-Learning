@@ -1,0 +1,7 @@
+- die Dokumentation [dokumɛntaˈt͡si̯oːn] Substantiv, feminin  
+- Schriftliche Aufzeichnung von Informationen  
+- tài liệu ghi chép  
+- documentation  
+- Die Dokumentation ist vollständig.  
+- Pl: Dokumentationen  
+- —

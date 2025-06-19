@@ -1,0 +1,7 @@
+- experimentieren mit + D [ɛkspɛʁimɛntiˈʁən] Verb  
+- Versuche durchführen  
+- tiến hành thí nghiệm  
+- to experiment with  
+- Wir experimentieren mit neuen Stoffen.  
+- Experiment (n)  
+- Latein: *experimentum*

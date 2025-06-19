@@ -1,0 +1,7 @@
+- die These [ˈteːzə] Substantiv, feminin  
+- Aussage, die begründet oder bewiesen wird  
+- luận điểm  
+- thesis / claim  
+- Ihre These ist umstritten.  
+- Pl: Thesen  
+- Griechisch: *thésis*

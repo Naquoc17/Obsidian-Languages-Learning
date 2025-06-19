@@ -1,0 +1,7 @@
+- die Stichprobe [ˈʃtɪçˌpʁoːbə] Substantiv, feminin  
+- Kleine Auswahl aus einer großen Gruppe  
+- mẫu khảo sát  
+- sample  
+- Die Stichprobe bestand aus 100 Personen.  
+- Pl: Stichproben  
+- Stich + Probe

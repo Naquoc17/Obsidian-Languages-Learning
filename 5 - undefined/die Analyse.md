@@ -1,0 +1,7 @@
+- die Analyse [anaˈlyːzə] Substantiv, feminin  
+- Untersuchung eines Gegenstands  
+- sự phân tích  
+- analysis  
+- Die Analyse zeigt wichtige Trends.  
+- Pl: Analysen  
+- —

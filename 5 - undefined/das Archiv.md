@@ -1,0 +1,7 @@
+- das Archiv [aʁˈçiːf] Substantiv, neutrum  
+- Ort zur Aufbewahrung von Dokumenten  
+- kho lưu trữ  
+- archive  
+- Alte Zeitungen sind im Archiv.  
+- Pl: Archive  
+- Griechisch: *arkhē*

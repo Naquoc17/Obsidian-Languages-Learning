@@ -1,0 +1,7 @@
+- die Beobachtung [bəˈʔoːbaχtʊŋ] Substantiv, feminin  
+- Wahrnehmung eines Vorgangs  
+- sự quan sát  
+- observation  
+- Ihre Beobachtung war sehr genau.  
+- Pl: Beobachtungen  
+- —

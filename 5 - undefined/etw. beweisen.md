@@ -1,0 +1,7 @@
+- etw. beweisen [bəˈvaɪ̯zn̩] Verb  
+- Mit Fakten zeigen, dass etwas stimmt  
+- chứng minh  
+- to prove  
+- Er konnte seine These beweisen.  
+- Beweis (m)  
+- —

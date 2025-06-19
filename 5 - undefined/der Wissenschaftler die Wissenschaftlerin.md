@@ -1,0 +1,7 @@
+- der Wissenschaftler / die Wissenschaftlerin [ˈvɪsənʃaftlɐ] Substantiv  
+- Person, die wissenschaftlich arbeitet  
+- nhà khoa học  
+- scientist  
+- Die Wissenschaftlerin forscht an Krebsheilung.  
+- Pl: Wissenschaftler / Wissenschaftlerinnen  
+- Wissenschaft

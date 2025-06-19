@@ -1,0 +1,7 @@
+- der Proband / die Probandin [pʁoˈbant] Substantiv  
+- Testperson in einem Experiment  
+- người tham gia thử nghiệm  
+- test subject  
+- Die Probanden erhielten ein Medikament.  
+- Pl: Probanden / Probandinnen  
+- Latein: *probare*

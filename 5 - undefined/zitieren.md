@@ -1,0 +1,7 @@
+- zitieren [t͡siˈtiːʁən] Verb  
+- Wörtlich oder sinngemäß wiedergeben  
+- trích dẫn  
+- to quote / to cite  
+- Der Autor wird häufig zitiert.  
+- Zitat (n)  
+- Latein: *citare*

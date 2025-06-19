@@ -1,0 +1,7 @@
+- der Beleg [bəˈleːk] Substantiv, maskulin  
+- Nachweis, Beweisstück  
+- tài liệu chứng minh  
+- evidence / document  
+- Er hat gute Belege gesammelt.  
+- Pl: Belege  
+- belegen

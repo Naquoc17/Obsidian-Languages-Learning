@@ -1,0 +1,7 @@
+- das Labor [laˈboːɐ̯] Substantiv, neutrum  
+- Raum für Experimente und Forschung  
+- phòng thí nghiệm  
+- laboratory  
+- Die Analyse fand im Labor statt.  
+- Pl: Labors / Labore  
+- Latein: *laboratorium*

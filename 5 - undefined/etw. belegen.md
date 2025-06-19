@@ -1,0 +1,7 @@
+- etw. belegen [bəˈleːɡn̩] Verb  
+- Etwas mit Fakten oder Quellen unterstützen  
+- dẫn chứng  
+- to support / to prove  
+- Die Theorie wurde durch Studien belegt.  
+- Beleg (m)  
+- —
