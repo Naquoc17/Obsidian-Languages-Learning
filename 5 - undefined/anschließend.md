@@ -1,0 +1,7 @@
+- anschließend [ˈanʃliːsənd] Adverb  
+- Im Anschluss an etwas, danach folgend in der Zeit  
+- sau đó  
+- afterwards / subsequently  
+- Wir essen und gehen anschließend spazieren.  
+- auch: im Anschluss daran (gehoben)  
+- an + schließen (ursprünglich: „anfügen“)

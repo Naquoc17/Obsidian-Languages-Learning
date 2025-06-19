@@ -54,7 +54,7 @@ Doch. Die Mühe [[sich lohnen 1|lohnt sich]] , vor allem für Unternehmen: Wer M
 
 > „Die Fähigkeit, direkt miteinander zu kommunizieren, ist im internationalen Handel ein [[entscheidend|entscheidender]]  Faktor“, schreiben die zwei Ökonomen Jacques Mélitz von der Heriot-Watt-Universität und Farid Toubal von der Universität Angers in einer jetzt [[veröffentlichen 1|veröffentlichten]]  Studie, für die sie die [[Auswirkung (die)|Auswirkungen]]  von [[Sprachkenntnis (die)|Sprachkenntnissen]]  auf den globalen Handel untersucht haben.
 
-Die Forscher [[zusammentragen|trugen]]  einen detaillierten [[Datensatz (der)|Datensatz]]  über Sprachen in 195 Ländern zusammen. Dabei [[sich beschränken (auf)|beschränkten sie sich]]  nicht auf die [[jeweilig|jeweilige]]  [[Amtssprache (die)|Amtssprache]], sondern ermittelten in mühevoller Kleinarbeit, welche weiteren Sprachen in den Ländern verbreitet sind. Ihre Sprachdatenbank verglichen sie anschließend mit der [[Außenhandelsstatistik (die)|Außenhandelsstatistik]]  der Staaten.
+Die Forscher [[zusammentragen|trugen]]  einen detaillierten [[Datensatz (der)|Datensatz]]  über Sprachen in 195 Ländern zusammen. Dabei [[sich beschränken (auf)|beschränkten sie sich]]  nicht auf die [[jeweilig|jeweilige]]  [[Amtssprache (die)|Amtssprache]], sondern [[ermitteln|ermittelten]]  in mühevoller Kleinarbeit, welche weiteren Sprachen in den Ländern verbreitet sind. Ihre Sprachdatenbank verglichen sie [[anschließend]] mit der [[Außenhandelsstatistik (die)|Außenhandelsstatistik]]  der Staaten.
 
 ### Zu welchen Ergebnissen kamen Mélitz und Toubal?
 
