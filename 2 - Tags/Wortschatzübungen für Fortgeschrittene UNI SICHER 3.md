@@ -16,7 +16,7 @@ Tags: [[German]]
 ## Bildung und Forschung
 - [[1.1 Schule und Bildung]]
 - [[1.2 Studium]]
-
+- [[1.3 Wissenschaft]]
 
 
 
