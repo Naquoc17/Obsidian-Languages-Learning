@@ -1,0 +1,7 @@
+- Electronic documents (n)
+- Files stored or shared digitally
+- Tài liệu điện tử
+- Elektronische Dokumente (German)
+- Electronic documents are easier to share.
+- Document (n), documentation (n)
+- Latin: documentum

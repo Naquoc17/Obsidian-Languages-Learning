@@ -1,0 +1,7 @@
+- Revealed (v)	[rɪˈviːld]	Verb (past)
+- Made known or shown
+- Tiết lộ
+- Offenbart (German)
+- The study revealed new trends.
+- Reveal (v), revelation (n)
+- Latin: revelare

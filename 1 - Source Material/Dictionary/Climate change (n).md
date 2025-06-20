@@ -1,0 +1,7 @@
+- Climate change (n)
+- Long-term alteration in global weather patterns
+- Biến đổi khí hậu
+- Klimawandel (German)
+- Climate change threatens biodiversity.
+- Climate (n), changing (adj)
+- Greek: klima

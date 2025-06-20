@@ -1,0 +1,7 @@
+- Previously impossible (phrase)
+- Not possible in the past
+- Trước đây không thể
+- Früher unmöglich (German)
+- Technology made it possible to do what was previously impossible.
+- —
+- —

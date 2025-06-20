@@ -1,0 +1,7 @@
+- Proposal (n)	[prəˈpəʊ.zəl]	Noun
+- A suggestion or plan put forward
+- Đề xuất
+- Vorschlag (German)
+- They submitted a funding proposal.
+- Propose (v), proposer (n)
+- Latin: proponere

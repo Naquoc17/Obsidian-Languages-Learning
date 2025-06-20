@@ -1,0 +1,7 @@
+- Social networks (n)	[ˈsəʊ.ʃəl ˈnet.wɜːks]	Noun (plural)
+- Online platforms for connecting people
+- Mạng xã hội
+- Soziale Netzwerke (German)
+- Scientists use social networks to share ideas.
+- Networking (n)
+- —

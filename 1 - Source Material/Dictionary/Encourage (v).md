@@ -1,0 +1,7 @@
+- Encourage (v)	[ɪnˈkʌr.ɪdʒ]	Verb
+- To give support or confidence
+- Khuyến khích
+- Ermutigen (German)
+- The platform encourages collaboration.
+- Encouragement (n), encouraging (adj)
+- Latin: cor (heart)

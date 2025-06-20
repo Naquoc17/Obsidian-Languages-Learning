@@ -1,0 +1,7 @@
+- Achieved far more than expected (phrase)
+- Succeeded beyond expectations
+- Đạt được nhiều hơn mong đợi
+- Viel mehr erreicht als erwartet (German)
+- His invention achieved far more than expected.
+- Achieve (v), achievement (n)
+- —

@@ -1,0 +1,7 @@
+- Distribution of species (phrase)
+- The spread of living organisms in areas
+- Sự phân bố loài
+- Verbreitung der Arten (German)
+- Climate affects the distribution of species.
+- Species (n – same singular/plural)
+- Latin: species

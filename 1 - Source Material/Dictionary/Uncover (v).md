@@ -1,0 +1,7 @@
+- Uncover (v)	[ʌnˈkʌv.ər]	Verb
+- To reveal or expose something hidden
+- Khám phá, phát hiện
+- Aufdecken (German)
+- The research uncovered new evidence.
+- Uncovering (n)
+- Old English: uncoverian

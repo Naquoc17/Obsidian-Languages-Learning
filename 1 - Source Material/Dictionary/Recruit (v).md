@@ -1,0 +1,7 @@
+- Recruit (v)	[rɪˈkruːt]	Verb
+- To enlist or sign up people for work or roles
+- Tuyển dụng
+- Rekrutieren (German)
+- The project recruited many volunteers.
+- Recruitment (n), recruiter (n)
+- Latin: recrescere

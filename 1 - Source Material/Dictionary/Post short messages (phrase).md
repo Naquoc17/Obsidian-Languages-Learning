@@ -1,0 +1,7 @@
+- Post short messages (phrase)
+- To write brief online updates
+- Đăng thông điệp ngắn
+- Kurze Nachrichten posten (German)
+- Users post short messages on Twitter.
+- Post (v), message (n)
+- —

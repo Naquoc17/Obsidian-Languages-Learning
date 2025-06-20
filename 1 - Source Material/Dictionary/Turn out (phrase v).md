@@ -1,0 +1,7 @@
+- Turn out (phrase/v)	[tɜːn aʊt]	Phrasal Verb
+- To happen or be discovered in a particular way
+- Hóa ra là, diễn ra
+- Sich herausstellen (German)
+- It turned out to be a great idea.
+- —
+- —

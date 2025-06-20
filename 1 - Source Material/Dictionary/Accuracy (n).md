@@ -1,0 +1,7 @@
+- Accuracy (n)	[ˈæk.jʊ.rə.si]	Noun
+- The quality of being correct or precise
+- Sự chính xác
+- Genauigkeit (German)
+- The accuracy of the data was questioned.
+- Accurate (adj), inaccuracy (n)
+- Latin: accuratus

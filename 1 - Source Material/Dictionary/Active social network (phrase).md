@@ -1,0 +1,7 @@
+- Active social network (phrase)
+- A frequently used online platform
+- Mạng xã hội hoạt động tích cực
+- Aktives soziales Netzwerk (German)
+- Facebook remains an active social network.
+- —
+- —

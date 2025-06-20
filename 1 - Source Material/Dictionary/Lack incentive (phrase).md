@@ -1,0 +1,7 @@
+- Lack incentive (phrase)
+- Have no motivation
+- Thiếu động lực
+- Fehlender Anreiz (German)
+- Researchers may lack incentive without funding.
+- Incentive (n), incentivize (v)
+- Latin: incentivum

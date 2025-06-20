@@ -1,0 +1,7 @@
+- Galaxies (n)	[ˈɡæl.ək.siz]	Noun (plural)
+- Massive systems of stars in space
+- Các thiên hà
+- Galaxien (German)
+- The telescope captured images of distant galaxies.
+- Galaxy (singular)
+- Greek: galaxias

@@ -1,0 +1,7 @@
+- Reveal (v)	[rɪˈviːl]	Verb
+- To make known or show something hidden
+- Tiết lộ
+- Enthüllen (German)
+- The research revealed surprising results.
+- Revelation (n), revealing (adj)
+- Latin: revelare

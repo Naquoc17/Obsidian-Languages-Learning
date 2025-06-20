@@ -1,0 +1,7 @@
+- Launch (v/n)	[lɔːntʃ]	Verb / Noun
+- To start or introduce (a project, product, etc.)
+- Phát động, khởi động
+- Starten / Einführung (German)
+- The company will launch a new app next month.
+- Launcher (n), launching (n)
+- Latin: lanceare

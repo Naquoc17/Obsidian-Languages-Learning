@@ -1,0 +1,7 @@
+- Scanned images (n)
+- Digital copies of photos or documents
+- Ảnh được quét
+- Gescannte Bilder (German)
+- Volunteers analyzed scanned images online.
+- Scan (v/n)
+- —

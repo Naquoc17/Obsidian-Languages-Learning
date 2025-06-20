@@ -1,0 +1,7 @@
+- Amateurs (n)	[ˈæm.ə.tərz]	Noun (plural)
+- People who do something non-professionally
+- Người nghiệp dư
+- Amateure (German)
+- Amateur astronomers helped classify stars.
+- Amateurish (adj)
+- French: amateur

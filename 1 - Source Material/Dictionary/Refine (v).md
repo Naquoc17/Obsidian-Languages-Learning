@@ -1,0 +1,7 @@
+- Refine (v)	[rɪˈfaɪn]	Verb
+- To improve or make more precise
+- Tinh chỉnh, làm cho tốt hơn
+- Verfeinern (German)
+- They refined their theory over time.
+- Refinement (n), refined (adj)
+- Latin: refinare

@@ -1,0 +1,7 @@
+- Keep up (with) (phrase)
+- To stay at the same level or pace
+- Theo kịp
+- Mithalten mit (German)
+- She works hard to keep up with her classmates.
+- —
+- —

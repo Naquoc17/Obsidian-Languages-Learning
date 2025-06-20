@@ -1,0 +1,7 @@
+- Commented on (v)	[ˈkɒm.entɪd ɒn]	Verb (past)
+- Gave remarks or opinions about something
+- Bình luận về
+- Kommentierte (German)
+- Experts commented on the article.
+- Comment (n/v)
+- Latin: commentari

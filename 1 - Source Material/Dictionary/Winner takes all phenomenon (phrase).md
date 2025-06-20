@@ -1,0 +1,7 @@
+- Winner takes all phenomenon (phrase)
+- A situation where one winner gains everything
+- Hiện tượng người thắng được tất cả
+- Alles-oder-nichts-Phänomen (German)
+- Social media often shows a winner-takes-all phenomenon.
+- —
+- —

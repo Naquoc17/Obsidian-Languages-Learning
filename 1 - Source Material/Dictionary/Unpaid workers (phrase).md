@@ -1,0 +1,7 @@
+- Unpaid workers (phrase)
+- Volunteers who work without money
+- Người làm không công
+- Unbezahlte Arbeitskräfte (German)
+- The study was supported by unpaid workers.
+- —
+- —

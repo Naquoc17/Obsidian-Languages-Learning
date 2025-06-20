@@ -1,0 +1,7 @@
+- Review (n/v)	[rɪˈvjuː]	Noun / Verb
+- A critical evaluation / to examine or assess
+- Bài đánh giá / đánh giá
+- Bewertung / überprüfen (German)
+- The book received a positive review.
+- Reviewer (n), reviewing (n)
+- Latin: revidere

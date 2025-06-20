@@ -1,0 +1,7 @@
+- Open peer review (n)
+- A transparent evaluation system where reviewers are known
+- Đánh giá công khai đồng cấp
+- Offene Peer-Review (German)
+- Some journals use open peer review.
+- Peer (n), review (n)
+- Latin: par (equal)

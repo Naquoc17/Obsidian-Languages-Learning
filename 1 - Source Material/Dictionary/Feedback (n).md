@@ -1,0 +1,7 @@
+- Feedback (n)	[ˈfiːd.bæk]	Noun
+- Response or opinion on performance or results
+- Phản hồi
+- Rückmeldung (German)
+- We received useful feedback from the users.
+- —
+- —

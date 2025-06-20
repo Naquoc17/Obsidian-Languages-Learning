@@ -1,0 +1,7 @@
+- Computer scientist (n)
+- A person who studies or works in computer science
+- Nhà khoa học máy tính
+- Informatiker/in (German)
+- Tim Berners-Lee is a famous computer scientist.
+- Computer science (n)
+- —

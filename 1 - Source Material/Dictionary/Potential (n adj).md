@@ -1,0 +1,7 @@
+- Potential (n/adj)	[pəˈten.ʃəl]	Noun / Adjective
+- Possibility or capacity for development
+- Tiềm năng
+- Potenzial (German)
+- She has great potential as a leader.
+- Potentially (adv)
+- Latin: potentialis

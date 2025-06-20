@@ -1,0 +1,7 @@
+- Bland title (phrase)
+- A dull or uninteresting title
+- Tiêu đề nhạt nhẽo
+- Langweiliger Titel (German)
+- The article had a bland title, but the content was excellent.
+- Bland (adj) – nhạt nhẽo
+- Latin: blandus

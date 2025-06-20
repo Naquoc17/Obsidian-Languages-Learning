@@ -1,0 +1,7 @@
+- Handwritten notes (n)
+- Notes written by hand
+- Ghi chú viết tay
+- Handschriftliche Notizen (German)
+- He uploaded handwritten notes from the lab.
+- Handwriting (n), note (n)
+- —

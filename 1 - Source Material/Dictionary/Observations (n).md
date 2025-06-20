@@ -1,0 +1,7 @@
+- Observations (n)	[ˌɒb.zəˈveɪ.ʃənz]	Noun (plural)
+- Acts of noticing and recording facts
+- Những quan sát
+- Beobachtungen (German)
+- Scientific progress depends on accurate observations.
+- Observe (v), observable (adj)
+- Latin: observare

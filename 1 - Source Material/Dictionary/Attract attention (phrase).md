@@ -1,0 +1,7 @@
+- Attract attention (phrase)
+- To draw people’s focus
+- Thu hút sự chú ý
+- Aufmerksamkeit erregen (German)
+- His paper attracted attention from scientists.
+- Attention (n)
+- Latin: attrahere

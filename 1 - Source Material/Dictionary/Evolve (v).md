@@ -1,0 +1,7 @@
+- Evolve (v)	[ɪˈvɒlv]	Verb
+- To change or grow gradually
+- Tiến hóa, phát triển
+- Sich entwickeln (German)
+- Languages evolve over time.
+- Evolution (n)
+- Latin: evolvere

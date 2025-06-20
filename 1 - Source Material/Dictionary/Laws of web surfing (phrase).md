@@ -1,0 +1,7 @@
+- Laws of web surfing (phrase)
+- Patterns in how people browse the internet
+- Quy luật lướt web
+- Gesetze des Surfverhaltens (German)
+- He studied the laws of web surfing.
+- Surf (v), web (n)
+- —

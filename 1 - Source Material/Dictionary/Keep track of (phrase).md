@@ -1,0 +1,7 @@
+- Keep track of (phrase)
+- To monitor or follow
+- Theo dõi
+- Den Überblick behalten (German)
+- They use software to keep track of results.
+- —
+- —

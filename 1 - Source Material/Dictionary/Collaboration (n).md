@@ -1,0 +1,7 @@
+- Collaboration (n)	[kəˌlæb.əˈreɪ.ʃən]	Noun
+- Working together
+- Hợp tác
+- Zusammenarbeit (German)
+- Online collaboration speeds up research.
+- Collaborate (v)
+- Latin: collaborare

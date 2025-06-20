@@ -1,0 +1,7 @@
+- Transform (v)	[trænsˈfɔːm]	Verb
+- To change completely in form or appearance
+- Biến đổi
+- Verwandeln (German)
+- Technology has transformed the way we live.
+- Transformation (n), transformative (adj)
+- Latin: transformare

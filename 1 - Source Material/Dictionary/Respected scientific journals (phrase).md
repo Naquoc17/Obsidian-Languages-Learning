@@ -1,0 +1,7 @@
+- Respected scientific journals (phrase)
+- Well-regarded academic publications
+- Tạp chí khoa học uy tín
+- Angesehene wissenschaftliche Zeitschriften (German)
+- The study appeared in respected scientific journals.
+- Journal (n)
+- French: journal

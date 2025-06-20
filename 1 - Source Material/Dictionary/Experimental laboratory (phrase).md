@@ -1,0 +1,7 @@
+- Experimental laboratory (phrase)
+- A place for practical scientific tests
+- Phòng thí nghiệm thực nghiệm
+- Experimentelles Labor (German)
+- The experimental laboratory produced new results.
+- Laboratory (n), experiment (n)
+- Latin: laborare

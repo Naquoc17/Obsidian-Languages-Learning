@@ -1,0 +1,7 @@
+- Reviewed (v)	[rɪˈvjuːd]	Verb (past)
+- Examined or assessed
+- Được đánh giá
+- Bewertet (German)
+- The journal article was reviewed by peers.
+- Review (n), reviewer (n)
+- Latin: revidere

@@ -1,0 +1,7 @@
+- In response to (phrase)
+- As a reaction to something
+- Đáp lại
+- Als Reaktion auf (German)
+- They acted in response to criticism.
+- Respond (v), response (n)
+- Latin: respondere

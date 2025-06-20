@@ -1,0 +1,7 @@
+- Restrict (v)	[rɪˈstrɪkt]	Verb
+- To limit or control something
+- Hạn chế
+- Beschränken (German)
+- They restrict access to sensitive data.
+- Restriction (n), restrictive (adj)
+- Latin: restringere

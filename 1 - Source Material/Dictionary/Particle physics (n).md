@@ -1,0 +1,7 @@
+- Particle physics (n)
+- The branch of physics studying subatomic particles
+- Vật lý hạt
+- Teilchenphysik (German)
+- He works at CERN doing particle physics.
+- Particle (n), physicist (n)
+- Latin: particula

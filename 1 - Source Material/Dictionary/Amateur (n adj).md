@@ -1,0 +1,7 @@
+- Amateur (n/adj)	[ˈæm.ə.tə(r)]	Noun / Adjective
+- Someone who does something for pleasure, not professionally
+- Người nghiệp dư / nghiệp dư
+- Amateur (German)
+- The film was made by an amateur filmmaker.
+- Amateurish (adj)
+- French: amateur (lover of)

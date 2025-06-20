@@ -1,0 +1,7 @@
+- Experiment (with) (v)	[ɪkˈsper.ɪ.mənt]	Verb
+- To try out new ideas or methods
+- Thử nghiệm
+- Experimentieren mit (German)
+- She experimented with new teaching methods.
+- Experimentation (n)
+- Latin: experimentum

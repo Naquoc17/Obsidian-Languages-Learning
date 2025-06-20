@@ -1,0 +1,7 @@
+- Classify (v)	[ˈklæs.ɪ.faɪ]	Verb
+- To arrange in categories
+- Phân loại
+- Klassifizieren (German)
+- Scientists classify galaxies by shape.
+- Classification (n)
+- Latin: classis + facere

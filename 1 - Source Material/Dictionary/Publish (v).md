@@ -1,0 +1,7 @@
+- Publish (v)	[ˈpʌb.lɪʃ]	Verb
+- To make content available to the public
+- Xuất bản
+- Veröffentlichen (German)
+- The scientist published her findings in a journal.
+- Publication (n), publisher (n)
+- Latin: publicare

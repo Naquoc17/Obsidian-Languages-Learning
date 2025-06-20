@@ -1,0 +1,7 @@
+- Carry out research (phrase)
+- To conduct research
+- Tiến hành nghiên cứu
+- Forschung betreiben (German)
+- She carried out research in biology.
+- —
+- —

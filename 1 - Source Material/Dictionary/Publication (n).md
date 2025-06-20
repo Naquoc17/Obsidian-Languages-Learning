@@ -1,0 +1,7 @@
+- Publication (n)	[ˌpʌb.lɪˈkeɪ.ʃən]	Noun
+- The act of making information available in print/digital form
+- Sự xuất bản
+- Veröffentlichung (German)
+- The article is ready for publication.
+- Publish (v), publisher (n)
+- Latin: publicare

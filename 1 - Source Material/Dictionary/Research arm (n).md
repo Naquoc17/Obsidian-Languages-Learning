@@ -1,0 +1,7 @@
+- Research arm (n)
+- A division of an organization focused on research
+- Nhánh nghiên cứu
+- Forschungsabteilung (German)
+- NASA's research arm tested new engines.
+- —
+- —

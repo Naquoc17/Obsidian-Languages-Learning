@@ -1,0 +1,7 @@
+- Modestly (adv)	[ˈmɒd.ɪst.li]	Adverb
+- In a humble or moderate way
+- Một cách khiêm tốn
+- Bescheiden (German)
+- He modestly accepted the award.
+- Modest (adj), modesty (n)
+- Latin: modestus

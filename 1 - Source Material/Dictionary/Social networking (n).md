@@ -1,0 +1,7 @@
+- Social networking (n)	[ˌsəʊ.ʃəl ˈnet.wɜː.kɪŋ]	Noun
+- Using online platforms to connect with others
+- Mạng xã hội
+- Soziale Netzwerke (German)
+- Social networking has transformed communication.
+- Social network (n)
+- —

@@ -1,0 +1,7 @@
+- Employing (v)	[ɪmˈplɔɪ.ɪŋ]	Verb (present participle)
+- Using or hiring
+- Sử dụng, thuê
+- Beschäftigen (German)
+- The project is employing new techniques.
+- Employment (n), employee (n)
+- Latin: implicare

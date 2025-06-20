@@ -1,0 +1,7 @@
+- Web-based social-networking tools (phrase)
+- Online tools for connecting via the internet
+- Công cụ mạng xã hội dựa trên web
+- Webbasierte soziale Netzwerkanwendungen (German)
+- Researchers used web-based social-networking tools.
+- —
+- —
