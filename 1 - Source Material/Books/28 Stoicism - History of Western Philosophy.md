@@ -68,6 +68,57 @@ In one sense, every life is in harmony with Nature, since it is such as Nature's
 
 In the life of an individual man, **virtue is the sole good**; such things as health, happiness, possessions, are [[of no account (phr)]]. Since **virtue resides in the will**, everything really good or bad in a man's life depends only upon himself
 
+## Page 3
+### **Truyện chêm: Vòng Lặp Và Đức Hạnh**
+
+Có một vị **sage** (hiền triết), được mọi người xem là **truly good** (thực sự tốt lành) và **virtuous** (đức hạnh), sống **in harmony with Nature** (hòa hợp với thiên nhiên). Ông từ bỏ **mundane desires** (ham muốn trần tục), tin rằng **virtue** (đức hạnh) là cứu cánh, là **end in itself** (mục đích tự thân).
+
+Vương quốc nơi ông sống bị cai trị bởi một **tyrant** (bạo chúa) độc ác, cai trị bằng **cruelty** (tàn bạo) và **injustice** (bất công). Khi ông công khai lên tiếng, nhà vua tức giận, **condemned** (kết tội) ông và **sentenced to death** (kết án tử hình).
+
+Dân chúng cầu xin ông trốn thoát, nhưng ông **nobly** (cao thượng) từ chối, nói rằng:
+> - “Một người **master of his fate** (làm chủ số phận) không sợ **outside force** (thế lực bên ngoài). Dù bị **compelled** (bắt buộc), ta vẫn giữ tự do nội tâm (**freedom**).”
+
+Có người hỏi:
+> - “Sao ngài chịu được khổ đau **unbearably painful** (không thể chịu nổi)?”
+
+Ông mỉm cười:
+> - “Đó là **opportunities for the exercise of virtue** (cơ hội thực hành đức hạnh). Mỗi nỗi đau **affords the sufferer** sự tôi luyện. Cái ác có thể thắng trong khoảnh khắc, nhưng điều thiện sẽ **prevail** (chiến thắng) về lâu dài.”
+
+Khi dịch bệnh (**epidemic**, **plague**) lan tràn, dân chúng hoảng loạn. Vị hiền triết vẫn giúp đỡ không sợ nguy hiểm, sẵn sàng **risks his life** (liều mạng). Có người trẻ **enthusiastic** (nhiệt huyết) đi theo ông, hy vọng **achieved** (đạt được) sự khai sáng.
+
+Một lính gác từng lạnh lùng (**coldness**) lặng lẽ khóc:
+> - “Tôi từng tin vào **false judgements** (phán đoán sai), bị chi phối bởi **bad passions** (tà tâm). Nhưng giờ tôi hiểu...”
+
+Vị hiền triết nói:
+> - “Chỉ khi có **conception of virtue** (quan niệm đúng về đức hạnh), con người mới được **emancipated** (giải phóng).”
+
+Nhà vua cười nhạo:
+> - “Ngươi tin vào một **beneficent Providence** (sự an bài tốt lành) sao, trong một thế giới đầy **abundance of sinners** (vô số tội nhân)?”
+
+Ông đáp:
+> - “Vâng. Dù thế giới **deterministic** (có vẻ định mệnh), và dù phải đối diện với **logical difficulties** (nghịch lý logic), nhưng đó là **doctrine** (giáo lý) của tôi. Nỗi khổ có thể tái diễn (**recurrence**), nhưng ý nghĩa nằm ở việc ta sống ra sao.”
+
+Một học giả phản đối:
+> - “Nhưng nếu đau khổ cứ **repetition of the whole process** (lặp đi lặp lại), chẳng phải **devastatingly futile** (vô nghĩa tàn khốc) sao? Làm sao tin vào **progress** (tiến bộ) **in the long run** (về lâu dài)?”
+
+Ông đáp:
+> - “Không ai có thể **diminish its frequency** (giảm tần suất) hay khiến nó **cease to happen** (ngừng xảy ra). Nhưng nếu ta **supposed to give** những gì tốt nhất, thì mỗi hành động tử tế **assures** (đảm bảo) giá trị cho hiện tại.”
+
+Sau cùng, ông bước ra pháp trường. Không sợ hãi, ông nhìn trời và nói:
+> - “Dù là **destruction of the present world** (sự hủy diệt thế giới hiện tại), ta vẫn tin sự thật sẽ **ultimately grow weary** (làm mòn mỏi cái ác) **through despair** (qua tuyệt vọng).”
+
+Người dân lặng im. Trong giây phút ấy, ai cũng cảm nhận được **sympathy** (lòng cảm thông) lan tỏa – như thể, một điều gì đó sâu sắc đã được đánh thức trong tâm hồn họ.
+
+
+### Reading
+He may become poor, but what of it? He can still be [[Virtuous (adj)]]. A [[Tyrant (n)]] may put him in prison, but he can still [[Persevere (v)]] in living in harmony with Nature. He may be sentenced to death, but he can die [[Nobly (adv)]], like Socrates. Other men have power only over externals; virtue, which alone is truly good, rests entirely with the individual. Therefore every man has perfect freedom, provided he [[Emancipate (v)]]s himself from [[Mundane (adj)]] desires. It is only through false judgements that such desires [[Prevail (v)]]; [[The sage (n)]] whose judgements are true is master of his fate in all that he values, since no outside force can deprive him of virtue.
+
+There are obvious logical difficulties about this doctrine. If virtue is really the sole good, a beneficent Providence must be solely concerned to cause virtue, yet the laws of Nature have produced abundance of sinners. If virtue is the sole good, there can be no reason against cruelty and injustice, since, as the Stoics are never tired of pointing out, cruelty and injustice afford the sufferer the best opportunities for the exercise of virtue. If the world is completely deterministic, natural laws will decide whether I shall be virtuous or not. If I am wicked, Nature compels me to be wicked, and the freedom which virtue is supposed to give is not possible for me.
+
+To a modern mind, it is difficult to feel enthusiastic about a [[Virtuous (adj)]] life if nothing is going to be achieved by it. We admire a medical man who risks his life in an [[Epidemic (n)]] of [[Plague (n)]], because we think illness is an evil, and we hope to diminish its frequency. But if illness is no evil, the medical man might as well stay comfortably at home. To the Stoic, his [[5 - undefined/Virtue (n)|Virtue (n)]] is an end in itself, not something that does good. And when we take a longer view, what is the ultimate outcome? A destruction of the present world by fire, and then a repetition of the whole process. Could anything be more devastatingly futile? There may be progress here and there, for a time, but in the long run there is only recurrence. When we see something unbearably painful, we hope that in time such things will cease to happen; but the Stoic assures us that what is happening now will happen over and over again. Providence, which sees the whole, must, one would think, ultimately grow weary through despair.
+
+There goes with this a certain coldness in the Stoic conception of virtue. Not only bad passions are condemned, but all passions. The sage does not feel sympathy: when his wife or his children die, he
+
 
 
 # Abbreviation

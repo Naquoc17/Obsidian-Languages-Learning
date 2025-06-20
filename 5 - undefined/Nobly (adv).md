@@ -1,0 +1,7 @@
+- Nobly (adv)	[ˈnəʊ.bli]	Adverb
+- With dignity and moral excellence
+- Một cách cao quý
+- Edel (German)
+- He died nobly defending his beliefs.
+- Noble (adj), nobility (n)
+- Latin: nobilis

@@ -1,0 +1,7 @@
+- Beneficent (adj)	[bɪˈnef.ɪ.sənt]	Adjective
+- Doing or producing good; kind and generous
+- Từ tâm, nhân từ
+- Wohltätig (German)
+- A beneficent government provides for its people.
+- Beneficence (n)
+- Latin: benefacere

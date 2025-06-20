@@ -1,0 +1,7 @@
+- Assures (v)	[əˈʃʊəz]	Verb
+- Promises or guarantees something
+- Đảm bảo
+- Versichern (German)
+- He assures us that all will be well.
+- Assurance (n)
+- Latin: securus

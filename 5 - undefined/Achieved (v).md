@@ -1,0 +1,7 @@
+- Achieved (v)	[əˈtʃiːvd]	Verb
+- Reached a goal
+- Đạt được
+- Erreicht (German)
+- He achieved inner peace.
+- Achieve (v), achievement (n)
+- Old French: achever

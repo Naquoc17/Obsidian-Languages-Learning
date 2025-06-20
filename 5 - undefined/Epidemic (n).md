@@ -1,0 +1,7 @@
+- Epidemic (n)	[ˌep.ɪˈdem.ɪk]	Noun
+- A widespread disease in a population
+- Dịch bệnh
+- Epidemie (German)
+- The epidemic spread rapidly through the city.
+- Epidemiology (n)
+- Greek: epi + demos

@@ -1,0 +1,7 @@
+- Prevail (v)	[prɪˈveɪl]	Verb
+- To triumph or succeed
+- Chiến thắng, chiếm ưu thế
+- Sich durchsetzen (German)
+- Justice will prevail in the end.
+- Prevalence (n), prevalent (adj)
+- Latin: praevalere

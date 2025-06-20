@@ -1,0 +1,7 @@
+- Virtuous (adj)	[ˈvɜː.tʃu.əs]	Adjective
+- Having or showing high moral standards
+- Có đạo đức, có phẩm hạnh tốt
+- Tugendhaft (German)
+- A virtuous person always seeks truth and goodness.
+- Virtue (n) – đạo đức, virtuousness (n) – sự tốt bụng
+- Latin: virtus

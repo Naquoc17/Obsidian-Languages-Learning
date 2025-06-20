@@ -1,0 +1,7 @@
+- Persevere (v)	[ˌpɜː.sɪˈvɪə(r)]	Verb
+- To continue trying despite difficulty or delay
+- Kiên trì
+- Durchhalten (German)
+- She persevered through years of hardship to achieve her goals.
+- Perseverance (n)
+- Latin: perseverare

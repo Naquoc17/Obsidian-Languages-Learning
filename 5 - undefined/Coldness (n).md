@@ -1,0 +1,7 @@
+- Coldness (n)	[ˈkəʊld.nəs]	Noun
+- Emotional detachment or lack of sympathy
+- Sự lạnh lùng
+- Kälte (German)
+- His coldness shocked the group.
+- Cold (adj)
+- —

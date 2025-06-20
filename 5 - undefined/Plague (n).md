@@ -1,0 +1,7 @@
+- Plague (n)	[pleɪɡ]	Noun
+- A deadly contagious disease
+- Bệnh dịch hạch
+- Pest (German)
+- The plague killed millions in Europe.
+- —
+- Latin: plaga

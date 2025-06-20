@@ -1,0 +1,7 @@
+- Freedom (n)	[ˈfriː.dəm]	Noun
+- The ability to act or think freely
+- Tự do
+- Freiheit (German)
+- Inner freedom was central to Stoic philosophy.
+- Free (adj), freely (adv)
+- Old English: freodom

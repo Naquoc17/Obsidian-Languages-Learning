@@ -1,0 +1,7 @@
+- Injustice (n)	[ɪnˈdʒʌs.tɪs]	Noun
+- Lack of fairness or justice
+- Sự bất công
+- Ungerechtigkeit (German)
+- Stoics believed injustice is a moral evil.
+- Unjust (adj)
+- Latin: injustitia

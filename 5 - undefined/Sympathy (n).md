@@ -1,0 +1,7 @@
+- Sympathy (n)	[ˈsɪm.pə.θi]	Noun
+- Understanding or caring for someone’s suffering
+- Sự thông cảm
+- Mitgefühl (German)
+- She showed sympathy for his pain.
+- Sympathetic (adj)
+- Greek: sympatheia

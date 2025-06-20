@@ -1,0 +1,7 @@
+- Enthusiastic (adj)	[ɪnˌθjuː.ziˈæs.tɪk]	Adjective
+- Full of eagerness or excitement
+- Nhiệt tình
+- Begeistert (German)
+- She is very enthusiastic about philosophy.
+- Enthusiasm (n)
+- Greek: enthous (possessed by god)

@@ -1,0 +1,7 @@
+- Mundane (adj)	[ˈmʌn.deɪn]	Adjective
+- Ordinary, not interesting; concerned with the worldly
+- Trần tục, thường ngày
+- Weltlich / Alltäglich (German)
+- He longed to escape his mundane routine and travel the world.
+- Mundanity (n)
+- Latin: mundus

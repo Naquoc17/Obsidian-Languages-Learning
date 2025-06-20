@@ -1,0 +1,7 @@
+- Virtue (n)	[ˈvɜː.tʃuː]	Noun
+- Behavior showing high moral standards
+- Đức hạnh, phẩm chất tốt
+- Tugend (German)
+- Patience is considered a virtue.
+- Virtuous (adj)
+- Latin: virtus

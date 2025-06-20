@@ -1,0 +1,7 @@
+- Condemned (adj)	[kənˈdemd]	Adjective
+- Sentenced to punishment
+- Bị kết án
+- Verurteilt (German)
+- He was condemned for his actions.
+- Condemnation (n)
+- Latin: condemnare

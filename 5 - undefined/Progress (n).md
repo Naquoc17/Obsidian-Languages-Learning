@@ -1,0 +1,7 @@
+- Progress (n)	[ˈprəʊ.ɡres]	Noun
+- Movement toward improvement
+- Tiến bộ
+- Fortschritt (German)
+- Science drives human progress.
+- Progressive (adj)
+- Latin: progressus

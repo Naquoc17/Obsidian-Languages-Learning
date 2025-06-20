@@ -1,0 +1,7 @@
+- Emancipate (v)	[iˈmæn.sɪ.peɪt]	Verb
+- To set free, especially from legal, social, or political restrictions
+- Giải phóng
+- Befreien (German)
+- The law helped emancipate slaves in the 19th century.
+- Emancipation (n)
+- Latin: emancipare

@@ -1,0 +1,7 @@
+- Doctrine (n)	[ˈdɒk.trɪn]	Noun
+- A belief or set of beliefs held by a group (esp. religious or philosophical)
+- Học thuyết, chủ nghĩa
+- Doktrin (German)
+- The Stoic doctrine teaches self-control and harmony with nature.
+- Doctrinal (adj)
+- Latin: doctrina

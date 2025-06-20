@@ -1,0 +1,7 @@
+- Compelled (adj)	[kəmˈpɛld]	Adjective
+- Forced to act in a particular way
+- Bị ép buộc
+- Gezwungen (German)
+- He was compelled by duty to help.
+- Compel (v), compulsion (n)
+- Latin: compellere

@@ -1,0 +1,7 @@
+- Deterministic (adj)	[dɪˌtɜː.mɪˈnɪs.tɪk]	Adjective
+- Believing all events are pre-determined; no free will
+- Mang tính định mệnh
+- Deterministisch (German)
+- Stoicism has a deterministic worldview.
+- Determinism (n)
+- Latin: determinare

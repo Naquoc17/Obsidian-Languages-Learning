@@ -1,0 +1,7 @@
+- Recurrence (n)	[rɪˈkɜː.rəns]	Noun
+- The act of something happening again
+- Sự tái diễn
+- Rückfall (German)
+- The recurrence of the illness scared him.
+- Recur (v), recurring (adj)
+- Latin: recurrere

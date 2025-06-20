@@ -1,0 +1,7 @@
+- The sage (n)	[ðə seɪdʒ]	Noun
+- A wise person, especially in philosophy or spirituality
+- Nhà hiền triết
+- Der Weise (German)
+- The Stoics aimed to become sages.
+- Sagely (adv), sagacity (n)
+- Latin: sapiens

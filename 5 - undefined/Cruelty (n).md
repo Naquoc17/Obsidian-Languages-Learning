@@ -1,0 +1,7 @@
+- Cruelty (n)	[ˈkruː.əl.ti]	Noun
+- Extreme unkindness or brutality
+- Sự tàn nhẫn
+- Grausamkeit (German)
+- His cruelty to animals was shocking.
+- Cruel (adj)
+- Latin: crudelis
