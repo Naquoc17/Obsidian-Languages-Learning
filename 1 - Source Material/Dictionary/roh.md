@@ -1,0 +1,6 @@
+- roh	[ʁoː]	Adjektiv
+- nicht gekocht
+- sống
+- raw
+- Man sollte rohes Fleisch nicht essen.
+- —	rauh (altdeutsch)

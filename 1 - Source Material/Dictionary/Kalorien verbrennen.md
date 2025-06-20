@@ -1,0 +1,6 @@
+- Kalorien verbrennen	[kaˈloːʁiːən fɛɐ̯ˈbʁɛnən]	Redewendung
+- Energie durch Bewegung verlieren
+- đốt cháy calo
+- to burn calories
+- Beim Joggen verbrennt man viele Kalorien.
+- Kalorie, verbrennen	—

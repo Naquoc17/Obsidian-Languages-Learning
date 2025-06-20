@@ -1,0 +1,6 @@
+- die Haltbarkeit	[ˈhaltbaʁkaɪ̯t]	Nomen, feminin
+- Dauer der Lagerfähigkeit
+- thời hạn sử dụng
+- shelf life
+- Die Haltbarkeit ist begrenzt.
+- haltbar (durable)	—

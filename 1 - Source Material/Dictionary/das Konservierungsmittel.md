@@ -1,0 +1,6 @@
+- das Konservierungsmittel	[kɔnzɛʁˈviːʁʊŋsˌmɪtl̩]	Nomen, neutral
+- Mittel zur Haltbarmachung
+- chất bảo quản
+- preservative
+- Ohne Konservierungsmittel wäre das Produkt nicht haltbar.
+- konservieren + Mittel	conservare

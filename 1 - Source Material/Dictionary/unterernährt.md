@@ -1,0 +1,6 @@
+- unterernährt	[ˈʊntɐʔɛʁnɛːɐ̯t]	Adjektiv
+- nicht ausreichend ernährt
+- suy dinh dưỡng
+- malnourished
+- Viele Kinder sind unterernährt.
+- unter + ernährt	nutrire

@@ -1,0 +1,6 @@
+- das Vitamin	[ˌvitaˈmiːn]	Nomen, neutral
+- lebenswichtiger Mikronährstoff
+- vitamin
+- vitamin
+- Orangen enthalten viel Vitamin C.
+- —	lat. vita (life)

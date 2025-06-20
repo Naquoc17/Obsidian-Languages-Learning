@@ -1,0 +1,6 @@
+- etw. verdauen	[fɛɐ̯ˈdaʊ̯ən]	Verb
+- Nahrung im Körper verarbeiten
+- tiêu hóa
+- to digest
+- Der Magen verdaut das Essen.
+- die Verdauung	digerere

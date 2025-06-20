@@ -1,0 +1,6 @@
+- ungesättigte Fettsäuren	[ʊnɡəˈzɛtɪɡtə ˈfɛtˌzɔʏ̯ʁən]	Pl.
+- pflanzliche, gesündere Fettsäuren
+- axit béo không bão hòa
+- unsaturated fatty acids
+- Olivenöl enthält ungesättigte Fettsäuren.
+- un- + gesättigt, Fett, Säure	saturare

@@ -1,0 +1,6 @@
+- gesättigte Fettsäuren	[ɡəˈzɛtɪɡtə ˈfɛtˌzɔʏ̯ʁən]	Pl.
+- tierische Fette, bei hoher Aufnahme ungesund
+- axit béo bão hòa
+- saturated fatty acids
+- Zu viele gesättigte Fettsäuren sind ungesund.
+- sättigen (saturate), Fett (fat), Säure (acid)	saturare

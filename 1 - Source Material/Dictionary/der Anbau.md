@@ -1,0 +1,6 @@
+- der Anbau	[ˈanˌbaʊ̯]	Nomen, maskulin
+- das Kultivieren von Pflanzen
+- trồng trọt
+- cultivation, farming
+- Der Anbau von Gemüse nimmt zu.
+- anbauen (to grow, farm)	bauen (to build)

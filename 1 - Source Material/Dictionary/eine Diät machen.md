@@ -1,0 +1,6 @@
+- eine Diät machen	[ˈmaχn̩]	Verbphrase
+- sich gezielt zur Gewichtsabnahme ernähren
+- ăn kiêng
+- to go on a diet
+- Viele machen nach den Feiertagen eine Diät.
+- Diät + machen	—

@@ -1,0 +1,6 @@
+- die Missernte	[ˈmɪsˌʔɛʁntə]	Nomen, feminin
+- schlechte Ernte
+- mất mùa
+- crop failure
+- Nach der Dürre kam es zur Missernte.
+- miss- + Ernte (harvest)	—

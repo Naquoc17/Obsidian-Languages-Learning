@@ -1,0 +1,6 @@
+- der Aromastoff	[ʔaˈʁoːmaˌʃtɔf]	Nomen, maskulin
+- Stoff, der Geschmack verleiht
+- chất tạo hương
+- flavoring agent
+- Aromastoffe sind oft künstlich.
+- Aroma + Stoff	arōma (gr.)

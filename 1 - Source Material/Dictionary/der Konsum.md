@@ -1,0 +1,6 @@
+- der Konsum	[kɔnˈzuːm]	Nomen, maskulin
+- Verbrauch von Gütern/Lebensmitteln
+- sự tiêu dùng
+- consumption
+- Der Konsum von Fleisch sinkt.
+- konsumieren	consumere

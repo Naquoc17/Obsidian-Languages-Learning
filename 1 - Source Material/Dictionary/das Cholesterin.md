@@ -1,0 +1,6 @@
+- das Cholesterin	[kɔlɛstɛˈʁiːn]	Nomen, neutral
+- fettähnlicher Stoff im Blut
+- cholesterol
+- cholesterol
+- Cholesterin kann Gefäße verengen.
+- —	cholē (gr.) = Galle

@@ -1,0 +1,6 @@
+- der Diabetes	[di̯aˈbeːtəs]	Nomen, maskulin
+- Stoffwechselkrankheit mit hohem Blutzucker
+- bệnh tiểu đường
+- diabetes
+- Diabetes ist eine chronische Erkrankung.
+- —	diabainein (gr.) = hindurchgehen

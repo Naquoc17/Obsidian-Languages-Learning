@@ -1,0 +1,6 @@
+- kalorienreduziert	[kaˈloːʁi̯ənʁeˌduˈt͡siːɐ̯t]	Adjektiv
+- mit weniger Kalorien als üblich
+- giảm calo
+- calorie-reduced
+- Die neue Cola ist kalorienreduziert.
+- Kalorie, reduzieren (to reduce)	reducere

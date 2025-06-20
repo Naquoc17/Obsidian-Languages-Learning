@@ -1,0 +1,6 @@
+- chemische Zusätze	[ˈçeːmɪʃə ˈt͡suːzɛt͡sə]	Pl.
+- künstlich zugefügte Stoffe in Produkten
+- phụ gia hóa học
+- chemical additives
+- Viele Fertigprodukte enthalten chemische Zusätze.
+- Chemie (chemistry), Zusatz (additive)	khemeia (gr.)

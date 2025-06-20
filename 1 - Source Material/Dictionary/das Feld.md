@@ -1,0 +1,6 @@
+- das Feld	[fɛlt]	Nomen, neutral
+- offene Fläche, meist für Anbau
+- cánh đồng
+- field
+- Auf dem Feld wächst Weizen.
+- —	feld (OE: field)

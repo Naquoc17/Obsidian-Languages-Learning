@@ -1,0 +1,6 @@
+- die Massentierhaltung	[ˈmasn̩ˌtiːɐ̯haltn̩]	Nomen, feminin
+- Haltung vieler Tiere auf engem Raum
+- chăn nuôi công nghiệp
+- factory farming
+- Massentierhaltung steht in der Kritik.
+- Masse + Tierhaltung	—

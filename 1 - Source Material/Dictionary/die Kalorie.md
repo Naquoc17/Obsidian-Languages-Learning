@@ -1,0 +1,6 @@
+- die Kalorie	[kaloˈʁiːə]	Nomen, feminin
+- Maßeinheit für Energie in Nahrung
+- calo
+- calorie
+- Ein Apfel hat etwa 50 Kalorien.
+- —	calor

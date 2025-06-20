@@ -1,0 +1,6 @@
+- säen	[ˈzɛːən]	Verb
+- Samen in den Boden bringen
+- gieo (hạt)
+- to sow
+- Die Bauern säen im Frühjahr.
+- der Same	—

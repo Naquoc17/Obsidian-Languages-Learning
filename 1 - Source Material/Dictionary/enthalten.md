@@ -1,0 +1,6 @@
+- enthalten	[ɛntˈhaltn̩]	Verb
+- etwas in sich haben
+- chứa
+- to contain
+- Orangen enthalten viel Vitamin C.
+- der Inhalt, Gehalt	halten

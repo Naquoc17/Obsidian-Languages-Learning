@@ -1,0 +1,6 @@
+- das Kilojoule	[ˈkiːloˌʒuːl]	Nomen, neutral
+- Energieeinheit (1 kcal = 4,18 kJ)
+- kilojoule
+- kilojoule
+- Verpackungen zeigen Kalorien und Kilojoule an.
+- kilo-, Joule (phys. Einheit)	James Prescott Joule

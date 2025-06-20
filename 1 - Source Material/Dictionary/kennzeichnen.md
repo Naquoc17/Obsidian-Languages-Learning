@@ -1,0 +1,6 @@
+- kennzeichnen	[ˈkɛnt͡saɪ̯çnən]	Verb
+- markieren oder beschreiben
+- ghi nhãn
+- to label, to mark
+- Produkte müssen korrekt gekennzeichnet sein.
+- Zeichen (mark), kennen (to know)	—

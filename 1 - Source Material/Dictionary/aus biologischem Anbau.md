@@ -1,0 +1,6 @@
+- aus biologischem Anbau	[ˈbiːoˌlanˌbaʊ̯]	Redewendung
+- ohne chemische Mittel angebaut
+- canh tác hữu cơ
+- organically grown
+- Diese Tomaten sind aus biologischem Anbau.
+- Bio-, Anbau	—

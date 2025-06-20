@@ -1,0 +1,6 @@
+- haltbar	[ˈhaltbaʁ]	Adjektiv
+- lange lagerfähig
+- bền, để được lâu
+- durable, storable
+- Diese Milch ist lange haltbar.
+- halten (to keep)	—

@@ -1,0 +1,6 @@
+- ertragreich	[ɛɐ̯ˈtʁaːkˌʁaɪ̯ç]	Adjektiv
+- mit hoher Ausbeute
+- năng suất cao
+- productive, high-yielding
+- Weizen ist eine ertragreiche Pflanze.
+- Ertrag (yield), reich (rich)	—

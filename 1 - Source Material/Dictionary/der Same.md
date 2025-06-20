@@ -1,0 +1,6 @@
+- der Same	[ˈzaːmə]	Nomen, maskulin
+- Ausgangspunkt für eine Pflanze
+- hạt giống
+- seed
+- Der Same wird in die Erde gesät.
+- säen (to sow)	—

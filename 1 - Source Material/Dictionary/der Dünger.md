@@ -1,0 +1,6 @@
+- der Dünger	[ˈdʏŋɐ]	Nomen, maskulin
+- Mittel zur Förderung des Pflanzenwachstums
+- phân bón
+- fertilizer
+- Organischer Dünger ist umweltfreundlicher.
+- düngen	—

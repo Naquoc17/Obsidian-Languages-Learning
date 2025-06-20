@@ -1,0 +1,6 @@
+- das Pestizid	[pɛstiˈt͡siːt]	Nomen, neutral
+- chemisches Mittel gegen Schädlinge
+- thuốc trừ sâu
+- pesticide
+- Pestizide können die Umwelt belasten.
+- —	pestis (lat.) = plague

@@ -1,0 +1,6 @@
+- etw. düngen	[ˈdʏŋən]	Verb
+- Nährstoffe auf den Boden geben
+- bón phân
+- to fertilize
+- Die Felder werden regelmäßig gedüngt.
+- der Dünger	—

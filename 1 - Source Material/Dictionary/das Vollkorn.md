@@ -1,0 +1,6 @@
+- das Vollkorn	[ˈfɔlkɔʁn]	Nomen, neutral
+- ungeschältes Getreide
+- nguyên hạt
+- whole grain
+- Vollkorn ist ballaststoffreich.
+- Korn (grain)	—

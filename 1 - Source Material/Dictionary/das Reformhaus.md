@@ -1,0 +1,6 @@
+- das Reformhaus	[ʁeˈfɔʁmˌhaʊ̯s]	Nomen, neutral
+- Geschäft für gesunde Ernährung/Naturheilkunde
+- cửa hàng thực phẩm tự nhiên
+- health food store
+- Reformhäuser bieten alternative Produkte.
+- Reform + Haus	—

@@ -1,0 +1,6 @@
+- der Blutzuckerspiegel	[ˈbluːtˌt͡sʊkɐˌʃpiːɡl̩]	Nomen, maskulin
+- Menge von Zucker im Blut
+- mức đường huyết
+- blood sugar level
+- Der Blutzuckerspiegel muss regelmäßig kontrolliert werden.
+- Blut + Zucker + Spiegel	—

@@ -1,0 +1,6 @@
+- zuckerfrei	[ˈt͡sʊkɐˌfʁaɪ̯]	Adjektiv
+- ohne Zucker
+- không đường
+- sugar-free
+- Die Limonade ist zuckerfrei.
+- Zucker, frei (free)	—

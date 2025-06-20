@@ -1,0 +1,6 @@
+- die Diät	[diˈʔɛːt]	Nomen, feminin
+- besondere Ernährung zur Gewichtsregulierung
+- chế độ ăn kiêng
+- diet
+- Ich mache gerade eine Diät.
+- diätetisch, Diätplan	diaita (gr.) = Lebensweise

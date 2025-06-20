@@ -1,0 +1,6 @@
+- fettreduziert	[ˈfɛtʁeˌduˈt͡siːɐ̯t]	Adjektiv
+- mit reduziertem Fettgehalt
+- giảm béo
+- reduced-fat
+- Die Milch ist fettreduziert.
+- Fett, reduzieren	reducere

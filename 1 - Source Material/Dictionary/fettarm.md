@@ -1,0 +1,6 @@
+- fettarm	[ˈfɛtˌʔaʁm]	Adjektiv
+- mit wenig Fett
+- ít béo
+- low-fat
+- Joghurt kann fettarm sein.
+- Fett (fat), arm (low)	—

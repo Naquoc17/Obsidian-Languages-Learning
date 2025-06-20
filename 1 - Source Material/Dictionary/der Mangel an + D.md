@@ -1,0 +1,6 @@
+- der Mangel an + D	[ˈmaŋl̩]	Nomen, maskulin
+- das Fehlen von etwas Wichtigem
+- sự thiếu hụt
+- lack of
+- Ein Mangel an Eisen führt zu Müdigkeit.
+- mangeln (to lack)	—

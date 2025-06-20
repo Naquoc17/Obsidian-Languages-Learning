@@ -1,0 +1,6 @@
+- das Protein	[ˌpʁoˈtiːn]	Nomen, neutral
+- wichtiger Baustein für Zellen, Muskeln
+- chất đạm
+- protein
+- Eier enthalten viel Protein.
+- das Eiweiß (synonym), Ei = egg	protós (gr. = first)

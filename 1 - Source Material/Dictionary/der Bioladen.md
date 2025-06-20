@@ -1,0 +1,6 @@
+- der Bioladen	[ˈbiːoˌlaːdn̩]	Nomen, maskulin
+- Geschäft für Bio-Produkte
+- cửa hàng thực phẩm hữu cơ
+- organic store
+- Ich kaufe Gemüse im Bioladen.
+- Bio + Laden (shop)	—

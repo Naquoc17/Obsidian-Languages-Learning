@@ -1,0 +1,6 @@
+- konsumieren	[kɔnzuˈmiːʁən]	Verb
+- verbrauchen oder zu sich nehmen
+- tiêu thụ
+- to consume
+- Wir konsumieren täglich viele Informationen.
+- der Konsum (consumption)	consumere (lat.)

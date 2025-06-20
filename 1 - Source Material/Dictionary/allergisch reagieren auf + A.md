@@ -1,0 +1,6 @@
+- allergisch reagieren auf + A	[ʔalˈlɛʁɪʃ]	Verbphrase
+- körperliche Reaktion auf einen Stoff zeigen
+- dị ứng với
+- to have an allergic reaction to
+- Sie reagiert allergisch auf Nüsse.
+- die Allergie	allos (gr.)

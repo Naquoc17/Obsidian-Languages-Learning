@@ -1,0 +1,6 @@
+- die Hungersnot	[ˈhʊŋɐsˌnoːt]	Nomen, feminin
+- extreme Nahrungsknappheit
+- nạn đói
+- famine
+- Die Hungersnot betraf Millionen Menschen.
+- Hunger + Not	—

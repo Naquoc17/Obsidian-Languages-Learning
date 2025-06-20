@@ -1,0 +1,6 @@
+- die Unterernährung	[ˈʊntɐʔɛʁˌnɛːʁʊŋ]	Nomen, feminin
+- Zustand zu geringer Nährstoffzufuhr
+- sự thiếu dinh dưỡng
+- malnutrition
+- Unterernährung schwächt das Immunsystem.
+- unterernährt	—

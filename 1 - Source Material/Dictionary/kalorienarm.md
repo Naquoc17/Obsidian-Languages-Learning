@@ -1,0 +1,6 @@
+- kalorienarm	[kaˈloːʁi̯ənˌʔaʁm]	Adjektiv
+- mit wenig Kalorien
+- ít calo
+- low-calorie
+- Kalorienarme Produkte sind beliebt.
+- Kalorie, -arm (little)	calor (lat.)

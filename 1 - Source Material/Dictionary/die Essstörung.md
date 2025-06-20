@@ -1,0 +1,6 @@
+- die Essstörung	[ˈɛsˌʃtøːʁʊŋ]	Nomen, feminin
+- ungesundes Essverhalten
+- rối loạn ăn uống
+- eating disorder
+- Essstörungen betreffen viele Jugendliche.
+- essen + Störung	—

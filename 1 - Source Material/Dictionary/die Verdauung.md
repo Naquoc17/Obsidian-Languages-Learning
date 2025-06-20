@@ -1,0 +1,6 @@
+- die Verdauung	[fɛɐ̯ˈdaʊ̯ʊŋ]	Nomen, feminin
+- Prozess der Nahrungsverarbeitung
+- sự tiêu hóa
+- digestion
+- Eine gute Verdauung ist wichtig.
+- verdauen	—

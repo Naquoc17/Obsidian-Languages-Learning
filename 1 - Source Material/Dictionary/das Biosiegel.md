@@ -1,0 +1,6 @@
+- das Biosiegel	[ˈbiːoˌziːɡl̩]	Nomen, neutral
+- offizielles Zeichen für Bioqualität
+- nhãn hữu cơ
+- organic seal
+- Das Biosiegel garantiert ökologische Herkunft.
+- Siegel (seal, certification)	sigillum (lat.)

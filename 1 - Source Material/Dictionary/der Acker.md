@@ -1,0 +1,6 @@
+- der Acker	[ˈakɐ]	Nomen, maskulin
+- landwirtschaftlich genutztes Feld
+- ruộng
+- field
+- Der Acker wird jedes Jahr gepflügt.
+- ackern (to plow)	—

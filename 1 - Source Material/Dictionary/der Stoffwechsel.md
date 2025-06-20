@@ -1,0 +1,6 @@
+- der Stoffwechsel	[ˈʃtɔfˌvɛʃl̩]	Nomen, maskulin
+- biochemische Prozesse im Körper
+- sự trao đổi chất
+- metabolism
+- Sport regt den Stoffwechsel an.
+- Stoff (substance) + Wechsel (change)	—

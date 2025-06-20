@@ -1,0 +1,6 @@
+- das Agrarprodukt	[aˈɡʁaːɐ̯pʁoˌdʊkt]	Nomen, neutral
+- Produkt aus der Landwirtschaft
+- sản phẩm nông nghiệp
+- agricultural product
+- Getreide ist ein wichtiges Agrarprodukt.
+- Agrar-, Produkt	producere

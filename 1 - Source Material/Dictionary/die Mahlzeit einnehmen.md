@@ -1,0 +1,6 @@
+- die Mahlzeit einnehmen	[ˈmaːlˌtsaɪt ˈaɪ̯nˌneːmən]	Redewendung
+- formell für: essen
+- dùng bữa
+- to have a meal
+- Wir nehmen die Mahlzeit gemeinsam ein.
+- Mahlzeit, einnehmen	—

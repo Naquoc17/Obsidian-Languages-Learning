@@ -1,0 +1,6 @@
+- das Nahrungsmittel	[ˈnaːʁʊŋsˌmɪtl̩]	Nomen, neutral
+- etwas, das man essen kann
+- thực phẩm
+- food item
+- Milchprodukte sind wichtige Nahrungsmittel.
+- Nahrung (nutrition) + Mittel	—

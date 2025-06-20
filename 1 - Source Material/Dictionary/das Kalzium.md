@@ -1,0 +1,6 @@
+- das Kalzium	[ˈkalt͡si̯ʊm]	Nomen, neutral
+- Mineralstoff für Knochen/Zähne
+- canxi
+- calcium
+- Milch enthält viel Kalzium.
+- —	calx (lat.) = lime

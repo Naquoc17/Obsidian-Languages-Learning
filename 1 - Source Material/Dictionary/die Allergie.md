@@ -1,0 +1,6 @@
+- die Allergie	[ʔalɛʁˈɡiː]	Nomen, feminin
+- überempfindliche Reaktion des Immunsystems
+- dị ứng
+- allergy
+- Pollen verursachen Allergien.
+- allergisch	allos + ergon

@@ -1,0 +1,6 @@
+- gentechnisch verändern	[ˈɡeːnteçnɪʃ fɛɐ̯ˈʔɛndɐn]	Verbphrase
+- Gene künstlich modifizieren
+- biến đổi gen
+- genetically modify
+- Viele Pflanzen wurden gentechnisch verändert.
+- Gen, Technik, verändern	genus

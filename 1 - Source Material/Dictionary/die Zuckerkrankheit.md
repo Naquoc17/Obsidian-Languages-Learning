@@ -1,0 +1,6 @@
+- die Zuckerkrankheit	[ˈt͡sʊkɐˌkʁaŋkhaɪ̯t]	Nomen, feminin
+- umgangssprachlich für Diabetes
+- bệnh tiểu đường
+- diabetes
+- Viele Menschen leiden an Zuckerkrankheit.
+- Zucker + Krankheit	—

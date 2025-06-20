@@ -1,0 +1,6 @@
+- wertvoll	[ˈveːɐ̯tfɔl]	Adjektiv
+- mit großem Nutzen oder Wert
+- quý giá
+- valuable, nutritious
+- Vollkornprodukte sind sehr wertvoll.
+- Wert (value), -voll (full of)	valēre (lat.)

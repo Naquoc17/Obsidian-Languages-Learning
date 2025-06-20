@@ -1,0 +1,6 @@
+- das Übergewicht	[ˈyːbɐɡəˌvɪçt]	Nomen, neutral
+- zu hohes Körpergewicht
+- thừa cân
+- overweight
+- Übergewicht kann zu Krankheiten führen.
+- über + Gewicht	—

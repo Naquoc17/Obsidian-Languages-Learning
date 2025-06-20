@@ -1,0 +1,6 @@
+- die Zubereitung	[ˈtsuːbəˌʁaɪtʊŋ]	Nomen, feminin
+- Vorbereitung von Essen
+- sự chuẩn bị
+- preparation
+- Die Zubereitung dauert 20 Minuten.
+- zubereiten	bereiten

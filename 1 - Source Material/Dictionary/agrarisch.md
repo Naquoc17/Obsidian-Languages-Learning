@@ -1,0 +1,6 @@
+- agrarisch	[aˈɡʁaːʁɪʃ]	Adjektiv
+- die Landwirtschaft betreffend
+- thuộc nông nghiệp
+- agricultural
+- Der Staat fördert agrarische Betriebe.
+- Agrar- = agriculture	ager (lat.)

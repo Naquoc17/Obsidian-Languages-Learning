@@ -1,0 +1,6 @@
+- das Eiweiß	[ˈaɪ̯ˌvaɪ̯s]	Nomen, neutral
+- Protein, besonders aus tierischen Quellen
+- đạm (protein)
+- protein (egg white)
+- Sportler essen viel Eiweiß.
+- Ei (egg) + Weiß (white)	—

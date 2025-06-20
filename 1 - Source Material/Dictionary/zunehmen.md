@@ -1,0 +1,6 @@
+- zunehmen	[ˈt͡suːˌneːmən]	Verb
+- Gewicht gewinnen
+- tăng cân
+- to gain weight
+- Er hat über den Winter zugenommen.
+- zu- + nehmen	add

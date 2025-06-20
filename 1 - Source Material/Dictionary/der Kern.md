@@ -1,0 +1,6 @@
+- der Kern	[kɛʁn]	Nomen, maskulin
+- harter innerer Teil einer Frucht
+- lõi, hạt
+- core, pit, kernel
+- Der Kern des Problems ist komplex.
+- kernig (hearty), entkernen (remove core)	karn (OHG)

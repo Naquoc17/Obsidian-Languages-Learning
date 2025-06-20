@@ -1,0 +1,6 @@
+- das Bioprodukt	[ˈbiːoˌpʁoˈdʊkt]	Nomen, neutral
+- ökologisch hergestelltes Produkt
+- sản phẩm hữu cơ
+- organic product
+- Bioprodukte sind oft teurer.
+- Bio-, Produkt	producere

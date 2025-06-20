@@ -1,0 +1,6 @@
+- übergewichtig	[ˈyːbɐɡəˌvɪçtɪç]	Adjektiv
+- mit zu hohem Körpergewicht
+- thừa cân
+- overweight
+- Übergewichtige Menschen sollten Sport machen.
+- Übergewicht, Gewicht	—

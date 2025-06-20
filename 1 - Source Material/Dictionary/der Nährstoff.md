@@ -1,0 +1,6 @@
+- der Nährstoff	[ˈnɛːɐ̯ˌʃtɔf]	Nomen, maskulin
+- Substanz, die für den Körper wichtig ist
+- chất dinh dưỡng
+- nutrient
+- Vitamine sind wichtige Nährstoffe.
+- ernähren (to nourish), Stoff (material)	nutrire

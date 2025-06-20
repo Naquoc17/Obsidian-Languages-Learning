@@ -1,0 +1,6 @@
+- das Getreide	[ɡəˈtʁaɪ̯də]	Nomen, neutral
+- Pflanze zur Herstellung von Mehl
+- ngũ cốc
+- cereal, grain
+- Brot besteht aus Getreide.
+- —	tragen (tragen → tragen → Getreide)

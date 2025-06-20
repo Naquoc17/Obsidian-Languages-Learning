@@ -1,0 +1,6 @@
+- die Zutat	[ˈt͡suːtaːt]	Nomen, feminin
+- Bestandteil eines Rezepts oder Lebensmittels
+- nguyên liệu, thành phần
+- ingredient
+- Die Zutaten stehen auf der Verpackung.
+- hinzufügen (add), zubereiten (prepare)	zu + tat (doing)

@@ -1,0 +1,6 @@
+- an einer Essstörung leiden	[ˈlaɪ̯dn̩]	Verbphrase
+- psychisch bedingtes Essproblem haben
+- mắc rối loạn ăn uống
+- to suffer from an eating disorder
+- Sie leidet an einer Essstörung.
+- leiden (to suffer), Essstörung	—

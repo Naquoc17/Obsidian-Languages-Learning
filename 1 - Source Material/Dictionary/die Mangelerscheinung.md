@@ -1,0 +1,6 @@
+- die Mangelerscheinung	[ˈmaŋl̩ʔɛɐ̯ˌʃaɪ̯nʊŋ]	Nomen, feminin
+- Symptom wegen Nährstoffmangel
+- biểu hiện thiếu chất
+- deficiency symptom
+- Risse in der Haut sind Mangelerscheinungen.
+- Mangel + Erscheinung	—

@@ -1,0 +1,6 @@
+- die Landwirtschaft	[ˈlantˌvɪʁtʃaft]	Nomen, feminin
+- Anbau von Pflanzen und Haltung von Tieren
+- nông nghiệp
+- agriculture
+- Die Landwirtschaft nutzt viele Flächen.
+- Land (land), Wirtschaft (economy)	—

@@ -1,0 +1,6 @@
+- verzehren	[fɛɐ̯ˈtseːʁən]	Verb
+- essen oder konsumieren (gehoben)
+- ăn, tiêu thụ
+- to consume, to eat
+- Er verzehrt nur vegetarische Gerichte.
+- der Verzehr (consumption)	zehren

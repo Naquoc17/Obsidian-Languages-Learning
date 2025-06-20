@@ -1,0 +1,6 @@
+- der Verzehr	[fɛɐ̯ˈtseːɐ̯]	Nomen, maskulin
+- das Konsumieren von Speisen/Getränken
+- sự tiêu dùng
+- consumption
+- Der Verzehr von Alkohol ist verboten.
+- verzehren (to consume)	zehren

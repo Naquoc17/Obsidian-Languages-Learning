@@ -1,0 +1,6 @@
+- verschwinden	[fɛɐ̯ˈʃvɪndn̩]	Verb
+- nicht mehr sichtbar/da sein
+- biến mất
+- to disappear
+- Die Schokolade ist einfach verschwunden!
+- —	schwinden (fade away)

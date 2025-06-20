@@ -1,0 +1,6 @@
+- der Cholesterinspiegel	[kɔlɛstɛˈʁiːnˌʃpiːɡl̩]	Nomen, maskulin
+- Menge von Cholesterin im Blut
+- mức cholesterol
+- cholesterol level
+- Ein hoher Cholesterinspiegel ist gefährlich.
+- Cholesterin + Spiegel	—
