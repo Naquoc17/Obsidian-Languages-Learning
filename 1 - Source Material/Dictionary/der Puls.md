@@ -1,0 +1,6 @@
+- der Puls [pʊls]	Nomen (maskulin)
+- Bedeutet: fühlbarer Herzschlag
+- Nghĩa: mạch đập
+- Übersetzung: pulse
+- Beispiel: „Der Arzt misst den Puls.“
+- Verwandte Wörter: pulsieren

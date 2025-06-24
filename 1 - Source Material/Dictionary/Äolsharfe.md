@@ -1,0 +1,6 @@
+- Äolsharfe	[ˈɛːɔlsharfə]	Nomen (feminin)
+- Bedeutet: eine Harfe, die vom Wind gespielt wird (metaphorisch: Inspiration)
+- Nghĩa: đàn do gió thổi (ẩn dụ cho cảm hứng nghệ thuật)
+- Übersetzung: Aeolian harp
+- Beispiel: „Wie eine Äolsharfe sang der Wind.“
+- Verwandte Wörter: Harfe, Äolus (griechischer Windgott)

@@ -1,0 +1,6 @@
+- die Erbanlagen [ˈɛʁpʔanlaːɡn̩]	Nomen (Plural)
+- Bedeutet: genetische Informationen eines Lebewesens
+- Nghĩa: yếu tố di truyền
+- Übersetzung: genetic traits
+- Beispiel: „Die Erbanlagen bestimmen das Aussehen.“
+- Verwandte Wörter: Erbe, Anlage

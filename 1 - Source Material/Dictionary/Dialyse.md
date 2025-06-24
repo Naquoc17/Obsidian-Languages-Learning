@@ -1,0 +1,6 @@
+- Dialyse [di̯aˈlyːzə]	Nomen (feminin)
+- Bedeutet: Blutreinigung bei Nierenversagen
+- Nghĩa: chạy thận
+- Übersetzung: dialysis
+- Beispiel: „Dialyse ist für viele Patienten lebenswichtig.“
+- Verwandte Wörter: dialysieren

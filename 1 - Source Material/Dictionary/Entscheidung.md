@@ -1,0 +1,6 @@
+- Entscheidung [ɛntˈʃaɪ̯dʊŋ]	Nomen (feminin)
+- Bedeutet: bewusste Wahl zwischen Optionen
+- Nghĩa: quyết định
+- Übersetzung: decision
+- Beispiel: „Die Entscheidung zur Organspende ist freiwillig.“
+- Verwandte Wörter: entscheiden

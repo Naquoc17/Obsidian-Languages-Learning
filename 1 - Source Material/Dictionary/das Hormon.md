@@ -1,0 +1,6 @@
+- das Hormon [hɔʁˈmoːn]	Nomen (neutrum)
+- Bedeutet: Botenstoff im Körper
+- Nghĩa: hormone
+- Übersetzung: hormone
+- Beispiel: „Hormone beeinflussen das Wachstum.“
+- Verwandte Wörter: hormonell

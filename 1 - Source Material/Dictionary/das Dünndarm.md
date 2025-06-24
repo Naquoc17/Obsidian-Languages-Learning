@@ -1,0 +1,6 @@
+- das Dünndarm [ˈdʏnˌdaʁm]	Nomen (maskulin)
+- Bedeutet: Abschnitt des Darms für Nährstoffaufnahme
+- Nghĩa: ruột non
+- Übersetzung: small intestine
+- Beispiel: „Im Dünndarm werden Nährstoffe aufgenommen.“
+- Verwandte Wörter: Darm

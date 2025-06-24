@@ -1,0 +1,6 @@
+- Rückenmark [ˈʁʏkn̩ˌmaʁk]	Nomen (neutrum)
+- Bedeutet: Teil des zentralen Nervensystems in der Wirbelsäule
+- Nghĩa: tủy sống
+- Übersetzung: spinal cord
+- Beispiel: „Das Rückenmark leitet Reize weiter.“
+- Verwandte Wörter: Rücken

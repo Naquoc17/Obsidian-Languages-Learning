@@ -1,0 +1,6 @@
+- umwittert	[ʊmˈvɪtɐt]	Verb (Partizip II)
+- Bedeutet: von Wetter oder (symbolisch) von Ereignissen umgeben
+- Nghĩa: bao phủ bởi thời tiết, hoặc bóng gió bởi sự kiện
+- Übersetzung: weather-beaten, surrounded (figuratively)
+- Beispiel: „Ein umwitterter Held kehrte heim.“
+- Verwandte Wörter: Wetter, umgeben	– „wittern“ aus althochdeutsch

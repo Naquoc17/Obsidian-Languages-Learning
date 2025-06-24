@@ -1,0 +1,6 @@
+- steuern [ˈʃtɔɪ̯ɐn]	Verb
+- Bedeutet: kontrollieren oder lenken
+- Nghĩa: điều khiển
+- Übersetzung: to control, to steer
+- Beispiel: „Das Gehirn steuert Bewegungen.“
+- Verwandte Wörter: Steuerung

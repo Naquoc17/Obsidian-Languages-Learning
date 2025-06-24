@@ -1,0 +1,6 @@
+- wie im Weiten	[viː ʔɪm ˈvaɪ̯tn̩]	Redewendung
+- Bedeutet: als ob man sich in unendlicher Ferne befindet
+- Nghĩa: như thể ở nơi xa xôi, vô định
+- Übersetzung: as if in the vastness
+- Beispiel: „Die Stimme klang wie im Weiten.“
+- Verwandte Wörter: Weite	– aus mittelhochdeutsch „wīte“

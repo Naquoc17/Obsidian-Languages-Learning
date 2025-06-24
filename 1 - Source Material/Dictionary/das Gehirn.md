@@ -1,0 +1,6 @@
+- das Gehirn [ɡəˈhɪʁn]	Nomen (neutrum)
+- Bedeutet: Steuerzentrale des Körpers
+- Nghĩa: não bộ
+- Übersetzung: brain
+- Beispiel: „Das Gehirn verarbeitet Informationen.“
+- Verwandte Wörter: Hirn

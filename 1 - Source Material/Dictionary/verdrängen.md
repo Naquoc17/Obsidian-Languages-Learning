@@ -1,0 +1,6 @@
+- verdrängen [fɛɐ̯ˈdʁɛŋən]	Verb
+- Bedeutet: etwas aus dem Bewusstsein oder Raum entfernen
+- Nghĩa: lấn át, đẩy lùi
+- Übersetzung: to suppress, to displace
+- Beispiel: „Viele verdrängen das Thema Tod.“
+- Verwandte Wörter: Drang, Verdrängung

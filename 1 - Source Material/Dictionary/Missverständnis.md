@@ -1,0 +1,6 @@
+- Missverständnis [ˈmɪsfɛɐ̯ˌʃtɛntnɪs]	Nomen (neutrum)
+- Bedeutet: falsches Verstehen
+- Nghĩa: hiểu lầm
+- Übersetzung: misunderstanding
+- Beispiel: „Es gibt viele Missverständnisse über Organspende.“
+- Verwandte Wörter: verstehen, Missdeutung

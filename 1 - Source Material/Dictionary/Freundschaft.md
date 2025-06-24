@@ -1,0 +1,6 @@
+- Freundschaft	[ˈfʁɔɪ̯ntʃaft]	Nomen (feminin)
+- Bedeutet: enge, persönliche Beziehung zwischen Freunden
+- Nghĩa: tình bạn
+- Übersetzung: friendship
+- Beispiel: „Ihre Freundschaft hielt ein Leben lang.“
+- Verwandte Wörter: Freund, freundlich	– aus althochdeutsch „frōntscaft“

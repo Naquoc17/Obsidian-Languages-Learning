@@ -1,0 +1,6 @@
+- ausschütten [ˈaʊ̯sˌʃʏtən]	Verb
+- Bedeutet: Hormone oder Flüssigkeiten freisetzen
+- Nghĩa: tiết ra
+- Übersetzung: to release (hormones)
+- Beispiel: „Die Drüse schüttet Insulin aus.“
+- Verwandte Wörter: Ausschüttung

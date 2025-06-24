@@ -1,0 +1,6 @@
+- medizinische Gründe [medit͡siˈnɪʃə ˈɡʁʏndə]	Nomenphrase
+- Bedeutet: Ursachen, die aus gesundheitlicher Sicht notwendig sind
+- Nghĩa: lý do y tế
+- Übersetzung: medical reasons
+- Beispiel: „Für eine Transplantation braucht man medizinische Gründe.“
+- Verwandte Wörter: Medizin, Grund

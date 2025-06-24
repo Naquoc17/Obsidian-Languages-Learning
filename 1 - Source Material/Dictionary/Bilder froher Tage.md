@@ -1,0 +1,6 @@
+- Bilder froher Tage	[ˈbɪldɐ ˈfʁoːɐ̯ ˈtaːɡə]	Nomenphrase
+- Bedeutet: schöne Erinnerungen
+- Nghĩa: ký ức tươi đẹp
+- Übersetzung: images of happy days
+- Beispiel: „Die Bilder froher Tage kehrten zurück.“
+- Verwandte Wörter: froh, Bild	– „froh“ aus althochdeutsch

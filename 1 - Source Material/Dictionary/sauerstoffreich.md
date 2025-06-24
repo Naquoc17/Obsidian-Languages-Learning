@@ -1,0 +1,6 @@
+- sauerstoffreich [ˈzaʊ̯ɐʃtɔfˌʁaɪ̯ç]	Adjektiv
+- Bedeutet: mit viel Sauerstoff
+- Nghĩa: giàu oxy
+- Übersetzung: oxygen-rich
+- Beispiel: „Arterien führen sauerstoffreiches Blut.“
+- Verwandte Wörter: Sauerstoff

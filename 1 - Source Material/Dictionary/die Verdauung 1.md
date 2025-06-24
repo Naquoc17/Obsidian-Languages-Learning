@@ -1,0 +1,6 @@
+- die Verdauung [fɛɐ̯ˈdaʊ̯ʊŋ]	Nomen (feminin)
+- Bedeutet: Verarbeitung der Nahrung im Körper
+- Nghĩa: sự tiêu hóa
+- Übersetzung: digestion
+- Beispiel: „Die Verdauung beginnt im Mund.“
+- Verwandte Wörter: verdauen

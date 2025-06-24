@@ -1,0 +1,6 @@
+- mild und weich	[mɪlt ʊnt vaɪ̯ç]	Adjektivphrase
+- Bedeutet: sanft, zart, gefühlvoll
+- Nghĩa: nhẹ nhàng, dịu dàng
+- Übersetzung: gentle and soft
+- Beispiel: „Die Musik war mild und weich.“
+- Verwandte Wörter: Milde, Weichheit	– aus mittelhochdeutsch

@@ -1,0 +1,6 @@
+- Zerstoben	[t͡sɛɐ̯ˈʃtoːbn̩]	Verb (Partizip II)
+- Bedeutet: in alle Richtungen zerstreut, aufgelöst
+- Nghĩa: tan biến, phân tán
+- Übersetzung: dispersed, scattered
+- Beispiel: „Der Traum ist zerstoben wie Staub.“
+- Verwandte Wörter: zerstäuben, stieben	– aus mittelhochdeutsch „stieben“

@@ -1,0 +1,6 @@
+- der Nerv [nɛʁf]	Nomen (maskulin)
+- Bedeutet: Leitung von Reizen im Körper
+- Nghĩa: dây thần kinh
+- Übersetzung: nerve
+- Beispiel: „Der Nerv ist eingeklemmt.“
+- Verwandte Wörter: nervös

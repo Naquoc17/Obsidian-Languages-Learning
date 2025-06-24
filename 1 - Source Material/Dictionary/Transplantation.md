@@ -1,0 +1,6 @@
+- Transplantation [tʁansplantaˈt͡si̯oːn]	Nomen (feminin)
+- Bedeutet: Übertragung eines Organs
+- Nghĩa: sự cấy ghép
+- Übersetzung: transplantation
+- Beispiel: „Nach der Transplantation muss man Medikamente nehmen.“
+- Verwandte Wörter: transplantieren

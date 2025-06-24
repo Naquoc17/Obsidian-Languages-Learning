@@ -1,0 +1,6 @@
+- das Gewebe [ɡəˈveːbə]	Nomen (neutrum)
+- Bedeutet: Zellverbund mit gleicher Funktion
+- Nghĩa: mô (cơ thể)
+- Übersetzung: tissue
+- Beispiel: „Muskeln bestehen aus Muskelgewebe.“
+- Verwandte Wörter: weben

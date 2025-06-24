@@ -1,0 +1,6 @@
+- Zueignung (die)	[ˈt͡suːˌʔaɪ̯ɡnʊŋ]	Nomen (feminin)
+- Bedeutet: feierliche Widmung oder Hingabe an eine Person oder Idee (meist in Kunst/Literatur)
+- Nghĩa: sự dâng tặng, sự cống hiến trang trọng (thường dùng trong văn học)
+- Übersetzung: dedication, solemn offering
+- Beispiel: „Die Zueignung im Buch war seiner Mutter gewidmet.“
+- Verwandte Wörter: zueignen (sich widmen), Eignung (aptitude)	– aus „eignen“ + Präfix „zu-“ (lat. *assignare*)

@@ -1,0 +1,6 @@
+- die Zelle [ˈt͡sɛlə]	Nomen (feminin)
+- Bedeutet: kleinste lebende Einheit im Körper
+- Nghĩa: tế bào
+- Übersetzung: cell
+- Beispiel: „Jeder Mensch besteht aus Milliarden Zellen.“
+- Verwandte Wörter: Zellkern

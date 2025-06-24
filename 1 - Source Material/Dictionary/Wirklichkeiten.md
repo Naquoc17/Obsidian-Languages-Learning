@@ -1,0 +1,6 @@
+- Wirklichkeiten	[ˈvɪʁklɪçkaɪ̯tn̩]	Nomen (Plural)
+- Bedeutet: reale Zustände, Tatsachen
+- Nghĩa: hiện thực
+- Übersetzung: realities
+- Beispiel: „Er floh vor den Wirklichkeiten des Lebens.“
+- Verwandte Wörter: wirklich, Wirklichkeit	– aus „wirken“

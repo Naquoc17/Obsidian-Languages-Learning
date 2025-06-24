@@ -1,0 +1,6 @@
+- die Muskulatur [ˌmʊskulaˈtuːɐ̯]	Nomen (feminin)
+- Bedeutet: Gesamtheit aller Muskeln im Körper
+- Nghĩa: hệ cơ
+- Übersetzung: musculature
+- Beispiel: „Bewegung stärkt die Muskulatur.“
+- Verwandte Wörter: Muskel

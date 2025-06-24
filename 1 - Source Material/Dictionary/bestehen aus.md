@@ -1,0 +1,6 @@
+- bestehen aus [bəˈʃteːən aʊ̯s]	Verbphrase
+- Bedeutet: zusammengesetzt sein aus etwas
+- Nghĩa: bao gồm, cấu thành từ
+- Übersetzung: to consist of
+- Beispiel: „Das Gewebe besteht aus Zellen.“
+- Verwandte Wörter: Bestand

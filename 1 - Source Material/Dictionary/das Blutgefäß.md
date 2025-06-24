@@ -1,0 +1,6 @@
+- das Blutgefäß [ˈbluːtɡəˌfɛːs]	Nomen (neutrum)
+- Bedeutet: Leitung für den Bluttransport
+- Nghĩa: mạch máu
+- Übersetzung: blood vessel
+- Beispiel: „Blutgefäße versorgen Organe mit Blut.“
+- Verwandte Wörter: Blut, Gefäß

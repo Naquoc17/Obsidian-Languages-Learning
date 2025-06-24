@@ -1,0 +1,6 @@
+- irrer Lauf	[ˈɪʁɐ laʊ̯f]	Nomenphrase
+- Bedeutet: ein verwirrter, chaotischer Verlauf
+- Nghĩa: cuộc hành trình hỗn loạn, điên loạn
+- Übersetzung: mad course, errant path
+- Beispiel: „Der irrende Lauf des Schicksals.“
+- Verwandte Wörter: irren, Irrweg	– aus mittelhochdeutsch

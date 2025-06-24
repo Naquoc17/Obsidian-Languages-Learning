@@ -1,0 +1,6 @@
+- verunsichert [fɛɐ̯ˈʊn.zɪçɐt]	Adjektiv
+- Bedeutet: unsicher, zweifelnd
+- Nghĩa: bất an
+- Übersetzung: unsettled, insecure
+- Beispiel: „Menschen sind oft verunsichert durch Falschinformationen.“
+- Verwandte Wörter: Sicherheit, Unsicherheit

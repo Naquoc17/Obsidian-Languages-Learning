@@ -1,0 +1,6 @@
+- Träne folgt den Tränen	[ˈtʁɛːnə fɔlkt deːn ˈtʁɛːnən]	Satz
+- Bedeutet: anhaltende Traurigkeit, weinen ohne Ende
+- Nghĩa: nước mắt nối tiếp nước mắt
+- Übersetzung: tear follows tears
+- Beispiel: „Träne folgt den Tränen in stiller Nacht.“
+- Verwandte Wörter: Träne, folgen	– „Träne“ aus althochdeutsch „trāna“

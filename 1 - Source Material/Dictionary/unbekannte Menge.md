@@ -1,0 +1,6 @@
+- unbekannte Menge	[ˈʊnbəkantə ˈmɛŋə]	Nomenphrase
+- Bedeutet: eine Zahl oder Gruppe, die nicht genau bekannt ist
+- Nghĩa: số lượng không xác định
+- Übersetzung: unknown quantity/group
+- Beispiel: „Eine unbekannte Menge lauschte.“
+- Verwandte Wörter: Menge, bekannt	– „Menge“ aus mittelhochdeutsch

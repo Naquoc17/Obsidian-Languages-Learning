@@ -1,0 +1,6 @@
+- lispelnd	[ˈlɪspl̩nt]	Partizip I / Adverb
+- Bedeutet: flüsternd sprechen, mit zischendem Laut
+- Nghĩa: nói thì thầm, líu lưỡi
+- Übersetzung: whispering, lisping
+- Beispiel: „Die Stimme kam lispelnd aus dem Dunkel.“
+- Verwandte Wörter: lispeln	– lautmalerisch (onomatopoetisch)

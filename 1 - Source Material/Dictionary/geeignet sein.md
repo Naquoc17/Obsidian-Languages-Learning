@@ -1,0 +1,6 @@
+- geeignet sein [ɡəˈʔaɪ̯nət zaɪ̯n]	Verbphrase
+- Bedeutet: passend, verwendbar sein
+- Nghĩa: phù hợp
+- Übersetzung: to be suitable
+- Beispiel: „Nicht jedes Organ ist für eine Spende geeignet.“
+- Verwandte Wörter: Eignung

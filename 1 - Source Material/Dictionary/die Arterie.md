@@ -1,0 +1,6 @@
+- die Arterie [aʁˈteːʁi̯ə]	Nomen (feminin)
+- Bedeutet: Gefäß, das Blut vom Herz wegführt
+- Nghĩa: động mạch
+- Übersetzung: artery
+- Beispiel: „Arterien transportieren sauerstoffreiches Blut.“
+- Verwandte Wörter: arteriell

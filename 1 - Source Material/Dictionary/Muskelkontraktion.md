@@ -1,0 +1,6 @@
+- Muskelkontraktion [ˈmʊskl̩kɔntʁakˌt͡si̯oːn]	Nomen (feminin)
+- Bedeutet: Zusammenziehen eines Muskels
+- Nghĩa: sự co cơ
+- Übersetzung: muscle contraction
+- Beispiel: „Die Verdauung erfolgt durch Muskelkontraktionen.“
+- Verwandte Wörter: Kontraktion, Muskel

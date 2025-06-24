@@ -1,0 +1,6 @@
+- Schauer	[ˈʃaʊ̯ɐ]	Nomen (maskulin)
+- Bedeutet: Gänsehaut; kurzer Regenguss oder Gefühl von Furcht/Ehrfurcht
+- Nghĩa: rùng mình, cơn mưa nhỏ
+- Übersetzung: shiver, thrill, shower
+- Beispiel: „Ein Schauer überlief ihn.“
+- Verwandte Wörter: schaudern	– aus mittelhochdeutsch

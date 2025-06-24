@@ -1,0 +1,6 @@
+- Dunst und Nebel	[dʊnst ʊnt ˈneːbl̩]	Nomenphrase
+- Bedeutet: dichter, nebliger Zustand (wörtlich oder metaphorisch)
+- Nghĩa: sương mù, trạng thái mơ hồ
+- Übersetzung: mist and fog
+- Beispiel: „Die Erinnerungen verschwanden im Dunst und Nebel.“
+- Verwandte Wörter: dunstig, neblig	– „Nebel“ von althochdeutsch „nebul“

@@ -1,0 +1,6 @@
+- Hintergrund [ˈhɪntɐˌɡʁʊnt]	Nomen (maskulin)
+- Bedeutet: Ursache oder Zusammenhang im Hintergrund
+- Nghĩa: bối cảnh, nguyên nhân
+- Übersetzung: background
+- Beispiel: „Viele kennen den medizinischen Hintergrund nicht.“
+- Verwandte Wörter: Grund

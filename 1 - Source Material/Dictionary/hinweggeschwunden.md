@@ -1,0 +1,6 @@
+- hinweggeschwunden	[hɪnˈvɛɡəˌʃvʊndən]	Partizip II
+- Bedeutet: völlig verschwunden, vergangen
+- Nghĩa: biến mất hoàn toàn
+- Übersetzung: vanished, faded away
+- Beispiel: „Die Erinnerungen sind hinweggeschwunden.“
+- Verwandte Wörter: schwinden, weg	– aus althochdeutsch „swintan“

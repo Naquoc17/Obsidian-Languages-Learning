@@ -1,0 +1,6 @@
+- die Vene [ˈveːnə]	Nomen (feminin)
+- Bedeutet: Blutgefäß, das Blut zum Herz zurückführt
+- Nghĩa: tĩnh mạch
+- Übersetzung: vein
+- Beispiel: „Venen transportieren sauerstoffarmes Blut.“
+- Verwandte Wörter: venös

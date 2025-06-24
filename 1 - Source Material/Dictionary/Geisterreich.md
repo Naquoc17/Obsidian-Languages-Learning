@@ -1,0 +1,6 @@
+- Geisterreich	[ˈɡaɪ̯stɐˌʁaɪ̯ç]	Nomen (neutrum)
+- Bedeutet: Reich der Geister, jenseitige Welt
+- Nghĩa: thế giới linh hồn
+- Übersetzung: spirit realm
+- Beispiel: „Er träumte vom Geisterreich.“
+- Verwandte Wörter: Geist, Reich	– „Geist“ aus lateinisch „spiritus“

@@ -1,0 +1,6 @@
+- Wahn	[vaːn]	Nomen (maskulin)
+- Bedeutet: falsche Vorstellung, Illusion; oft mit Wahnsinn verbunden
+- Nghĩa: ảo tưởng, ảo giác
+- Übersetzung: delusion, madness
+- Beispiel: „Er lebte im Wahn, sie würde zurückkehren.“
+- Verwandte Wörter: wähnen, Wahnsinn	– aus mittelhochdeutsch „wān“

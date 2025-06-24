@@ -1,0 +1,6 @@
+- eintragen [ˈʔaɪ̯nˌtʁaːɡn̩]	Verb
+- Bedeutet: schriftlich festhalten, notieren
+- Nghĩa: ghi vào, điền vào
+- Übersetzung: to enter, to register
+- Beispiel: „Die Entscheidung wurde ins Register eingetragen.“
+- Verwandte Wörter: Eintragung

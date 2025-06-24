@@ -1,0 +1,6 @@
+- unbestimmten Tönen	[ˈʊnbəʃtɪmtn̩ ˈtøːnən]	Nomenphrase
+- Bedeutet: undeutliche, vage Klänge
+- Nghĩa: âm thanh mơ hồ
+- Übersetzung: undefined/ambiguous tones
+- Beispiel: „Unbestimmte Töne klangen durch die Luft.“
+- Verwandte Wörter: Ton, bestimmen	– „Ton“ aus lateinisch „tonus“

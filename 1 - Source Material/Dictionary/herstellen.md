@@ -1,0 +1,6 @@
+- herstellen [ˈheːɐ̯ˌʃtɛlən]	Verb
+- Bedeutet: erzeugen, anfertigen
+- Nghĩa: tạo ra, chế tạo
+- Übersetzung: to manufacture, to produce
+- Beispiel: „Insulin wird im Labor hergestellt.“
+- Verwandte Wörter: Herstellung

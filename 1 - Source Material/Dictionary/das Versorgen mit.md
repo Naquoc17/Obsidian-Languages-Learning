@@ -1,0 +1,6 @@
+- das Versorgen mit [fɛɐ̯ˈzɔʁɡn̩ mɪt]	Verbphrase
+- Bedeutet: etwas liefern oder geben
+- Nghĩa: cung cấp
+- Übersetzung: to supply with
+- Beispiel: „Blutgefäße versorgen Organe mit Sauerstoff.“
+- Verwandte Wörter: Versorgung

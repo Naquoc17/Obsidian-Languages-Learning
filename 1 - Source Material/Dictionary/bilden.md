@@ -1,0 +1,6 @@
+- bilden [ˈbɪldn̩]	Verb
+- Bedeutet: entstehen lassen, formen
+- Nghĩa: tạo thành
+- Übersetzung: to form, to build
+- Beispiel: „Die Muskeln bilden ein funktionelles System.“
+- Verwandte Wörter: Bildung

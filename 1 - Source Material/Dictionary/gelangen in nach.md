@@ -1,0 +1,6 @@
+- gelangen in / nach [ɡəˈlaŋən]	Verbphrase
+- Bedeutet: an einen Ort kommen, transportiert werden
+- Nghĩa: đi tới, đến được
+- Übersetzung: to reach, to arrive at
+- Beispiel: „Das Blut gelangt in die Zellen.“
+- Verwandte Wörter: gelangen

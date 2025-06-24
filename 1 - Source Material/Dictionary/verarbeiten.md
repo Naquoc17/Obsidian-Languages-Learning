@@ -1,0 +1,6 @@
+- verarbeiten [fɛɐ̯ˈʔaʁbaɪ̯tən]	Verb
+- Bedeutet: Informationen oder Stoffe nutzen und umwandeln
+- Nghĩa: xử lý
+- Übersetzung: to process
+- Beispiel: „Das Gehirn verarbeitet Reize.“
+- Verwandte Wörter: Verarbeitung

@@ -1,0 +1,6 @@
+- die Galle [ˈɡalə]	Nomen (feminin)
+- Bedeutet: Flüssigkeit zur Fettverdauung
+- Nghĩa: mật
+- Übersetzung: bile
+- Beispiel: „Die Galle wird in der Leber gebildet.“
+- Verwandte Wörter: Gallensaft

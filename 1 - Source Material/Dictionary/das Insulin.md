@@ -1,0 +1,6 @@
+- das Insulin [ɪnzuˈliːn]	Nomen (neutrum)
+- Bedeutet: Hormon zur Blutzuckerregelung
+- Nghĩa: insulin
+- Übersetzung: insulin
+- Beispiel: „Diabetiker benötigen Insulin.“
+- Verwandte Wörter: keine

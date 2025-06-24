@@ -1,0 +1,6 @@
+- naht euch	[naːt ɔʏ̯ç]	Verb (Imperativ)
+- Bedeutet: kommt näher (gehobene, poetische Form)
+- Nghĩa: đến gần (cách nói trang trọng)
+- Übersetzung: approach, come closer
+- Beispiel: „Naht euch, ihr schwankenden Gestalten!“
+- Verwandte Wörter: sich nähern, Nähe	– aus althochdeutsch „nāhen“

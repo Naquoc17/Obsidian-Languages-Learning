@@ -1,0 +1,6 @@
+- Lebensqualität [ˈleːbn̩sˌkvaliˌtɛːt]	Nomen (feminin)
+- Bedeutet: Maß für das körperliche, seelische und soziale Wohlbefinden
+- Nghĩa: chất lượng cuộc sống
+- Übersetzung: quality of life
+- Beispiel: „Eine Transplantation verbessert die Lebensqualität.“
+- Verwandte Wörter: Leben, Qualität

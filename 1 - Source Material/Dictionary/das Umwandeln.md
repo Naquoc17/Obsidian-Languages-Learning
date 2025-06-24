@@ -1,0 +1,6 @@
+- das Umwandeln [ˈʊmˌvandln̩]	Verb
+- Bedeutet: etwas in eine andere Form bringen
+- Nghĩa: biến đổi
+- Übersetzung: to convert, transform
+- Beispiel: „Zucker wird in Energie umgewandelt.“
+- Verwandte Wörter: Umwandlung

@@ -1,0 +1,6 @@
+- das Dickdarm [ˈdɪkˌdaʁm]	Nomen (maskulin)
+- Bedeutet: letzter Teil des Darms
+- Nghĩa: ruột già
+- Übersetzung: large intestine
+- Beispiel: „Der Dickdarm entzieht dem Speisebrei Wasser.“
+- Verwandte Wörter: dick, Darm

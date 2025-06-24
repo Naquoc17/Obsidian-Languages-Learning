@@ -1,0 +1,6 @@
+- Gesänge	[ɡəˈzɛŋə]	Nomen (Plural von Gesang)
+- Bedeutet: Lieder, meist poetisch oder sakral
+- Nghĩa: bài hát, khúc hát (thơ hoặc tôn giáo)
+- Übersetzung: chants, songs
+- Beispiel: „Die alten Gesänge klangen durch die Hallen.“
+- Verwandte Wörter: singen, Gesang	– aus germanisch *sengwan

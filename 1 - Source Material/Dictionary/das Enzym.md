@@ -1,0 +1,6 @@
+- das Enzym [ɛnˈt͡syːm]	Nomen (neutrum)
+- Bedeutet: Stoff, der chemische Reaktionen im Körper beschleunigt
+- Nghĩa: enzym
+- Übersetzung: enzyme
+- Beispiel: „Enzyme helfen beim Verdauen von Nahrung.“
+- Verwandte Wörter: enzymatisch

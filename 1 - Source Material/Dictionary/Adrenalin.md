@@ -1,0 +1,6 @@
+- Adrenalin [adʁɛnaˈliːn]	Nomen (neutrum)
+- Bedeutet: Hormon, das bei Stress ausgeschüttet wird
+- Nghĩa: adrenaline
+- Übersetzung: adrenaline
+- Beispiel: „Bei Angst steigt der Adrenalinspiegel.“
+- Verwandte Wörter: Stresshormon

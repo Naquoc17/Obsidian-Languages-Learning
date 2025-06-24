@@ -1,0 +1,6 @@
+- die DNA / DNS [deːʔɛnˈʔaː]	Nomen (feminin)
+- Bedeutet: Erbmaterial in den Zellen
+- Nghĩa: ADN / vật liệu di truyền
+- Übersetzung: DNA
+- Beispiel: „Die DNA trägt die Erbinformation.“
+- Verwandte Wörter: Erbanlage

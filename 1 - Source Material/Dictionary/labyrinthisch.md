@@ -1,0 +1,6 @@
+- labyrinthisch	[labʏˈʁɪntɪʃ]	Adjektiv
+- Bedeutet: verworren, wie ein Labyrinth
+- Nghĩa: như mê cung, phức tạp
+- Übersetzung: labyrinthine, maze-like
+- Beispiel: „Seine Gedanken waren labyrinthisch.“
+- Verwandte Wörter: Labyrinth	– aus griechisch „labýrinthos“

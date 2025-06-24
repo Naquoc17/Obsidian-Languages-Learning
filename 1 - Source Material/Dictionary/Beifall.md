@@ -1,0 +1,6 @@
+- Beifall	[ˈbaɪ̯ˌfal]	Nomen (maskulin)
+- Bedeutet: Applaus, Zustimmung
+- Nghĩa: tiếng vỗ tay, sự đồng tình
+- Übersetzung: applause, approval
+- Beispiel: „Der Künstler erhielt großen Beifall.“
+- Verwandte Wörter: fallen, Zufall	– metaphorisch von „zufallen“

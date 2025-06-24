@@ -1,0 +1,6 @@
+- Nierenschäden [ˈniːʁn̩ˌʃɛːdən]	Nomen (Plural)
+- Bedeutet: gesundheitliche Schädigung der Nieren
+- Nghĩa: tổn thương thận
+- Übersetzung: kidney damage
+- Beispiel: „Dialyse ist notwendig bei schweren Nierenschäden.“
+- Verwandte Wörter: Niere, Schaden

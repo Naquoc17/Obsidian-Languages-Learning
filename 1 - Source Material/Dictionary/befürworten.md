@@ -1,0 +1,6 @@
+- befürworten [bəˈfyːɐ̯ˌvɔʁtn̩]	Verb
+- Bedeutet: etwas positiv unterstützen, dafür sein
+- Nghĩa: ủng hộ
+- Übersetzung: to support, to advocate
+- Beispiel: „Viele Menschen befürworten Organspende.“
+- Verwandte Wörter: Fürwort, Wort

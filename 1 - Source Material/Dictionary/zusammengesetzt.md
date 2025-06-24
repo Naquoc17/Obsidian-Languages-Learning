@@ -1,0 +1,6 @@
+- zusammengesetzt [t͡suˈzamənɡəˌzɛtst]	Adjektiv
+- Bedeutet: aus mehreren Teilen bestehend
+- Nghĩa: hợp thành từ nhiều phần
+- Übersetzung: composed, compound
+- Beispiel: „Gewebe ist aus vielen Zellen zusammengesetzt.“
+- Verwandte Wörter: zusammensetzen

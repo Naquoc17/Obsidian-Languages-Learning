@@ -1,0 +1,6 @@
+- das Gelenk [ɡəˈlɛŋk]	Nomen (neutrum)
+- Bedeutet: bewegliche Verbindung zwischen Knochen
+- Nghĩa: khớp xương
+- Übersetzung: joint
+- Beispiel: „Das Kniegelenk ist besonders belastet.“
+- Verwandte Wörter: gelenkig

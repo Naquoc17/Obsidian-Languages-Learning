@@ -1,0 +1,6 @@
+- das Schienbein [ˈʃiːnˌbaɪ̯n]	Nomen (neutrum)
+- Bedeutet: vorderer Knochen im Unterschenkel
+- Nghĩa: xương ống chân
+- Übersetzung: shinbone
+- Beispiel: „Ein Tritt traf ihn am Schienbein.“
+- Verwandte Wörter: Bein

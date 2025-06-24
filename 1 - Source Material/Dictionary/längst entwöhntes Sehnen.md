@@ -1,0 +1,6 @@
+- längst entwöhntes Sehnen	[lɛŋst ɛntˈvøːntəs ˈzeːnən]	Nomenphrase
+- Bedeutet: ein Verlangen, das man sich abgewöhnt hat
+- Nghĩa: nỗi khao khát đã bị lãng quên
+- Übersetzung: long-unpracticed yearning
+- Beispiel: „Ein längst entwöhntes Sehnen erwachte.“
+- Verwandte Wörter: entwöhnen, Sehnsucht	– „sehnen“ aus mittelhochdeutsch

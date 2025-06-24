@@ -1,0 +1,6 @@
+- individuell [ɪndiˈvu̯ɛl]	Adjektiv
+- Bedeutet: auf die einzelne Person bezogen
+- Nghĩa: cá nhân
+- Übersetzung: individual, personalized
+- Beispiel: „Die Entscheidung ist individuell unterschiedlich.“
+- Verwandte Wörter: Individuum

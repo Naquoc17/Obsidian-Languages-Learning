@@ -1,0 +1,6 @@
+- produzieren [pʁoduˈt͡siːʁən]	Verb
+- Bedeutet: etwas herstellen, erzeugen
+- Nghĩa: sản xuất
+- Übersetzung: to produce
+- Beispiel: „Die Leber produziert Galle.“
+- Verwandte Wörter: Produkt, Produktion

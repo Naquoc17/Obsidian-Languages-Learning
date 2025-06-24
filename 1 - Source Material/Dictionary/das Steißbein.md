@@ -1,0 +1,6 @@
+- das Steißbein [ˈʃtaɪ̯sˌbaɪ̯n]	Nomen (neutrum)
+- Bedeutet: unterster Teil der Wirbelsäule
+- Nghĩa: xương cụt
+- Übersetzung: tailbone
+- Beispiel: „Er landete hart auf dem Steißbein.“
+- Verwandte Wörter: Steiß

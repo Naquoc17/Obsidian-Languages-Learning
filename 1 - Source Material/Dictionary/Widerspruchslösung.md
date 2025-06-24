@@ -1,0 +1,6 @@
+- Widerspruchslösung [ˈviːdɐˌʃpʁʊxsløːzʊŋ]	Nomen (feminin)
+- Bedeutet: gesetzliches Modell zur Organspende – wer nicht widerspricht, gilt als Spender
+- Nghĩa: mô hình hiến tạng mặc định (nếu không phản đối thì đồng ý)
+- Übersetzung: opt-out solution
+- Beispiel: „Deutschland diskutiert die Widerspruchslösung.“
+- Verwandte Wörter: Widerspruch, Lösung

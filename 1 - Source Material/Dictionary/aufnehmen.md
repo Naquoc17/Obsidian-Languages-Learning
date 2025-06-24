@@ -1,0 +1,6 @@
+- aufnehmen [ˈaʊ̯fˌneːmən]	Verb
+- Bedeutet: in sich hineinnehmen (z. B. Informationen, Stoffe)
+- Nghĩa: hấp thụ, tiếp nhận
+- Übersetzung: to absorb, to take in
+- Beispiel: „Der Dünndarm nimmt Nährstoffe auf.“
+- Verwandte Wörter: Aufnahme

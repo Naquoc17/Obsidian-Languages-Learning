@@ -1,0 +1,6 @@
+- pumpen [ˈpʊmpn̩]	Verb
+- Bedeutet: in Bewegung setzen, durch Druck fördern
+- Nghĩa: bơm
+- Übersetzung: to pump
+- Beispiel: „Das Herz pumpt Blut durch den Körper.“
+- Verwandte Wörter: Pumpe

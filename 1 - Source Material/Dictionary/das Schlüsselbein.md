@@ -1,0 +1,6 @@
+- das Schlüsselbein [ˈʃlʏsl̩ˌbaɪ̯n]	Nomen (neutrum)
+- Bedeutet: Knochen zwischen Brust und Schulter
+- Nghĩa: xương đòn
+- Übersetzung: collarbone
+- Beispiel: „Er brach sich das Schlüsselbein.“
+- Verwandte Wörter: Schlüssel, Bein

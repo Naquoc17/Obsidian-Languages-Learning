@@ -1,0 +1,6 @@
+- Organspende [ɔʁˈɡaːnˌʃpɛndə]	Nomen (feminin)
+- Bedeutet: freiwillige Abgabe eines Organs für andere
+- Nghĩa: hiến tạng
+- Übersetzung: organ donation
+- Beispiel: „Organspende kann Leben retten.“
+- Verwandte Wörter: spenden, Organ

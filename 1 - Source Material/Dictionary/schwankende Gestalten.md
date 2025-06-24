@@ -1,0 +1,6 @@
+- schwankende Gestalten	[ˈʃvaŋkəndə ɡəˈʃtaltən]	Partizip + Nomen
+- Bedeutet: unsichere, geisterhafte Figuren, die sich bewegen
+- Nghĩa: hình bóng lảo đảo, mờ ảo
+- Übersetzung: swaying/wavering figures
+- Beispiel: „Im Nebel erschienen schwankende Gestalten.“
+- Verwandte Wörter: schwanken, Gestalt	– aus mittelhochdeutsch

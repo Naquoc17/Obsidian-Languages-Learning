@@ -1,0 +1,6 @@
+- halbverklungene Sage	[ˈhalpfɛɐ̯ˌklʊŋənə ˈzaːɡə]	Nomenphrase
+- Bedeutet: eine fast vergessene Legende
+- Nghĩa: truyền thuyết đã gần như bị quên lãng
+- Übersetzung: half-faded legend
+- Beispiel: „Die halbverklungene Sage lebt in Liedern weiter.“
+- Verwandte Wörter: verklungen, Sage	– „Sage“ aus mittelhochdeutsch „sagen“

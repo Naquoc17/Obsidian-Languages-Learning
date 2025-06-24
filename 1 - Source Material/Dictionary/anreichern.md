@@ -1,0 +1,6 @@
+- anreichern [ˈanˌʁaɪ̯çɐn]	Verb
+- Bedeutet: mit zusätzlichen Stoffen füllen oder verbessern
+- Nghĩa: làm giàu, bổ sung
+- Übersetzung: to enrich
+- Beispiel: „Die Lunge reichert das Blut mit Sauerstoff an.“
+- Verwandte Wörter: Reich, reichen

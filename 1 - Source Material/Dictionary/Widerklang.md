@@ -1,0 +1,6 @@
+- Widerklang	[ˈviːdɐˌklaŋ]	Nomen (maskulin)
+- Bedeutet: Echo, Wiederhall
+- Nghĩa: tiếng vang
+- Übersetzung: echo, resonance
+- Beispiel: „Die Worte fanden Widerklang in ihm.“
+- Verwandte Wörter: wider, Klang	– aus althochdeutsch

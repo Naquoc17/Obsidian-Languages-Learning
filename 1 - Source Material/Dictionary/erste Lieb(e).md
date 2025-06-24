@@ -1,0 +1,6 @@
+- erste Lieb(e)	[ˈɛɐ̯stə liːp]	Nomenphrase
+- Bedeutet: die erste romantische Erfahrung
+- Nghĩa: tình yêu đầu tiên
+- Übersetzung: first love
+- Beispiel: „Die erste Lieb vergaß er nie.“
+- Verwandte Wörter: lieben, Liebe	– aus indogermanischer Wurzel *leubh-

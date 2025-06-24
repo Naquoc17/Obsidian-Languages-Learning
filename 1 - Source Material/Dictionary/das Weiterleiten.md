@@ -1,0 +1,6 @@
+- das Weiterleiten [ˈvaɪ̯tɐˌlaɪ̯tən]	Verb
+- Bedeutet: Signale oder Informationen weitergeben
+- Nghĩa: truyền tiếp
+- Übersetzung: to transmit
+- Beispiel: „Nerven leiten Reize weiter.“
+- Verwandte Wörter: Leitung

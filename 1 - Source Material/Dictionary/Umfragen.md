@@ -1,0 +1,6 @@
+- Umfragen [ˈʊmˌfʁaːɡn̩]	Nomen (Plural)
+- Bedeutet: Befragungen zur Meinungsforschung
+- Nghĩa: khảo sát
+- Übersetzung: surveys
+- Beispiel: „Laut Umfragen befürworten viele die Spende.“
+- Verwandte Wörter: Umfrage

@@ -1,0 +1,6 @@
+- liebe Schatten	[ˈliːbə ˈʃatn̩]	Nomenphrase
+- Bedeutet: geliebte Verstorbene oder Erinnerungen
+- Nghĩa: bóng hình yêu thương (ẩn dụ cho người đã mất)
+- Übersetzung: dear shadows
+- Beispiel: „Liebe Schatten umgaben ihn in der Nacht.“
+- Verwandte Wörter: Schatten, lieben	– „Schatten“ aus mittelhochdeutsch

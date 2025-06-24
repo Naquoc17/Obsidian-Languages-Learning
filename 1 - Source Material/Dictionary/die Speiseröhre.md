@@ -1,0 +1,6 @@
+- die Speiseröhre [ˈʃpaɪ̯zəˌʁøːʁə]	Nomen (feminin)
+- Bedeutet: Verbindung zwischen Mund und Magen
+- Nghĩa: thực quản
+- Übersetzung: esophagus
+- Beispiel: „Die Speiseröhre transportiert Nahrung.“
+- Verwandte Wörter: Speise, Röhre

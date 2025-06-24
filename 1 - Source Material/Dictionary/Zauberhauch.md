@@ -1,0 +1,6 @@
+- Zauberhauch	[ˈt͡saʊ̯bɐˌhaʊ̯x]	Nomen (maskulin)
+- Bedeutet: magischer, sanfter Wind oder Einfluss
+- Nghĩa: làn hơi kỳ ảo, phép thuật nhẹ nhàng
+- Übersetzung: magical breath, enchanted breeze
+- Beispiel: „Ein Zauberhauch lag in der Luft.“
+- Verwandte Wörter: zaubern, Hauch	– „Zauber“ aus mittelhochdeutsch

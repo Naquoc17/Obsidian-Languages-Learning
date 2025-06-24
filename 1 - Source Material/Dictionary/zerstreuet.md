@@ -1,0 +1,6 @@
+- zerstreuet	[t͡sɛɐ̯ˈʃtʁɔʏ̯ət]	Verb (veraltet für „zerstreut“)
+- Bedeutet: verteilt, auseinandergebracht
+- Nghĩa: phân tán, rải rác
+- Übersetzung: scattered, dispersed
+- Beispiel: „Die Gruppe war zerstreuet.“
+- Verwandte Wörter: zerstreuen, Streuung	– aus mittelhochdeutsch

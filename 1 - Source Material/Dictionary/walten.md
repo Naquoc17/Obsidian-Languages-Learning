@@ -1,0 +1,6 @@
+- walten	[ˈvaltən]	Verb (gehoben)
+- Bedeutet: herrschen, regieren, wirken
+- Nghĩa: cai trị, ngự trị (nghĩa bóng)
+- Übersetzung: to rule, to prevail
+- Beispiel: „Gerechtigkeit soll walten.“
+- Verwandte Wörter: Gewalt, Verwalter	– aus althochdeutsch „waltan“

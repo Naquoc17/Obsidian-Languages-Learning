@@ -1,0 +1,6 @@
+- gesetzliche Regelung [ɡəˈzɛt͡slɪçə ˈʁeːɡlʊŋ]	Nomen (feminin)
+- Bedeutet: offiziell festgelegtes Gesetz
+- Nghĩa: quy định pháp luật
+- Übersetzung: legal regulation
+- Beispiel: „Die Organspende unterliegt einer gesetzlichen Regelung.“
+- Verwandte Wörter: Gesetz, regeln

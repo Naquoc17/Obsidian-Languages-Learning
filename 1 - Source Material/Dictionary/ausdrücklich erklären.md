@@ -1,0 +1,6 @@
+- ausdrücklich erklären [ˈaʊ̯sdʁʏklɪç ɛʁˈklɛːʁən]	Verbphrase
+- Bedeutet: klar und direkt sagen oder festhalten
+- Nghĩa: tuyên bố rõ ràng
+- Übersetzung: to declare explicitly
+- Beispiel: „Man muss seine Zustimmung ausdrücklich erklären.“
+- Verwandte Wörter: Erklärung, Ausdruck

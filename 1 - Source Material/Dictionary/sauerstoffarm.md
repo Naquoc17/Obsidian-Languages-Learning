@@ -1,0 +1,6 @@
+- sauerstoffarm [ˈzaʊ̯ɐʃtɔfˌʔaʁm]	Adjektiv
+- Bedeutet: mit wenig Sauerstoff
+- Nghĩa: ít oxy
+- Übersetzung: oxygen-poor
+- Beispiel: „Venen führen sauerstoffarmes Blut zum Herzen.“
+- Verwandte Wörter: Sauerstoff

@@ -1,0 +1,6 @@
+- jugendlich erschüttert	[ˈjuːɡntlɪç ɛɐ̯ˈʃʏtɐt]	Adjektivphrase
+- Bedeutet: jung und emotional bewegt, innerlich erschüttert
+- Nghĩa: xúc động tuổi trẻ
+- Übersetzung: emotionally shaken in youthful way
+- Beispiel: „Der Dichter war jugendlich erschüttert vom Verlust.“
+- Verwandte Wörter: erschüttern, Jugend	– „erschüttern“ aus althochdeutsch „scuteren“

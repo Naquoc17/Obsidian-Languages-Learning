@@ -1,0 +1,6 @@
+- die Drüse [ˈdʁyːzə]	Nomen (feminin)
+- Bedeutet: Organ, das Hormone oder Sekrete bildet
+- Nghĩa: tuyến (nội/ngoại tiết)
+- Übersetzung: gland
+- Beispiel: „Die Schilddrüse produziert Hormone.“
+- Verwandte Wörter: Drüsenzelle

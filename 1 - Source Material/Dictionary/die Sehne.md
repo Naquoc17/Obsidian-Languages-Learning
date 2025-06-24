@@ -1,0 +1,6 @@
+- die Sehne [ˈzeːnə]	Nomen (feminin)
+- Bedeutet: Verbindung zwischen Muskel und Knochen
+- Nghĩa: gân
+- Übersetzung: tendon
+- Beispiel: „Die Sehne reißt bei Überlastung.“
+- Verwandte Wörter: sehnen

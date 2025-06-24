@@ -1,0 +1,6 @@
+- austauschen [ˈaʊ̯sˌtaʊ̯ʃn̩]	Verb
+- Bedeutet: gegenseitig etwas geben
+- Nghĩa: trao đổi
+- Übersetzung: to exchange
+- Beispiel: „Die Zellen tauschen Informationen aus.“
+- Verwandte Wörter: Tausch

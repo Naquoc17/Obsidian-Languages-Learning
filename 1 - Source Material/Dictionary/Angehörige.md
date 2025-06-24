@@ -1,0 +1,6 @@
+- Angehörige [ˈʔanɡəˌhøːʁɪɡə]	Nomen (Plural)
+- Bedeutet: Verwandte einer Person
+- Nghĩa: người thân
+- Übersetzung: relatives, family members
+- Beispiel: „Die Angehörigen stimmten der Organspende zu.“
+- Verwandte Wörter: angehören

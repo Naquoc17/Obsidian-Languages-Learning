@@ -1,0 +1,6 @@
+- die Ausschüttung [ˈaʊ̯sˌʃʏtʊŋ]	Nomen (feminin)
+- Bedeutet: Freisetzung von Hormonen oder Stoffen
+- Nghĩa: sự tiết ra
+- Übersetzung: secretion, release
+- Beispiel: „Die Ausschüttung von Adrenalin steigt bei Stress.“
+- Verwandte Wörter: ausschütten
